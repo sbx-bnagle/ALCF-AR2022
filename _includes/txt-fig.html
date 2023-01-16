@@ -1,0 +1,26 @@
+<!-- 
+
+TEXT, FIGURE
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* figure
+* label
+- note
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+<div class="fig">
+	<h3  class="fig--label">{{ include.label }}</h3>
+	<span class="fig--no">{{ include.figure }}</span>
+	{% if include.note %}
+		<p class="fig--note">{{ include.note }}</p>
+	{% endif %}	
+</div>
+
+

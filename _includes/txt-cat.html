@@ -1,0 +1,43 @@
+<!-- 
+
+TEXT, CATEGORIZATION
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* field
+* sdl
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+
+{% assign sdl = include.sdl | split:"," %}
+
+
+<div class="cat">
+
+	<p>
+		<span class="cat--field">{{ include.field }}</span> | 
+
+		{% if sdl contains 's' and sdl contains 'd' and sdl contains 'l' %}
+			<span class="cat--sdl">S-D-L</span>
+		{% elsif sdl contains 's' and sdl contains 'd' %}
+			<span class="cat--sdl">S-D</span>
+		{% elsif sdl contains 's' and sdl contains 'l' %}
+			<span class="cat--sdl">S-L</span>
+		{% elsif sdl contains 'd' and sdl contains 'l' %}
+			<span class="cat--sdl">D-L</span>
+		{% elsif sdl contains 's' %}
+			<span class="cat--sdl">S</span>
+		{% elsif sdl contains 'd' %}
+			<span class="cat--sdl">D</span>
+		{% elsif sdl contains 'l' %}
+			<span class="cat--sdl">L</span>
+		{% endif %}
+	</p>
+
+</div>

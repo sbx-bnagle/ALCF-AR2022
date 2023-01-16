@@ -1,0 +1,63 @@
+toc:
+  - title: Year in Review
+    slug: year-in-review
+    subfolderitems:
+      - page: Director's Letter
+        url: /year-in-review/directors-letter
+      - page: Year in Review
+        url: /year-in-review/year-in-review
+      - page: About ALCF
+        url: /year-in-review/about-alcf
+      - page: At a Glance
+        url: /year-in-review/at-a-glance
+  - title: Features
+    slug: features
+    subfolderitems:
+      - page: Aurora Update
+        url: /features/aurora
+      - page: Auroroa and APS
+        url: /features/aurora-and-aps
+      - page: Sunspot
+        url: /features/sunspot
+      - page: Polaris
+        url: /features/polaris
+      - page: ALCF AI Testbed
+        url: /features/alcf-ai-testbed
+      - page: Gordon Bell Prize
+        url: /features/gordon-bell-prize
+  - title: Community and Outreach
+    slug: community-and-outreach
+    subfolderitems:
+      - page: Section Head
+        url: /community-and-outreach/section-head
+      - page: Staff Updates
+        url: /community-and-outreach/staff-updates
+      - page: Industry
+        url: /community-and-outreach/industry
+      - page: DEI
+        url: /community-and-outreach/dei
+      - page: HPC Community Activities
+        url: /community-and-outreach/hpc-community-activities
+      - page: User Training Activities
+        url: /community-and-outreach/user-training-activities
+      - page: Educational Outreach Activities
+        url: /community-and-outreach/educational-outreach-activities
+  - title: Expertise and Resources
+    slug: expertise-and-resources
+    subfolderitems:
+      - page: Section Head
+        url: /expertise-and-resources/section-head
+      - page: ALCF Systems
+        url: /expertise-and-resources/systems
+      - page: ALCF Team
+        url: /expertise-and-resources/team
+  - title: Science
+    slug: science
+    url: /science
+  - title: Projects
+    slug: projects
+    url: /projects
+  - title: Publications
+    slug: publications
+    url: /publications
+

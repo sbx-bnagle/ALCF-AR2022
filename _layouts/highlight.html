@@ -1,0 +1,41 @@
+---
+
+layout: default
+
+---
+
+{% 	include txt-cat.html 
+	  field = page.field
+		sdl = page.sdl
+%}
+
+<h1>{{ page.title }}</h1>
+
+{% 	include txt-meta.html 
+	  name-1 = "PI"
+		value-1 = page.pi
+		name-2 = "AWARD"
+		value-2 = page.award
+		name-3 = "HOURS"
+		value-3 = page.hours
+%}
+
+{% 	include media-img.html 
+	  source = page.image
+		caption = page.image-caption
+		Credit = page.image-credit
+%}
+
+
+
+{{ content }}
+
+
+
+{% if page.publications.size > 0 %}
+
+{% 	include txt-pubs.html 
+	  pubs = page.publications
+%}
+
+{% endif %}

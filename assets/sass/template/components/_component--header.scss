@@ -1,0 +1,95 @@
+/**
+  * Component: Header
+  *  
+  * @description
+  * -
+  */
+
+header {
+	background-color: #eee;
+	padding-top: 16px; 
+	margin-bottom: 64px;
+
+	.masthead {
+		grid-column: 1 / 3;
+	}
+
+	.nav {
+		grid-column: 3 / -1;
+		justify-self: end;
+		margin-top: -12px;
+	}
+
+	h1 {
+		@include typestyle($sans-sm-bld);
+	}
+
+
+	h2 {
+		@include typestyle($sans-sm-bld);
+		display: inline-block;
+		margin-left: bl(2); //8px;
+		margin-right: bl(2); //8px;
+	}
+
+
+	.menuitem-wrapper {
+		height: 48px;
+		display: inline-block;
+		padding-top: 12px;
+	}
+
+
+
+	.dropdown {
+		@include inset(xs);
+		background-color: color(neutral, X); 
+		box-shadow: 4px 4px 7px rgba(5, 2, 35, 0.1); 
+		-webkit-box-shadow: 4px 4px 7px rgba(5, 2, 35, 0.1); 
+		-moz-box-shadow: 4px 4px 7px rgba(5, 2, 35, 0.1); 
+		transition: all 0.2s ease-out;
+		position: absolute;
+		top: 48px;
+		min-width: 200px;
+		padding-top: bl(2); //8px
+	}
+
+
+	.dropdown ul,
+	.dropdown li {
+		margin-left: 0;
+		padding-left: 0;
+	}
+
+	.dropdown ul {
+		list-style: none;
+		margin-bottom: bl(1) !important; //4px
+	}
+
+	.dropdown a {
+		color: color(blue, XXX);
+		text-decoration: none;
+		display: inline-block;
+		margin-bottom: bl(2); //8px
+	}
+
+	.dropdown a:hover {
+		color: color(blue, XX);
+	}
+
+	.dropdown hr {
+		background-color: #DDE6E7;
+		border: none;
+		height: 1px;
+	}
+
+	.js-dropdown-hidden {
+		display: none;
+	}
+
+	.js-dropdown-visible {
+		display: block;
+	}
+
+}
+

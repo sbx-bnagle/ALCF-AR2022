@@ -1,0 +1,87 @@
+/**
+  * Base Styles
+  *  
+  * @description
+  * site-wide styles unique to this project, 
+  * only file where element selectors should be used
+  */
+
+
+
+
+
+// Top Level
+// ----------------------------------------------------------------------------
+
+body {
+	// font-size: $base-font-size;
+	background: color(neutral, XX);
+	color: color(neutral, XXXX);
+}
+
+
+
+
+
+
+// Layout
+// ----------------------------------------------------------------------------
+ 
+.layout-wrapper, .nav-wrapper {
+	@include grid-parent();
+}
+
+
+
+.layout-wrapper h1,
+.layout-wrapper h2,
+.layout-wrapper h3,
+.layout-wrapper h4,
+.layout-wrapper h5,
+.layout-wrapper h6,
+.layout-wrapper p,
+.layout-wrapper ul,
+.layout-wrapper ol {
+	grid-column: 3 / 11;
+}
+
+.page-content {
+  padding: 0;
+  @include stack(md);
+}
+
+
+
+
+// Typography
+// ----------------------------------------------------------------------------
+h1, h2, h3 {
+  margin-top: 24px;
+}
+
+a {
+  text-decoration: underline;
+}
+
+
+
+// Forms
+// ----------------------------------------------------------------------------
+
+
+
+
+
+
+// Box General
+// ----------------------------------------------------------------------------
+
+
+
+
+
+// Component General
+// ----------------------------------------------------------------------------
+
+
+
