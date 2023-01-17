@@ -7,45 +7,45 @@
 
 // import vendor files
 @import
-	'../../assets/sass/z_boilerplate/vendor/plumber-sass/plumber';
+	'z_boilerplate/vendor/plumber-sass/plumber';
 
 
 // import files from utils folder
 @import
-	'../../assets/sass/utils/mixins',
-	'../../assets/sass/utils/functions';
+	'utils/mixins',
+	'utils/functions';
 
 
 // import files from config folder
 @import
-	'../../assets/sass/config/type',
-	'../../assets/sass/config/layout',
-	'../../assets/sass/config/color',
-	'../../assets/sass/config/spacing';
+	'config/type',
+	'config/layout',
+	'config/color',
+	'config/spacing';
 
 
 // import files from base folder
 @import
-	'../../assets/sass/z_boilerplate/reset',	
-	'../../assets/sass/z_boilerplate/typography';
+	'z_boilerplate/reset',	
+	'z_boilerplate/typography';
 
 
 // import base file
 @import
-	'../../assets/sass/template/base';
+	'template/base';
 
 
 
 // import files from components folder
 @import
-  '../../assets/sass/template/components/component--footer',
-	'../../assets/sass/template/components/component--header',
-	'../../assets/sass/template/components/component--media-embed',
-	'../../assets/sass/template/components/component--media-hero-embed',
-	'../../assets/sass/template/components/component--media-hero-img',
-	'../../assets/sass/template/components/component--media-img',
-	'../../assets/sass/template/components/component--txt-cat',
-	'../../assets/sass/template/components/component--txt-fig',
-	'../../assets/sass/template/components/component--txt-intro',
-	'../../assets/sass/template/components/component--txt-meta',
-	'../../assets/sass/template/components/component--txt-pubs';
+  'template/components/component--footer',
+	'template/components/component--header',
+	'template/components/component--media-embed',
+	'template/components/component--media-hero-embed',
+	'template/components/component--media-hero-img',
+	'template/components/component--media-img',
+	'template/components/component--txt-cat',
+	'template/components/component--txt-fig',
+	'template/components/component--txt-intro',
+	'template/components/component--txt-meta',
+	'template/components/component--txt-pubs';
