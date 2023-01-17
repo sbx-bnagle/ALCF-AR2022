@@ -37,7 +37,7 @@ collections:
   highlights:
     output: true
 sass:
-    sass_dir: 'ALCF-AR2023/assets/sass'
+    sass_dir: 'assets/sass'
     style: compressed
 
 # Exclude from processing.
