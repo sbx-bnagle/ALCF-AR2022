@@ -40,6 +40,8 @@ sass:
     sass_dir: _sass
     style: compressed
 
+baseurl: /ALCF-AR2023
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
