@@ -14,7 +14,11 @@
 		color: color(neutral, XXXXX);
 	}
 
-	.sdl-inactive {
+	.cat--sdl {
+		@include typestyle($icon-xs);
+	}
+
+	.inactive {
 		color: color(neutral, XXX);
 	}
 		
