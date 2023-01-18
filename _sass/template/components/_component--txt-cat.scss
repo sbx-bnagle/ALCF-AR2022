@@ -7,6 +7,15 @@
 
 .cat {
 	
-	grid-column: 3 / -1;
+	grid-column: 4 / 12;
+	
+	p{
+		@include typestyle($sans-xs-bld);
+		color: color(neutral, XXXXX);
+	}
+
+	.sdl-inactive {
+		color: color(neutral, XXX);
+	}
 		
 }

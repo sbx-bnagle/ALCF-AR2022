@@ -37,14 +37,19 @@
   * The default map of the color() function
   * 'base' is the default variant of the color() function
   *
-  * (Initial values are placeholder)
   */
 
 $colors   : (
-  neutral : (X: #ffffff, XX: #fbfdfe, XXB: #F5FAFC, XXX: #696a71, XXXX: #050223),
-  blue    : (X: #e4f8ff, XX: #4fc8ef, XXX: #060034),
-  green   : (X: #d9f5eb, XX: #94d8d0, XXX: #189064, XXXX: #008554),
-  warm    : (X: #FF9686),
+  neutral : 
+  (X: #ffffff, XX: #edf1f5, XXX: #d8dce1, XXXX: #6e6e78, XXXXX: #080812),
+  blue    : 
+  (X: #e7f6fd, XX: #badef5, XXX: #5d88c6, XXXX: #0061af, XXXXX: #1d1651),
+  green   : 
+  (X: #f2f9f8, XX: #b8e2de, XXX: #009f90, XXXX: #007b70, XXXXX: #003a41),
+  warm    : 
+  (X: #fff6f4, XX: #fcd9d5, XXX: #ee6254, XXXX: #d23c51, XXXXX: #640033),
+  yellow  : 
+  (X: #fef8ee, XX: #f8a4be, XXX: #f0c55f, XXXX: #f3ac1d, XXXXX: #bb902b),
 );
 
 

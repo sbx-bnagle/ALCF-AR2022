@@ -29,12 +29,10 @@
 	* calcs assuming the baseline is 4px
 	* xxs  : 4px
 	* xs  : 12px
-  * sm  : 24px
-  * sm-md  : 48px
-	* md  : 72px
-  * lg  : 96px
-	* xl  : 160px
-	* xxl : 192px
+  * sm  : 20px
+  * md  : 40px
+	* lg  : 80px
+	* xl  : 136px
   * 
   *
   */
@@ -42,10 +40,8 @@
 $spacing: (
   xxs : 1, 
   xs  : 3,
-  sm  : 6, 
-  sm-md : 12,  
-  md  : 18,   
-  lg  : 24,   
-  xl  : 40,
-  xxl : 48
+  sm  : 5,  
+  md  : 10,   
+  lg  : 20,   
+  xl  : 34
 );

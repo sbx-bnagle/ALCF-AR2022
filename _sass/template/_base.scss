@@ -14,11 +14,9 @@
 // ----------------------------------------------------------------------------
 
 body {
-	// font-size: $base-font-size;
-	background: color(neutral, XX);
-	color: color(neutral, XXXX);
+	background: color(neutral, X);
+	color: color(neutral, XXXXX);
 }
-
 
 
 
@@ -31,8 +29,6 @@ body {
 	@include grid-parent();
 }
 
-
-
 .layout-wrapper h1,
 .layout-wrapper h2,
 .layout-wrapper h3,
@@ -42,11 +38,16 @@ body {
 .layout-wrapper p,
 .layout-wrapper ul,
 .layout-wrapper ol {
-	grid-column: 3 / 11;
+	grid-column: 4 / 12;
 }
 
 .page-content {
   padding: 0;
+  @include stack(md);
+}
+
+.primary-txt {
+  @include grid-child($cols: 12);
   @include stack(md);
 }
 
@@ -55,12 +56,37 @@ body {
 
 // Typography
 // ----------------------------------------------------------------------------
-h1, h2, h3 {
-  margin-top: 24px;
+
+h1 {
+  @include typestyle($sans-md-bld);
+  @include stack(xxs);
+}
+
+h2 {
+  @include typestyle($sans-sm-bld);
+}
+
+h3 {
+  @include typestyle($sans-xs-bld);
+  text-transform: uppercase;
+}
+
+h4 {
+  @include typestyle($sans-xs-bld);
+}
+
+p, ol, ul {
+  @include typestyle($sans-sm-reg);
+  @include stack(xxs);
+}
+
+small {
+  @include typestyle($sans-xs-reg);
 }
 
 a {
   text-decoration: underline;
+  text-decoration-color: color(neutral, XXX);
 }
 
 

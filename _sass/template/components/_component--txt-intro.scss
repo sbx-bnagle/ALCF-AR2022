@@ -5,10 +5,10 @@
   * -
   */
 
-.intro {
+.highlight .intro {
 	
-	grid-column: 3 / -1;
-	font-weight: bold;
+	grid-column: 4 / 12;
+	@include typestyle($sans-sm-bld);
 	
 }
 

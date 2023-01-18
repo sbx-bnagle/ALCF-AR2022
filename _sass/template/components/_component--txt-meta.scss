@@ -7,7 +7,16 @@
 
 .meta {
 	
-	grid-column: 3 / -1;
+	grid-column: 4 / 12;
+	color: color(neutral, XXXX);
+	border-top: 2px solid color(neutral, XXX);
+	padding-top: bl(1);
+
+	p, span {
+		@include typestyle($sans-xs-reg);
+		margin: 0 !important;
+		padding: 0 !important;
+	}
 		
 }
 
