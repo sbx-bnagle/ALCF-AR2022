@@ -41,6 +41,7 @@ sass:
     style: compressed
 
 baseurl: /ALCF-AR2023
+url: http://argonne-lcf.github.io
 
 
 # Exclude from processing.
