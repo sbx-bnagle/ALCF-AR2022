@@ -15,7 +15,7 @@ The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the 
 <ul>
   {% for item in site.highlights %}
     <li>
-      <a href="{{ item.url }}">{{ item.title }}</a>
+      <a href="{{ site.baseurl }}/{{ item.url }}">{{ item.title }}</a>
     </li>
   {% endfor %}
 </ul>
