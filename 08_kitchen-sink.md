@@ -8,6 +8,11 @@ permalink: /kitchen-sink/
 
 <!-- Intro Text
 	   NOTE: Intro text is only included as the first item on the page
+
+	  available parameters:
+		* blurb
+
+		* required
 ------------------------------------------------------------------------------>
 
 {% include txt-intro.html
@@ -30,6 +35,13 @@ permalink: /kitchen-sink/
 	   NOTE: Make sure to surround the embed code with different quotation marks than are used within the code. For example, surround the code with single quotation marks if double marks are used within the embed code.
 	   NOTE: Make sure to remove any width/height properties from the embed code
 	   NOTE: This include is commented out as there should only be one 'hero' per page, to use this include replace the comment arrows with the template brackets (the curly brackets with percentage signs).
+
+	  available parameters:
+		* embed-code
+		- caption
+		- credit
+
+		* required
 ------------------------------------------------------------------------------>
 
 <!-- include media-embed.html
@@ -91,6 +103,13 @@ var example = example;
 <!-- Embed
 	   NOTE: Make sure to surround the embed code with different quotation marks than are used within the code. For example, surround the code with single quotation marks if double marks are used within the embed code.
 	   NOTE: Make sure to remove any width/height properties from the embed code
+
+	  available parameters:
+		* embed-code
+		- caption
+		- credit
+
+		* required
 ------------------------------------------------------------------------------>
 
 {% include media-embed.html
@@ -103,6 +122,22 @@ var example = example;
 
 <!-- Meta Info
 	   NOTE: Can include up to 6 name:value pairs
+
+	  available parameters:
+		* name-1
+		* value-1
+		- name-2
+		- value-2
+		- name-3
+		- value-3
+		- name-4
+		- value-4
+		- name-5
+		- value-5
+		- name-6
+		- value-6
+
+		* required
 ------------------------------------------------------------------------------>
 
 ## Example Section with Meta Info
@@ -124,6 +159,16 @@ The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the 
 <!-- Figure
 	   NOTE: Figures are displayed half-width and look best when using an even number of items.
 	   NOTE: Limit the figure to 4 characters for best results
+
+		available parameters:
+		* figure-1
+		* label-1
+		- note-1
+		- figure-2
+		- label-2
+		- note-2
+
+		* required
 ------------------------------------------------------------------------------>
 
 {%	include txt-fig.html 
@@ -136,3 +181,20 @@ The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the 
 %}
 
 
+
+<!-- Sidebar
+------------------------------------------------------------------------------>
+
+{%	capture aside-content %}
+
+## Aside Content
+
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+
+{% endcapture %}
+
+
+{%	include aside.html 
+	  theme= "blue"
+	  content= aside-content
+%}

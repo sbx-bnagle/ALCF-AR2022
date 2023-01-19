@@ -1,0 +1,26 @@
+<!-- 
+
+ASIDE
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* theme
+  - blue
+  - green
+  - warm
+  - neutral
+* content
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+
+<div class="aside theme-{{include.theme}}">
+
+	{{ include.content | markdownify }}
+
+</div>
