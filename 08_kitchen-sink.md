@@ -76,9 +76,7 @@ Paragraph text, the quick brown fox jumps over the lazy dog. The quick brown fox
 
 ```
 Code block
-
 var example = example;
-
 ```
 
 | Example     | Table       | Table subhead   | Table subhead   |
