@@ -5,9 +5,29 @@
   * -
   */
 
-.figure {
+.fig {
 	
-	grid-column: 4 / 12;
+	@include grid-child($cols: 8);
+	grid-column-start: 4;
+	@include stack(sm);
+	margin-top: bl(6); //24px
+
+	.fig-1,
+	.fig-2 {
+		grid-column: span 4;
+	}
+
+	.fig--label {
+		border-bottom: 2px solid color(neutral, XXX);
+	}
+
+	.fig--no {
+		@include typestyle($sans-xl-reg);
+	}
+
+	.fig--note {
+		color: color(neutral, XXXX);
+		display: block;
+	}
 		
 }
-

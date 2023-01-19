@@ -7,6 +7,7 @@ MEDIA, EMBED
 available parameters:
 * embed-code
 - caption
+- credit
 
 * required
 
@@ -16,8 +17,13 @@ available parameters:
 
 
 <div class="media-embed">
-	{{ include.embed-code }}
-	<p class="caption">
+	<div class="embed-wrapper">
+		{{ include.embed-code }}
+	</div>
+	<small class="caption">
 		{{ include.caption }}
-	</p>
+		{% if include.credit %}
+			<span class="credit">Credit: {{ include.credit }}</span>
+		{% endif %}
+	</small>
 </div>

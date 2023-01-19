@@ -5,9 +5,12 @@ TEXT, FIGURE
 -------------------------------------------------------------------------------
 
 available parameters:
-* figure
-* label
-- note
+* figure-1
+* label-1
+- note-1
+- figure-2
+- label-2
+- note-2
 
 * required
 
@@ -16,11 +19,22 @@ available parameters:
 -->
 
 <div class="fig">
-	<h3  class="fig--label">{{ include.label }}</h3>
-	<span class="fig--no">{{ include.figure }}</span>
-	{% if include.note %}
-		<p class="fig--note">{{ include.note }}</p>
-	{% endif %}	
+	<div class="fig-1">
+		<h3  class="fig--label">{{ include.label-1 }}</h3>
+		<span class="fig--no">{{ include.figure-1 }}</span>
+		{% if include.note-1 %}
+			<small class="fig--note">{{ include.note-1 }}</small>
+		{% endif %}	
+	</div>
+	{% if include.note-2 %}
+		<div class="fig-2">
+			<h3  class="fig--label">{{ include.label-2 }}</h3>
+			<span class="fig--no">{{ include.figure-2 }}</span>
+			{% if include.note-2 %}
+				<small class="fig--note">{{ include.note-2 }}</small>
+			{% endif %}	
+		</div>
+	{% endif %}
 </div>
 
 

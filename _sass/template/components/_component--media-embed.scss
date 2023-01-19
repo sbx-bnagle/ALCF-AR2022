@@ -8,5 +8,20 @@
 .media-embed {
 	
 	grid-column: 4 / 12;
+	@include stack(sm);
+
+	iframe {
+		width: 100%;
+		aspect-ratio: 16 / 9;
+		@include stack(xs);
+	}
+
+	.caption {
+		color: color(neutral, XXXX);
+	}
+
+	.credit {
+		font-style: italic;
+	}
 		
 }

@@ -13,6 +13,26 @@
 	.img-wrapper {
 		@include aspect-ratio(16, 9);
 		@include stack(xs);
+	}
+
+	img {
+		object-fit: cover;
+	}
+
+	.caption {
+		color: color(neutral, XXXX);
+	}
+
+	.credit {
+		font-style: italic;
+	}
+	
+}
+
+
+.highlight .media-img {
+
+	.img-wrapper {
 		padding: bl(5); //20px
 		background-color: color(neutral, XX);
 	}
@@ -25,14 +45,6 @@
   	left: 50%;
   	-ms-transform: translate(-50%, -50%);
   	transform: translate(-50%, -50%);
-	}
-
-	.caption {
-		color: color(neutral, XXXX);
-	}
-
-	.credit {
-		font-style: italic;
 	}
 	
 }

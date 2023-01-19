@@ -7,6 +7,7 @@ MEDIA, HERO
 available parameters:
 * source
 - caption
+- credit
 
 * required
 
@@ -21,6 +22,11 @@ available parameters:
 	</div>
 
 	{% if include.caption %}
-		<small class="caption">{{ include.caption }}</small>
+		<small class="caption">
+			{{ include.caption }}
+			{% if include.credit %}
+				<span class="credit">Image: {{ include.credit }}</span>
+			{% endif %}
+		</small>
 	{% endif %}
 </div>

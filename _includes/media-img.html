@@ -25,7 +25,9 @@ available parameters:
 	{% if include.caption %}
 		<small class="caption">
 			{{ include.caption }}
-			<span class="credit">Image: {{ include.credit }}</span>
+			{% if include.credit %}
+				<span class="credit">Image: {{ include.credit }}</span>
+			{% endif %}
 		</small>
 	{% endif %}
 </div>

@@ -5,10 +5,14 @@
   * -
   */
 
-.highlight .intro {
-	
+.intro {	
 	grid-column: 4 / 12;
-	@include typestyle($sans-sm-bld);
-	
+	@include typestyle($sans-md-bld);	
+	@include stack(sm);
+}
+
+.highlight .intro {	
+	grid-column: 4 / 12;
+	@include typestyle($sans-sm-bld);	
 }
 

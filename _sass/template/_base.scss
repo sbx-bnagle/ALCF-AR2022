@@ -37,7 +37,9 @@ body {
 .layout-wrapper h6,
 .layout-wrapper p,
 .layout-wrapper ul,
-.layout-wrapper ol {
+.layout-wrapper ol,
+.layout-wrapper table,
+.layout-wrapper .language-plaintext {
 	grid-column: 4 / 12;
 }
 
@@ -89,6 +91,52 @@ a {
   text-decoration-color: color(neutral, XXX);
 }
 
+mark {
+  background-color: color(warm, XX);
+}
+
+::selection {
+  background: color(warm, XX);
+}
+
+::-moz-selection {
+  background: color(warm, XX);
+}
+
+// code blocks
+.language-plaintext {
+  padding: 0 bl(3); //12px
+  font-size: 1.0625rem;
+  background-color: color(neutral, XX);
+  @include stack(sm);
+}
+
+table {
+  @include stack(sm);
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+
+tr {
+  border-bottom: 1px solid color(neutral, XXX);
+}
+
+td { 
+  @include typestyle($sans-xs-reg);
+}
+
+th { 
+  @include typestyle($sans-xs-bld);
+}
+
+td, th { 
+  padding: bl(3) 0; //12px
+}
+
+ul {
+  list-style-type: '\2014\00a0';
+}
 
 
 // Forms
