@@ -1,0 +1,35 @@
+/**
+  * Component: Home Page
+  *  
+  * @description
+  * -
+  */
+
+.home--hero-wrapper,
+.home--features-wrapper,
+.home--toc-wrapper {
+	@include grid-parent($config: $grid-full);
+	height: 480px;
+	box-sizing: border-box;
+}
+
+.home--hero-wrapper h1,
+.home--features-wrapper h1,
+.home--toc-wrapper h1 {
+	grid-column: 1 / -1;
+	color: color(blue, XXXXX);
+}
+
+.home--hero-wrapper {
+	margin-top: 80px;
+	background-color: color(warm, XX);
+}
+
+.home--features-wrapper  {
+	background-color: color(green, XX);
+}
+
+.home--toc-wrapper  {
+	background-color: color(blue, XX);
+}
+

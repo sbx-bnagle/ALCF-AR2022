@@ -8,6 +8,7 @@
 .cat {
 	
 	grid-column: 4 / 12;
+	padding: bl(2) 0 0 0;
 	
 	p{
 		@include typestyle($sans-xs-bld);
