@@ -1,5 +1,6 @@
 ---
 layout: highlight
+permalink: '/science/highlights/joshua-new'
 
 title: 'Joshua-New'
 pi: 'Name A. Name, Affiliation'

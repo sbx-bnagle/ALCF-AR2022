@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Section Head
-permalink: /expertise-and-resources/section-head/
+title: Expertise and Resources
+permalink: /expertise-and-resources/
 ---
 
 

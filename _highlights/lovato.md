@@ -1,5 +1,6 @@
 ---
 layout: highlight
+permalink: '/science/highlights/lovato'
 
 title: 'Lovato'
 pi: 'Name A. Name, Affiliation'

@@ -1,5 +1,6 @@
 ---
 layout: highlight
+permalink: '/science/highlights/hovden'
 
 title: 'Hovden'
 pi: 'Name A. Name, Affiliation'

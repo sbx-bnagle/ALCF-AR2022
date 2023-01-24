@@ -1,5 +1,6 @@
 ---
 layout: highlight
+permalink: '/science/highlights/chang'
 
 title: 'Chang'
 pi: 'Name A. Name, Affiliation'
@@ -24,6 +25,7 @@ publications:
     source: 'Pub Source'
     date: 'January 2023'
     publisher: 'Pub Publisher'
+
 ---
 
 

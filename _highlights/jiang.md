@@ -1,5 +1,6 @@
 ---
 layout: highlight
+permalink: '/science/highlights/jiang'
 
 title: 'Jiang'
 pi: 'Name A. Name, Affiliation'

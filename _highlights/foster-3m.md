@@ -1,5 +1,6 @@
 ---
 layout: highlight
+permalink: '/science/highlights/foster-3m'
 
 title: 'Foster-3m'
 pi: 'Name A. Name, Affiliation'

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Community Outreach
-permalink: /community-and-outreach/
+title: Features
+permalink: /features/
 ---
 
 

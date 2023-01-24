@@ -1,6 +1,7 @@
 toc:
   - title: Year in Review
     slug: year-in-review
+    url: /year-in-review/directors-letter
     subfolderitems:
       - page: Director's Letter
         url: /year-in-review/directors-letter
@@ -12,6 +13,7 @@ toc:
         url: /year-in-review/at-a-glance
   - title: Features
     slug: features
+    url: /features
     subfolderitems:
       - page: Aurora Update
         url: /features/aurora
@@ -27,9 +29,8 @@ toc:
         url: /features/gordon-bell-prize
   - title: Community and Outreach
     slug: community-and-outreach
+    url: /community-and-outreach
     subfolderitems:
-      - page: Section Head
-        url: /community-and-outreach/section-head
       - page: Staff Updates
         url: /community-and-outreach/staff-updates
       - page: Industry
@@ -44,9 +45,8 @@ toc:
         url: /community-and-outreach/educational-outreach-activities
   - title: Expertise and Resources
     slug: expertise-and-resources
+    url: /expertise-and-resources
     subfolderitems:
-      - page: Section Head
-        url: /expertise-and-resources/section-head
       - page: ALCF Systems
         url: /expertise-and-resources/systems
       - page: ALCF Team
@@ -55,8 +55,8 @@ toc:
     slug: science
     url: /science
     subfolderitems:
-      - page: Section Head
-        url: /science
+      - page: Highlights
+        url: /science/highlights
       - page: Projects
         url: /science/projects
       - page: Publications

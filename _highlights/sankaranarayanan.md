@@ -1,5 +1,6 @@
 ---
 layout: highlight
+permalink: '/science/highlights/sankaranarayanan'
 
 title: 'Sankaranarayanan'
 pi: 'Name A. Name, Affiliation'

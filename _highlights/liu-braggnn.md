@@ -1,5 +1,6 @@
 ---
 layout: highlight
+permalink: '/science/highlights/liu-braggn'
 
 title: 'Liu-Braggn'
 pi: 'Name A. Name, Affiliation'

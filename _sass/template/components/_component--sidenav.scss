@@ -6,11 +6,11 @@
   */
 
 .sidenav {
-	background-color: color(neutral, XXXX);
-	color: color(neutral, X);
-	padding-top: 16px;
-	padding-left: 20px;
-	width: 20vw;
+	background-color: color(neutral, XX);
+	color: color(blue, XXXXX);
+	padding: 16px 20px 0;
+	width: calc(25vw - 26px);
+	box-sizing: border-box;
 	height: 100vw;
 	position: fixed;
 	top: 64px;

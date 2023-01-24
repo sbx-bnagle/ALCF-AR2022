@@ -1,5 +1,6 @@
 ---
 layout: highlight
+permalink: '/science/highlights/gensmls'
 
 title: 'Gensmls'
 pi: 'Name A. Name, Affiliation'
