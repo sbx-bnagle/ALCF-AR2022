@@ -45,16 +45,16 @@ $grid-12: (
   rows      : auto,
   gutter-h  : 20px,
   gutter-v  : 0,
-  width     : calc(100% - 28px * 2),
+  width     : calc(100% - 20px * 2),
   max-width : 1240px,
 );
 
 $grid-full: (
-  columns   : 1,
+  columns   : 12,
   rows      : auto,
-  gutter-h  : 28px,
+  gutter-h  : 20px,
   gutter-v  : 0,
-  width     : 100%,
+  width     : calc(100% - 20px * 2),
 );
 
 

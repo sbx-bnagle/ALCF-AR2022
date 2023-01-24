@@ -25,26 +25,26 @@ body {
 // Layout
 // ----------------------------------------------------------------------------
  
-.layout-wrapper, .nav-wrapper {
+.layout-wrapper {
 	@include grid-parent();
 }
 
-.layout-wrapper h1,
-.layout-wrapper h2,
-.layout-wrapper h3,
-.layout-wrapper h4,
-.layout-wrapper h5,
-.layout-wrapper h6,
-.layout-wrapper p,
-.layout-wrapper ul,
-.layout-wrapper ol,
-.layout-wrapper table,
-.layout-wrapper .language-plaintext {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+table,
+.language-plaintext {
 	grid-column: 4 / 12;
 }
 
 .page-content {
-  padding: 0;
+  padding: bl(30) 0 0 0; //120px
   @include stack(md);
 }
 
@@ -138,7 +138,7 @@ ul {
   list-style-type: '\2014\00a0';
 }
 
-.page-title {
+h1.page-title {
   @include typestyle($sans-lg-bld);
 }
 

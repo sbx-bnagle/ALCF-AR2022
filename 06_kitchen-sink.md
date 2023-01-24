@@ -31,7 +31,7 @@ permalink: /kitchen-sink/
 
 
 
-<!-- Hero Embed
+<!-- Hero Video
 	   NOTE: Make sure to surround the embed code with different quotation marks than are used within the code. For example, surround the code with single quotation marks if double marks are used within the embed code.
 	   NOTE: Make sure to remove any width/height properties from the embed code
 	   NOTE: This include is commented out as there should only be one 'hero' per page, to use this include replace the comment arrows with the template brackets (the curly brackets with percentage signs).
@@ -44,10 +44,10 @@ permalink: /kitchen-sink/
 		* required
 ------------------------------------------------------------------------------>
 
-<!-- include media-embed.html
-     embed-code= '<iframe width="560" height="315" src="https://www.youtube.com/embed/tE9uKTgmQvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-     caption= "The quick brown fox jumps over the lazy dog."
-     credit= "Name A. Name"
+<!--  include media-hero-video.html
+      embed-code= '<iframe src="https://www.youtube.com/embed/tE9uKTgmQvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+      caption= "The quick brown fox jumps over the lazy dog."
+      credit= "Name A. Name"
 -->
 
 
@@ -98,7 +98,7 @@ var example = example;
 
 
 
-<!-- Embed
+<!-- Video
 	   NOTE: Make sure to surround the embed code with different quotation marks than are used within the code. For example, surround the code with single quotation marks if double marks are used within the embed code.
 	   NOTE: Make sure to remove any width/height properties from the embed code
 
@@ -110,7 +110,7 @@ var example = example;
 		* required
 ------------------------------------------------------------------------------>
 
-{% include media-embed.html
+{% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/tE9uKTgmQvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
    caption= "The quick brown fox jumps over the lazy dog."
    credit= "Name A. Name"

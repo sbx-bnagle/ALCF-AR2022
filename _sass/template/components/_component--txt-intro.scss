@@ -6,7 +6,7 @@
   */
 
 .intro {	
-	grid-column: 4 / 12;
+	grid-column: 3 / -1;
 	@include typestyle($sans-md-bld);	
 	@include stack(sm);
 }

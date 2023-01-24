@@ -6,9 +6,16 @@
   */
 
 header {
-	background-color: #eee;
+	background-color: color(blue, XXXX);
+	color: color(green, X);
 	padding-top: 16px; 
-	margin-bottom: 64px;
+	position: fixed;
+	width: 100vw;
+	z-index: 5000;
+
+	.nav-wrapper {
+		@include grid-parent($config: $grid-full);
+	}
 
 	.masthead {
 		grid-column: 1 / 3;
@@ -26,10 +33,15 @@ header {
 
 
 	h2 {
-		@include typestyle($sans-sm-bld);
+		@include typestyle($sans-xs-bld);
 		display: inline-block;
 		margin-left: bl(2); //8px;
 		margin-right: bl(2); //8px;
+		margin-top: 3px;
+	}
+
+	a {
+		text-decoration: none;
 	}
 
 

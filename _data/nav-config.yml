@@ -54,10 +54,11 @@ toc:
   - title: Science
     slug: science
     url: /science
-  - title: Projects
-    slug: projects
-    url: /projects
-  - title: Publications
-    slug: publications
-    url: /publications
+    subfolderitems:
+      - page: Section Head
+        url: /science
+      - page: Projects
+        url: /science/projects
+      - page: Publications
+        url: /science/publications
 

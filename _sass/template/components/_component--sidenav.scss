@@ -1,0 +1,40 @@
+/**
+  * Component: Sidenav
+  *  
+  * @description
+  * -
+  */
+
+.sidenav {
+	background-color: color(neutral, XXXX);
+	color: color(neutral, X);
+	padding-top: 16px;
+	padding-left: 20px;
+	width: 20vw;
+	height: 100vw;
+	position: fixed;
+	top: 64px;
+	left: 0;
+
+	h1 {
+		@include typestyle($sans-xs-bld);
+	}
+
+	h2 {
+		@include typestyle($sans-xs-bld);
+	}
+
+	ul {
+		list-style: none;
+	}
+
+	li {
+		@include typestyle($sans-xs-reg);
+	}
+
+	.menuitem-wrapper {
+		padding-top: 4px;
+	}
+
+}
+

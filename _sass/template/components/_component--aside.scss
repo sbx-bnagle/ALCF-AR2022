@@ -7,8 +7,23 @@
 
 .aside {
 	
-	grid-column: 3 / -1;
-	padding: bl(10) bl(5); //40px 20px
+	@include grid-child($cols: 10);
+	grid-column-start: 3;
+	padding: bl(10) 0; //40px
 	background-color: color(neutral, XX);
 		
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	p,
+	ul,
+	ol,
+	table,
+	.language-plaintext {
+		grid-column: 2 / 10;
+	}
+
 }
