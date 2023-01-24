@@ -7,8 +7,8 @@
 
 .sidenav {
 	background-color: color(neutral, XX);
-	color: color(blue, XXXXX);
-	padding: 16px 20px 0;
+	color: color(blue, XXXX);
+	padding: 68px 20px 0;
 	width: calc(25vw - 26px);
 	box-sizing: border-box;
 	height: 100vw;
@@ -17,11 +17,11 @@
 	left: 0;
 
 	h1 {
-		@include typestyle($sans-xs-bld);
+		@include typestyle($sans-sm-bld);
 	}
 
 	h2 {
-		@include typestyle($sans-xs-bld);
+		@include typestyle($sans-sm-bld);
 	}
 
 	ul {
@@ -29,7 +29,11 @@
 	}
 
 	li {
-		@include typestyle($sans-xs-reg);
+		@include typestyle($sans-sm-reg);
+	}
+
+	a {
+		text-decoration: none;
 	}
 
 	.menuitem-wrapper {
