@@ -8,7 +8,7 @@
 .sidenav {
 	background-color: color(neutral, XX);
 	color: color(blue, XXXX);
-	padding: 68px 20px 0;
+	padding: 37px 20px 0;
 	width: calc(25vw - 26px);
 	box-sizing: border-box;
 	height: 100vw;
@@ -21,7 +21,18 @@
 	}
 
 	h2 {
-		@include typestyle($sans-sm-bld);
+		@include typestyle($sans-xs-bld);
+		text-transform: uppercase;
+		@include stack(xxs);
+
+		&::before {
+			content: "";
+    	width: 28px;
+    	height: 8px;
+    	margin-bottom: .75rem;
+    	display: block;
+    	background-color: color(blue, XXXX);
+		}
 	}
 
 	ul {
