@@ -6,11 +6,14 @@
   */
 
 .aside {
-	
-	@include grid-child($cols: 10);
-	grid-column-start: 3;
 	padding: bl(10) 0; //40px
-	background-color: color(neutral, XX);
+	width: 100vw;
+	background-color: color(blue, X);
+	color: color(blue, XXXXX);
+
+	.content-wrapper {
+		@include grid-parent();
+	}
 		
 	h1,
 	h2,
@@ -23,7 +26,7 @@
 	ol,
 	table,
 	.language-plaintext {
-		grid-column: 2 / 10;
+		grid-column: 4 / 12;
 	}
 
 }
