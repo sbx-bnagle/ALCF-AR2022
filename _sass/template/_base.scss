@@ -16,6 +16,7 @@
 body {
 	background: color(neutral, X);
 	color: color(neutral, XXXXX);
+  overflow-x: hidden;
 }
 
 
@@ -49,6 +50,10 @@ table,
 
 .page-intro {
   @include grid-parent($config: $grid-full);
+}
+
+.highlight,
+.page-intro {
   padding: 7rem 0 0 0; //112px
 }
 

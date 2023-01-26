@@ -65,25 +65,11 @@ $icon: (
   ratio: .189
 );
 
-@font-face {
-  font-family: sans-reg;
-  src: url(/assets/fonts/icomoon/fonts/icomoon.woff);
-}
-
-$sans-reg: (
-  stack: #{sans-serif},
+$sans: (
+  stack: #{'proxima-nova', sans-serif},
   ratio: .189
 );
 
-@font-face {
-  font-family: sans-bld;
-  src: url(/assets/fonts/icomoon/fonts/icomoon.woff);
-}
-
-$sans-bld: (
-  stack: #{sans-serif},
-  ratio: .189
-);
 
 
 
@@ -107,17 +93,17 @@ $sans-bld: (
 // XL 136px/136px
 
 $sans-xl-reg: (
-  null    : (normal, normal, 400, 8.5,  34,  $sans-reg, -.025, 0),
-  sm      : (normal, normal, 400, 8.5,  34,  $sans-reg, -.025, 0),
-  md      : (normal, normal, 400, 8.5,  34,  $sans-reg, -.025, 0),
-  lg      : (normal, normal, 400, 8.5,  34,  $sans-reg, -.025, 0),   
+  null    : (normal, normal, 400, 8.5,  34,  $sans, -.025, 0),
+  sm      : (normal, normal, 400, 8.5,  34,  $sans, -.025, 0),
+  md      : (normal, normal, 400, 8.5,  34,  $sans, -.025, 0),
+  lg      : (normal, normal, 400, 8.5,  34,  $sans, -.025, 0),   
 );
 
 $sans-xl-bld: (
-  null    : (normal, normal, 600, 8.5,  34,  $sans-bld, -.025, 0),
-  sm      : (normal, normal, 600, 8.5,  34,  $sans-bld, -.025, 0),
-  md      : (normal, normal, 600, 8.5,  34,  $sans-bld, -.025, 0),
-  lg      : (normal, normal, 600, 8.5,  34,  $sans-bld, -.025, 0),   
+  null    : (normal, normal, 600, 8.5,  34,  $sans, -.025, 0),
+  sm      : (normal, normal, 600, 8.5,  34,  $sans, -.025, 0),
+  md      : (normal, normal, 600, 8.5,  34,  $sans, -.025, 0),
+  lg      : (normal, normal, 600, 8.5,  34,  $sans, -.025, 0),   
 );
 
 
@@ -125,17 +111,17 @@ $sans-xl-bld: (
 // LG 56px/52px
 
 $sans-lg-reg: (
-  null    : (normal, normal, 400, 3.5,  13,  $sans-reg, -.025, 0),
-  sm      : (normal, normal, 400, 3.5,  13,  $sans-reg, -.025, 0),
-  md      : (normal, normal, 400, 3.5,  13,  $sans-reg, -.025, 0),
-  lg      : (normal, normal, 400, 3.5,  13,  $sans-reg, -.025, 0),   
+  null    : (normal, normal, 400, 3.5,  13,  $sans, -.025, 0),
+  sm      : (normal, normal, 400, 3.5,  13,  $sans, -.025, 0),
+  md      : (normal, normal, 400, 3.5,  13,  $sans, -.025, 0),
+  lg      : (normal, normal, 400, 3.5,  13,  $sans, -.025, 0),   
 );
 
 $sans-lg-bld: (
-  null    : (normal, normal, 600, 3.5,  13,  $sans-bld, -.025, 0),
-  sm      : (normal, normal, 600, 3.5,  13,  $sans-bld, -.025, 0),
-  md      : (normal, normal, 600, 3.5,  13,  $sans-bld, -.025, 0),
-  lg      : (normal, normal, 600, 3.5,  13,  $sans-bld, -.025, 0),   
+  null    : (normal, normal, 600, 3.5,  13,  $sans, -.025, 0),
+  sm      : (normal, normal, 600, 3.5,  13,  $sans, -.025, 0),
+  md      : (normal, normal, 600, 3.5,  13,  $sans, -.025, 0),
+  lg      : (normal, normal, 600, 3.5,  13,  $sans, -.025, 0),   
 );
 
 
@@ -143,53 +129,53 @@ $sans-lg-bld: (
 // MD 31px/32px
 
 $sans-md-reg: (
-  null    : (normal, normal, 400, 1.9375,  8,  $sans-reg, 0, 0),
-  sm      : (normal, normal, 400, 1.9375,  8,  $sans-reg, 0, 0),
-  md      : (normal, normal, 400, 1.9375,  8,  $sans-reg, 0, 0),
-  lg      : (normal, normal, 400, 1.9375,  8,  $sans-reg, 0, 0),   
+  null    : (normal, normal, 400, 1.9375,  8,  $sans, -.025, 0),
+  sm      : (normal, normal, 400, 1.9375,  8,  $sans, -.025, 0),
+  md      : (normal, normal, 400, 1.9375,  8,  $sans, -.025, 0),
+  lg      : (normal, normal, 400, 1.9375,  8,  $sans, -.025, 0),   
 );
 
 $sans-md-bld: (
-  null    : (normal, normal, 600, 1.9375,  8,  $sans-bld, 0, 0),
-  sm      : (normal, normal, 600, 1.9375,  8,  $sans-bld, 0, 0),
-  md      : (normal, normal, 600, 1.9375,  8,  $sans-bld, 0, 0),
-  lg      : (normal, normal, 600, 1.9375,  8,  $sans-bld, 0, 0),   
+  null    : (normal, normal, 600, 1.9375,  8,  $sans, -.025, 0),
+  sm      : (normal, normal, 600, 1.9375,  8,  $sans, -.025, 0),
+  md      : (normal, normal, 600, 1.9375,  8,  $sans, -.025, 0),
+  lg      : (normal, normal, 600, 1.9375,  8,  $sans, -.025, 0),   
 );
 
 
 
-// SM 17px/24px
+// SM 18px/24px
 
 $sans-sm-reg: (
-  null    : (normal, normal, 400, 1.0625,  6,  $sans-reg, 0, 0),
-  sm      : (normal, normal, 400, 1.0625,  6,  $sans-reg, 0, 0),
-  md      : (normal, normal, 400, 1.0625,  6,  $sans-reg, 0, 0),
-  lg      : (normal, normal, 400, 1.0625,  6,  $sans-reg, 0, 0),   
+  null    : (normal, normal, 400, 1.125,  6,  $sans, 0, 0),
+  sm      : (normal, normal, 400, 1.125,  6,  $sans, 0, 0),
+  md      : (normal, normal, 400, 1.125,  6,  $sans, 0, 0),
+  lg      : (normal, normal, 400, 1.125,  6,  $sans, 0, 0),   
 );
 
 $sans-sm-bld: (
-  null    : (normal, normal, 600, 1.0625,  6,  $sans-bld, 0, 0),
-  sm      : (normal, normal, 600, 1.0625,  6,  $sans-bld, 0, 0),
-  md      : (normal, normal, 600, 1.0625,  6,  $sans-bld, 0, 0),
-  lg      : (normal, normal, 600, 1.0625,  6,  $sans-bld, 0, 0),   
+  null    : (normal, normal, 600, 1.125,  6,  $sans, 0, 0),
+  sm      : (normal, normal, 600, 1.125,  6,  $sans, 0, 0),
+  md      : (normal, normal, 600, 1.125,  6,  $sans, 0, 0),
+  lg      : (normal, normal, 600, 1.125,  6,  $sans, 0, 0),   
 );
 
 
 
-// XS 14px/20px
+// XS 15px/20px
 
 $sans-xs-reg: (
-  null    : (normal, normal, 400, 0.875,  5,  $sans-reg, 0, 0),  
-  sm      : (normal, normal, 400, 0.875,  5,  $sans-reg, 0, 0),
-  md      : (normal, normal, 400, 0.875,  5,  $sans-reg, 0, 0),
-  lg      : (normal, normal, 400, 0.875,  5,  $sans-reg, 0, 0),   
+  null    : (normal, normal, 400, 0.9375,  5,  $sans, 0, 0),  
+  sm      : (normal, normal, 400, 0.9375,  5,  $sans, 0, 0),
+  md      : (normal, normal, 400, 0.9375,  5,  $sans, 0, 0),
+  lg      : (normal, normal, 400, 0.9375,  5,  $sans, 0, 0),   
 );
 
 $sans-xs-bld: (
-  null    : (normal, normal, 600, 0.875,  5,  $sans-bld, 0, 0),  
-  sm      : (normal, normal, 600, 0.875,  5,  $sans-bld, 0, 0),
-  md      : (normal, normal, 600, 0.875,  5,  $sans-bld, 0, 0),
-  lg      : (normal, normal, 600, 0.875,  5,  $sans-bld, 0, 0),   
+  null    : (normal, normal, 600, 0.9375,  5,  $sans, 0, 0),  
+  sm      : (normal, normal, 600, 0.9375,  5,  $sans, 0, 0),
+  md      : (normal, normal, 600, 0.9375,  5,  $sans, 0, 0),
+  lg      : (normal, normal, 600, 0.9375,  5,  $sans, 0, 0),   
 );
 
 
