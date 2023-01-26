@@ -5,6 +5,13 @@ layout: default
 ---
 
 <main class="page-content layout-wrapper page" aria-label="Content">
-	<h1 class="page-title">{{ page.title }}</h1>
 	{{ content }}
 </main>
+
+<div class="aside">
+	{% if page.aside %}
+		{% assign aside-file = page.aside | prepend: "/asides/"  %}
+		{%	capture aside-content %}{% include {{ aside-file }} %}{% endcapture %}
+		{{ aside-content | markdownify }}
+	{% endif %}
+</div>

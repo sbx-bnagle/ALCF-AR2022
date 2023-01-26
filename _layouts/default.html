@@ -6,9 +6,40 @@
 
     {%- include header.html -%}
     {%- include sidenav.html -%}
+
+
+
+    <div class="page-intro">
+
+    	<h1 class="page-title">{{ page.title }}</h1>
+
+    	{% if page.intro %}
+	    	{% include txt-intro.html
+	  			 blurb= page.intro
+				%}
+			{% endif %}
+
+			{% if page.hero-img %}
+				{% include media-hero-img.html
+				   source= page.hero-img.source
+				   caption= page.hero-img.caption
+				   credit= page.hero-img.credit
+				%}
+			{% elsif page.hero-vid %}
+				{% include media-hero-video.html
+					 embed-code= page.hero-video.embed-code
+      		 caption= page.hero-video.caption
+      		 credit= page.hero-video.credit
+      	%}
+			{% endif %}
+
+    </div>
     
-      {{ content }}
+
+
+    {{ content }}
     
+
 
     {%- include footer.html -%}
 

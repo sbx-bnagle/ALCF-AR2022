@@ -6,13 +6,18 @@
   */
 
 .media-hero-img {
-	
-	grid-column: 3 / -1;
+	grid-column: 4 / 12;
 	@include stack(md);
+
 
 	.img-wrapper {
 		@include aspect-ratio(16, 9);
 		@include stack(xs);
+		// position: absolute;
+		// right: 0;
+		width: calc(75vw + 26px);
+		margin-left: -40px;
+		// margin-right: -40px;
 	}
 
 	img {

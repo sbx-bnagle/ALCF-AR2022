@@ -1,8 +1,16 @@
 ---
-
-layout: default
-
 ---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+    {%- include sidenav.html -%}
+
+
 
 <main class="page-content layout-wrapper highlight" aria-label="Content">
 
@@ -45,3 +53,12 @@ layout: default
 	{% endif %}
 
 </main>
+
+
+
+
+{%- include footer.html -%}
+
+  </body>
+
+</html>

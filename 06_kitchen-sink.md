@@ -1,33 +1,21 @@
 ---
 layout: page
+
 title: Kitchen Sink
+intro: "Intro text the quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick fox jumps over the lazy dog."
+hero-img: 
+  source: "fpo.jpg"
+  caption: "The quick brown fox jumps over the lazy dog."
+  credit: "Name A. Name"
+
+aside: aside-01.md
+
 permalink: /kitchen-sink/
 ---
 
 
 
-<!-- Intro Text
-	   NOTE: Intro text is only included as the first item on the page
 
-	  available parameters:
-		* blurb
-
-		* required
------------------------------------------------------------------------------->
-
-{% include txt-intro.html
-   blurb= "Intro text the quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog."
-%}
-
-
-<!-- Hero Image
------------------------------------------------------------------------------->
-
-{% include media-hero-img.html
-   source= "fpo.jpg"
-   caption= "The quick brown fox jumps over the lazy dog."
-   credit= "Name A. Name"
-%}
 
 
 
@@ -176,23 +164,4 @@ The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the 
 		figure-2 = "75%"
 		label-2 = "Percentage of things"
 		note-2 = "things from 2022 count of stuff"
-%}
-
-
-
-<!-- Sidebar
------------------------------------------------------------------------------->
-
-{%	capture aside-content %}
-
-## Aside Content
-
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
-
-{% endcapture %}
-
-
-{%	include aside.html 
-	  theme= "blue"
-	  content= aside-content
 %}

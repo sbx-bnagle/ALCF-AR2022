@@ -6,9 +6,10 @@
   */
 
 .intro {	
-	grid-column: 3 / -1;
+	grid-column: 4 / 12;
 	@include typestyle($sans-md-bld);	
 	@include stack(sm);
+	color: color(neutral, XXXX);
 }
 
 .highlight .intro {	
