@@ -13,10 +13,16 @@
 // Top Level
 // ----------------------------------------------------------------------------
 
+html, body {
+  height: 100%;
+}
+
 body {
 	background: color(neutral, X);
 	color: color(neutral, XXXXX);
   overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
 }
 
 
@@ -46,6 +52,7 @@ table,
 
 .page-content {
   @include stack(md);
+  flex: 1 0 auto;
 }
 
 .page-intro {
@@ -60,6 +67,10 @@ table,
 .primary-txt {
   @include grid-child($cols: 12);
   @include stack(md);
+}
+
+.footer {
+  flex-shrink: 0;
 }
 
 

@@ -6,7 +6,33 @@
   */
 
 footer {
-	
+	width: 100vw;
+	background-color: color(neutral, XXXXX);
+	color: color(neutral, X);
+	@include typestyle($sans-xs-bld);
+
+	.content-wrapper {
+		padding-top: bl(10); //40px
+		@include grid-parent();
+	}
+
+	.alcf-info {
+		grid-column: 4 / 8;
+		padding-bottom: bl(10); //40px
+	}
+
+	.smallprint {
+		grid-column: 8 / -1;
+		padding-bottom: bl(10); //40px
+	}
+
+	.doe-info {
+		grid-column: 4 / -1;
+		grid-row: 2;
+		color: color(neutral, XXX);
+		border-top: 2px solid color(neutral, XXXX);
+		padding: bl(5) 0; //20px
+	}
 
 }
 
