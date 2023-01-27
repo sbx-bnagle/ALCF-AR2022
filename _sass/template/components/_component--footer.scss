@@ -9,29 +9,80 @@ footer {
 	width: 100vw;
 	background-color: color(neutral, XXXXX);
 	color: color(neutral, X);
-	@include typestyle($sans-xs-bld);
+	
 
 	.content-wrapper {
 		padding-top: bl(10); //40px
 		@include grid-parent();
 	}
 
+
+	.alcf-logo {
+		grid-column: 4 / 10;
+		padding-bottom: bl(5); //20px
+	}
+
+	.alcf-logo img {
+		width: 75%;
+		@include stack(sm);
+	}
+
 	.alcf-info {
-		grid-column: 4 / 8;
-		padding-bottom: bl(10); //40px
+		grid-column: 10 / -1;
+		padding-bottom: bl(5); //20px
+		
+	}
+
+	.alcf-info h2, 
+	.alcf-info p {
+		@include typestyle($sans-xs-bld);
+	}
+
+
+	.bottom {
+		@include grid-child($cols: 12, $row-start: 2);
+	}
+
+	hr {
+		grid-column: 4 / -1;
+    width: 100%;
+    height: 2px;
+    background-color: color(neutral, XXXX);
+    border: none;
 	}
 
 	.smallprint {
-		grid-column: 8 / -1;
-		padding-bottom: bl(10); //40px
+		grid-column: 10 / -1;
+		grid-row: 2;
+		padding: bl(5) 0; //20px
 	}
 
-	.doe-info {
-		grid-column: 4 / -1;
-		grid-row: 2;
+	.smallprint ul {
+		list-style: none;
+		@include typestyle($sans-xs-bld);
 		color: color(neutral, XXX);
-		border-top: 2px solid color(neutral, XXXX);
+	}
+
+
+	.doe-info {
+		grid-column: 4 / 10;
+		grid-row: 2;
 		padding: bl(5) 0; //20px
+	}
+
+	.doe-info img {
+		width: 20%;
+		opacity: .75;
+		display: inline-block;
+	}
+
+	.doe-info p {
+		display: inline-block;
+		width: calc(80% - 20px);
+		@include typestyle($sans-xs-bld);
+		float: right;
+		hyphens: none;
+		color: color(neutral, XXX);
 	}
 
 }
