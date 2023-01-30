@@ -5,13 +5,7 @@
   * -
   */
 
-.home--hero-wrapper,
-.home--features-wrapper,
-.home--toc-wrapper {
-	@include grid-parent($config: $grid-full);
-	height: 480px;
-	box-sizing: border-box;
-}
+
 
 .home--hero-wrapper h1,
 .home--features-wrapper h1,
@@ -20,16 +14,186 @@
 	color: color(blue, XXXXX);
 }
 
+
+
+
+// Hero
+// ----------------------------------------------------------------------------
+
 .home--hero-wrapper {
-	margin-top: 80px;
-	background-color: color(warm, XX);
+	margin-top: 64px;
+	width: 100vw;
+	box-sizing: border-box;
+
+	.img-wrapper {
+		width: 100vw;
+		@include aspect-ratio(16, 9);
+	}
+
+	img {
+		object-fit: cover;
+		min-width: 100%;
+	}
 }
+
+
+
+
+// Features
+// ----------------------------------------------------------------------------
 
 .home--features-wrapper  {
-	background-color: color(green, XX);
+	background-color: color(neutral, X);
+	width: 100vw;
+	padding: bl(10) 0;
+
+	.content-wrapper {
+		@include grid-parent($config: $grid-full);
+	}
+
+	h2, h3, p {
+		grid-column: 1 / -1;
+	}
+
+	a {
+		text-decoration: none;
+	}
+
+	h2 {
+		@include stack(sm);
+		@include typestyle($sans-lg-bld);
+		color: color(blue, XXXXX);
+
+		&::before {
+			content: "";
+    	width: 36px;
+    	height: 8px;
+    	margin-bottom: 1rem;
+    	display: block;
+    	background-color: color(blue, XXXX);
+		}
+	}
+
+	h3 {
+		@include typestyle($sans-sm-bld);
+		margin-bottom: 0;
+		text-transform: none;
+	}
+
+	p {
+		@include typestyle($sans-xs-bld);
+	}
+
+	.teaser {
+		grid-column: span 4;
+		background-color: color(blue, XXXX);
+		color: color(neutral, X);
+		@include stack(lg);
+	}
+
+	.teaser .content-wrapper {
+		padding: bl(4) 0 bl(6); //16px 24px
+	}
+
+	
 }
 
+
+
+
+
+// TOC
+// ----------------------------------------------------------------------------
+
 .home--toc-wrapper  {
-	background-color: color(blue, XX);
+	background-color: color(blue, XXXX);
+	color: color(neutral, X);
+	width: 100vw;
+	padding: bl(10) 0;
+
+	.content-wrapper {
+		@include grid-parent($config: $grid-full);
+	}
+
+	h2 {
+		@include stack(sm);
+		grid-column: 1 / -1;
+		@include typestyle($sans-lg-bld);
+		color: color(green, X);
+
+		&::before {
+			content: "";
+    	width: 36px;
+    	height: 8px;
+    	margin-bottom: 1rem;
+    	display: block;
+    	background-color: color(blue, XX);
+		}
+	}
+
+	h3 {
+		text-transform: none;
+		@include typestyle($sans-sm-bld);
+		border-bottom: 2px solid color(blue, XX);
+		// @include stack(xs);
+		margin-bottom: 0;
+	}
+
+	a {
+		text-decoration: none;
+	}
+
+	.toc-section {
+		grid-column: span 6;
+	}
+
+	.toc-section ul {
+		list-style: none;
+		@include stack(md);
+	}
+
+	.toc-science {
+		@include grid-child($cols: 12);
+		h3 { grid-column: span 12 }
+	}
+
+	.toc-science .hl {
+		border-bottom: 2px solid color(blue, XXX);
+		grid-column: span 12;
+		padding-bottom: bl(1);
+	}
+
+	.toc-science .not-hl {
+		grid-row: 15;
+	}
+
+	ul.toc-highlights {
+		@include grid-child($cols: 12);
+		border-bottom: 2px solid color(blue, XXX);
+		padding-bottom: bl(5);
+		@include stack(xs);
+	}
+
+	.toc-highlight {
+		margin-top: bl(2); //8px
+	}
+
+	.toc-highlight .title,
+	.toc-highlight .pi {
+		display: block;
+	}
+
+	.toc-highlight .title {
+		@include typestyle($sans-xs-bld);
+	}
+
+	.toc-highlight .pi {
+		@include typestyle($sans-xs-reg);
+	}
+
+	.toc-science li {
+		grid-column: span 3;
+	}
+
 }
 

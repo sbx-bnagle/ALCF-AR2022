@@ -1,7 +1,10 @@
 ---
 layout: page
+permalink: /features/aurora
+
 title: Aurora
-permalink: /features/aurora/
+img: fpo.jpg
+intro: "The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog."
 ---
 
 
