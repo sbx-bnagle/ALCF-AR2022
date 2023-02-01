@@ -1,5 +1,7 @@
 ---
 layout: page
+
+theme: warm
 permalink: /features/sunspot
 
 title: Sunspot

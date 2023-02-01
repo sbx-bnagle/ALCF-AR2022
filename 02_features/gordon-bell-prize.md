@@ -1,5 +1,7 @@
 ---
 layout: page
+
+theme: cyan
 permalink: /features/gordon-bell-prize
 
 title: Gordon Bell Prize

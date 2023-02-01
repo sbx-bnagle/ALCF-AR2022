@@ -1,5 +1,7 @@
 ---
 layout: page
+
+theme: cyan
 title: Features
 permalink: /features/
 ---

@@ -1,5 +1,7 @@
 ---
 layout: page
+
+theme: green
 permalink: /features/alcf-ai-testbed
 
 title: ALCF AI Testbed

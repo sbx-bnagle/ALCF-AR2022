@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: ALCF Team
+
+theme: white
 permalink: /expertise-and-resources/team/
 ---
 

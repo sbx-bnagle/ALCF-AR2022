@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: Expertise and Resources
+
+theme: cyan
 permalink: /expertise-and-resources/
 ---
 

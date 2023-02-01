@@ -1,5 +1,7 @@
 ---
 layout: page
+
+theme: dark
 permalink: /features/aurora-and-aps
 
 title: Aurora and APS

@@ -1,5 +1,7 @@
 ---
 layout: highlight
+
+theme: white
 permalink: '/science/highlights/huerta'
 
 title: 'Huerta'

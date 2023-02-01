@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: Community Outreach
+
+theme: cyan
 permalink: /community-and-outreach/
 ---
 

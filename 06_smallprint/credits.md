@@ -3,6 +3,7 @@ layout: page
 
 title: Credits
 
+theme: grey
 permalink: /credits/
 ---
 

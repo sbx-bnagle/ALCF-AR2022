@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: Year in Review
+
+theme: white
 permalink: /year-in-review/year-in-review/
 ---
 

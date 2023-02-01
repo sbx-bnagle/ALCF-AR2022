@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: About ALCF
+
+theme: white
 permalink: /year-in-review/about-alcf/
 ---
 

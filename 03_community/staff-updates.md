@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: Staff Updates
+
+theme: white
 permalink: /community-and-outreach/staff-updates/
 ---
 

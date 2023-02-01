@@ -7,7 +7,6 @@
 
 header {
 	background-color: color(blue, XXXX);
-	color: color(green, X);
 	padding-top: 16px; 
 	position: fixed;
 	top: 0;
@@ -30,6 +29,7 @@ header {
 
 	h1 {
 		@include typestyle($sans-sm-bld);
+		color: color(green, X);
 	}
 
 
@@ -39,10 +39,12 @@ header {
 		margin-left: bl(2); //8px;
 		margin-right: bl(2); //8px;
 		margin-top: 3px;
+		color: color(green, X);
 	}
 
 	a {
 		text-decoration: none;
+		color: color(green, X);
 	}
 
 

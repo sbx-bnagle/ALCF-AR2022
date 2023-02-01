@@ -1,5 +1,6 @@
 ---
 layout: page
+theme: cyan
 permalink: /features/polaris
 
 title: Polaris

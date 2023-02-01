@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: HPC Community Activities
+
+theme: white
 permalink: /community-and-outreach/hpc-community-activities/
 ---
 

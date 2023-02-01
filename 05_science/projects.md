@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: Projects
+
+theme: sky
 permalink: /science/projects/
 ---
 

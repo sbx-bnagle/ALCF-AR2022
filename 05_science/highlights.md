@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: Highlights
+
+theme: white
 permalink: /science/highlights/
 ---
 

@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: Publications
+
+theme: sky
 permalink: /science/publications/
 ---
 

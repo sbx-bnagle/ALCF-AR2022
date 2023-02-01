@@ -3,6 +3,7 @@ layout: page
 
 title: About
 
+theme: grey
 permalink: /about/
 ---
 

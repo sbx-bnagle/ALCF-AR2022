@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: Industry
+
+theme: white
 permalink: /community-and-outreach/industry/
 ---
 

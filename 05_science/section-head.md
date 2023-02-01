@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: Science
+
+theme: cyan
 permalink: /science/
 ---
 

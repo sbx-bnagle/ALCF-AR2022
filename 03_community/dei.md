@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: DEI
+
+theme: white
 permalink: /community-and-outreach/dei/
 ---
 

@@ -1,6 +1,9 @@
 ---
 layout: page
+
 title: Educational Outreach Activities
+
+theme: white
 permalink: /community-and-outreach/educational-outreach-activities/
 ---
 
