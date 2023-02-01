@@ -34,6 +34,44 @@
 		object-fit: cover;
 		min-width: 100%;
 	}
+
+	.home--hero-text {
+		@include grid-parent();
+		position: absolute;
+		z-index: 500;
+		top: bl(20); //40px
+		left: 20px;
+		box-sizing: border-box;
+	}
+
+	h1 {
+		font-size: 6.75rem; //108px
+		line-height: bl(25); //100px
+		color: color(green, XX);
+		span {
+			color: color(green, X);
+		}
+	}
+
+	h1.alcf {
+		grid-column: 1 / 7;
+	}
+
+	h1.title {
+		grid-column: 7 / -1;
+	}
+
+	.home--hero-scrim {
+		position: absolute;
+		z-index: 400;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		background-color: color(blue, XXXX);
+		opacity: 0.5;
+		mix-blend-mode: multiply;
+	}
 }
 
 

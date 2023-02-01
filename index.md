@@ -8,7 +8,23 @@ layout: home
 
 <div class="home--hero-wrapper">
 	<div class="img-wrapper">
-		<div><img src="{{ site.baseurl }}/assets/images/fpo.jpg"></div>
+		<div>
+			<img src="{{ site.baseurl }}/assets/images/fpo.jpg">
+			<div class="home--hero-text">
+				<h1 class="alcf">
+					Argonne<br>
+					<span>Leadership<br>
+					Computing</span><br>
+					Facility
+				</h1>
+				<h1 class="title">
+					2022<br>
+					<span>Annual<br>
+					Report</span><br>
+				</h1>
+			</div>
+			<div class="home--hero-scrim"></div>
+		</div>
 	</div>
 </div>
 
