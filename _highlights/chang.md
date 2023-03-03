@@ -16,7 +16,7 @@ image-caption: 'The quick brown fox jumps over the lazy dog.'
 image-credit: 'Name A. Name, Affiliation'
 
 publications:
-  - authors: 'Name A. Name'
+  - authors: 'TEst TEst'
     title: 'Pub Title'
     source: 'Pub Source'
     date: 'January 2023'
@@ -28,7 +28,9 @@ publications:
     date: 'January 2023'
     publisher: 'Pub Publisher'
 
+
 ---
+
 
 
 
