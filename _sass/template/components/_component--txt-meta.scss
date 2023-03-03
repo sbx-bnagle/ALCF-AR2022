@@ -6,12 +6,14 @@
   */
 
 .meta {
-	
-	grid-column: 4 / 12;
 	color: color(neutral, XXXX);
 	border-top: 2px solid color(neutral, XXX);
 	padding-top: bl(1);
 	@include stack(xs);
+	grid-column: span 12;
+	@include respond-to(m){
+		grid-column: 4 / 12;
+	}
 
 	p, span {
 		@include typestyle($sans-xs-reg);

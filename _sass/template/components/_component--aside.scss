@@ -26,7 +26,10 @@
 	ol,
 	table,
 	.language-plaintext {
-		grid-column: 4 / 12;
+		grid-column: span 12;
+		@include respond-to(m){
+			grid-column: 4 / 12;
+		}
 	}
 
 }

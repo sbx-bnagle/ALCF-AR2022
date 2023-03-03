@@ -11,19 +11,19 @@
 
 // Include drop downs
 // ----------------------------------------------------------------------------
-// var dropdowns = document.getElementsByClassName('js-drop');
+var dropdowns = document.getElementsByClassName('js-drop');
 
-// if (dropdowns.length > 0) {
-// 	var menus = [];
+if (dropdowns.length > 0) {
+	var menus = [];
 
-// 	Array.prototype.forEach.call(dropdowns, function(el) {
-// 		menus.push(new Dropdown({'hook': el.id, 'menu': el.dataset.menu}));	
-// 	});
+	Array.prototype.forEach.call(dropdowns, function(el) {
+		menus.push(new Dropdown({'hook': el.id, 'menu': el.dataset.menu}));	
+	});
 
-// 	Array.prototype.forEach.call(menus, function(m) {
-// 		m.init();
-// 	}); 
-// }
+	Array.prototype.forEach.call(menus, function(m) {
+		m.init();
+	}); 
+}
 
 
 

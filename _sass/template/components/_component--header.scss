@@ -12,19 +12,40 @@ header {
 	top: 0;
 	width: 100vw;
 	z-index: 5000;
+	box-sizing: border-box;
+	height: 64px;
+
+	.nav-desktop {
+		display: none;
+		@include respond-to(m){
+			@include grid-child($cols: 12);
+		}
+	}
+
+	.nav-mobile {
+		@include grid-child($cols: 12);
+		@include respond-to(m){
+			display: none;
+		}
+	}
 
 	.nav-wrapper {
 		@include grid-parent($config: $grid-full);
 	}
 
 	.masthead {
-		grid-column: 1 / 3;
+		grid-column: 1 / 10;
+		@include respond-to(m){
+			grid-column: 1 / 4;
+		}
 	}
 
 	.nav {
-		grid-column: 3 / -1;
+		grid-column: 10 / -1;
 		justify-self: end;
-		margin-top: -12px;
+		@include respond-to(m){
+			grid-column: 4 / -1;;
+		}
 	}
 
 	h1 {
@@ -38,7 +59,7 @@ header {
 		display: inline-block;
 		margin-left: bl(2); //8px;
 		margin-right: bl(2); //8px;
-		margin-top: 3px;
+		margin-top: bl(1); //4px;
 		color: color(green, X);
 	}
 
@@ -49,9 +70,8 @@ header {
 
 
 	.menuitem-wrapper {
-		height: 48px;
+		height: bl(12); //48px
 		display: inline-block;
-		padding-top: 12px;
 	}
 
 
@@ -63,8 +83,9 @@ header {
 		-webkit-box-shadow: 4px 4px 7px rgba(5, 2, 35, 0.1); 
 		-moz-box-shadow: 4px 4px 7px rgba(5, 2, 35, 0.1); 
 		transition: all 0.2s ease-out;
-		position: absolute;
-		top: 48px;
+		position: fixed;
+		top: 64px;
+		right: 0;
 		min-width: 200px;
 		padding-top: bl(2); //8px
 	}

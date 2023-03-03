@@ -6,14 +6,20 @@
   */
 
 .intro {	
-	grid-column: 4 / 12;
 	@include typestyle($sans-md-bld);	
 	@include stack(sm);
 	color: color(neutral, XXXX);
+	grid-column: span 12;
+	@include respond-to(m){
+		grid-column: 4 / 12;
+	}	
 }
 
 .highlight .intro {	
-	grid-column: 4 / 12;
 	@include typestyle($sans-sm-bld);	
+	grid-column: span 12;
+	@include respond-to(m){
+		grid-column: 4 / 12;
+	}	
 }
 

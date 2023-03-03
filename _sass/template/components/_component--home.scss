@@ -45,12 +45,19 @@
 	}
 
 	h1 {
-		font-size: 6.75rem; //108px
-		line-height: bl(25); //100px
+		@include typestyle($sans-md-bld);
 		color: color(green, XX);
 		span {
 			color: color(green, X);
 		}
+		@include respond-to(s){
+			@include typestyle($sans-lg-bld);	
+		}
+		@include respond-to(m){
+			font-size: 6.25rem; //100px
+			line-height: bl(25); //100px	
+		}
+		
 	}
 
 	h1.alcf {
@@ -123,10 +130,16 @@
 	}
 
 	.teaser {
-		grid-column: span 4;
 		background-color: color(blue, XXXX);
 		color: color(neutral, X);
 		@include stack(lg);
+		grid-column: span 12;
+		@include respond-to(s){
+			grid-column: span 6;
+		}
+		@include respond-to(m){
+			grid-column: span 4;
+		}
 	}
 
 	.teaser .content-wrapper {
@@ -182,7 +195,10 @@
 	}
 
 	.toc-section {
-		grid-column: span 6;
+		grid-column: span 12;
+		@include respond-to(s){
+			grid-column: span 6;
+		}
 	}
 
 	.toc-section ul {
@@ -230,7 +246,10 @@
 	}
 
 	.toc-science li {
-		grid-column: span 3;
+		grid-column: span 6;
+		@include respond-to(s){
+			grid-column: span 3;
+		}
 	}
 
 }

@@ -5,24 +5,37 @@
   * -
   */
 
-.fig {
-	
-	@include grid-child($cols: 8);
-	grid-column-start: 4;
+.fig {	
 	@include stack(sm);
 	margin-top: bl(6); //24px
+	@include grid-child($cols: 12);
+	@include respond-to(m){
+		@include grid-child($cols: 8);
+		grid-column-start: 4;
+	}
 
 	.fig-1,
 	.fig-2 {
-		grid-column: span 4;
+		grid-column: span 6;
+		margin-top: 12px;
+		@include respond-to(m){
+			grid-column: span 4;
+		}
 	}
 
 	.fig--label {
 		border-bottom: 2px solid color(neutral, XXX);
+		@include stack(xxs);
+		@include respond-to(m){
+			margin-bottom: 0;
+		}
 	}
 
 	.fig--no {
-		@include typestyle($sans-xl-reg);
+		@include typestyle($sans-lg-reg);
+		@include respond-to(s){
+			@include typestyle($sans-xl-reg);
+		}
 	}
 
 	.fig--note {

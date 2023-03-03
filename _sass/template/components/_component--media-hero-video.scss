@@ -6,9 +6,11 @@
   */
 
 .media-hero-embed {
-	
-	grid-column: 4 / -1;
 	@include stack(sm);
+	grid-column: span 12;
+	@include respond-to(m){
+		grid-column: 4 / 12;
+	}
 
 	iframe {
 		width: 100%;

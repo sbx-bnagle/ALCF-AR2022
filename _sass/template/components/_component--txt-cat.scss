@@ -6,9 +6,12 @@
   */
 
 .cat {
-	
-	grid-column: 4 / 12;
-	padding: bl(2) 0 0 0;
+	padding: 0;
+	grid-column: span 12;
+  @include respond-to(m){
+  	padding: bl(2) 0 0 0;
+    grid-column: 4 / 12;
+  }
 	
 	p{
 		@include typestyle($sans-xs-bld);
