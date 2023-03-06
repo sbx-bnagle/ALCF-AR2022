@@ -78,18 +78,25 @@ header {
 
 	.dropdown {
 		@include inset(xs);
-		background-color: color(neutral, X); 
-		box-shadow: 4px 4px 7px rgba(5, 2, 35, 0.1); 
-		-webkit-box-shadow: 4px 4px 7px rgba(5, 2, 35, 0.1); 
-		-moz-box-shadow: 4px 4px 7px rgba(5, 2, 35, 0.1); 
+		background-color: color(neutral, XXXXX); 
 		transition: all 0.2s ease-out;
 		position: fixed;
 		top: 64px;
-		right: 0;
-		min-width: 200px;
-		padding-top: bl(2); //8px
+		left: 0;
+		width: 100vw;
+		height: calc(100vh - 64px);
+		padding: bl(2) 0; //8px
+		box-sizing: border-box;
+		overflow-y: scroll;
 	}
 
+	.chunk {
+		grid-column: span 12;
+		@include stack(md);
+		@include respond-to(s){
+			grid-column: span 6;
+		}
+	}
 
 	.dropdown ul,
 	.dropdown li {
@@ -103,14 +110,14 @@ header {
 	}
 
 	.dropdown a {
-		color: color(blue, XXX);
+		color: color(blue, XX);
 		text-decoration: none;
 		display: inline-block;
-		margin-bottom: bl(2); //8px
+		// margin-bottom: bl(2); //8px
 	}
 
 	.dropdown a:hover {
-		color: color(blue, XX);
+		color: color(blue, XXX);
 	}
 
 	.dropdown hr {
@@ -118,6 +125,16 @@ header {
 		border: none;
 		height: 1px;
 	}
+
+	.dropdown h2 {
+		text-transform: none;
+		@include typestyle($sans-sm-bld);
+		border-bottom: 2px solid color(blue, XX);
+		margin-bottom: 0;
+		margin-left: 0;
+		width: 100%;
+	}
+
 
 	.js-dropdown-hidden {
 		display: none;
