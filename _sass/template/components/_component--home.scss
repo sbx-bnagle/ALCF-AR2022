@@ -204,6 +204,7 @@
 	.toc-section ul {
 		list-style: none;
 		@include stack(md);
+		padding-left: 0;
 	}
 
 	.toc-science {

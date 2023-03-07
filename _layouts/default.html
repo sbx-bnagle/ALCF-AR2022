@@ -13,8 +13,7 @@
 
 
 
-    <div class="page-intro">
-
+    <div class="page-intro-text">
     	<h1 class="page-title">{{ page.title }}</h1>
 
     	{% if page.intro %}
@@ -22,7 +21,9 @@
 	  			 blurb= page.intro
 				%}
 			{% endif %}
+    </div>
 
+    <div class="page-intro-media">
 			{% if page.hero-img %}
 				{% include media-hero-img.html
 				   source= page.hero-img.source
@@ -36,8 +37,8 @@
       		 credit= page.hero-video.credit
       	%}
 			{% endif %}
-
     </div>
+    
     
 
     <div class="height-wrapper">

@@ -61,12 +61,16 @@ table,
   flex: 1 0 auto;
 }
 
-.page-intro {
-  @include grid-parent($config: $grid-full);
+.page-intro-text {
+  @include grid-parent(); 
+}
+
+.page-intro-media{
+  @include grid-parent($config: $grid-full); 
 }
 
 .sci-highlight,
-.page-intro {
+.page-intro-text {
   padding: 5rem 0 0 0; //112px
   @include respond-to(m){
     padding: 7rem 0 0 0; //112px
