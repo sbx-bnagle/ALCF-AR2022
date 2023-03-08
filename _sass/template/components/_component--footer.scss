@@ -55,6 +55,7 @@ footer {
 	.alcf-info p {
 		@include typestyle($sans-xs-bld);
 		color: color(neutral, X);
+		margin-bottom: -4px;
 	}
 
 	.smallprint ul {
