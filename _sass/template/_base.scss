@@ -129,6 +129,9 @@ small {
 a {
   text-decoration: underline;
   text-decoration-color: color(neutral, XXX);
+  &:hover {
+    text-decoration-color: color(neutral, XXXX);
+  }
 }
 
 mark {

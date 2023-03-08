@@ -51,6 +51,9 @@
 	a {
 		text-decoration: none;
 		color: color(blue, XXXX);
+		&:hover {
+			text-decoration: underline;
+		}
 	}
 
 	.menuitem-wrapper {
