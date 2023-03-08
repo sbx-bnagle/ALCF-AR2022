@@ -18,24 +18,58 @@ footer {
 
 
 	.alcf-logo {
-		grid-column: 1 / 6;
-		// padding-bottom: bl(5); //20px
+		grid-column: span 12;
+		@include respond-to(s) {
+			grid-column: 1 / 6;
+		}
 	}
 
 	.alcf-logo img {
 		width: 348px;
-		@include stack(sm);
+		@include stack(md);
 	}
 
 	.alcf-info {
+		grid-column: 1 / 6;
+		@include respond-to(s) {
 		grid-column: 7 / 10;
-		// padding-bottom: bl(5); //20px	
+		}
+		@include respond-to(m) {
+			grid-column: 8 / 10;
+		}
+	}
+
+	.smallprint {
+		grid-column: 7 / -1;
+		@include stack(sm);
+		@include respond-to(s) {
+			grid-column: 10 / -1;
+			@include stack(md);
+		}
+		@include respond-to(m) {
+			grid-column: 10 / -1;
+		}
 	}
 
 	.alcf-info h2, 
 	.alcf-info p {
 		@include typestyle($sans-xs-bld);
 		color: color(neutral, X);
+	}
+
+	.smallprint ul {
+		list-style: none;
+		@include typestyle($sans-xs-bld);
+		color: color(neutral, X);
+		padding-left: 0;
+	}
+
+	.alcf-info a,
+	.smallprint a {
+		text-decoration: none;
+		&:hover {
+			text-decoration: underline;
+		}
 	}
 
 
@@ -51,24 +85,6 @@ footer {
     border: none;
 	}
 
-	.smallprint {
-		grid-column: 10 / -1;
-		// padding: bl(2) 0; //8px
-	}
-
-	.smallprint ul {
-		list-style: none;
-		@include typestyle($sans-xs-bld);
-		color: color(neutral, X);
-	}
-
-	.alcf-info a,
-	.smallprint a {
-		text-decoration: none;
-		&:hover {
-			text-decoration: underline;
-		}
-	}
 
 
 	.doe-info {
