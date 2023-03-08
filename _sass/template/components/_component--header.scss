@@ -116,12 +116,12 @@ header {
 		color: color(blue, XX);
 		text-decoration: none;
 		display: inline-block;
-		// margin-bottom: bl(2); //8px
+		&:hover {
+			text-decoration: underline;
+		}
 	}
 
-	.dropdown a:hover {
-		color: color(blue, XXX);
-	}
+	
 
 	.dropdown hr {
 		background-color: #DDE6E7;
