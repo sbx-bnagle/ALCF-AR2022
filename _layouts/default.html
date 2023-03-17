@@ -30,11 +30,11 @@
 				   caption= page.hero-img-caption
 				   credit= page.hero-img-credit
 				%}
-			{% elsif page.hero-vid %}
+			{% elsif page.hero-vid-embed-code %}
 				{% include media-hero-video.html
-					 embed-code= page.hero-video-embed-code
-      		 caption= page.hero-video-caption
-      		 credit= page.hero-video-credit
+					 embed-code= page.hero-vid-embed-code
+      		 caption= page.hero-vid-caption
+      		 credit= page.hero-vid-credit
       	%}
 			{% endif %}
     </div>

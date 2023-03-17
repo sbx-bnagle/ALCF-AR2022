@@ -5,7 +5,9 @@ theme: warm
 permalink: /features/sunspot
 
 title: Sunspot testbed provides on-ramp for Aurora 
-img: fpo.jpg
+hero-img-source: fpo.jpg
+hero-img-caption: "quick brown fox"
+hero-img-credit: "Image Provider"
 intro: "With hardware and software that is identical to Aurora, Sunspot gives researchers a valuable platform for advancing code development work."
 ---
 

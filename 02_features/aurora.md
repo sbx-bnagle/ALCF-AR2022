@@ -5,7 +5,9 @@ theme: dark
 permalink: /features/aurora
 
 title: Aurora takes shape in the ALCF data center
-img: fpo.jpg
+hero-img-source: fpo.jpg
+hero-img-caption: "quick brown fox"
+hero-img-credit: "Image Provider"
 intro: "The ALCF has made some significant facility upgrades, including utility-scale electrical and mechanical work, to get ready for its next-generation supercomputer."
 ---
 

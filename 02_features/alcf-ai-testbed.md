@@ -5,7 +5,9 @@ theme: green
 permalink: /features/alcf-ai-testbed
 
 title: ALCF AI Testbed Systems Deployed for Open Science
-img: fpo.jpg
+hero-img-source: fpo.jpg
+hero-img-caption: "quick brown fox"
+hero-img-credit: "Image Provider"
 intro: "The ALCF’s testbed of AI accelerators is enabling the research community to advance the use of AI for data-intensive science."
 ---
 
