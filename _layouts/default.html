@@ -24,17 +24,17 @@
     </div>
 
     <div class="page-intro-media">
-			{% if page.hero-img %}
+			{% if page.hero-img-source %}
 				{% include media-hero-img.html
-				   source= page.hero-img.source
-				   caption= page.hero-img.caption
-				   credit= page.hero-img.credit
+				   source= page.hero-img-source
+				   caption= page.hero-img-caption
+				   credit= page.hero-img-credit
 				%}
 			{% elsif page.hero-vid %}
 				{% include media-hero-video.html
-					 embed-code= page.hero-video.embed-code
-      		 caption= page.hero-video.caption
-      		 credit= page.hero-video.credit
+					 embed-code= page.hero-video-embed-code
+      		 caption= page.hero-video-caption
+      		 credit= page.hero-video-credit
       	%}
 			{% endif %}
     </div>
