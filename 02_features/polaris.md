@@ -4,8 +4,7 @@ theme: cyan
 permalink: /features/polaris
 
 title: Polaris Enters Production Mode
-hero-img: 
-  - source: ALCF-Polaris.jpg
+hero-img.souce: ALCF-Polaris.jpg
 intro: "The ALCF’s most powerful system to date will help researchers prepare for Aurora and support several large-scale science projects."
 ---
 
