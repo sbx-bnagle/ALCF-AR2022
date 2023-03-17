@@ -7,13 +7,11 @@ theme: white
 permalink: /year-in-review/about-alcf/
 ---
 
-Test text 
+The Argonne Leadership Computing Facility (ALCF), a U.S. Department of Energy (DOE) Office of Science user facility at Argonne National Laboratory, enables breakthroughs in science and engineering by providing supercomputing and AI resources to the research community.
 
-## Hey I'm here
+ALCF computing resources—available to researchers from academia, industry, and government agencies—support large-scale computing projects aimed at solving some of the world’s most complex and challenging scientific problems. Through awards of supercomputing time and support services, the ALCF enables researchers to accelerate the pace of discovery and innovation across a broad range of disciplines.  
 
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+As a key player in the nation's efforts to provide the most advanced computing resources for science, the ALCF is helping to chart new directions in scientific computing through a convergence of simulation, data science, and AI methods and capabilities.
 
+Supported by the DOE’s Advanced Scientific Computing Research (ASCR) program, the ALCF and its partner organization, the Oak Ridge Leadership Computing Facility, operate leadership-class supercomputing resources that are orders of magnitude more powerful than the systems typically used for open scientific research.
 
-** UX maturity measures an organization’s desire and ability to successfully deliver user-centered design. It encompasses the quality and consistency of research and design processes, resources, tools, and operations, as well as the organization’s propensity to support and strengthen UX now and in the future, through its leadership, workforce, and culture. **
-
-## Testing again!! 
