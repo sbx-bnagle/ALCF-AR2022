@@ -35,29 +35,29 @@ publications:
 
 
 {% include txt-intro.html 
-    blurb = "The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog."
+    blurb = "This multi-year INCITE and ESP project seeks to advance our understanding of the edge plasma physics in fusion reactors, with a focus on ITER, and to assemble a burning plasma experiment that can demonstrate the scientific and technological feasibility of fusion."
 %}
 
 
 
 ## Challenge
 
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+The INCITE team is performing studies on two high-priority challenges: (1) quantifying the narrowness of the heat-flux width on the ITER divertor material plates in the high-confinement mode (H-mode) operation during tenfold energy gain operation; and (2) understanding the basic physics behind the low-to-high mode L-H transition and pedestal formation at the edge, which is necessary to achieve a tenfold energy gain in ITER.
 
 
 
 ## Approach
 
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+The researchers are using the 5D gyrokinetic particle-in-cell code XGC on DOE leadership computing resources to address some of the most difficult plasma physics questions facing ITER. The team used this extreme-scale modeling code to solve kinetic equations for the tokamak edge by modeling plasma with a large number of particles. Predictions from XGC for the low-to-high mode transition revealed that a heavier-mass plasma can allow an easier transition to the high mode operation that is necessary for ITER to achieve its goal, in which a strongly sheared plasma flow suppresses edge turbulence. To be more specific, the L-H transition could occur more easily in a heavier plasma, due to a stronger mean plasma-flow effect, without the necessity for a significant turbulence energy transfer to the plasma-flow. A new electromagnetic solver algorithm has been developed for higher fidelity studies of the ITER edge plasma. 
 
 
 
 ## Results
 
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+The team’s new electromagnetic solver results were described in a paper published in *Physics of Plasma*. A simplified delta-f mixed-variable/pull-back electromagnetic simulation algorithm implemented in XGC for core plasma simulations was generalized to a total-f electromagnetic algorithm able to include—for the first time—the boundary plasma in diverted magnetic geometry with neutral particle recycling, turbulence, and neoclassical physics. It is confirmed that electromagnetic simulation is necessary for a higher-fidelity understanding of the tokamak edge physics in the presence of the divertor and magnetic separatrix.
 
 
 
 ## Impact
 
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Establishing an accurate predictive formula for the exhaust heat-load width and low-to-high mode transition of future doughnut-shaped tokamak fusion reactors can help enable researchers to progress faster toward the goal of 0.5 GW of fusion power production from 50 MW of input power in ITER. More accurate understanding and prediction can also help inform more reliable designs for future fusion reactors, which currently suffer from the limitation imposed by exhaust heat-load width on the divertor plates and the required L-H transition power.
