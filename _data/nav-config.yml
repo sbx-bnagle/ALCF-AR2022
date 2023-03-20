@@ -31,8 +31,6 @@ toc:
     slug: community-and-outreach
     url: /community-and-outreach
     subfolderitems:
-      - page: Staff Updates
-        url: /community-and-outreach/staff-updates
       - page: Industry
         url: /community-and-outreach/industry
       - page: DEI
@@ -51,10 +49,16 @@ toc:
         url: /expertise-and-resources/systems
       - page: ALCF Team
         url: /expertise-and-resources/team
+      - page: Staff News
+        url: /expertise-and-resources/staff-news
+      - page: Staff Spotlights
+        url: /expertise-and-resources/staff-spotlights
   - title: Science
     slug: science
     url: /science
     subfolderitems:
+      - page: Allocation Programs
+        url: /science/allocation-programs
       - page: Highlights
         url: /science/highlights
       - page: Projects
