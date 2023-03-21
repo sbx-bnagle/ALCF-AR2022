@@ -6,7 +6,7 @@ permalink: /features/aurora-and-aps
 
 title: Transforming science with Aurora and the upgraded Advanced Photon Source
 hero-img-source: Aurora+APS.jpg
-hero-img-caption: "quick brown fox"
+hero-img-caption: "The coupling of Aurora (left) and the upgraded Advanced Photon Source (APS) will spur revolutionary science at Argonne and beyond."
 hero-img-credit: "Image Provider"
 intro: "Together, ALCF’s Aurora supercomputer and the upgraded APS will form a scientific supermerger: The combined data collection and computing power will advance discovery time and unlock new science."
 ---
