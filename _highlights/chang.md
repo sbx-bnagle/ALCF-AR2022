@@ -4,12 +4,12 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/chang'
 
-title: 'Chang'
-pi: 'Name A. Name, Affiliation'
-award: 'PROGRAM'
-hours: 'Machine and hours'
-field: 'field'
-sdl: 's,d,l'
+title: 'High-Fidelity Gyrokinetic Simulation of Tokamak and ITER Edge Physics'
+pi: 'Choong-Seock Chang, Princeton Plasma Physics Laboratory'
+award: 'INCITE, Aurora Early Science Program'
+hours: 'Theta'
+field: 'Physics'
+sdl: 's,l'
 
 image: 'fpo.jpg' 
 image-caption: 'The quick brown fox jumps over the lazy dog.'
