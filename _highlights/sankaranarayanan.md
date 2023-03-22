@@ -45,7 +45,7 @@ Conventional phase diagrams represent a reduced set of phases observed at distin
 
 ## Approach
 
-Leveraging the ALCF’s Theta supercomputer, Argonne researchers are creating an automated workflow that integrates first-principles physics and atomistic simulations with machine learning and high-performance computing to allow rapid exploration of the metastable phases of any given elemental composition. Their framework allows for the curation of metastable structures from published literature/databases and concurrently enables automatic discovery, identification, and exploration of the metastable phases of a material, and learns their equations of state through a deep neural network. 
+Leveraging the ALCF’s Theta supercomputer, Argonne researchers are creating an automated workflow that integrates first-principles physics and atomistic simulations with machine learning and high-performance computing to allow rapid exploration of the metastable phases of any given elemental composition. Their framework allows for the curation of metastable structures from published literature and databasesm, and concurrently enables automatic discovery, identification, and exploration of the metastable phases of a material and learns their equations of state through a deep neural network. 
 
 
 
