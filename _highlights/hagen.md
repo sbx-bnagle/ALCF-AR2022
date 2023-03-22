@@ -4,12 +4,12 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/hagen'
 
-title: 'Chang'
-pi: 'Name A. Name, Affiliation'
-award: 'PROGRAM'
-hours: 'Machine and hours'
-field: 'field'
-sdl: 's,d,l'
+title: 'Ab-initio Nuclear Structure and Nuclear Reactions'
+pi: 'Gaute Hagen, Oak Ridge National Laboratory'
+award: 'INCITE'
+hours: 'Theta'
+field: 'physics'
+sdl: 's'
 
 image: 'fpo.jpg' 
 image-caption: 'The quick brown fox jumps over the lazy dog.'
