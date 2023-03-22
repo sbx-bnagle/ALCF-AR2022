@@ -57,4 +57,4 @@ Using carbon as a prototypical system, the team demonstrated automated metastabl
 
 ## Impact
 
-The team’s automated framework for constructing metastable phase diagrams lays the groundwork for computer-aided discovery and design of synthesizable metastable materials, which could help advance a range of applications including semiconductors, catalysts, and solar cells. 
+The team’s automated framework for constructing metastable phase diagrams lays the groundwork for computer-aided discovery and design of synthesizable metastable materials, which could help advance a range of applications including semiconductors, catalysts, and solar cells.
