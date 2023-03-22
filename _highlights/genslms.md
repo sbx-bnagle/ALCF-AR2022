@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/gensmls'
+permalink: '/science/highlights/genslms'
 
 title: 'Gensmls'
 pi: 'Name A. Name, Affiliation'
