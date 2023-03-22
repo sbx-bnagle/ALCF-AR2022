@@ -58,3 +58,5 @@ Results show the VPD-based index accurately identifies the timing and magnitude 
 ## Impact
 
 The projected worsening of droughts as a result of global warming is likely to have significant consequences in terms of crop loss, wildfires, and demand for water resources. This new predictive technique has the potential to help climatologists better understand phenomena induced by high temperatures and high evaporation rates, such as flash droughts, which as climatic events are marked by a quick onset period.
+
+
