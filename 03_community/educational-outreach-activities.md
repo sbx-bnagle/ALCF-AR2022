@@ -17,8 +17,6 @@ Every summer, the ALCF opens its doors to a new class of student researchers who
 Argonne-NIU AI Camp  
 In July, a group of learning science experts and computer scientists from the U.S. Department of Energy’s (DOE) Argonne National Laboratory and Northern Illinois University (NIU) hosted Science and Inquiry: Exploring Artificial Intelligence, a virtual AI-focused summer camp, attended by regional high school students recruited through NIU’s Upward Bound program. Over the course of four weeks, the camp students got a foundational introduction to AI and machine learning, and an opportunity to analyze real datasets using real analysis tools, starting from zero coding knowledge. The camp introduced concepts of AI and machine learning by connecting everyday uses of AI, as well as how they can be used by researchers to solve extremely complex problems. The students then worked in groups to generate and analyze AI-generated datasets using the same professional analysis tools used by scientists on AI projects, including Juypter Notebooks.
 
-https://www.alcf.anl.gov/news/science-beyond-siri-team-educators-and-computer-scientists-take-ai 
-
 Big Data Camp  
 Argonne hosted a group of local high school juniors and seniors for its annual Big Data Camp in July. The week-long virtual event, organized by Argonne’s Educational Programs Office and led by Argonne computer scientists, taught the students techniques for probing and analyzing massive scientific datasets, including data visualization methods. The attendees worked with data from the Array of Things (AoT) project and its follow-on Software-Defined Sensor Network (SAGE) project, an Argonne–University of Chicago urban sensor project, to gain hands-on experience with data-driven research.
 
