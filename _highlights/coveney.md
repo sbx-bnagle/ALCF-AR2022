@@ -12,23 +12,31 @@ field: 'Biological Sciences'
 sdl: 's,d,l'
 
 image: 'fpo.jpg' 
-image-caption: 'The quick brown fox jumps over the lazy dog.'
-image-credit: 'Name A. Name, Affiliation'
+image-caption: 'An artistic representation of the IMPECCABLE workflow that constructively combines physics-based simulations and machine learning approaches to accelerate the process of compound screening in drug discovery.'
+image-credit: 'Alex W. Wade, University College London'
 
 publications:
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
-    url: 'https://alcf.anl.gov/'
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
+  - authors: 'Bhati, A. P., and P. V. Coveney'
+    title: 'Large Scale Study of Ligand-Protein Relative Binding Free Energy Calculations: Actionable Predictions from Statistically Robust Protocols'
+    source: 'Journal of Chemical Theory and Computation'
+    date: 'March 2022'
+    publisher: 'ACS Publications'
+    url: 'https://doi.org/10.1021/acs.jctc.1c01288'
+  - authors: 'Wade A., A. P. Bhati, S. Wan, and P. V. Coveney'
+    title: 'Alchemical Free Energy Estimators and Molecular Dynamics Engines: Accuracy, Precision and Reproducibility'
+    source: 'Journal of Chemical Theory and Computation'
+    date: 'May 2022'
+    publisher: 'ACS Publications'
+    url: 'https://doi.org/10.1021/acs.jctc.2c00114'
 ---
-
+ - authors: 'Wan, S., A. P. Bhati, D. Wright, I. Wall, A. Graves, D. Green, and P. V. Coveney'
+    title: 'Ensemble Simulations and Experimental Free Energy Distributions: Evaluation and Characterization of Isoxazole Amides as SMYD3 Inhibitors'
+    source: 'Journal of Chemical Theory and Computation'
+    date: 'May 2022'
+    publisher: 'ACS Publications'
+    url: 'https://doi.org/10.1021/acs.jcim.2c00255'
+--- 
+    
 
 
 {% include txt-intro.html 
