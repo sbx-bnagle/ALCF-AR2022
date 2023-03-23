@@ -4,12 +4,12 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/liu-braggn'
 
-title: 'Liu-Braggn'
-pi: 'Name A. Name, Affiliation'
-award: 'PROGRAM'
-hours: 'Machine and hours'
-field: 'field'
-sdl: 's,d,l'
+title: 'BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning'
+pi: 'Zhengchun Liu, Argonne National Laboratory'
+award: "Director's Discretionary"
+hours: 'ThetaGPU, Cerebras'
+field: 'Materials Science'
+sdl: 'd,l'
 
 image: 'fpo.jpg' 
 image-caption: 'The quick brown fox jumps over the lazy dog.'
