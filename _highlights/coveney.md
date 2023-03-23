@@ -28,7 +28,6 @@ publications:
     date: 'May 2022'
     publisher: 'ACS Publications'
     url: 'https://doi.org/10.1021/acs.jctc.2c00114'
----
  - authors: 'Wan, S., A. P. Bhati, D. Wright, I. Wall, A. Graves, D. Green, and P. V. Coveney'
     title: 'Ensemble Simulations and Experimental Free Energy Distributions: Evaluation and Characterization of Isoxazole Amides as SMYD3 Inhibitors'
     source: 'Journal of Chemical Theory and Computation'
