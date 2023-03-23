@@ -4,12 +4,12 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/kotamarthi'
 
-title: 'Kotamarthi'
-pi: 'Name A. Name, Affiliation'
-award: 'PROGRAM'
-hours: 'Machine and hours'
-field: 'field'
-sdl: 's,d,l'
+title: 'Convection Permitting Climate Scale Simulations for Extreme Event Modeling and Analysis'
+pi: 'Rao Kotamarthi, Argonne National Laboratory'
+award: 'ALCC'
+hours: 'Theta, ThetaGPU'
+field: 'Earth Science'
+sdl: 's'
 
 image: 'fpo.jpg' 
 image-caption: 'The quick brown fox jumps over the lazy dog.'
