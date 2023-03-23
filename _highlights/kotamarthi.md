@@ -4,10 +4,10 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/kotamarthi'
 
-title: 'Convection Permitting Climate Scale Simulations for Extreme Event Modeling and Analysis'
+title: 'Projected U.S. Drought Extremes through the Twenty-First Century with Vapor Pressure Deficit'
 pi: 'Rao Kotamarthi, Argonne National Laboratory'
-award: 'ALCC'
-hours: 'Theta, ThetaGPU'
+award: "Director's Discretionary, ALCC"
+hours: 'Theta'
 field: 'Earth Science'
 sdl: 's'
 
