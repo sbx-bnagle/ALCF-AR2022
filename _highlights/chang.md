@@ -5,10 +5,10 @@ theme: white
 permalink: '/science/highlights/chang'
 
 title: 'High-Fidelity Gyrokinetic Simulation of Tokamak and ITER Edge Physics'
-pi: 'Choong-Seock Chang, Princeton Plasma Physics Laboratory'
-award: 'INCITE, Aurora Early Science Program'
+pi: 'Ian Foster, Argonne National Laboratory'
+award: "Director's Discretionary"
 hours: 'Theta'
-field: 'Physics'
+field: 'Engineering'
 sdl: 's,l'
 
 image: 'fpo.jpg' 
