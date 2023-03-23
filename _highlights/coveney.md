@@ -4,11 +4,11 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/coveney'
 
-title: 'Huerta'
-pi: 'Name A. Name, Affiliation'
-award: 'PROGRAM'
-hours: 'Machine and hours'
-field: 'field'
+title: 'COMPBIO2: Combining Deep Learning with Physics-Based Affinity Estimation 2'
+pi: 'Peter Coveney, University College London'
+award: 'INCITE'
+hours: 'Theta, ThetaGPU'
+field: 'Biological Sciences'
 sdl: 's,d,l'
 
 image: 'fpo.jpg' 
