@@ -4,12 +4,12 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/jiang'
 
-title: 'Jiang'
-pi: 'Name A. Name, Affiliation'
-award: 'PROGRAM'
-hours: 'Machine and hours'
-field: 'field'
-sdl: 's,d,l'
+title: 'Microscopic Insight into Transport Properties of Li-Battery Electrolytes'
+pi: 'Wei Jiang, Argonne National Laboratory'
+award: 'ALCC'
+hours: 'Theta'
+field: 'Chemistry'
+sdl: 's'
 
 image: 'fpo.jpg' 
 image-caption: 'The quick brown fox jumps over the lazy dog.'
