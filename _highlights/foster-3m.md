@@ -6,7 +6,7 @@ permalink: '/science/highlights/foster-3m'
 
 title: 'Next-Generation Nonwoven Materials Manufacturing'
 pi: 'Ian Foster, Argonne National Laboratory'
-award: 'Director's Discretionary'
+award: "Director's Discretionary"
 hours: 'Theta'
 field: 'Engineering'
 sdl: 's,l'
