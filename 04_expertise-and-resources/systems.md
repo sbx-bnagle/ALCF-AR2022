@@ -23,3 +23,22 @@ at solving some of the world's most complex and challenging scientific problems.
 | Memory    | 280 TB (DDR4); 87.5 TB (HBM)    | 843 TB (DDR4); 70 TB (HBM)       | 26 TB (DDR4); 8.32 TB (GPU)      |  47 TB (DDR4); 3 TB (GDDR5)
 | Interconnect    | HPE Slingshot 10 with Dragonfly configuration    | Aries network with Dragonfly configuration      | NVIDIA QM8700 InfiniBand       |  FDR InfiniBand
 | Racks    | 40    | 24       | 7     |  6
+
+##ALCF AI Testbed
+
+The ALCF AI Testbed provides an infrastructure of next-generation AI-accelerator machines
+that allows researchers to evaluate the usability and performance of machine learning-based
+applications running on the systems. AI testbeds include:
+
+
+## Data Storage Systems
+
+ALCF disk storage systems provide intermediate-term storage for users to access,
+analyze, and share computational and experimental data. Tape storage is used to
+archive data from completed projects.
+
+| System Name     | Eagle       | Grand   | Theta-FSO  | Swift   | Tape Storage
+| :---------- | :---------- | :-------------- | :-------------- | :-------------- | :-------------- |
+| File System    | Lustre   | Lustre       | Lustre       |  Lustre   |  -- 
+| Storage System   | HPE ClusterStor E1000   | HPE ClusterStor E1000       | HPE Sonexion L300        |  All NVMe Flash Storage Array  | LT06 and LT08 Tape Technology
+
