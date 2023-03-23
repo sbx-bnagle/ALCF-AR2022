@@ -4,12 +4,12 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/goulet'
 
-title: 'Joshua-New'
-pi: 'Name A. Name, Affiliation'
-award: 'PROGRAM'
-hours: 'Machine and hours'
-field: 'field'
-sdl: 's,d,l'
+title: 'Extreme-Scale Simlations for Advanced Seismic Ground Motion and Hazard Modeling'
+pi: 'Christine Goulet, University of Southern California'
+award: 'INCITE'
+hours: 'Theta'
+field: 'Earth Science'
+sdl: 's'
 
 image: 'fpo.jpg' 
 image-caption: 'The quick brown fox jumps over the lazy dog.'
