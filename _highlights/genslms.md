@@ -4,11 +4,11 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/genslms'
 
-title: 'Gensmls'
-pi: 'Name A. Name, Affiliation'
-award: 'PROGRAM'
-hours: 'Machine and hours'
-field: 'field'
+title: 'Using Genome-Scaling Language Models to Reveal SARS-CoV-2 Evolutionary Dynamics'
+pi: 'Arvind Ramanathan, Argonne National Laboratory'
+award: "Director's Discretionary"
+hours: 'Cerebras, Polaris'
+field: 'Biological Sciences'
 sdl: 's,d,l'
 
 image: 'fpo.jpg' 
