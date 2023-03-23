@@ -4,12 +4,12 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/sankaranarayanan'
 
-title: 'Sankaranarayanan'
-pi: 'Name A. Name, Affiliation'
-award: 'PROGRAM'
-hours: 'Machine and hours'
-field: 'field'
-sdl: 's,d,l'
+title: 'Metastable Phase Diagrams for Materials'
+pi: 'Subramanian Sankaranarayanan, Argonne National Laboratory'
+award: "Director's Discretionary"
+hours: 'Theta'
+field: 'Materials Science'
+sdl: 's,l'
 
 image: 'fpo.jpg' 
 image-caption: 'The quick brown fox jumps over the lazy dog.'
