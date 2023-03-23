@@ -4,12 +4,12 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/larsson'
 
-title: 'Larsson'
-pi: 'Name A. Name, Affiliation'
-award: 'PROGRAM'
-hours: 'Machine and hours'
-field: 'field'
-sdl: 's,d,l'
+title: 'High-Speed Turbulence with Shocks over Non-Adiabatic and Flexible Walls'
+pi: 'Johan Larsson, University of Maryland'
+award: 'INCITE'
+hours: 'Theta'
+field: 'Engineering'
+sdl: 's'
 
 image: 'fpo.jpg' 
 image-caption: 'The quick brown fox jumps over the lazy dog.'
