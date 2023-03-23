@@ -16,17 +16,18 @@ image-caption: 'The quick brown fox jumps over the lazy dog.'
 image-credit: 'Name A. Name, Affiliation'
 
 publications:
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
-    url: 'https://alcf.anl.gov/'
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
+  - authors: 'Schwartz, J., C. Harris, J. Pietryga, H. Zheng, P. Kumar, A. Visheratina, N. A. Kotov, B. Major, P. Avery, P. Ercius, U. Ayachit, B. Geveci, D. A. Muller, A. Genova, Y. Jiang, M. Hanwell, and R. Hovden'
+    title: 'Real-Time 3D Analysis during Electron Tomography Using Tomviz'
+    source: 'Nature Communications'
+    date: 'August 2022'
+    publisher: 'Springer Nature'
+    url: 'https://www.nature.com/articles/s41467-022-32046-0'
+  - authors: 'Schwartz, J., Z. W. Di, Y. Jiang, A. J. Fielitz, D.-H. Ha, S. D. Perera, I. El Baggari, R. D. Robinson, J. A. Fessler, C. Ophus, S. Rozeveld, and R. Hovden'
+    title: 'Imaging Atomic-Scale Chemistry from Fused Multi-Modal Electron Microscopy'
+    source: 'npj Computational Materials'
+    date: 'January 2022'
+    publisher: 'Springer Nature'
+    url: 'https://www.nature.com/articles/s41524-021-00692-5'
 ---
 
 
@@ -51,8 +52,7 @@ With access to DOE supercomputing resources, the researchers are conducting comp
 
 ## Results
 
-A paper published in *npj Computational Materials* introduced fused multi-modal spectroscopy, a technique offering high signal-to-noise ratio (SNR) recovery of
-nanomaterial chemistry by linking correlated information encoded within detector signals. The team’s approach substantially improves SNRs for chemical maps by as much as 500 percent, reduces electron doses by an order of magnitude, and enables accurate measurement of local stoichiometry.
+A paper published in *npj Computational Materials* introduced fused multi-modal spectroscopy, a technique offering high signal-to-noise ratio (SNR) recovery of nanomaterial chemistry by linking correlated information encoded within detector signals. The team’s approach substantially improves SNRs for chemical maps by as much as 500 percent, reduces electron doses by an order of magnitude, and enables accurate measurement of local stoichiometry.
 
 A paper published in *Nature Communications* demonstrated real-time tomography with dynamic 3D tomographic visualization to enable rapid interpretation of specimen structure immediately as data are collected with an electron microscope. The authors showed volumetric interpretation can begin in less than 10 minutes and that a high-quality tomogram is available within 30 minutes. Real-time tomography is integrated into tomviz, an open-source and cross-platform 3D data analysis tool that contains intuitive graphical user interfaces (GUI), to enable any scientist to characterize biological and material structure in 3D.
 
