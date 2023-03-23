@@ -11,7 +11,7 @@ hours: 'Theta, ThetaGPU'
 field: 'Biological Sciences'
 sdl: 's,d,l'
 
-image: 'fpo.jpg' 
+image: 'coveney.png' 
 image-caption: 'An artistic representation of the IMPECCABLE workflow that constructively combines physics-based simulations and machine learning approaches to accelerate the process of compound screening in drug discovery.'
 image-credit: 'Alex W. Wade, University College London'
 
