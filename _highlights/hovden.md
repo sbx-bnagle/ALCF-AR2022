@@ -4,12 +4,12 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/hovden'
 
-title: 'Hovden'
-pi: 'Name A. Name, Affiliation'
-award: 'PROGRAM'
-hours: 'Machine and hours'
-field: 'field'
-sdl: 's,d,l'
+title: 'Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction'
+pi: 'Robert Hovden, University of Michigan'
+award: 'ALCF Data Science Program'
+hours: 'Theta'
+field: 'Materials Science'
+sdl: 's,d'
 
 image: 'fpo.jpg' 
 image-caption: 'The quick brown fox jumps over the lazy dog.'
@@ -32,29 +32,32 @@ publications:
 
 
 {% include txt-intro.html 
-    blurb = "Protons and atomic nuclei account for 99 percent of the visible mass in the universe, but how protons join together through astrophysical processes to form atomic nuclei is not well understood—nor are the resultant properties of those nuclei. This project, led by researchers from Oak Ridge National Laboratory, focuses on first-principles approaches to nuclear structure and reactions that apply interactions derived within effective theories of quantum chromodynamics (QCD). The calculations performed will make predictions for and guide new experiments at major DOE facilities, explain observed phenomena, and potentially propel the discovery of new laws of nature."
+    blurb = "Electron and x-ray tomography allow researchers to perform 3D characterization of materials at the nano- and mesoscale, generating data that is critical to the development of nanomaterials for a wide range of applications, including solar cells and semiconductor devices. With an ALCF Data Science Program (ADSP) award, a University of Michigan-led research team is leveraging recent advancements in tomographic reconstruction algorithms, such as compressed sensing methods, to enhance and accelerate materials characterization research."
 %}
 
 
 
 ## Challenge
 
-Among the principal tasks of computational nuclear physics is the establishment of a reliable quantitative first-principles description of nuclear structure and reactions. It is presently believed that the most promising approach to achieve this goal combines chiral effective field theory (EFT) (for the description of nuclear reactions in concert with QCD symmetries and breaking patterns), with ab-initio few-body methods (for tackling the quantum-mechanical A-body problem). To address this challenge, the Low Energy Nuclear Physics International Collaboration (LENPIC) aims to develop a precise, accurate description of two- and three-nucleon interactions by pushing the EFT expansion to high-chiral orders and using these interactions to solve the structure and reactions of light nuclei.
+Compressed sensing algorithms provide higher quality reconstructions, but they require substantially more computation time to complete, causing the rapidly expanding field of tomography to become critically bottlenecked by low throughput. To address these challenges and achieve real-time tomographic reconstruction using compressed sensing algorithms, the ADSP team has developed a dynamic framework that performs *in situ* reconstruction simultaneously with data collection.
 
 
 
 ## Approach
 
-To perform calculations, the team used the no-core configuration interaction (NCCI) approach implemented in their Many Fermion Dynamics—nuclear (MFDn) code. For the largest runs they used almost the entire Theta machine in quad-flat mode, which gave the best performance and maximal memory, and allowed them to calculate properties of ground and excited states of light nuclei with robust theoretical error estimates. 
+With access to DOE supercomputing resources, the researchers are conducting comprehensive simulations for real-time electron tomography and developing reconstruction methods for through-focal tomography. The team is experimentally demonstrating their reconstruction workflow and methods on commercial scanning transmission electron microscopes and the ptychographic tomography instruments at Argonne’s Advanced Photon Source.
 
 
 
 ## Results
 
-The team performed the first tests of novel chiral nucleon-nucleon potentials with consistent three-nucleon interactions. This demonstrates the importance of three-nucleon interactions and allows for a quantitative understanding of the theoretical uncertainties due to the chiral EFT expansion. The team also extended and tested a Bayesian statistical model that learns from the order-by-order EFT convergence pattern to account for correlated excitations. This enabled demonstrated agreement with experimental ground state energies as well as excitation energies. The results were compared to known experimental results to test consistent LENPIC chiral EFT interactions consisting of two- and three-nucleon interactions. The calculated results were consistent with the experimental results, confirming the validity of the approach.
+A paper published in *npj Computational Materials* introduced fused multi-modal spectroscopy, a technique offering high signal-to-noise ratio (SNR) recovery of
+nanomaterial chemistry by linking correlated information encoded within detector signals. The team’s approach substantially improves SNRs for chemical maps by as much as 500 percent, reduces electron doses by an order of magnitude, and enables accurate measurement of local stoichiometry.
+
+A paper published in *Nature Communications* demonstrated real-time tomography with dynamic 3D tomographic visualization to enable rapid interpretation of specimen structure immediately as data are collected with an electron microscope. The authors showed volumetric interpretation can begin in less than 10 minutes and that a high-quality tomogram is available within 30 minutes. Real-time tomography is integrated into tomviz, an open-source and cross-platform 3D data analysis tool that contains intuitive graphical user interfaces (GUI), to enable any scientist to characterize biological and material structure in 3D.
 
 
 
 ## Impact
 
-Establishing predictive power for nuclear physics carries ramifications for a wide range of fields, including astrophysics, medicine, nuclear power, and nuclear security.
+The team’s approach will help advance materials characterization research by enabling real-time analysis of 3D specimens while an experiment progresses. By integrating their framework with an open-source 3D visualization and tomography software package, the team’s techniques will be accessible to a wide range of researchers and enable new material characterizations across academia and industry
