@@ -7,6 +7,11 @@ theme: white
 permalink: expertise-and-resources/staff-news/
 ---
 
+
+## ALCF researchers part of team recognized with Gordon Bell Special Prize
+
+ALCF’s Venkat Vishwanath, Michael Papka, Murali Emani, Sam Foreman, and several Argonne colleagues — Maxim Zvyagin, Alexander Brace, Kyle Hippe, Austin Clyde, Danilo Perez-Rivera, Heng Ma, Carla M. Mann, Michael Irvin, Logan Ward, Zhen Xie, Diangen Lin, Maulik Shukla, Ian Foster, James J. Davis, Thomas Brettin, Rick Stevens, and Arvind Ramanathan — were part of a multi-institutional team that received the 2022 Gordon Bell Special Prize for High Performance Computing-Based COVID-19 Research. The team was recognized for their groundbreaking study, “GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics.”
+
 ## Alexeev and colleagues receive Best Student Paper Award at HPEC Conference
 
 Yuri Alexeev, Argonne computational scientist, and his student Cameron A. Ibrahim (University of Delaware) won the Best Student Paper Award at the 2022 IEEE High Performance Extreme Computing (HPEC) Conference. Co-written with Danylo Lykov (Argonne) and Zichang He (UC Santa Barbara), the team’s paper, “Constructing Optimal Contraction Trees for Tensor Network Quantum Circuit Simulation,” detailed an important advancement for reducing the memory and computational requirements of simulating quantum circuits.
@@ -26,9 +31,4 @@ Katherine Riley, ALCF Director of Science, was selected as one of HPCwire’s 20
 ## Vardhan named ALCF Margaret Butler Fellow
 
 Madhurima Vardhan, who recently earned a Ph.D. in Biomedical Engineering at Duke University, joined the ALCF in 2022 as the latest recipient of its Margaret Butler Fellowship in Computational Science. During her Ph.D., she developed a massively parallel fluid model to simulate blood flow on traditional HPC and cloud infrastructures. As part of her fellowship, she is working to demonstrate the usefulness of pre-trained AI models on synthetic and real patient datasets to predict functional biomarkers of long COVID. Ultimately, Vardhan hopes to develop scalable computational tools that enable AI to tackle healthcare challenges beyond human intuition.
-
-## ALCF researchers part of team recognized with Gordon Bell Special Prize
-
-ALCF’s Venkat Vishwanath, Michael Papka, Murali Emani, Sam Foreman, and several Argonne colleagues — Maxim Zvyagin, Alexander Brace, Kyle Hippe, Austin Clyde, Danilo Perez-Rivera, Heng Ma, Carla M. Mann, Michael Irvin, Logan Ward, Zhen Xie, Diangen Lin, Maulik Shukla, Ian Foster, James J. Davis, Thomas Brettin, Rick Stevens, and Arvind Ramanathan — were part of a multi-institutional team that received the 2022 Gordon Bell Special Prize for High Performance Computing-Based COVID-19 Research. The team was recognized for their groundbreaking study, “GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics.”
-
  
