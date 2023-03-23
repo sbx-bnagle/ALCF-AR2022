@@ -8,4 +8,8 @@ permalink: /expertise-and-resources/systems/
 ---
 
 
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+| System Name     | Polaris       | Theta: KNL Nodes   | Theta:GPU Nodes   |
+| :---------- | :---------- | :-------------- | :-------------- |
+| Purpose    | Value 1b    | Value 1c        | Value 1d        |
+| Architecture    | Value 2b    | Value 2c        | Value 2d        |
+| Peak Performance    | Value 3b    | Value 3c        | Value 3d        |
