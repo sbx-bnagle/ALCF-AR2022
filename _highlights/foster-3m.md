@@ -11,9 +11,9 @@ hours: 'Theta'
 field: 'Engineering'
 sdl: 's,l'
 
-image: 'fpo.jpg' 
-image-caption: 'The quick brown fox jumps over the lazy dog.'
-image-credit: 'Name A. Name, Affiliation'
+image: 'foster.png' 
+image-caption: 'Computational fluid dynamics simulation of the melt-blowing process as modeled at Argonne.'
+image-credit: 'Argonne National Laboratory'
 
 publications:
   - authors: 'Name A. Name'
