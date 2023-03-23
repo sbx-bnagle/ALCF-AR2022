@@ -4,12 +4,12 @@ layout: highlight
 theme: white
 permalink: '/science/highlights/wood'
 
-title: 'Lovato'
-pi: 'Name A. Name, Affiliation'
-award: 'PROGRAM'
-hours: 'Machine and hours'
-field: 'field'
-sdl: 's,d,l'
+title: 'Predicting Ion Transport Kinetics at Complex Interfaces for Energy Storage'
+pi: 'Brandon Wood, Lawrence Livermore National Laboratory'
+award: 'INCITE'
+hours: 'Theta'
+field: 'Materials Science'
+sdl: 's,l'
 
 image: 'fpo.jpg' 
 image-caption: 'The quick brown fox jumps over the lazy dog.'
