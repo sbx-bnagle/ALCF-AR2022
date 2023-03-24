@@ -32,27 +32,27 @@ applications running on the systems. AI testbeds include:
 
 **Cerebras CS-2**
 - Wafer-Scale Engine
-- >800,000 processing cores
+- 800,000+ processing cores
 - 2.6 trillion transistors, 7 nm
 - SwarmX fabric
 - TensorFlow, PyTorch
 
 **SambaNova DataScale**
 - Reconfigurable Dataflow Unit
-- >40 billion transistors, 7 nm
+- 40 billion+ transistors, 7 nm
 - RDU-Connect
 - SambaFlow software stack, PyTorch
 
 **Graphcore MK1**
 - Intelligent Processing Unit (IPU)
 - 1216 IPU tiles, 14 nm
-- >23 billion transistors
+- 23 billion+ transistors
 - IPU-Links interconnect
 - Poplar software stack, PyTorch, TensorFlow
 
 **Groq**
 - Tensor Streaming Processor
-- >26 billion transistors, 14 nm
+- 26 billion+ transistors, 14 nm
 - Chip-to-chip interconnect
 - GroqWare software stack, Onnx
 
@@ -60,8 +60,7 @@ applications running on the systems. AI testbeds include:
 - Tensor processing cores
 - 7nm
 - Integrated 100 GbE-based interconnect
-- Synapse AI Software, PyTorch,
-Tensorflow
+- Synapse AI Software, PyTorch, TensorFlow
 
 
 ## Data Storage Systems
@@ -91,6 +90,15 @@ ALCF systems connect to other research institutions over multiple 100 Gbps Ether
  
  Through Argonne’s Joint Laboratory for System Evaluation (JLSE), the ALCF provides access to leading-edge testbeds for exploratory research aimed at evaluating future
 extreme-scale computing systems, technologies, and capabilities. JLSE testbeds include:
+
+- Florentia: Test and development system equipped with early versions of the Sapphire Rapids CPUs and Ponte Vecchio GPUs that will power Aurora
+- Arcticus, DevEP, Iris: Intel discrete and integrated GPU testbeds to support the development, optimization, and scaling of applications and software for Aurora
+- Aurora Software Development Kit: Frequently updated version of the publicly available Intel oneAPI toolkit for Aurora development
+- Arm Ecosystem: Apollo 80 Fujitsu A64FX Arm system, NVIDIA Ampere Arm and A100 test kits, and an HPE Comanche with Marvell ARM64 CPU platform provide an ecosystem for porting applications and measuring performance on next-generation systems
+- Presque: Intel DAOS nodes for testing the Aurora storage system
+- Edge Testbed: NVIDIA Jetson Xavier and Jetson Nano platforms provide a resource for testing and developing edge computing applications
+- NVIDIA and AMD GPUs: Clusters of NVIDIA V100, A100, and A40 GPUs, and AMD MI50 and MI100 GPUs for preparing applications for heterogeneous computing architectures
+- Atos Quantum Learning Machine: Platform for testing and developing quantum algorithms and applications
  
 
 
