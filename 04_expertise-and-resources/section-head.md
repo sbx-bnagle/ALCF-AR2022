@@ -8,4 +8,4 @@ permalink: /expertise-and-resources/
 ---
 
 
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+The ALCF’s unique combination of supercomputing resources and expertise is helping its user community to accelerate the pace of scientific discovery and innovation.
