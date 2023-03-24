@@ -7,4 +7,4 @@ theme: cyan
 permalink: /science/
 ---
 
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+The ALCF is accelerating scientific discoveries in many disciplines, ranging from physics and materials science to biology and engineering.
