@@ -6,10 +6,9 @@ title: ALCF Systems
 theme: white
 permalink: /expertise-and-resources/systems/
 ---
-## Supercomputing Resources
+# Supercomputing Resources
 
-ALCF supercomputing resources support large-scale, computationally intensive projects aimed
-at solving some of the world's most complex and challenging scientific problems.
+ALCF supercomputing resources support large-scale, computationally intensive projects aimed at solving some of the world's most complex and challenging scientific problems.
 
 | System Name     | Polaris       | Theta: KNL Nodes   | Theta: GPU Nodes   | Cooley   |
 | :---------- | :---------- | :-------------- | :-------------- | :-------------- |
@@ -24,11 +23,9 @@ at solving some of the world's most complex and challenging scientific problems.
 | Interconnect    | HPE Slingshot 10 with Dragonfly configuration    | Aries network with Dragonfly configuration      | NVIDIA QM8700 InfiniBand       |  FDR InfiniBand
 | Racks    | 40    | 24       | 7     |  6
 
-## ALCF AI Testbed
+# ALCF AI Testbed
 
-The ALCF AI Testbed provides an infrastructure of next-generation AI-accelerator machines
-that allows researchers to evaluate the usability and performance of machine learning-based
-applications running on the systems. AI testbeds include:
+The ALCF AI Testbed provides an infrastructure of next-generation AI-accelerator machines that allows researchers to evaluate the usability and performance of machine learning-based applications running on the systems. AI testbeds include:
 
 **Cerebras CS-2**
 - Wafer-Scale Engine
@@ -63,11 +60,9 @@ applications running on the systems. AI testbeds include:
 - Synapse AI Software, PyTorch, TensorFlow
 
 
-## Data Storage Systems
+# Data Storage Systems
 
-ALCF disk storage systems provide intermediate-term storage for users to access,
-analyze, and share computational and experimental data. Tape storage is used to
-archive data from completed projects.
+ALCF disk storage systems provide intermediate-term storage for users to access, analyze, and share computational and experimental data. Tape storage is used to archive data from completed projects.
 
 | System Name     | Eagle       | Grand   | Theta-FSO  | Swift   | Tape Storage
 | :---------- | :---------- | :-------------- | :-------------- | :-------------- | :-------------- |
@@ -77,7 +72,7 @@ archive data from completed projects.
 | Sustained Data Transfer Rate   | 650 GB/s   | 650 GB/s      | 240 GB/s       |  48 GB/s  | --
 | Disk Drives   | 8,480   | 8,480       | 2,300       |  24  | --
 
-## Networking
+# Networking
 
 InfiniBand enables communication between system I/O nodes and the ALCF’s various storage systems. The Production HPC SAN is built upon NVIDIA Mellanox High Data Rate (HDR) InfiniBand hardware. Two 800-port core switches provide the backbone links between 80 edge switches, yielding 1600 total available host ports, each at 200 Gbps, in a non-blocking fat-tree topology. The full bisection bandwidth of this fabric is 320 Tbps. The HPC SAN is maintained by the NVIDIA Mellanox Unified Fabric Manager (UFM), providing Adaptive Routing to avoid congestion, as well as the NVIDIA Mellanox Self-Healing Interconnect Enhancement for InteLligent Datacenters (SHIELD) resiliency system for link fault detection and recovery.
 
@@ -86,9 +81,9 @@ When external communications are required, Ethernet is the interconnect of choic
 ALCF systems connect to other research institutions over multiple 100 Gbps Ethernet circuits that link to many high performance research networks, including local and regional networks like the Metropolitan Research and Education Network (MREN), as well as national and international networks like the Energy Sciences Network (ESnet) and Internet2.
  
  
- ## Joint Laboratory for System Evaluation
+ # Joint Laboratory for System Evaluation
  
- Through Argonne’s Joint Laboratory for System Evaluation (JLSE), the ALCF provides access to leading-edge testbeds for exploratory research aimed at evaluating future
+Through Argonne’s Joint Laboratory for System Evaluation (JLSE), the ALCF provides access to leading-edge testbeds for exploratory research aimed at evaluating future
 extreme-scale computing systems, technologies, and capabilities. JLSE testbeds include:
 
 - Florentia: Test and development system equipped with early versions of the Sapphire Rapids CPUs and Ponte Vecchio GPUs that will power Aurora
