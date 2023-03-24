@@ -11,9 +11,9 @@ hours: 'Theta'
 field: 'Materials Science'
 sdl: 's,d'
 
-image: 'fpo.jpg' 
-image-caption: 'The quick brown fox jumps over the lazy dog.'
-image-credit: 'Name A. Name, Affiliation'
+image: 'hovden.png' 
+image-caption: 'a) As the tomographic experiment progresses, projections are collected across an angular range. Measured projections are fed into the dynamic CS algorithm for 3D reconstruction. b) As the amount of data increases, the root mean square error (RMSE) decreases. c) 2D slices of the 3D reconstruction at various time stamps.'
+image-credit: 'Jonathan Schwartz, University of Michigan'
 
 publications:
   - authors: 'Schwartz, J., C. Harris, J. Pietryga, H. Zheng, P. Kumar, A. Visheratina, N. A. Kotov, B. Major, P. Avery, P. Ercius, U. Ayachit, B. Geveci, D. A. Muller, A. Genova, Y. Jiang, M. Hanwell, and R. Hovden'
