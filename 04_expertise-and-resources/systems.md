@@ -30,6 +30,39 @@ The ALCF AI Testbed provides an infrastructure of next-generation AI-accelerator
 that allows researchers to evaluate the usability and performance of machine learning-based
 applications running on the systems. AI testbeds include:
 
+**Cerebras CS-2**
+- Wafer-Scale Engine
+- >800,000 processing cores
+- 2.6 trillion transistors, 7 nm
+- SwarmX fabric
+- TensorFlow, PyTorch
+
+**SambaNova DataScale**
+- Reconfigurable Dataflow Unit
+- >40 billion transistors, 7 nm
+- RDU-Connect
+- SambaFlow software stack, PyTorch
+
+**Graphcore MK1**
+- Intelligent Processing Unit (IPU)
+- 1216 IPU tiles, 14 nm
+- >23 billion transistors
+- IPU-Links interconnect
+- Poplar software stack, PyTorch, TensorFlow
+
+**Groq**
+- Tensor Streaming Processor
+- >26 billion transistors, 14 nm
+- Chip-to-chip interconnect
+- GroqWare software stack, Onnx
+
+**Habana Gaudi**
+- Tensor processing cores
+- 7nm
+- Integrated 100 GbE-based interconnect
+- Synapse AI Software, PyTorch,
+Tensorflow
+
 
 ## Data Storage Systems
 
