@@ -11,22 +11,23 @@ hours: 'Theta'
 field: 'Earth Science'
 sdl: 's'
 
-image: 'fpo.jpg' 
-image-caption: 'The quick brown fox jumps over the lazy dog.'
-image-credit: 'Name A. Name, Affiliation'
+image: 'goulet.png' 
+image-caption: 'Simulation model setup (a) showing observational and model fault details with arrows indicating orientations of principal stresses, (b) fault-plane model and epicenter (star), and (c) rock properties.'
+image-credit: 'Christine Goulet and Yongfei Wang, University of Southern California'
 
 publications:
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
-    url: 'https://alcf.anl.gov/'
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
+  - authors: 'Wang, Y., and C. A. Goulet'
+    title: 'Validation of Fault Displacements from Dynamic Rupture Simulations against the Observations from the 1992 Landers Earthquake'
+    source: 'Bulletin of the Seismological Society of America'
+    date: 'August 2021'
+    publisher: 'SSA'
+    url: 'https://doi.org/10.1785/0120210082'
+  - authors: "O'Reilly, O., T.-Y. Yeh, K. B. Olsen, Z. Hu, A. Breuer, D. Roten, and C. A. Goulet"
+    title: 'A High‐Order Finite‐Difference Method on Staggered Curvilinear Grids for Seismic Wave Propagation Applications with Topography'
+    source: 'Bulletin of the Seismological Society of America'
+    date: 'September 2021'
+    publisher: 'SSA'
+    url: 'https://doi.org/10.1785/0120210096'
 ---
 
 
