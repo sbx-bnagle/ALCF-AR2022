@@ -2,14 +2,14 @@
 layout: page
 
 title: Educational Outreach Activities
-hero-img: 
-  source: "IGED.jpg"
-  caption: "ALCF's Jini Ramprakash discusses supercomputers with students at Argonne's annual Introduce a Girl to Engineering Day."
-  credit: "Name A. Name"
 
 theme: white
 permalink: /community-and-outreach/educational-outreach-activities/
 ---
+
+image: 'IGED.jpg'
+image-caption: 'ALCF's Jini Ramprakash discusses supercomputers with students at Argonne's annual Introduce a Girl to Engineering Day.'
+image-credit: 'Name A. Name, Affiliation'
 
 
 ALCF AI for Science Training Series
