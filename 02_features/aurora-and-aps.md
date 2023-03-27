@@ -8,11 +8,11 @@ title: Transforming science with Aurora and the upgraded Advanced Photon Source
 hero-img-source: Aurora+APS.jpg
 hero-img-caption: "The coupling of Aurora (left) and the upgraded Advanced Photon Source (APS) will spur revolutionary science at Argonne and beyond."
 hero-img-credit: "Image Provider"
-intro: "Together, ALCF’s Aurora supercomputer and the upgraded APS will form a scientific supermerger: The combined data collection and computing power will advance discovery time and unlock new science."
+intro: "Together, ALCF’s Aurora supercomputer and the upgraded APS will change science as we know it, combining exascale computing power with experimental science to  accelerate new discoveries."
 ---
 
 
-Imagine predicting the effects of climate change with uncanny accuracy, finding the right materials to significantly extend the range of battery-powered cars, or pinpointing the defect in the human brain that causes Parkinson’s — all in a matter of weeks or months instead of years or decades. This is the future of science. And it’s coming to Argonne National Laboratory.
+Imagine finding the right materials to significantly extend the range of battery-powered cars, or pinpointing the defect in the human brain that causes Parkinson’s — all in a matter of weeks or months instead of years or decades. This is the future of science. And it’s coming to Argonne National Laboratory.
 
 Argonne is building two new powerhouse research tools that will be transformational for research. One is the ALCF’s next-generation supercomputer, Aurora. The other is an upgrade of the Advanced Photon Source (APS), a world-leading light source.
 
