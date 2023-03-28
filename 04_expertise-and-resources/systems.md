@@ -23,6 +23,7 @@ ALCF supercomputing resources support large-scale, computationally intensive pro
 | Interconnect    | HPE Slingshot 10 with Dragonfly configuration    | Aries network with Dragonfly configuration      | NVIDIA QM8700 InfiniBand       |  FDR InfiniBand
 | Racks    | 40    | 24       | 7     |  6
 
+
 # ALCF AI Testbed
 
 The ALCF AI Testbed provides an infrastructure of next-generation AI-accelerator machines that allows researchers to evaluate the usability and performance of machine learning-based applications running on the systems. AI testbeds include:
@@ -42,7 +43,7 @@ The ALCF AI Testbed provides an infrastructure of next-generation AI-accelerator
 
 **Graphcore MK1**
 - Intelligent Processing Unit (IPU)
-- 1216 IPU tiles, 14 nm
+- 1,216 IPU tiles, 14 nm
 - 23 billion+ transistors
 - IPU-Links interconnect
 - Poplar software stack, PyTorch, TensorFlow
@@ -60,6 +61,7 @@ The ALCF AI Testbed provides an infrastructure of next-generation AI-accelerator
 - Synapse AI Software, PyTorch, TensorFlow
 
 
+
 # Data Storage Systems
 
 ALCF disk storage systems provide intermediate-term storage for users to access, analyze, and share computational and experimental data. Tape storage is used to archive data from completed projects.
@@ -72,6 +74,7 @@ ALCF disk storage systems provide intermediate-term storage for users to access,
 | Sustained Data Transfer Rate   | 650 GB/s   | 650 GB/s      | 240 GB/s       |  48 GB/s  | --
 | Disk Drives   | 8,480   | 8,480       | 2,300       |  24  | --
 
+
 # Networking
 
 InfiniBand enables communication between system I/O nodes and the ALCF’s various storage systems. The Production HPC SAN is built upon NVIDIA Mellanox High Data Rate (HDR) InfiniBand hardware. Two 800-port core switches provide the backbone links between 80 edge switches, yielding 1600 total available host ports, each at 200 Gbps, in a non-blocking fat-tree topology. The full bisection bandwidth of this fabric is 320 Tbps. The HPC SAN is maintained by the NVIDIA Mellanox Unified Fabric Manager (UFM), providing Adaptive Routing to avoid congestion, as well as the NVIDIA Mellanox Self-Healing Interconnect Enhancement for InteLligent Datacenters (SHIELD) resiliency system for link fault detection and recovery.
@@ -80,8 +83,9 @@ When external communications are required, Ethernet is the interconnect of choic
 
 ALCF systems connect to other research institutions over multiple 100 Gbps Ethernet circuits that link to many high performance research networks, including local and regional networks like the Metropolitan Research and Education Network (MREN), as well as national and international networks like the Energy Sciences Network (ESnet) and Internet2.
  
+
  
- # Joint Laboratory for System Evaluation
+# Joint Laboratory for System Evaluation
  
 Through Argonne’s Joint Laboratory for System Evaluation (JLSE), the ALCF provides access to leading-edge testbeds for exploratory research aimed at evaluating future
 extreme-scale computing systems, technologies, and capabilities. JLSE testbeds include:
