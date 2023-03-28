@@ -2,7 +2,7 @@
 layout: page
 
 title: Building a Diverse HPC Workforce
-hero-img-source: ‘Tapia-ANLbooth’
+hero-img-source: ‘Tapia-ANLbooth.jpg’
 hero-img-etc: Argonne staff members discuss career opportunities at the Richard Tapia Celebration of Diversity in Computing Conference.
 
 theme: white
