@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: User Training Activities
+title: Training ALCF Users
 hero-img-source: "GPUHackathon-group.png"
 hero-img-caption: "The 2022 ALCF-NVIDIA GPU Hackathon hosted 15 teams to help them get their applications running efficiently on the facility's GPU-accelerated systems."
 
