@@ -2,6 +2,8 @@
 layout: page
 
 title: About ALCF
+hero-img-source: "TCSBuilding.jpg"
+hero-img-caption: "The ALCF is a national scientific user facility located at Argonne National Laboratory."
 
 theme: white
 permalink: /year-in-review/about-alcf/
