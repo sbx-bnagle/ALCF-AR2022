@@ -7,9 +7,8 @@ theme: white
 permalink: /year-in-review/at-a-glance/
 ---
 {%	include txt-fig.html 
-	  figure-1 = "35M"
+	  	figure-1 = "35M"
 		label-1 = "Node-hours of compute time"
-	
 		figure-2 = "285"
 		label-2 = "Active projects"
 		note-2 = "things from 2022 count of stuff"
