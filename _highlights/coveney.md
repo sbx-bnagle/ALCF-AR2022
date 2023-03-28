@@ -35,7 +35,7 @@ publications:
     publisher: 'ACS Publications'
     url: 'https://doi.org/10.1021/acs.jcim.2c00255'
     
-
+---
 
 {% include txt-intro.html 
     blurb = "Machine learning and physics-based methods combined can dramatically accelerate the process of drug discovery. With this INCITE project, researchers are developing computational methods to overcome severe bottlenecks in the pharmaceutical industry’s current process and speed the search for drug candidates for SARS-CoV-2 and other viruses."
