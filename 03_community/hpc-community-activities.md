@@ -1,10 +1,10 @@
 ---
 layout: page
 
-title: HPC Community Activities
+title: Supporting the Supercomputing Community
 
-hero-img-source: "ATPESC-panel.jpg"
-hero-img-caption: "ALCF's Abhishek Bagusetty participates in a panel discussion on programming models and languages at the 2022 Argonne Training Program on Extreme-Scale Computing."
+hero-img-source: "ASCAC-Vishwanath.png"
+hero-img-caption: "ALCF's Venkat Vishwanath delivers a presentation on the ALCF AI Testbed at DOE's Advanced Scientific Computing Advisory Committee (ASCAC) meeting."
 
 theme: white
 permalink: /community-and-outreach/hpc-community-activities/
@@ -26,9 +26,7 @@ ALCF staff members remain actively involved in a number of HPC standards and com
 
 Performance Portability
 
-The ALCF continued its collaboration with NERSC and OLCF to operate and maintain a website dedicated to enabling performance portability across the DOE Office of Science HPC facilities (performanceportability.org). The website serves a documentation hub and guide for
-
-applications teams targeting systems at multiple computing facilities. Staff from the DOE computing facilities also collaborate on various projects and training events to maximize the portability of scientific applications on diverse supercomputer architectures.
+The ALCF continued its collaboration with NERSC and OLCF to operate and maintain a website dedicated to enabling performance portability across the DOE Office of Science HPC facilities (performanceportability.org). The website serves a documentation hub and guide for applications teams targeting systems at multiple computing facilities. Staff from the DOE computing facilities also collaborate on various projects and training events to maximize the portability of scientific applications on diverse supercomputer architectures.
 
 Vendor Collaborations
 
