@@ -2,10 +2,10 @@
 layout: page
 
 title: HPC Community Activities
-hero-img: 
-  source: "ATPESC-panel.jpg"
-  caption: "ALCF's Abhishek Bagusetty participates in a panel discussion on programming models and languages at the 2022 Argonne Training Program on Extreme-Scale Computing."
-  credit: "Name A. Name"
+
+hero-img-source: "ATPESC-panel.jpg"
+hero-img-caption: "ALCF's Abhishek Bagusetty participates in a panel discussion on programming models and languages at the 2022 Argonne Training Program on Extreme-Scale Computing."
+hero-img-credit: "Name A. Name"
 
 theme: white
 permalink: /community-and-outreach/hpc-community-activities/

@@ -3,10 +3,9 @@ layout: page
 
 title: Kitchen Sink
 intro: "Intro text the quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick fox jumps over the lazy dog."
-hero-img: 
-  source: "fpo.jpg"
-  caption: "The quick brown fox jumps over the lazy dog."
-  credit: "Name A. Name"
+hero-img-source: "fpo.jpg"
+hero-img-caption: "The quick brown fox jumps over the lazy dog."
+hero-img-credit: "Name A. Name"
 
 aside: aside-01.md
 
