@@ -2,6 +2,8 @@
 layout: page
 
 title: Staff News
+hero-img-source: ‘ALCF-GordonBell2.jpg’
+hero-img-etc: ALCF staff members were part of the multi-institutional team recognized with the Gordon Bell Special Prize for HPC-Based COVID-19 Research at the SC22 conference.
 
 theme: white
 permalink: expertise-and-resources/staff-news/
