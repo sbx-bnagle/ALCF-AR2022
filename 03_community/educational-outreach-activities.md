@@ -2,15 +2,12 @@
 layout: page
 
 title: Educational Outreach Activities
+hero-img-source: "IGED.jpg"
+hero-img-caption: "ALCF's Jini Ramprakash discusses supercomputers with students at Argonne's annual Introduce a Girl to Engineering Day."
 
 theme: white
 permalink: /community-and-outreach/educational-outreach-activities/
 ---
-
-image: 'IGED.jpg'
-image-caption: 'ALCF's Jini Ramprakash discusses supercomputers with students at Argonne's annual Introduce a Girl to Engineering Day.'
-image-credit: 'Name A. Name, Affiliation'
-
 
 ALCF AI for Science Training Series
 In 2022, the ALCF hosted its multi-week training program aimed at undergraduate and graduate students interested in taking their AI skills to a new level. The ALCF AI for Science Training Series, which kicked off in September, covers the fundamentals of using world-class supercomputers to advance the use of AI for research. Leveraging Argonne’s AI expertise and ALCF supercomputing resources, the hands-on series provides a unique learning experience designed to give participants a leg up in the burgeoning field of AI for Science. Sessions cover all aspects of using supercomputers for AI, from employing neural networks in Python and Tensorflow to running large scale training on a supercomputer. 
