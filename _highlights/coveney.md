@@ -7,7 +7,7 @@ permalink: '/science/highlights/coveney'
 title: 'COMPBIO2: Combining Deep Learning with Physics-Based Affinity Estimation 2'
 pi: 'Peter Coveney, University College London'
 award: 'INCITE'
-hours: 'Theta, ThetaGPU'
+systems: 'Theta, ThetaGPU'
 field: 'Biological Sciences'
 sdl: 's,d,l'
 
@@ -28,14 +28,12 @@ publications:
     date: 'May 2022'
     publisher: 'ACS Publications'
     url: 'https://doi.org/10.1021/acs.jctc.2c00114'
----
- - authors: 'Wan, S., A. P. Bhati, D. Wright, I. Wall, A. Graves, D. Green, and P. V. Coveney'
+  - authors: 'Wan, S., A. P. Bhati, D. Wright, I. Wall, A. Graves, D. Green, and P. V. Coveney'
     title: 'Ensemble Simulations and Experimental Free Energy Distributions: Evaluation and Characterization of Isoxazole Amides as SMYD3 Inhibitors'
     source: 'Journal of Chemical Theory and Computation'
     date: 'May 2022'
     publisher: 'ACS Publications'
     url: 'https://doi.org/10.1021/acs.jcim.2c00255'
---- 
     
 
 
