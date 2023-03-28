@@ -11,7 +11,7 @@ hours: 'Theta'
 field: 'Materials Science'
 sdl: 's,l'
 
-image: 'fpo.jpg' 
+image: 'subramanian.png' 
 image-caption: 'The final product of the machine learning algorithm: metastable phase diagrams for carbon. The colored regions indicate conditions at which carbon exists in certain metastable states (with similarly colored structures) that may yield useful material properties.'
 image-credit: 'Argonne National Laboratory'
 
@@ -22,11 +22,6 @@ publications:
     date: 'June 2022'
     publisher: 'Springer Nature'
     url: 'https://doi.org/10.1038/s41467-022-30820-8'
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
 ---
 
 
