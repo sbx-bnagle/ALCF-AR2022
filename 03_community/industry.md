@@ -2,7 +2,7 @@
 layout: page
 
 title: Partnering with Industry
-hero-img-source: ‘ALCF-3M_965x543.jpg’
+hero-img-source: "ALCF-3M_965x543.jpg"
 hero-img-caption: Researchers from 3M and Argonne are using ALCF supercomputers and machine learning to improve the energy efficiency of the manufacturing process that produces melt-blown nonwoven fabric for products like masks and respirators. The team is performing computational fluid dynamics simulations to model the process.
 
 theme: white
