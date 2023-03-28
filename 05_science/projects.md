@@ -11,18 +11,23 @@ permalink: /science/projects/
 ## INCITE 2022
 ### BIOLOGICAL SCIENCES
 COMPBIO2: COMbining deep-learning with Physics-Based affinIty estimatiOn 2
-PI Peter Coveney, University College London
+PI: Peter Coveney, University College London
 HOURS ALCF: 100,000 Node-Hours
+
 Design of Peptides and Proteins on Classical and Quantum Computing Hardware
 PI Vikram Mulligan, Flatiron Institute
 HOURS ALCF: 1,070,000 Node-Hours
+
 ### CHEMISTRY
+
 Heterogeneous Catalysis as a Collective Phenomenon Within Dynamic Ensembles of States
 PI Anastassia Alexandrova, University of California
 HOURS ALCF: 2,000,000 Node-Hours
+
 Implementing a Dispersive Interaction Database through Quantum Monte Carlo
 PI Matteo Barborini, University of Luxembourg
 HOURS ALCF: 1,000,000 Node-Hours
+
 Nuclear Matter Dynamics in Real Time and the Heaviest Elements in Nature
 PI Aurel Bulgac, University of Washington
 HOURS ALCF: 200,000 Node-Hours
