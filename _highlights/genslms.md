@@ -22,11 +22,6 @@ publications:
     date: 'October 2022'
     publisher: 'Cold Springs Harbor Laboratory'
     url: 'https://www.biorxiv.org/content/10.1101/2022.10.10.511571v1'
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
 ---
 
 
