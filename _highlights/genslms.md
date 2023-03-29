@@ -7,7 +7,7 @@ permalink: '/science/highlights/genslms'
 title: 'Using Genome-Scaling Language Models to Reveal SARS-CoV-2 Evolutionary Dynamics'
 pi: 'Arvind Ramanathan, Argonne National Laboratory'
 award: "Director's Discretionary"
-hours: 'Cerebras, Polaris'
+systems: 'Cerebras, Polaris'
 field: 'Biological Sciences'
 sdl: 's,d,l'
 
