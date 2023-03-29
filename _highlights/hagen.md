@@ -7,7 +7,7 @@ permalink: '/science/highlights/hagen'
 title: 'Ab-initio Nuclear Structure and Nuclear Reactions'
 pi: 'Gaute Hagen, Oak Ridge National Laboratory'
 award: 'INCITE'
-hours: 'Theta'
+system: 'Theta'
 field: 'physics'
 sdl: 's'
 
