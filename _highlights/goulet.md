@@ -7,7 +7,7 @@ permalink: '/science/highlights/goulet'
 title: 'Extreme-Scale Simlations for Advanced Seismic Ground Motion and Hazard Modeling'
 pi: 'Christine Goulet, University of Southern California'
 award: 'INCITE'
-hours: 'Theta'
+system: 'Theta'
 field: 'Earth Science'
 sdl: 's'
 
