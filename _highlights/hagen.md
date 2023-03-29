@@ -22,13 +22,6 @@ publications:
     date: 'May 2021'
     publisher: 'APS'
     url: 'https://doi.org/10.1103/PhysRevC.103.054001'
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
-
-
 ---
 
 
