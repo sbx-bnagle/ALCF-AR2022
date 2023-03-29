@@ -7,7 +7,7 @@ permalink: '/science/highlights/jiang'
 title: 'Microscopic Insight into Transport Properties of Li-Battery Electrolytes'
 pi: 'Wei Jiang, Argonne National Laboratory'
 award: 'ALCC'
-hours: 'Theta'
+system: 'Theta'
 field: 'Chemistry'
 sdl: 's'
 
@@ -22,11 +22,6 @@ publications:
     date: 'November 2021'
     publisher: 'ACS Publications'
     url: 'https://pubs.acs.org/doi/10.1021/acsami.1c19124'
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
 ---
 
 
