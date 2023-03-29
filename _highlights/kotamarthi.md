@@ -7,7 +7,7 @@ permalink: '/science/highlights/kotamarthi'
 title: 'Projected U.S. Drought Extremes through the Twenty-First Century with Vapor Pressure Deficit'
 pi: 'Rao Kotamarthi, Argonne National Laboratory'
 award: "Director's Discretionary, ALCC"
-hours: 'Theta'
+system: 'Theta'
 field: 'Earth Science'
 sdl: 's'
 
@@ -22,11 +22,6 @@ publications:
     date: 'May 2022'
     publisher: 'Springer Nature'
     url: 'https://doi.org/10.1038/s41598-022-12516-7'
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
 ---
 
 
