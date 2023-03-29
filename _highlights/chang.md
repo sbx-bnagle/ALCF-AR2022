@@ -22,13 +22,6 @@ publications:
     date: 'November 2022'
     publisher: 'AIP Publishing'
     url: 'https://doi.org/10.1063/5.0097855'
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
-
-
 ---
 
 
