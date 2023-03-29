@@ -11,7 +11,7 @@ system: 'Theta'
 field: 'Materials Science'
 sdl: 's,l'
 
-image: 'subramanian.png' 
+image: 'sankaranarayanan.png' 
 image-caption: 'The final product of the machine learning algorithm: metastable phase diagrams for carbon. The colored regions indicate conditions at which carbon exists in certain metastable states (with similarly colored structures) that may yield useful material properties.'
 image-credit: 'Argonne National Laboratory'
 
