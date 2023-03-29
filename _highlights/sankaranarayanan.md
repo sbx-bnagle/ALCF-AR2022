@@ -7,7 +7,7 @@ permalink: '/science/highlights/sankaranarayanan'
 title: 'Metastable Phase Diagrams for Materials'
 pi: 'Subramanian Sankaranarayanan, Argonne National Laboratory'
 award: "Director's Discretionary"
-hours: 'Theta'
+system: 'Theta'
 field: 'Materials Science'
 sdl: 's,l'
 
