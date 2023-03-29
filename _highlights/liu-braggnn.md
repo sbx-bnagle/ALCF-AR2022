@@ -7,7 +7,7 @@ permalink: '/science/highlights/liu-braggn'
 title: 'BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning'
 pi: 'Zhengchun Liu, Argonne National Laboratory'
 award: "Director's Discretionary"
-hours: 'ThetaGPU, Cerebras'
+systems: 'ThetaGPU, Cerebras'
 field: 'Materials Science'
 sdl: 'd,l'
 
@@ -22,11 +22,6 @@ publications:
     date: 'December 2021'
     publisher: 'International Union of Crystallography'
     url: 'https://doi.org/10.1107/S2052252521011258'
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
 ---
 
 
