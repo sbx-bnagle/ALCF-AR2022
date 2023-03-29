@@ -14,19 +14,6 @@ sdl: 's,l'
 image: 'foster.png' 
 image-caption: 'Computational fluid dynamics simulation of the melt-blowing process as modeled at Argonne.'
 image-credit: 'Argonne National Laboratory'
-
-publications:
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
-    url: 'https://alcf.anl.gov/'
-  - authors: 'Name A. Name'
-    title: 'Pub Title'
-    source: 'Pub Source'
-    date: 'January 2023'
-    publisher: 'Pub Publisher'
 ---
 
 
