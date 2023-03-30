@@ -21,6 +21,5 @@ permalink: /year-in-review/at-a-glance/
 		note-1 = "Data from fiscal year 2022"
 		figure-2 = "217"
 		label-2 = "Publications"
-		note-2 = "things from 2022 count of stuff"
 		
 %}
