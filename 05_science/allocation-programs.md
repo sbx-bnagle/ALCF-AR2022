@@ -12,7 +12,8 @@ Researchers gain access to ALCF systems for computational science and engineerin
 
 The ALCF also hosts competitive, peer-reviewed application programs designed to prepare key scientific applications and innovative computational methods for the architecture and scale of DOE supercomputers.
 
-### Allocation Programs
+## Allocation Programs
+
 
 #### INCITE
 The Innovative Novel Computational Impact on Theory and Experiment (INCITE) program aims to accelerate scientific discoveries and technological innovations by awarding ALCF computing time and resources to large-scale, computationally intensive projects that address grand challenges in science and engineering.
@@ -23,7 +24,8 @@ The ASCR Leadership Computing Challenge (ALCC) program allocates ALCF computing 
 #### Director's Discretionary
 Director’s Discretionary projects are dedicated to leadership computing preparation, INCITE and ALCC scaling, and efforts to maximize scientific application efficiency and productivity on leadership computing platforms.
 
-### Application Programs
+## Application Programs
+
 
 #### ADSP
 The ALCF Data Science Program (ADSP) supports big data projects that require the scale and performance of leadership computing resources. ADSP projects focus on developing and improving data science techniques that will enable researchers to gain insights into very large datasets produced by experimental, simulation, or observational methods.
