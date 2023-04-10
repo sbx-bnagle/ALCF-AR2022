@@ -7,7 +7,15 @@ theme: white
 permalink: /year-in-review/year-in-review/
 ---
 
-**Bill Allcock, ALCF Director of Operations**
+
+
+{% include media-img.html
+   source= "pershey-sims-partacz.png"
+   caption= "Left: Bill Allcock, right: Kalyan Kumaran"
+   credit= "Name A. Name"
+%}
+
+# Bill Allcock, ALCF Director of Operations
 
 The biggest news of the year for the Operations team was bringing Polaris, our 560-node HPE Apollo Gen10+ system into production. Polaris also represents our first production deployment of the PBS Pro workload manager and feedback has been generally positive.
 
@@ -22,7 +30,8 @@ We are also engaged in the Aurora installation and the Operations team works clo
 We continue to collaborate with Altair Engineering and the OpenPBS community. Argonne contributed to many of the features in V22 and we made significant improvements to a longstanding Python memory leak issue, which should be eliminated altogether with a future fix. Our current focus is on porting the PBS to the AI Testbed machines.
 
 
-**Kalyan Kumaran, ALCF Director of Technology**
+
+# Kalyan Kumaran, ALCF Director of Technology
 
 In 2022, we made significant progress in our efforts to stand up Aurora. Our team continued its collaborations with Intel on the non-recurring engineering (NRE) contract and our work with applications development teams participating in DOE’s Exascale Computing Project (ECP) and the Aurora Early Science Program (ESP).
 
@@ -35,19 +44,26 @@ In the AI space, our staff contributed to the MLPerf HPC, Storage and Science be
 I’m proud that the Technology team’s staff members were part of the winning team for the Gordon Bell Special Prize for COVID-19 Research at SC22, and our visualization team was a finalist for the Best Visualization in the SC22 Scientific Visualization & Data Analytics Showcase. Overall, our has adapted well to work in a hybrid environment and continues to support our users in their pursuit of scientific discoveries.
 
 
-**Jini Ramprakash, ALCF Deputy Director**
+
+{% include media-img.html
+   source= "pershey-sims-partacz.png"
+   caption= "Left: Jini Ramprakash, right: Katherine Riley"
+   credit= "Name A. Name"
+%}
+
+# Jini Ramprakash, ALCF Deputy Director
 
 In 2022, we transitioned to a hybrid mode of working, with many staff returning to the office, and many others realizing that fully remote works better for them. Along with the return of staff, we also saw a huge increase in the number of people asking to tour the ALCF, both the datacenter to see the Aurora infrastructure and the visualization lab. Our tour guests spanned the whole spectrum from the general public to potential industry collaborators to DOE appointees and staff, including DOE Secretary Jennifer Granholm.
 
 -	Integrated Research Infrastructure Architecture Blueprint Activities (add details)
 -	New engagement with undergraduate students and faculty in developing an “Intro to HPC” curriculum and subsequent program (add details)
 
-**Katherine Riley, ALCF Director of Science**
+
+
+# Katherine Riley, ALCF Director of Science
 
 It was another exciting year for science at the ALCF. We supported dozens of projects through DOE’s INCITE, ALCC and Early Science programs, and many more through our Director’s Discretionary program. Our user community produced over 200 publications this year, many of which were highlighted in our monthly presentations to DOE and featured in articles on our website. 
 
 One notable highlight is a collaborative project between Argonne and 3M that used simulations and machine learning to optimize the production of melt-blown nonwoven materials for various fabrics and filters, including N95 masks. Another project led by researchers at the University of College London coupled an ensemble simulation-based sampling method with machine learning to speed up the search for promising drug candidates to combat COVID-19 and other viruses. As a final example, an Argonne team used Theta to gain insights into battery material performance, leading to the discovery of a new battery electrolyte that can hold significantly more water than conventional electrolytes. Their study, which included experimental validation, provides a potential pathway to producing lower-cost and more environmentally friendly batteries.
 
 With Aurora nearing completion, we also continued to make progress toward ensuring the system is ready for science as soon as it is released to the user community. Research teams from the Aurora Early Science Program and DOE’s Exascale Computing Project are on the front line of the Aurora application development efforts. They continued working closely with ALCF staff to port and optimize codes and software for Aurora using early hardware, including the new Sunspot testbed. Training is also a big part of preparing users for Aurora, with both the ALCF and ECP hosting workshops, tutorials, webinars, and hackathons to ready researchers for science in the exascale era. We’re so excited to finally see Aurora in action when the Early Science teams begin carrying out their research campaigns next year. Aurora, along with our newest computing resources, Polaris and the ALCF AI Testbed, are going to power some exciting discoveries by taking the convergence of simulation, data analysis, and AI methods to a whole new level. 
-
-

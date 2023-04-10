@@ -33,7 +33,7 @@ Some of Ben’s notable 2022 activities included deploying Jenkins with Brian Ho
 
 {% include media-img.html
    source= "pershey-sims-partacz.png"
-   caption= "Left: Eriic Pershey, right: Katie Sims-Partacz"
+   caption= "Left: Eric Pershey, right: Katie Sims-Partacz"
    credit= "Name A. Name"
 %}
 
