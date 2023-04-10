@@ -193,7 +193,7 @@ h1.page-title {
 .theme--white {
   background: color(neutral, X);
   color: color(neutral, XXXXX);
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2, h3, h4, h5, h6, .media-hero-img .caption {
     color: color(neutral, XXXXX);
   }
 }
@@ -201,7 +201,7 @@ h1.page-title {
 .theme--cyan {
   background: color(blue, XXXX);
   color: color(neutral, X);
-  h1, h2, h3, h4, h5, h6, .intro {
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption {
     color: color(green, XX);
   }
   .sidenav {
@@ -212,7 +212,7 @@ h1.page-title {
 .theme--dark {
   background: color(neutral, XXXXX);
   color: color(neutral, X);
-  h1, h2, h3, h4, h5, h6, .intro {
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption  {
     color: color(green, XX);
   }
   .sidenav {
@@ -223,7 +223,7 @@ h1.page-title {
 .theme--warm {
   background: color(warm, XXXXX);
   color: color(neutral, X);
-  h1, h2, h3, h4, h5, h6, .intro {
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption {
     color: color(warm, XX);
   }
   .sidenav {
@@ -234,7 +234,7 @@ h1.page-title {
 .theme--green {
   background: color(green, XXX);
   color: color(neutral, X);
-  h1, h2, h3, h4, h5, h6, .intro {
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption {
     color: color(blue, XX);
   }
   .sidenav {
@@ -245,7 +245,7 @@ h1.page-title {
 .theme--sky {
   background: color(blue, XX);
   color: color(blue, XXXXX);
-  h1, h2, h3, h4, h5, h6, .intro {
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption {
     color: color(blue, XXXXX);
   }
   .sidenav {
@@ -256,7 +256,7 @@ h1.page-title {
 .theme--grey {
   background: color(neutral, XX);
   color: color(neutral, XXXXX);
-  h1, h2, h3, h4, h5, h6, .intro {
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption {
     color: color(neutral, XXXXX);
   }
   .sidenav {
