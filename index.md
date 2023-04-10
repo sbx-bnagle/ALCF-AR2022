@@ -9,7 +9,7 @@ layout: home
 <div class="home--hero-wrapper">
 	<div class="img-wrapper">
 		<div>
-			<img src="{{ site.baseurl }}/assets/images/fpo.jpg">
+			<img src="{{ site.baseurl }}/assets/images/cover.png">
 			<div class="home--hero-text">
 				<h1 class="alcf">
 					Argonne<br>
