@@ -193,7 +193,7 @@ h1.page-title {
 .theme--white {
   background: color(neutral, X);
   color: color(neutral, XXXXX);
-  h1, h2, h3, h4, h5, h6, .media-hero-img .caption {
+  h1, h2, h3, h4, h5, h6 {
     color: color(neutral, XXXXX);
   }
 }
@@ -256,7 +256,7 @@ h1.page-title {
 .theme--grey {
   background: color(neutral, XX);
   color: color(neutral, XXXXX);
-  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption {
+  h1, h2, h3, h4, h5, h6, .intro {
     color: color(neutral, XXXXX);
   }
   .sidenav {
