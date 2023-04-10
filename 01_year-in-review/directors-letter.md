@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: Director's Letter
+title: Director&rsquo;s Letter
 
 theme: white
 permalink: /year-in-review/directors-letter/
