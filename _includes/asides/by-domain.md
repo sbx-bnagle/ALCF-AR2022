@@ -29,18 +29,3 @@
    source= "bydomain.png"
    caption="Left: INCITE allocations by domain, right: ALCC allocations by domain"
 %}
-
-
-<!-- | :------------------ | :--- | 
-| Biological Sciences | 3 %  | 
-| Chemistry           | 9    |
-| Computer Science    | —    |
-| Earth Science       | 1    |
-| Energy Technologies | 4    |
-| Engineering         | 18   |
-| Materials Science   | 20   |
-| Physics             | 35   | -->
-
-
-
-

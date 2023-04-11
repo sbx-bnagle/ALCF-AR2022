@@ -7,6 +7,8 @@ permalink: /expertise-and-resources/team/
 title: ALCF Team
 hero-img-source: "ALCF-team.jpg"
 hero-img-caption: "The ALCF team provides HPC expertise and support to enable the research community to pursue discoveries in science and engineering."
+
+aside: team.md
 ---
 
 # Operations
