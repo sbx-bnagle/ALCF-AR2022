@@ -25,16 +25,16 @@ To introduce researchers to using the AI accelerators for science, the ALCF host
 
 Researchers have already had some early successes in using the AI accelerators for various data-centric studies. The following summaries provide a glimpse of some of the science carried out on AI Testbed systems thus far.
 
-## Drug Discovery
+# Drug Discovery
 A team of researchers leveraged the ALCF’s Groq system to accelerate the process of searching through a vast number of small molecules to find promising antiviral drugs to fight COVID-19. With billions upon billions of potential drug candidates to sort through, the scientists needed a way to dramatically speed up their search. In tests on a large dataset of molecules, the team found they could achieve 20 million predictions, or inferences, a second, vastly reducing the time needed for each search from days to minutes. The most promising candidates were sent to a laboratory for further testing on human cells.
 
-## Edge Computing
+# Edge Computing
 To keep pace with the growing amount of data produced at DOE light source facilities, researchers are looking to machine learning methods to help with tasks such as data
 reduction and providing insights to steer future experiments. Using the ALCF’s Cerebras and SambaNova systems, researchers demonstrated how specialized AI systems can be used to quickly train machine learning models through a geographically distributed workflow. To obtain actionable information in real-time, the team trained the models on the remote AI system and then deployed them on edge computing devices near the experimental data source.
 
-## Fusion Energy
+# Fusion Energy
 As part of an effort to improve predictive capabilities for fusion energy research, researchers turned to the ALCF’s Groq system to accelerate the performance of deep learning models used to investigate fusion control in real time. The Groq system’s architecture ensured fixed,
 predictable compute times for a key phase of deep learning (inference) that would vary in duration if carried out on CPU- and GPU-driven machines. Ultimately, the researchers aim to develop a workflow that leverages AI and exascale computing power for training and inference tasks that will advance fusion energy research.
 
-## Neutrino Physics
+# Neutrino Physics
 To improve the neutrino signal efficiency, scientists use image segmentation to tag each input pixel as one of three classes: cosmic-induced, neutrino-induced, or background noise. Deep learning has been a useful tool for accelerating this classic image segmentation task, but it has been limited by the image size that available GPU-based platforms can efficiently train on. Leveraging the ALCF’s SambaNova system, researchers were able to improve this method to establish a new state-of-the art accuracy level of 90.23% using images at their original resolution without the need to downsample. Their work demonstrates capabilities that can be used to advance model quality for a variety of important and challenging image processing problems.

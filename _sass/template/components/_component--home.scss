@@ -144,6 +144,8 @@
 
 		.image-wrapper {
 			@include aspect-ratio(16, 9);
+			background-color: color(neutral, X);
+			border: 1px solid color(neutral, XXX);
 		}
 
 		img {
