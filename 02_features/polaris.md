@@ -23,6 +23,12 @@ The HPE Apollo Gen10+ based supercomputer is equipped with 560 AMD EPYC processo
 
 Upon the deployment of Polaris, several research teams immediately began using the system to prepare for the arrival of Aurora via DOE’s Exascale Computing Project (ECP) and the ALCF’s Aurora Early Science Program (ESP). The system is also being leveraged by multiple projects awarded time through DOE’s INCITE and ALCC allocation programs. The following summaries highlight some of the initial projects tapping Polaris to accelerate science.
 
+{% include media-img.html
+   source= "fpo.jpg"
+   caption= "The quick brown fox jumps over the lazy dog."
+   credit= "Name A. Name"
+%}
+
 ## Exascale Preparations
 
 Researchers from DOE’s Princeton Plasma Physics Laboratory are leading an Aurora ESP project that aims to use particle simulations of plasma, including impurities and the important magnetic field geometry at the edge, to predict behavior of ITER plasmas and to help guide future experimental parameters. The team is using Polaris to run simulations of the DIII-D National Fusion Facility’s tokamak device with Carbon impurities to inform their planned simulations of ITER plasmas with Tungsten impurities on Aurora.

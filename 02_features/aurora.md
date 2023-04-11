@@ -26,6 +26,12 @@ The installation continues this fall with the phased delivery of Intel’s state
 
 While the supercomputer is nearing completion, the work to ready the Argonne site for Aurora has been years in the making. As Coghlan noted, the process of deploying a new supercomputer begins with the major facility upgrades necessary to operate the system, including utility-scale electrical and mechanical work.
 
+{% include media-img.html
+   source= "fpo.jpg"
+   caption= "The quick brown fox jumps over the lazy dog."
+   credit= "Name A. Name"
+%}
+
 Because Aurora is a liquid-cooled system, Argonne had to upgrade its cooling capacity to pump 44,000 gallons of water through a complex loop of pipes that connects to cooling towers, chillers, heat exchangers, a filtration system, and other components. With pipes ranging from 4 inches to 30 inches in diameter, the cooling system ensures the water is at the perfect temperature, pressure, and purity levels as it passes through the Aurora hardware.
 
 The electrical room, which is located on the second floor above the data center, contains 14 substations that provide 60 megawatts of capacity to power Aurora, future Argonne computing systems, and the building’s day-to-day electricity needs. The room is outfitted with a large ceiling hatch so the substations can be lowered in (and out if needed) by construction cranes. 

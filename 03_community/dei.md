@@ -19,7 +19,7 @@ But getting there is not a simple undertaking. As is the case with generally all
 To help address this issue, the ALCF is contributing to several efforts designed to build a pipeline that will bring more diversity into HPC and computer science. This includes partnering with colleagues across the HPC community to develop strategies for attracting underrepresented groups; hosting student camps aimed at inspiring young people to pursue careers in STEM; and driving initiatives that promote diversity at the ALCF and beyond. As a whole, these activities aim to foster a diverse, next-generation workforce to fuel innovative science on the next generation of supercomputers.
 
 
-### Broadening Participation
+# Broadening Participation
 
 Argonne is highly involved in the Exascale Computing Project’s Broadening Participation Initiative. This collaborative, multi-lab effort is working to establish a sustainable plan to recruit and retain a diverse HPC workforce by creating a supportive and inclusive culture within the computing sciences at DOE national laboratories. The initiative involves three complementary thrusts that bolster such efforts in the HPC community.
 
@@ -27,7 +27,13 @@ ALCF staff are leading the Intro to HPC thrust, which focuses on developing trai
 
 The ALCF team is also contributing to the two other Broadening Participation thrusts: the HPC Workforce Development and Retention Action Group and Sustainable Research Pathways for HPC. The former aims to strengthen the workforce pipeline by sharing best practices and developing recommendations and strategies for improvement through webinars and other outreach materials. The latter is an internship and mentoring program, which kicked off in June with a cohort of 61 students and faculty. The students worked with ECP teams at nine different institutions, including the ALCF, on a variety of projects across application development, software technologies, and computing facilities.
 
-### Student Outreach
+{% include media-img.html
+   source= "fpo.jpg"
+   caption= "The quick brown fox jumps over the lazy dog."
+   credit= "Name A. Name"
+%}
+
+# Student Outreach
 
 The ALCF is also working to strengthen the workforce pipeline by leading and contributing to various educational and outreach programs for students, including summer camps and internship opportunities. These efforts help to introduce students to Argonne scientists and the mission-driven, high-impact research conducted at the lab and beyond, giving them a glimpse of what a career in STEM looks like. 
 
@@ -37,7 +43,7 @@ As part of Argonne’s ACT-SO (Afro-Academic, Cultural, Technological & Scientif
 
 At the college level, the ALCF is reaching the next generation of AI practitioners through its “Intro to AI-driven Science on Supercomputers” training series. Aimed at undergraduate and graduate students, the series teaches attendees fundamentals of using AI and supercomputers for scientific research. Comprised of eight virtual classes, the 2022 program welcomed over 200 attendees from 90 universities for hands-on instruction using methods, such as AI training and neural networks, on ALCF supercomputers.
 
-### Increasing Diversity at the ALCF and Beyond
+# Increasing Diversity at the ALCF and Beyond
 
 As part of the ALCF’s efforts to increase diversity in its workforce, the facility maintains a presence at many computing conferences and events to communicate ALCF activities and opportunities, and recruit new team members. The ALCF continues to have a presence at the annual Grace Hopper Celebration (GHC), an event that brings the research and career interests of women in computing to the forefront, and highlights the contributions of women to the tech world. The ALCF also regularly attends the Richard Tapia Celebration of Diversity in Computing Conference, an annual event that seeks to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities to celebrate and connect the diversity in computing. 
 
