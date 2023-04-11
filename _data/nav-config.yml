@@ -13,17 +13,17 @@ toc:
     slug: features
     url: /features
     subfolderitems:
-      - page: Aurora Update
+      - page: Aurora Takes Shape in the ALCF Data Center
         url: /features/aurora
-      - page: Aurora and APS
+      - page: Transforming Science with Aurora and the Upgraded APS
         url: /features/aurora-and-aps
-      - page: Sunspot
+      - page: Sunspot Testbed Provides On-Ramp for Aurora
         url: /features/sunspot
-      - page: Polaris
+      - page: Polaris Enters Production Mode
         url: /features/polaris
-      - page: ALCF AI Testbed
+      - page: ALCF AI Testbed Systems Deployed for Open Science
         url: /features/alcf-ai-testbed
-      - page: Gordon Bell Prize
+      - page: Argonne-Led Team Wins Gordon Bell Special Prize for COVID-19 Research
         url: /features/gordon-bell-prize
   - title: Community and Outreach
     slug: community-and-outreach
