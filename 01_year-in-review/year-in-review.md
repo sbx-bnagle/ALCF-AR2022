@@ -10,7 +10,7 @@ permalink: /year-in-review/year-in-review/
 
 
 {% include media-img.html
-   source= "pershey-sims-partacz.png"
+   source= "allcock-kumaran.png"
    caption= "Left: Bill Allcock, right: Kalyan Kumaran"
    credit= "Name A. Name"
 %}
@@ -46,7 +46,7 @@ I’m proud that the Technology team’s staff members were part of the winning 
 
 
 {% include media-img.html
-   source= "pershey-sims-partacz.png"
+   source= "ramprakash-riley.png"
    caption= "Left: Jini Ramprakash, right: Katherine Riley"
    credit= "Name A. Name"
 %}
