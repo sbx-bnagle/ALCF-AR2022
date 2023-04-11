@@ -4,7 +4,7 @@ layout: page
 theme: dark
 permalink: /features/aurora
 
-title: Aurora takes shape in the ALCF data center
+title: Aurora Takes Shape in the ALCF Data Center
 hero-img-source: ALCF-Aurora1.jpg
 hero-img-caption: "Aurora is being installed in a new wing of the ALCF's data center."
 hero-img-credit: "Image Provider"
