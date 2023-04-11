@@ -1,12 +1,12 @@
 ---
 layout: page
 
+theme: white
+permalink: /year-in-review/about-alcf/
+
 title: About ALCF
 hero-img-source: "TCSBuilding.jpg"
 hero-img-caption: "The ALCF is a national scientific user facility located at Argonne National Laboratory."
-
-theme: white
-permalink: /year-in-review/about-alcf/
 ---
 
 The Argonne Leadership Computing Facility (ALCF), a U.S. Department of Energy (DOE) Office of Science user facility at Argonne National Laboratory, enables breakthroughs in science and engineering by providing supercomputing and AI resources to the research community.
@@ -17,3 +17,24 @@ As a key player in the nation's efforts to provide the most advanced computing r
 
 Supported by the DOE’s Advanced Scientific Computing Research (ASCR) program, the ALCF and its partner organization, the Oak Ridge Leadership Computing Facility, operate leadership-class supercomputing resources that are orders of magnitude more powerful than the systems typically used for open scientific research.
 
+
+
+# 2022 by the Numbers
+
+{%	include txt-fig.html 
+	  	figure-1 = "35M"
+		label-1 = "Node-hours of compute time"
+		figure-2 = "285"
+		label-2 = "Active projects"
+		note-2 = "Data from fiscal year 2022"
+		
+%}
+
+{%	include txt-fig.html 
+	  	figure-1 = "1,538"
+		label-1 = "Facility users"
+		note-1 = "Data from fiscal year 2022"
+		figure-2 = "217"
+		label-2 = "Publications"
+		
+%}
