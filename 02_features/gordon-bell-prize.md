@@ -4,7 +4,7 @@ layout: page
 theme: cyan
 permalink: /features/gordon-bell-prize
 
-title: Argonne-led team wins Gordon Bell Special Prize for COVID-19 Research
+title: Argonne-Led Team Wins Gordon Bell Special Prize for COVID-19 Research
 hero-img-source: ALCF-GordonBell1.jpg
 hero-img-caption: "Members of the GenSLMs team gather in front of the U.S. Department of Energy's booth at the SC22 conference."
 hero-img-credit: ""
