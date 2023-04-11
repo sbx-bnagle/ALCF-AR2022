@@ -174,7 +174,11 @@ th {
 }
 
 td, th { 
-  padding: bl(3) 0; //12px
+  padding: bl(3) 0 bl(3) 10px; //12px
+}
+
+td:first-child, th:first-child {
+  padding-left: 0;
 }
 
 ul {

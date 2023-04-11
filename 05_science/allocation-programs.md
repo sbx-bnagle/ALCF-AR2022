@@ -1,11 +1,13 @@
 ---
 layout: page
 
-theme: sky
+theme: white
 permalink: /science/allocation-programs/
 
 title: Accessing ALCF Resources for Science
 intro: "As a national user facility dedicated to open science, any researcher in the world with a large-scale computing problem can apply for time on ALCF computing resources."
+
+aside: by-domain.md
 ---
 
 Researchers gain access to ALCF systems for computational science and engineering projects through competitive, peer-reviewed allocation programs supported by the DOE and Argonne.
