@@ -14,7 +14,7 @@ intro: "With hardware and software that is identical to Aurora, Sunspot gives re
 
 Researchers preparing scientific codes and workloads to run on the ALCF’s Aurora exascale supercomputer now have a new resource at their disposal. Named Sunspot, the new test and development system is outfitted with the exact same technologies that will power Aurora. 
 
-Aurora, an Intel-Hewlett Packard Enterprise (HPE) system, will be comprised of more than 60,000 nodes equipped with the new Intel Max Series CPUs and GPUs. Sunspot is a two-rack testbed with 128 nodes of the same technologies, including the Slingshot interconnect. 
+Aurora, an Intel-Hewlett Packard Enterprise (HPE) system, will be comprised of more than 10,000 nodes equipped with the new Intel Max Series CPUs and GPUs. Sunspot is a two-rack testbed with 128 nodes of the same technologies, including the Slingshot interconnect. 
 
 Prior to Sunspot’s arrival, development teams leveraged earlier Aurora testbeds, Arcticus and Florentia, and DOE supercomputers, including Argonne’s Polaris, to carry out exascale code development. While those systems have been useful in preparing for Aurora, Sunspot’s identical architecture gives researchers an ideal environment for multi-node testing to help them further optimize applications for Aurora. 
 
