@@ -38,19 +38,19 @@ publications:
 
 
 
-## Challenge
+# Challenge
 
 Compressed sensing algorithms provide higher quality reconstructions, but they require substantially more computation time to complete, causing the rapidly expanding field of tomography to become critically bottlenecked by low throughput. To address these challenges and achieve real-time tomographic reconstruction using compressed sensing algorithms, the ADSP team has developed a dynamic framework that performs *in situ* reconstruction simultaneously with data collection.
 
 
 
-## Approach
+# Approach
 
 With access to DOE supercomputing resources, the researchers are conducting comprehensive simulations for real-time electron tomography and developing reconstruction methods for through-focal tomography. The team is experimentally demonstrating their reconstruction workflow and methods on commercial scanning transmission electron microscopes and the ptychographic tomography instruments at Argonne’s Advanced Photon Source.
 
 
 
-## Results
+# Results
 
 A paper published in *npj Computational Materials* introduced fused multi-modal spectroscopy, a technique offering high signal-to-noise ratio (SNR) recovery of nanomaterial chemistry by linking correlated information encoded within detector signals. The team’s approach substantially improves SNRs for chemical maps by as much as 500 percent, reduces electron doses by an order of magnitude, and enables accurate measurement of local stoichiometry.
 
@@ -58,6 +58,6 @@ A paper published in *Nature Communications* demonstrated real-time tomography w
 
 
 
-## Impact
+# Impact
 
 The team’s approach will help advance materials characterization research by enabling real-time analysis of 3D specimens while an experiment progresses. By integrating their framework with an open-source 3D visualization and tomography software package, the team’s techniques will be accessible to a wide range of researchers and enable new material characterizations across academia and industry
