@@ -8,79 +8,78 @@ permalink: /science/projects/
 ---
 
 
-## INCITE 2022
-### BIOLOGICAL SCIENCES
-COMPBIO2: COMbining deep-learning with Physics-Based affinIty estimatiOn 2
+# INCITE 2022
+## BIOLOGICAL SCIENCES
+**COMPBIO2: COMbining deep-learning with Physics-Based affinIty estimatiOn 2**
 
 PI: Peter Coveney, University College London
 
 HOURS ALCF: 100,000 Node-Hours
 
-Design of Peptides and Proteins on Classical and Quantum Computing Hardware
+**Design of Peptides and Proteins on Classical and Quantum Computing Hardware**
 
 PI: Vikram Mulligan, Flatiron Institute
 
 HOURS ALCF: 1,070,000 Node-Hours
 
-### CHEMISTRY
+## CHEMISTRY
 
-Heterogeneous Catalysis as a Collective Phenomenon Within Dynamic Ensembles of States
+**Heterogeneous Catalysis as a Collective Phenomenon Within Dynamic Ensembles of States**
 
 PI: Anastassia Alexandrova, University of California
 
 HOURS ALCF: 2,000,000 Node-Hours
 
-Implementing a Dispersive Interaction Database through Quantum Monte Carlo
+**Implementing a Dispersive Interaction Database through Quantum Monte Carlo**
 
 PI: Matteo Barborini, University of Luxembourg
 
 HOURS ALCF: 1,000,000 Node-Hours
 
-Nuclear Matter Dynamics in Real Time and the Heaviest Elements in Nature
+**Nuclear Matter Dynamics in Real Time and the Heaviest Elements in Nature**
 
 PI: Aurel Bulgac, University of Washington
 
 HOURS ALCF: 200,000 Node-Hours
 OLCF: 140,000 Node-Hours
 
-### EARTH SCIENCE
+## EARTH SCIENCE
 
-New Window into Tropical Meteorology with Global 1 km Atmosphere-Ocean Simulations
+**New Window into Tropical Meteorology with Global 1 km Atmosphere-Ocean Simulations**
 
 PI: Inna Polichtchouk, European Centre for Medium-Range Weather Forecasts
 
-HOURS ALCF: 50,000 Node-Hours
-OLCF: 520,000 Node-Hours
+HOURS ALCF: 50,000 Node-Hours; OLCF: 520,000 Node-Hours
 
-### ENERGY TECHNOLOGIES
+## ENERGY TECHNOLOGIES
 
-Automatic Building Energy Modeling (AutoBEM)
+**Automatic Building Energy Modeling (AutoBEM)**
 
 PI: Joshua New, Oak Ridge National Laboratory
 
 HOURS ALCF: 800,000 Node-Hours
 
-### ENGINEERING
+## ENGINEERING
 
-First Principles Simulation of Hypersonic Flight
+**First Principles Simulation of Hypersonic Flight**
 
 PI: Maninder Grover, Air Force Research Laboratory / University of Dayton Research Institute
 
 HOURS ALCF: 1,000,000 Node-Hours
 
-High-Speed Turbulence with Shocks Over Non-Adiabatic and Flexible Walls
+**High-Speed Turbulence with Shocks Over Non-Adiabatic and Flexible Walls**
 
 PI: Johan Larsson, University of Maryland
 
 HOURS ALCF: 1,750,000 Node-Hours
 
-Online Machine Learning for Large-Scale Turbulent Simulations
+**Online Machine Learning for Large-Scale Turbulent Simulations**
 
 PI: Kenneth Jansen, University of Colorado Boulder
 
 HOURS ALCF: 1,200,000 Node-Hours
 
-### MATERIALS SCIENCE
+## MATERIALS SCIENCE
 
 Large-Scale Simulations of Light-Activated Matter
 
