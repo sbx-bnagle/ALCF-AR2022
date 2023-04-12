@@ -38,25 +38,25 @@ publications:
 
 
 
-## Challenge
+# Challenge
 
 With the aim of elucidating how shock/boundary-layer interactions (SBLI) are affected by crossflow (that is, flow along the shock and in a direction parallel to the wing span), researchers performed direct numerical simulations of skewed SBLI with crossflow so as to approximate the off-design operating conditions that can ultimately cause engine performance degradation and flameout. 
 
 
 
-## Approach
+# Approach
 
 Leveraging the ALCF’s Theta supercomputer, the team carried out SBLI simulations with the code Hybrid. Hybrid is a solver for the compressible Navier-Stokes equations that govern much of fluid dynamics. 
 
 
 
-## Results
+# Results
 
 The team published their results in *Theoretical and Computational Fluid Dynamics* and the *AIAA Journal*. Their papers demonstrate that the size of a turbulent flow’s separation bubble grows almost 50 percent larger in the presence of crossflow than in cases without crossflow.
 
 
 
-## Impact
+# Impact
 
 The ultimate goal of the team’s research is to develop a predictive theory for SBLI physics and apply it so as to devise improved modeling techniques for surfaces in large-eddy simulations (LES). LES, as mathematical models for turbulence, are used in a broad range of applications throughout different fields of engineering.
 
