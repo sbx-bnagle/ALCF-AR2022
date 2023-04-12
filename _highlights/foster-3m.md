@@ -24,13 +24,13 @@ image-credit: 'Argonne National Laboratory'
 
 
 
-## Challenge
+# Challenge
 
 Combining simulations, data analysis, and machine learning (ML) to reduce the energy consumed in the melt-blowing production process—without compromising material quality—the researchers aim to reduce energy expenditures by 20 percent.
 
 
 
-## Approach
+# Approach
 
 The initial model for the melt-blowing process was developed through a series of simulation runs performed on the ALCF’s Theta supercomputer with the computational fluid dynamics (CFD) software OpenFOAM. The researchers then scaled up the code using the CONVERGE CFD application.
 
@@ -50,6 +50,6 @@ The researchers are still working to identify and validate optimal process condi
 
 
 
-## Impact
+# Impact
 
 Reduction of energy expenditures by 20 percent in a market space as large as that of melt-blown nonwoven materials stands to carry global environmental and economic effects, including significantly smaller production costs and externalities.
