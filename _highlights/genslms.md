@@ -11,7 +11,7 @@ systems: 'Cerebras, Polaris'
 field: 'Biological Sciences'
 sdl: 's,d,l'
 
-image: 'genslm.jpg' 
+image: 'genslm.jpeg' 
 image-caption: 'Trained on a year’s worth of SARS-CoV-2 genome data, the model can infer the distinction between various viral strains. Each dot on the left corresponds to a sequenced SARS-CoV-2 viral strain, color coded by variant. The figure on the right zooms into one strain of the virus, which captures evolutionary couplings across the viral proteins specific to this strain.'
 image-credit: 'Bharat Kale, Max Zvyagin, and Michael E. Papka, Argonne National Laboratory'
 
