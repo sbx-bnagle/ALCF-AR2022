@@ -32,23 +32,23 @@ publications:
 
 
 
-## Challenge
+# Challenge
 
 One of the challenges in developing advanced batteries is the need for new insights into how to improve electrolyte behavior under increasingly extreme performance demands. However, at high potentials or high voltages, the state-of-the-art organic carbonate-based electrolytes tend to be oxidatively decomposed at the cathode surface causing gassing issues, low Coulombic efficiency, transition metal ion dissolution, and rapid capacity fade of the full cell. Moreover, these conventional electrolytes are extremely flammable due to their high vapor pressure and low flashpoint, which leads to potential safety issues especially when applied in electric vehicles. To address these issues, the Argonne team is exploring ionic liquids as a potential alternative due to their intrinsic physical properties, such as low vapor pressure, non-flammability, wide electrochemical window, and high ionic conductivity.
 
 
 
-## Approach
+# Approach
 
 This ALCC project is employing a joint experimental and computational approach that involves running the NAMD molecular dynamics code on Theta to explore the nanostructural organization at electrolyte-electrode interfaces, and to shed light on the transport properties and desolvation/solvation kinetics of charge carriers. The team is leveraging molecular dynamics methodologies, such as Hamiltonian Annealing and sampling enhanced free energy calculations, to provide insights into the underlying chemical mechanisms that give rise to favorable battery performance. 
 
 
-## Results
+# Results
 
 In a study published in *ACS Applied Materials and Interfaces*, the team detailed the development of a new battery electrolyte that can hold 1,000 times more water than conventional electrolytes. Their simulations revealed that the material, composed of a lithium salt and an ionic liquid, could separate and bind up water, sequestering individual water molecules. They found the key is that the water molecules do not gather into “puddles” and thereby lose reactivity. The new electrolyte eliminates the critical moisture controls required for a state-of-the-art carbonate electrolyte, electrode, separator, and cell assembly, which would significantly reduce the cost of manufacturing of such batteries.
 
 
 
-## Impact
+# Impact
 
 As part of their work, the researchers identified a potential pathway for battery manufacturers to incorporate water in the fabrication process, allowing for lower cost, more environmentally friendly batteries. Ultimately, the team is working to develop a computer-aided electrolyte design protocol to enhance future high-throughput prediction and screening studies aimed at discovering new battery materials.
