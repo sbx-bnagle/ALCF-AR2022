@@ -6,7 +6,7 @@ permalink: /features/polaris
 title: Polaris Enters Production Mode
 hero-img-source: ALCF-Polaris.jpg
 hero-img-caption: "quick brown fox"
-intro: "The ALCF’s most powerful system to date will help researchers prepare for Aurora and support several large-scale science projects."
+intro: "The ALCF’s most powerful system to date is supporting several large-scale science projects while also helping researchers prepare for Aurora."
 ---
 
 
