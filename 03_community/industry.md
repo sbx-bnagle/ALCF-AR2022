@@ -20,8 +20,8 @@ The ALCF has enhanced its industry outreach program by partnering with other Arg
 The ALCF is also actively involved in directing the DOE Exascale Computing Project’s Industry and Agency Council, an advisory group of senior executives from prominent U.S. companies and U.S. government agencies interested in working with Argonne and other DOE laboratories to deploy exascale computing to improve their products and services.
 
 {% include media-img.html
-   source= "fpo.jpg"
-   caption= "The quick brown fox jumps over the lazy dog."
+   source= "ALCF-ComEd.jpg"
+   caption= "ComEd and Argonne are collaborating to analyze how climate change could affect the company's distribution grid. As part of the effort, the team is using ALCF supercomputers to provide detailed climate projections and analysis for northern Illinois."
    credit= "Name A. Name"
 %}
 
