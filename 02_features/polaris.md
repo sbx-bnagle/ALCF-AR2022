@@ -23,9 +23,9 @@ The HPE Apollo Gen10+ based supercomputer is equipped with 560 AMD EPYC processo
 Upon the deployment of Polaris, several research teams immediately began using the system to prepare for the arrival of Aurora via DOE’s Exascale Computing Project (ECP) and the ALCF’s Aurora Early Science Program (ESP). The system is also being leveraged by multiple projects awarded time through DOE’s INCITE and ALCC allocation programs. The following summaries highlight some of the initial projects tapping Polaris to accelerate science.
 
 {% include media-img.html
-   source= "fpo.jpg"
-   caption= "The quick brown fox jumps over the lazy dog."
-   credit= "Name A. Name"
+   source= "burrows.png"
+   caption= "Researchers from Princeton University are using Polaris for large-scale 3D simulations aimed at advancing our understanding of supernova explosions."
+   credit= "Argonne National Laboratory and Princeton University"
 %}
 
 ## Exascale Preparations
