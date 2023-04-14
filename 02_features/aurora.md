@@ -27,8 +27,8 @@ The installation continues this fall with the phased delivery of Intel’s state
 While the supercomputer is nearing completion, the work to ready the Argonne site for Aurora has been years in the making. As Coghlan noted, the process of deploying a new supercomputer begins with the major facility upgrades necessary to operate the system, including utility-scale electrical and mechanical work.
 
 {% include media-img.html
-   source= "fpo.jpg"
-   caption= "The quick brown fox jumps over the lazy dog."
+   source= "ALCF-Aurora2.jpg"
+   caption= "The new mechanical room's pipes range from 4 inches to 30 inches in diameter, forming a complex loop that connects cooling towers, chillers, heat exchangers, a filtration system, and other components to cool Aurora."
    credit= "Name A. Name"
 %}
 
