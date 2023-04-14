@@ -28,8 +28,8 @@ The annual CodeGirls@Argonne Camp hosts sixth and seventh-grade girls each summe
 In July, Argonne hosted its Coding for Science Camp for 30 high school freshmen and sophomores who were new to coding. The week-long camp, a joint initiative of Argonne’s Educational Programs Office and the ALCF, promotes problem solving and teamwork skills through hands-on coding activities, such as coding with Python and programming a robot, and interactions with Argonne staff members working in HPC and visualization.
 
 {% include media-img.html
-   source= "fpo.jpg"
-   caption= "The quick brown fox jumps over the lazy dog."
+   source= "AI-Training.jpg"
+   caption= "Undergraduate and graduate students from across the country attended the ALCF’s eight-part training series, Intro to AI-Driven Science on Supercomputers, to learn the fundamentals of using AI and supercomputers for scientific research.."
    credit= "Name A. Name"
 %}
 
