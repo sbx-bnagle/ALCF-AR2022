@@ -38,8 +38,8 @@ In July, the ALCF hosted a hands-on training session on DeepHyper, a distributed
 In July, the ALCF partnered with NVIDIA to host its GPU Hackathon for the second time, a virtual event designed to help developers accelerate their codes on ALCF resources using a portable programming model, such as OpenMP, or an AI framework of their choice. The multi-day virtual hackathon was the first event with access to ALCF’s Polaris system, an HPE Apollo Gen10+ machine equipped with NVIDIA A100 Tensor Core GPUs and AMD EPYC processors. A total of 11 teams participated this year, researching a vast array of topics including black hole imaging, fusion plasma dynamics, and the development of synthetic genes that will help predict the viral escape of SARS-CoV-2 genomes.
 
 {% include media-img.html
-   source= "GPUHackathon-group.png"
-   caption= "The ALCF partnered with NVIDIA to host a virtual GPU Hackathon focused on porting and optimizing scientific applications on the facility's new Polaris system."
+   source= "ALCF-SDLWksp1.png"
+   caption= "Training events like the annual Simulation, Data, and Learning Workshop are helping to build a community of researchers who can employ ALCF supercomputing resources to advance AI- and data-driven research."
    credit= "Name A. Name"
 %}
 
