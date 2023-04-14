@@ -28,8 +28,8 @@ ALCF staff are leading the Intro to HPC thrust, which focuses on developing trai
 The ALCF team is also contributing to the two other Broadening Participation thrusts: the HPC Workforce Development and Retention Action Group and Sustainable Research Pathways for HPC. The former aims to strengthen the workforce pipeline by sharing best practices and developing recommendations and strategies for improvement through webinars and other outreach materials. The latter is an internship and mentoring program, which kicked off in June with a cohort of 61 students and faculty. The students worked with ECP teams at nine different institutions, including the ALCF, on a variety of projects across application development, software technologies, and computing facilities.
 
 {% include media-img.html
-   source= "fpo.jpg"
-   caption= "The quick brown fox jumps over the lazy dog."
+   source= "IGED2.jpg"
+   caption= "Serving as mentors and volunteers at outreach events like Argonne's Introduce a Girl to Engineering Day, ALCF staff members are able to engage with the next generation of engineers and scientists."
    credit= "Name A. Name"
 %}
 
