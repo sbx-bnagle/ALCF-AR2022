@@ -7,7 +7,6 @@ permalink: /features/aurora
 title: Aurora Takes Shape in the ALCF Data Center
 hero-img-source: ALCF-Aurora1.jpg
 hero-img-caption: "Aurora is being installed in a new wing of the ALCF's data center."
-hero-img-credit: "Image Provider"
 intro: "The ALCF has made some significant facility upgrades, including utility-scale electrical and mechanical work, to get ready for its next-generation supercomputer."
 ---
 
@@ -29,7 +28,6 @@ While the supercomputer is nearing completion, the work to ready the Argonne sit
 {% include media-img.html
    source= "ALCF-Aurora2.jpg"
    caption= "The new mechanical room's pipes range from 4 inches to 30 inches in diameter, forming a complex loop that connects cooling towers, chillers, heat exchangers, a filtration system, and other components to cool Aurora."
-   credit= "Name A. Name"
 %}
 
 Because Aurora is a liquid-cooled system, Argonne had to upgrade its cooling capacity to pump 44,000 gallons of water through a complex loop of pipes that connects to cooling towers, chillers, heat exchangers, a filtration system, and other components. With pipes ranging from 4 inches to 30 inches in diameter, the cooling system ensures the water is at the perfect temperature, pressure, and purity levels as it passes through the Aurora hardware.
