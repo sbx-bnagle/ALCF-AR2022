@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: Supporting the HPC Community
+title: Shaping the Future of Supercomputing
 
 hero-img-source: "ASCAC-Vishwanath.png"
 hero-img-caption: "ALCF's Venkat Vishwanath (top left) delivers a presentation on the ALCF AI Testbed at DOE's Advanced Scientific Computing Advisory Committee (ASCAC) meeting."
