@@ -7,7 +7,6 @@ permalink: /features/alcf-ai-testbed
 title: ALCF AI Testbed Systems Deployed for Open Science
 hero-img-source: ALCF-SambaNova2.jpg
 hero-img-caption: "ALCF's Skip Reddy installs the ALCF AI Testbed's new multi-rack SambaNova DataScale system."
-hero-img-credit: "Argonne National Laboratory"
 intro: "The ALCF’s testbed of AI accelerators is enabling the research community to advance the use of AI for data-intensive science."
 ---
 
