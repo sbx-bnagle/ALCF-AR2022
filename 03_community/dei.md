@@ -30,7 +30,6 @@ The ALCF team is also contributing to the two other Broadening Participation thr
 {% include media-img.html
    source= "IGED2.jpg"
    caption= "Serving as mentors and volunteers at outreach events like Argonne's Introduce a Girl to Engineering Day, ALCF staff members are able to engage with the next generation of engineers and scientists."
-   credit= "Name A. Name"
 %}
 
 # Student Outreach
