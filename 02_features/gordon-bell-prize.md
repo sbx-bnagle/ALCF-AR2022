@@ -7,7 +7,6 @@ permalink: /features/gordon-bell-prize
 title: Argonne-Led Team Wins Gordon Bell Special Prize for COVID-19 Research
 hero-img-source: ALCF-GordonBell1.jpg
 hero-img-caption: "Members of the GenSLMs team gather in front of the U.S. Department of Energy's booth at the SC22 conference."
-hero-img-credit: ""
 intro: "Using the ALCF’s Polaris and Cerebras CS-2 systems, researchers developed the first genome-scale language model to study the evolutionary dynamics of SARS-CoV-2."
 ---
 
