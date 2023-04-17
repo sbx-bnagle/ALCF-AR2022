@@ -5,7 +5,7 @@ permalink: /features/polaris
 
 title: Polaris Enters Production Mode
 hero-img-source: ALCF-Polaris.jpg
-hero-img-caption: "quick brown fox"
+hero-img-caption: "The ALCF's Polaris supercomputer provides advanced capabilities for workloads involving simulation, data analysis, and AI tasks."
 intro: "The ALCF’s most powerful system to date is supporting several large-scale science projects while also helping researchers prepare for Aurora."
 ---
 
