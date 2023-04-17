@@ -22,7 +22,6 @@ The Argonne-Intel Center of Excellence (COE) continued to host hands-on training
 {% include media-img.html
    source= "ATPESC-classroom.jpg"
    caption= "The Argonne Training Program on Extreme-Scale Computing (ATPESC) teaches attendees the key tools and techniques to use supercomputers for scientific research."
-   credit= "Name A. Name"
 %}
 
 # Aurora Workshop  
@@ -40,7 +39,6 @@ In July, the ALCF partnered with NVIDIA to host its GPU Hackathon for the second
 {% include media-img.html
    source= "ALCF-SDLWksp1.png"
    caption= "Training events like the annual Simulation, Data, and Learning Workshop are helping to build a community of researchers who can employ ALCF supercomputing resources to advance AI- and data-driven research."
-   credit= "Name A. Name"
 %}
 
 # HDF5 Workshop
