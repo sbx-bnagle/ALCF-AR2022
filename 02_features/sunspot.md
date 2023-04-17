@@ -7,7 +7,6 @@ permalink: /features/sunspot
 title: Sunspot Testbed Provides On-Ramp for Aurora 
 hero-img-source: Sunspot.jpg
 hero-img-caption: "Several Aurora application development teams are using Sunspot for scaling and performance optimization research."
-hero-img-credit: "Image Provider"
 intro: "With hardware and software that is identical to Aurora, Sunspot gives researchers a valuable platform for advancing code development work."
 ---
 
