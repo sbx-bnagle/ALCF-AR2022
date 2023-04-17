@@ -29,8 +29,7 @@ In July, Argonne hosted its Coding for Science Camp for 30 high school freshmen 
 
 {% include media-img.html
    source= "AI-Training.jpg"
-   caption= "Undergraduate and graduate students from across the country attended the ALCF’s eight-part training series, Intro to AI-Driven Science on Supercomputers, to learn the fundamentals of using AI and supercomputers for scientific research.."
-   credit= "Name A. Name"
+   caption= "Undergraduate and graduate students from across the country attended the ALCF’s eight-part training series, Intro to AI-Driven Science on Supercomputers, to learn the fundamentals of using AI and supercomputers for scientific research."
 %}
 
 # Hour of Code
