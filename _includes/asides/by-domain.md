@@ -29,3 +29,6 @@
    source= "bydomain.png"
    caption="Left: INCITE allocations by domain, right: ALCC allocations by domain"
 %}
+
+
+<small style="color:#6e6e78">*ALCC data are from calendar year 2022.*</small>
