@@ -46,6 +46,8 @@
 
 	li {
 		@include typestyle($sans-sm-reg);
+		@include stack(xxs);
+		line-height: bl(5);
 	}
 
 	a {

@@ -25,19 +25,19 @@ toc:
         url: /features/alcf-ai-testbed
       - page: Argonne-Led Team Wins Gordon Bell Special Prize for COVID-19 Research
         url: /features/gordon-bell-prize
-  - title: Community and Outreach
+  - title: Growing the HPC Community
     slug: community-and-outreach
     url: /community-and-outreach
     subfolderitems:
-      - page: Industry
+      - page: Partnering with Industry
         url: /community-and-outreach/industry
-      - page: Diverse Workforce
+      - page: Building a Diverse HPC Workforce
         url: /community-and-outreach/dei
-      - page: HPC Community Activities
+      - page: Shaping the Future of Supercomputing
         url: /community-and-outreach/hpc-community-activities
-      - page: User Training Activities
+      - page: Training ALCF Users
         url: /community-and-outreach/user-training-activities
-      - page: Educational Outreach Activities
+      - page: Inspiring Students
         url: /community-and-outreach/educational-outreach-activities
   - title: Expertise and Resources
     slug: expertise-and-resources
