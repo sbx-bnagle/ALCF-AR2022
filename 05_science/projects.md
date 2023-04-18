@@ -107,7 +107,7 @@ PI: Priya Vashishta, University of Southern California
 
 HOURS ALCF: 1,700,000 Node-Hours
 
-### PHYSICS
+## PHYSICS
 
 **Ab-initio Nuclear Structure and Nuclear Reactions**
 
@@ -153,9 +153,9 @@ PI: Adam Burrows, Princeton University
 
 HOURS ALCF: 1,850,000 Node-Hours
 
-## ALCC 2022–2023
+# ALCC 2022–2023
 
-### BIOLOGICAL SCIENCES
+## BIOLOGICAL SCIENCES
 
 **Probabilistic Comparative Modeling of Colorectal Cancer Screening Strategies**
 
@@ -163,7 +163,7 @@ PI: Jonathan Ozik, Argonne National Laboratory
 
 HOURS ALCF: 283,000 Node-Hours
 
-### COMPUTER SCIENCE
+## COMPUTER SCIENCE
 
 **A Multiscale Surrogate Model for Fracture Evolution Using DeepONet**
 
@@ -173,14 +173,14 @@ HOURS ALCF: 50,000 Node-Hours
 OLCF: 40,000 Node-Hours
 NERSC: 60,000 Node-Hours
 
-### CHEMISTRY
+## CHEMISTRY
 **Microscopic Insight Into Transport Properties of Li-Battery Electrolytes**
 
 PI: Wei Jiang, Argonne National Laboratory
 
 HOURS ALCF: 500,000 Node-Hours
 
-### EARTH SCIENCE
+## EARTH SCIENCE
 **A Climate Model Ensemble for Understanding Future Changes to Extreme**
 
 PI: Paul Ullrich, University of California
@@ -188,7 +188,7 @@ PI: Paul Ullrich, University of California
 HOURS ALCF: 900,000 Node-Hours
 NERSC: 300,000 Node-Hours
 
-### ENERGY TECHNOLOGIES
+## ENERGY TECHNOLOGIES
 **High-Fidelity CFD Simulations Supporting the Needs of Industry and the DOE**
 
 PI: Dillon Shaver, Argonne National Laboratory
@@ -215,21 +215,21 @@ PI: Ivan Oleynik, University of South Florida
 
 HOURS ALCF: 150,000 Node-Hours
 
-### ENGINEERING
+## ENGINEERING
 **HFIR DNS Simulation**
 
 PI: Emilian Popov, Oak Ridge National Laboratory
 
 HOURS ALCF: 224,000 Node-Hours
 
-### MATERIALS SCIENCE
+## MATERIALS SCIENCE
 **Computational Design of Novel Semiconductors for Power and Energy**
 
 PI: Feliciano Giustino, University of Texas
 
 HOURS ALCF: 883,000 Node-Hours
 
-### PHYSICS
+## PHYSICS
 
 **Cosmological Hydro Simulations to Explore the High and Low-Redshift Universe**
 
@@ -271,9 +271,9 @@ PI: Robert Edwards, Jefferson Laboratory
 
 HOURS ALCF: 300,000 Node-Hours
 
-## ALCC 2021–2022
+# ALCC 2021–2022
 
-### BIOLOGICAL SCIENCES
+## BIOLOGICAL SCIENCES
 
 **Probabilistic Comparative Modeling of Colorectal Cancer Screening Strategies**
 
@@ -281,7 +281,7 @@ PI: Jonathan Ozik, Argonne National Laboratory
 
 HOURS ALCF: 160,000 Node-Hours
 
-### CHEMISTRY
+## CHEMISTRY
 
 **Microscopic Insight Into Transport Properties of Li-Battery Electrolytes**
 
@@ -295,7 +295,7 @@ PI: Phay Ho, Argonne National Laboratory
 
 HOURS ALCF: 316,000 Node-Hours
 
-### EARTH SCIENCE
+## EARTH SCIENCE
 
 **Advancing Multi-Year to Decadal Climate Prediction with High-Resolution E3SM and CESM**
 
@@ -321,7 +321,7 @@ PI: Po-Lun Ma, Pacific Northwest National Laboratory
 
 HOURS ALCF: 400,000 Node-Hours
 
-### ENERGY TECHNOLOGIES
+## ENERGY TECHNOLOGIES
 **Cavitation Dynamics in the Spallation Neutron Source Target**
 
 PI: Eric Johnsen, University of Michigan
@@ -348,7 +348,7 @@ PI: Yiqi Yu, Argonne National Laboratory
 
 HOURS ALCF: 500,000 Node-Hours
 
-### ENGINEERING
+## ENGINEERING
 
 **Multiscale Bubble Breakup and Gas Transfer in Turbulent Oceanic Environments**
 
@@ -357,7 +357,7 @@ PI: Parviz Moin, Stanford University
 HOURS ALCF: 650,000 Node-Hours
 NERSC: 500,000 Node-Hours
 
-### MATERIALS SCIENCE
+## MATERIALS SCIENCE
 
 **Inverse Design of Multicomponent Oxide Catalysts with Generative Models and DFT**
 
@@ -379,7 +379,7 @@ PI: Gabriel Kotliar, Rutgers University
 
 HOURS ALCF: 115,000 Node-Hours
 
-### PHYSICS
+## PHYSICS
 
 **AI/Deep Learning Prediction & Real-Time Control for Fusion Energy Systems**
 
@@ -399,7 +399,7 @@ PI: Alessandro Lovato, Argonne National Laboratory
 
 HOURS ALCF: 632,000 Node-Hours
 
-## ALCF DATA SCIENCE PROGRAM
+# ALCF DATA SCIENCE PROGRAM
 
 **Autonomous Molecular Design for Redox Flow Batteries**
 
@@ -417,7 +417,7 @@ PI: George Stein, Lawrence Berkeley National Laboratory
 
 PI: Marco Del Tutto, Fermi National Accelerator Laboratory
 
-## AURORA EARLY SCIENCE PROGRAM
+# AURORA EARLY SCIENCE PROGRAM
 
 **Accelerated Deep Learning Discovery in Fusion Energy Science**
 
@@ -479,11 +479,11 @@ PI: Walter Hopkins, Argonne National Laboratory
 
 PI: Rick Stevens, Argonne National Laboratory
 
-## DIRECTOR'S DISCRETIONARY
+# DIRECTOR'S DISCRETIONARY
 
 The following list provides a sampling of the many Director’s Discretionary projects at the ALCF.
 
-### BIOLOGICAL SCIENCES
+## BIOLOGICAL SCIENCES
 
 **Combining Physics-Based Analysis with AI to Accelerate COVID-19 Drug Discovery**
 
@@ -509,7 +509,7 @@ PI: Arvind Ramanathan, Argonne National Laboratory
 
 PI: Arvind Ramanathan, Argonne National Laboratory
 
-### CHEMISTRY
+## CHEMISTRY
 
 **Adsorptive CO2 Removal from Dilute Sources**
 
@@ -527,7 +527,7 @@ PI: Phay Ho, Argonne National Laboratory
 
 PI: Eric Michael Jonas, University of Chicago
 
-### COMPUTER SCIENCE
+## COMPUTER SCIENCE
 
 **Bridging Data Center AI Systems with Edge Computing for Actionable Information Retrieval**
 
@@ -545,7 +545,7 @@ PI: Ian Foster, Argonne National Laboratory
 
 PI: Ian Foster, Argonne National Laboratory
 
-### MATERIALS SCIENCE
+## MATERIALS SCIENCE
 
 **BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning**
 
@@ -567,7 +567,7 @@ PI: Ian Foster, Argonne National Laboratory
 
 PI: Wissam A Saidi, University of Pittsburgh
 
-### PHYSICS
+## PHYSICS
 
 **Deterministic Machine Learning for Latency-Critical Control Systems**
 
