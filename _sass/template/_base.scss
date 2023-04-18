@@ -112,7 +112,7 @@ h4 {
 
 p, ol, ul {
   @include typestyle($sans-sm-reg);
-  @include stack(xxs);
+  @include stack(xs);
 }
 
 ul, ol {
@@ -188,6 +188,11 @@ ul {
 
 h1.page-title {
   @include typestyle($sans-lg-bld);
+  @include stack(sm);
+}
+
+p.intro {
+  @include stack(md);
 }
 
 
