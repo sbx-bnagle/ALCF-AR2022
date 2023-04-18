@@ -88,7 +88,7 @@ PI: Giulia Galli, University of Chicago and Argonne National Laboratory
 HOURS ALCF: 600,000 Node-Hours
 OLCF: 290,000 Node-Hours
 
-**Predicting Ion Transport Kinetics at Complex Interfaces for Energy Storage
+**Predicting Ion Transport Kinetics at Complex Interfaces for Energy Storage**
 
 PI: Brandon Wood, Lawrence Livermore National Laboratory
 
