@@ -6,7 +6,7 @@
   */
 
 .media-hero-img {
-	@include stack(md);
+	@include stack(xs);
 	grid-column: span 12;
 	@include respond-to(m){
 		grid-column: 4 / 12;
