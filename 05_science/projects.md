@@ -14,7 +14,7 @@ permalink: /science/projects/
 
 PI: Peter Coveney, University College London
 
-HOURS ALCF: 100,000 Node-Hours
+HOURS: ALCF: 100,000 Node-Hours
 
 **Design of Peptides and Proteins on Classical and Quantum Computing Hardware**
 
