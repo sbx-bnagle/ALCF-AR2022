@@ -10,7 +10,7 @@ permalink: /science/projects/
 
 # INCITE 2022
 ## BIOLOGICAL SCIENCES
-**COMPBIO2: COMbining deep-learning with Physics-Based affinIty estimatiOn 2**
+**[COMPBIO2: COMbining deep-learning with Physics-Based affinIty estimatiOn 2](https://www.alcf.anl.gov/science/projects/compbio2-combining-deep-learning-physics-based-affinity-estimation-2)** 
 
 PI: Peter Coveney, University College London
 
