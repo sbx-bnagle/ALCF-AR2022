@@ -399,24 +399,6 @@ PI: Alessandro Lovato, Argonne National Laboratory
 
 HOURS ALCF: 632,000 Node-Hours
 
-# ALCF DATA SCIENCE PROGRAM
-
-**Autonomous Molecular Design for Redox Flow Batteries**
-
-PI: Logan Ward, Argonne National Laboratory
-
-**Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction**
-
-PI: Robert Hovden, University of Michigan
-
-**Learning Optimal Image Representations for Current and Future Sky Surveys**
-
-PI: George Stein, Lawrence Berkeley National Laboratory
-
-**Machine Learning for Data Reconstruction to Accelerate Physics Discoveries in Accelerator-Based Neutrino Oscillation Experiments**
-
-PI: Marco Del Tutto, Fermi National Accelerator Laboratory
-
 # AURORA EARLY SCIENCE PROGRAM
 
 **Accelerated Deep Learning Discovery in Fusion Energy Science**
@@ -478,6 +460,24 @@ PI: Walter Hopkins, Argonne National Laboratory
 **Virtual Drug Response Prediction**
 
 PI: Rick Stevens, Argonne National Laboratory
+
+# ALCF DATA SCIENCE PROGRAM
+
+**Autonomous Molecular Design for Redox Flow Batteries**
+
+PI: Logan Ward, Argonne National Laboratory
+
+**Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction**
+
+PI: Robert Hovden, University of Michigan
+
+**Learning Optimal Image Representations for Current and Future Sky Surveys**
+
+PI: George Stein, Lawrence Berkeley National Laboratory
+
+**Machine Learning for Data Reconstruction to Accelerate Physics Discoveries in Accelerator-Based Neutrino Oscillation Experiments**
+
+PI: Marco Del Tutto, Fermi National Accelerator Laboratory
 
 # DIRECTOR'S DISCRETIONARY
 
