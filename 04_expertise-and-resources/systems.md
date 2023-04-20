@@ -14,7 +14,7 @@ ALCF supercomputing resources support large-scale, computationally intensive pro
 | :---------- | :---------- | :-------------- | :-------------- | :-------------- |
 | Purpose    | Science Campaigns    | Science Campaigns       | Science Campaigns       |  Data Analysis and Visualization
 | Architecture    | HPE Apollo 6500 Gen10+   | Intel-Cray XC40        | NVIDIA DGX A100        |  Intel Haswell
-| Peak Performance    | 44 PF (Tensor Core double precision)    | 11.7 PF       | 3.9 PF        |  293 TF
+| Peak Performance    | 25 PF; 44 PF (Tensor Core double precision)    | 11.7 PF       | 3.9 PF        |  293 TF
 | Processors per Node   | 3rd Gen AMD EPYC   | 64-core, 1.3-GHz Intel Xeon Phi 7230      | 2 AMD EPYC 7742        |  2 6-core, 2.4-GHz Intel E5–2620
 | GPUs per Node    | 4 NVIDIA A100 Tensor Core   | --     | 8 NVIDIA A100 Tensor Core        |  NVIDIA Tesla K80
 | Nodes   | 560    | 4,392      | 24        |  126
