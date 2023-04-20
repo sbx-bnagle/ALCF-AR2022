@@ -52,9 +52,7 @@ HOURS: ALCF: 50,000 Node-Hours; OLCF: 520,000 Node-Hours
 ## ENERGY TECHNOLOGIES
 
 **Automatic Building Energy Modeling (AutoBEM)**
-
 PI: Joshua New, Oak Ridge National Laboratory
-
 HOURS: ALCF: 800,000 Node-Hours
 
 ## ENGINEERING
