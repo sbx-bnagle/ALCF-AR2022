@@ -15,8 +15,7 @@ permalink: expertise-and-resources/staff-spotlights/
    credit= "Name A. Name"
 %}
 
-# Yasi Ghadar
-## Computational Scientist
+# Yasi Ghadar, Computational Scientist
 
 Yasi Ghadar joined the ALCF in 2016 as a postdoc using molecular dynamic simulations to understand the mechanism of ion transfer in Li ion batteries. In August 2018, she joined the performance engineering (PE) team as an assistant computational scientist, continuing her work with LAMMPS application and as a point of contact for EXAALT ECP project and began helping coordinate ALCF training and workshops. In December 2022, she was promoted to RD3 as computational scientist at ALCF. 
 
@@ -24,8 +23,7 @@ In 2022, Yasi was selected to participate in Strategic Laboratory Leadership Pro
 
 
 
-# Ben Lenard
-## HPC Systems & Database Administrator
+# Ben Lenard, HPC Systems & Database Administrator
 
 Ben Lenard joined the ALCF in 2015 as an HPC Systems & Database Administrator, responsible for overseeing the administration and improvement of database, monitoring, Kafka, and non-HPC storage systems in the ALCF supercomputing environment. He has presented at Cray Users Group as well as various Db2 events, and was a panelist at Tapia 2022. In addition to his day-to-day responsibilities, Ben has been strong advocate for the ALCF and for computer science, volunteering for events like the Hour of Code, Northern Illinois University STEM Fest, and Argonne’s public open house. 
 
@@ -39,8 +37,7 @@ Some of Ben’s notable 2022 activities included deploying Jenkins with Brian Ho
    credit= "Name A. Name"
 %}
 
-# Eric Pershey
-## Principal Software Development Specialist
+# Eric Pershey, Principal Software Development Specialist
 
 Eric Pershey joined the ALCF in 2010 as a Software Developer Specialist in the Advanced Integration Group.  Since he has joined, He has tested, worked on, or ran on all the ALCF supercomputers. Eric designs and develops the integration and testing of PBSPro on ALCF's next generation computing systems.  He also develops system tools for debugging problems using visualizations and instrumentation.  Eric’s research interests are graph theory combined with bitwise operations, AI, large-scale data generation, processing, and fidelity of metadata in high-performance computing systems.  He has a master’s degree in Computer Science from DePaul University and a bachelor’s degree in Electronic Engineering Technology from DeVry University.
 
@@ -48,8 +45,7 @@ In 2022, Eric worked on integrating PBS into all of our new systems, including P
 
 
 
-# Katie Sims-Partacz
-## Division Finance Manager
+# Katie Sims-Partacz, Division Finance Manager
 
 Katie Sims-Partacz oversees finance and business operations for Argonne’s Leadership Computing Facility. She leads the planning, execution, and oversight of the Leadership Computing’s annual budget ($156 MM in FY2022). Ms. Sims-Partacz has strong and diverse experience in various areas, including financial analysis, budgeting, accounting, procurements, and information technology.
 
@@ -65,8 +61,7 @@ In 2021, Katie received an Impact Argonne Award for a notable achievement in ext
    credit= "Name A. Name"
 %}
 
-# Brice Videau
-## Computer Scientist
+# Brice Videau, Computer Scientist
 
 Brice Videau joined the ALCF in 2019, as a computer scientist with a joint appointment with MCS, focusing on code generation, meta-programming, optimization, and auto-tuning for High Performance Computing. As a part of the ALCF Performance Engineering team, Brice works on heterogeneous programming models, which are the programming models used to leverage accelerators and GPUs such as those we will be using in Aurora. In 2022, Brice lead the HIP on Aurora ECP project where he and his team are bringing the HIP programming model used on frontier to the Intel GPUs, so application developers can reuse their HIP code and avoid the added work of porting their application to the SYCL programming model. Since last year, his team has seen the first release of their HIP backend called CHIP-SPV, and are closely working with application developers from ECP and other projects to bring their HIP applications to Aurora using our work.
 
