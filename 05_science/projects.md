@@ -18,7 +18,7 @@ permalink: /science/projects/
 PI: Peter Coveney, University College London\
 HOURS: ALCF: 100,000 Node-Hours
 
-### Design of Peptides and Proteins on Classical and Quantum Computing Hardware
+### [Design of Peptides and Proteins on Classical and Quantum Computing Hardware](https://www.alcf.anl.gov/science/projects/design-peptides-and-proteins-classical-and-quantum-computing-hardware-0)
 PI: Vikram Mulligan, Flatiron Institute\
 HOURS: ALCF: 1,070,000 Node-Hours
 
