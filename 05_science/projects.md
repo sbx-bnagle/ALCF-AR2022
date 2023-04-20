@@ -20,7 +20,7 @@ HOURS: ALCF: 100,000 Node-Hours
 
 ### Design of Peptides and Proteins on Classical and Quantum Computing Hardware
 PI: Vikram Mulligan, Flatiron Institute\
-HOURS ALCF: 1,070,000 Node-Hours
+HOURS: ALCF: 1,070,000 Node-Hours
 
 
 
@@ -28,15 +28,15 @@ HOURS ALCF: 1,070,000 Node-Hours
 
 ### Heterogeneous Catalysis as a Collective Phenomenon Within Dynamic Ensembles of States
 PI: Anastassia Alexandrova, University of California\
-HOURS ALCF: 2,000,000 Node-Hours
+HOURS: ALCF: 2,000,000 Node-Hours
 
 ### Implementing a Dispersive Interaction Database through Quantum Monte Carlo
 PI: Matteo Barborini, University of Luxembourg\
-HOURS ALCF: 1,000,000 Node-Hours
+HOURS: ALCF: 1,000,000 Node-Hours
 
 ### Nuclear Matter Dynamics in Real Time and the Heaviest Elements in Nature
 PI: Aurel Bulgac, University of Washington\
-HOURS ALCF: 200,000 Node-Hours\
+HOURS: ALCF: 200,000 Node-Hours\
 OLCF: 140,000 Node-Hours
 
 
@@ -45,7 +45,7 @@ OLCF: 140,000 Node-Hours
 
 ### New Window into Tropical Meteorology with Global 1 km Atmosphere-Ocean Simulations
 PI: Inna Polichtchouk, European Centre for Medium-Range Weather Forecasts\
-HOURS ALCF: 50,000 Node-Hours; OLCF: 520,000 Node-Hours
+HOURS: ALCF: 50,000 Node-Hours; OLCF: 520,000 Node-Hours
 
 
 
@@ -55,7 +55,7 @@ HOURS ALCF: 50,000 Node-Hours; OLCF: 520,000 Node-Hours
 
 PI: Joshua New, Oak Ridge National Laboratory
 
-HOURS ALCF: 800,000 Node-Hours
+HOURS: ALCF: 800,000 Node-Hours
 
 ## ENGINEERING
 
@@ -63,19 +63,19 @@ HOURS ALCF: 800,000 Node-Hours
 
 PI: Maninder Grover, Air Force Research Laboratory / University of Dayton Research Institute
 
-HOURS ALCF: 1,000,000 Node-Hours
+HOURS: ALCF: 1,000,000 Node-Hours
 
 **High-Speed Turbulence with Shocks Over Non-Adiabatic and Flexible Walls**
 
 PI: Johan Larsson, University of Maryland
 
-HOURS ALCF: 1,750,000 Node-Hours
+HOURS: ALCF: 1,750,000 Node-Hours
 
 **Online Machine Learning for Large-Scale Turbulent Simulations**
 
 PI: Kenneth Jansen, University of Colorado Boulder
 
-HOURS ALCF: 1,200,000 Node-Hours
+HOURS: ALCF: 1,200,000 Node-Hours
 
 ## MATERIALS SCIENCE
 
@@ -83,27 +83,27 @@ HOURS ALCF: 1,200,000 Node-Hours
 
 PI: Giulia Galli, University of Chicago and Argonne National Laboratory
 
-HOURS ALCF: 600,000 Node-Hours
+HOURS: ALCF: 600,000 Node-Hours
 OLCF: 290,000 Node-Hours
 
 **Predicting Ion Transport Kinetics at Complex Interfaces for Energy Storage**
 
 PI: Brandon Wood, Lawrence Livermore National Laboratory
 
-HOURS ALCF: 1,120,000 Node-Hours
+HOURS: ALCF: 1,120,000 Node-Hours
 
 **Towards Predictive Calculations of Functional and Quantum Materials**
 
 PI: Paul Kent, Oak Ridge National Laboratory
 
-HOURS ALCF: 1,000,000 Node-Hours
+HOURS: ALCF: 1,000,000 Node-Hours
 OLCF: 430,000 Node-Hours
 
 **Ultrafast Control of Functional Materials**
 
 PI: Priya Vashishta, University of Southern California
 
-HOURS ALCF: 1,700,000 Node-Hours
+HOURS: ALCF: 1,700,000 Node-Hours
 
 ## PHYSICS
 
@@ -111,45 +111,45 @@ HOURS ALCF: 1,700,000 Node-Hours
 
 PI: Gaute Hagen, Oak Ridge National Laboratory
 
-HOURS ALCF: 1,500,000 Node-Hours
+HOURS: ALCF: 1,500,000 Node-Hours
 OLCF: 590,000 Node-Hours
 
 **Approaching Exascale Models of Astrophysical Explosions**
 
 PI: Michael Zingale, Stony Brook University
 
-HOURS ALCF: 100,000 Node-Hours
+HOURS: ALCF: 100,000 Node-Hours
 OLCF: 590,000 Node-Hours
 
 **Electron Kinetic Plasma Physics of Black Hole Accretion Flows**
 
 PI: Dmitri Uzdensky, University of Colorado
 
-HOURS ALCF: 2,000,000 Node-Hours
+HOURS: ALCF: 2,000,000 Node-Hours
 
 **First-Principles Simulations of Black Hole Accretion Flows and Coronae**
 
 PI: Luca Comisso, Columbia University
 
-HOURS ALCF: 1,000,000 Node-Hours
+HOURS: ALCF: 1,000,000 Node-Hours
 
 **High-Fidelity Gyrokinetic Simulation of Tokamak and ITER Edge Physics**
 
 PI: Choongseock Chang, Princeton Plasma Physics Laboratory
 
-HOURS ALCF: 1,440,000 Node-Hours
+HOURS: ALCF: 1,440,000 Node-Hours
 
 **Internal Structure of Strong Interaction Nambu-Goldstone Bosons**
 
 PI: Yong Zhao, Argonne National Laboratory
 
-HOURS ALCF: 200,000 Node-Hours
+HOURS: ALCF: 200,000 Node-Hours
 
 **Next-Generation 3D Core-Collapse Supernova**
 
 PI: Adam Burrows, Princeton University
 
-HOURS ALCF: 1,850,000 Node-Hours
+HOURS: ALCF: 1,850,000 Node-Hours
 
 # ALCC 2022–2023
 
@@ -159,7 +159,7 @@ HOURS ALCF: 1,850,000 Node-Hours
 
 PI: Jonathan Ozik, Argonne National Laboratory
 
-HOURS ALCF: 283,000 Node-Hours
+HOURS: ALCF: 283,000 Node-Hours
 
 ## COMPUTER SCIENCE
 
@@ -167,7 +167,7 @@ HOURS ALCF: 283,000 Node-Hours
 
 PI: George Karniadakis, Brown University
 
-HOURS ALCF: 50,000 Node-Hours
+HOURS: ALCF: 50,000 Node-Hours
 OLCF: 40,000 Node-Hours
 NERSC: 60,000 Node-Hours
 
@@ -176,14 +176,14 @@ NERSC: 60,000 Node-Hours
 
 PI: Wei Jiang, Argonne National Laboratory
 
-HOURS ALCF: 500,000 Node-Hours
+HOURS: ALCF: 500,000 Node-Hours
 
 ## EARTH SCIENCE
 **A Climate Model Ensemble for Understanding Future Changes to Extreme**
 
 PI: Paul Ullrich, University of California
 
-HOURS ALCF: 900,000 Node-Hours
+HOURS: ALCF: 900,000 Node-Hours
 NERSC: 300,000 Node-Hours
 
 ## ENERGY TECHNOLOGIES
@@ -191,7 +191,7 @@ NERSC: 300,000 Node-Hours
 
 PI: Dillon Shaver, Argonne National Laboratory
 
-HOURS ALCF: 400,000 Node-Hours
+HOURS: ALCF: 400,000 Node-Hours
 OLCF: 400,000 Node-Hours
 NERSC: 100,000 Node-Hours
 
@@ -199,33 +199,33 @@ NERSC: 100,000 Node-Hours
 
 PI: Yiqi Yu, Argonne National Laboratory
 
-HOURS ALCF: 500,000 Node-Hours
+HOURS: ALCF: 500,000 Node-Hours
 
 **Modeling Operating Conditions in the US East Coast Offshore Wind Energy Lease Areas**
 
 PI: Sara Pryor, Cornell University
 
-HOURS ALCF: 142,000 Node-Hours
+HOURS: ALCF: 142,000 Node-Hours
 
 **Predictive Simulations of Inertial Confinement Fusion Ablator Materials**
 
 PI: Ivan Oleynik, University of South Florida
 
-HOURS ALCF: 150,000 Node-Hours
+HOURS: ALCF: 150,000 Node-Hours
 
 ## ENGINEERING
 **HFIR DNS Simulation**
 
 PI: Emilian Popov, Oak Ridge National Laboratory
 
-HOURS ALCF: 224,000 Node-Hours
+HOURS: ALCF: 224,000 Node-Hours
 
 ## MATERIALS SCIENCE
 **Computational Design of Novel Semiconductors for Power and Energy**
 
 PI: Feliciano Giustino, University of Texas
 
-HOURS ALCF: 883,000 Node-Hours
+HOURS: ALCF: 883,000 Node-Hours
 
 ## PHYSICS
 
@@ -233,7 +233,7 @@ HOURS ALCF: 883,000 Node-Hours
 
 PI: Zarija Lukić, Lawrence Berkeley National Laboratory
 
-HOURS ALCF: 100,000 Node-Hours
+HOURS: ALCF: 100,000 Node-Hours
 OLCF: 50,000 Node-Hours
 NERSC: 50,000 Node-Hours
 
@@ -241,13 +241,13 @@ NERSC: 50,000 Node-Hours
 
 PI: Frederico Fiuza, SLAC National Accelerator Laboratory
 
-HOURS ALCF: 860,000 Node-Hours
+HOURS: ALCF: 860,000 Node-Hours
 
 **High Precision Hadronic Vacuum Polarization Contribution to the Muon Anomalous Magnetic Moment using Highly Improved Staggered Quarks**
 
 PI: Steven Gottlieb, Indiana University
 
-HOURS ALCF: 100,000 Node-Hours
+HOURS: ALCF: 100,000 Node-Hours
 OLCF: 1,000,000 Node-Hours
 NERSC: 100,000 Node-Hours
 
@@ -255,19 +255,19 @@ NERSC: 100,000 Node-Hours
 
 PI: Jaeyoung Park, TAE Technologies, Inc.
 
-HOURS ALCF: 400,000 Node-Hours
+HOURS: ALCF: 400,000 Node-Hours
 
 **Short Range Correlations from a Quantum Monte Carlo Perspective**
 
 PI: Noemi Rocco, Fermi National Accelerator Laboratory
 
-HOURS ALCF: 730,000 Node-Hours
+HOURS: ALCF: 730,000 Node-Hours
 
 **The Spectrum and Structure of Hadrons**
 
 PI: Robert Edwards, Jefferson Laboratory
 
-HOURS ALCF: 300,000 Node-Hours
+HOURS: ALCF: 300,000 Node-Hours
 
 # ALCC 2021–2022
 
@@ -277,7 +277,7 @@ HOURS ALCF: 300,000 Node-Hours
 
 PI: Jonathan Ozik, Argonne National Laboratory
 
-HOURS ALCF: 160,000 Node-Hours
+HOURS: ALCF: 160,000 Node-Hours
 
 ## CHEMISTRY
 
@@ -285,13 +285,13 @@ HOURS ALCF: 160,000 Node-Hours
 
 PI: Wei Jiang, Argonne National Laboratory
 
-HOURS ALCF: 1,032,000 Node-Hours
+HOURS: ALCF: 1,032,000 Node-Hours
 
 **Multimodal Imaging with Intense X-ray Pulses**
 
 PI: Phay Ho, Argonne National Laboratory
 
-HOURS ALCF: 316,000 Node-Hours
+HOURS: ALCF: 316,000 Node-Hours
 
 ## EARTH SCIENCE
 
@@ -299,52 +299,52 @@ HOURS ALCF: 316,000 Node-Hours
 
 PI: Ben Kirtman, University of Miami
 
-HOURS ALCF: 1,000,000 Node-Hours
+HOURS: ALCF: 1,000,000 Node-Hours
 
 **Improving the Representation of Mesoscale Convective Systems in Weather and Climate**
 
 PI: Andreas Prein, National Center for Atmospheric Research
 
-HOURS ALCF: 372,000 Node-Hours
+HOURS: ALCF: 372,000 Node-Hours
 
 **Multi-Decadal, Climate-Scale Convection-Resolving Simulations for North America**
 
 PI: V. Rao Kotamarthi, Argonne National Laboratory
 
-HOURS ALCF: 300,000 Node-Hours
+HOURS: ALCF: 300,000 Node-Hours
 
 **Multi-Scale Multi-Physics Ensemble Simulations for Aerosol-Cloud Interactions**
 
 PI: Po-Lun Ma, Pacific Northwest National Laboratory
 
-HOURS ALCF: 400,000 Node-Hours
+HOURS: ALCF: 400,000 Node-Hours
 
 ## ENERGY TECHNOLOGIES
 **Cavitation Dynamics in the Spallation Neutron Source Target**
 
 PI: Eric Johnsen, University of Michigan
 
-HOURS ALCF: 108,000 Node-Hours
+HOURS: ALCF: 108,000 Node-Hours
 OLCF: 4,000 Node-Hours
 
 **High-Fidelity CFD Simulations Supporting the Needs of Industry and the DOE**
 
 PI: Dillon Shaver, Argonne National Laboratory
 
-HOURS ALCF: 550,000 Node-Hours
+HOURS: ALCF: 550,000 Node-Hours
 OLCF: 80,000 Node-Hours
 
 **High-Fidelity Physics Simulations for DOE and Industry Fast Spectrum Nuclear Reactor Systems**
 
 PI: Emily Shemon, Argonne National Laboratory
 
-HOURS ALCF: 880,000 Node-Hours
+HOURS: ALCF: 880,000 Node-Hours
 
 **High-Fidelity Simulation of Flow and Heat Transfer Behavior to Support Conversion of Research Reactors with Involute Shaped Fuel Elements to Low Enriched Uranium**
 
 PI: Yiqi Yu, Argonne National Laboratory
 
-HOURS ALCF: 500,000 Node-Hours
+HOURS: ALCF: 500,000 Node-Hours
 
 ## ENGINEERING
 
@@ -352,7 +352,7 @@ HOURS ALCF: 500,000 Node-Hours
 
 PI: Parviz Moin, Stanford University
 
-HOURS ALCF: 650,000 Node-Hours
+HOURS: ALCF: 650,000 Node-Hours
 NERSC: 500,000 Node-Hours
 
 ## MATERIALS SCIENCE
@@ -361,7 +361,7 @@ NERSC: 500,000 Node-Hours
 
 PI: Rafael Gomez-Bombarelli, Massachusetts Institute of Technology
 
-HOURS ALCF: 400,000 Node-Hours
+HOURS: ALCF: 400,000 Node-Hours
 OLCF: 50,000 Node-Hours
 NERSC: 200,000 Node-Hours
 
@@ -369,13 +369,13 @@ NERSC: 200,000 Node-Hours
 
 PI: Juan de Pablo, University of Chicago
 
-HOURS ALCF: 100,000 Node-Hours
+HOURS: ALCF: 100,000 Node-Hours
 
 **Response Functions of LaNiO2: Insights into High-Temperature Superconductivity**
 
 PI: Gabriel Kotliar, Rutgers University
 
-HOURS ALCF: 115,000 Node-Hours
+HOURS: ALCF: 115,000 Node-Hours
 
 ## PHYSICS
 
@@ -383,19 +383,19 @@ HOURS ALCF: 115,000 Node-Hours
 
 PI: William Tang, Princeton University
 
-HOURS ALCF: 45,000 Node-Hours
+HOURS: ALCF: 45,000 Node-Hours
 
 **LBNF - PIP-II Optimization Studies for Megawatt 120-GeV Beams on Target**
 
 PI: Igor Rakhno, Fermi National Accelerator Laboratory
 
-HOURS ALCF: 450,000 Node-Hours
+HOURS: ALCF: 450,000 Node-Hours
 
 **Quantum Monte Carlo Calculations of Nuclei Up to 16O and Neutron matter**
 
 PI: Alessandro Lovato, Argonne National Laboratory
 
-HOURS ALCF: 632,000 Node-Hours
+HOURS: ALCF: 632,000 Node-Hours
 
 # AURORA EARLY SCIENCE PROGRAM
 
