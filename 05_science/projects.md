@@ -26,15 +26,15 @@ HOURS: ALCF: 1,070,000 Node-Hours
 
 ## CHEMISTRY
 
-### Heterogeneous Catalysis as a Collective Phenomenon Within Dynamic Ensembles of States
+### [Heterogeneous Catalysis as a Collective Phenomenon Within Dynamic Ensembles of States](https://www.alcf.anl.gov/science/projects/heterogeneous-catalysis-collective-phenomenon-within-dynamic-ensembles-states-0)
 PI: Anastassia Alexandrova, University of California\
 HOURS: ALCF: 2,000,000 Node-Hours
 
-### Implementing a Dispersive Interaction Database through Quantum Monte Carlo
+### [Implementing a Dispersive Interaction Database through Quantum Monte Carlo](https://www.alcf.anl.gov/science/projects/implementing-dispersive-interaction-database-through-quantum-monte-carlo)
 PI: Matteo Barborini, University of Luxembourg\
 HOURS: ALCF: 1,000,000 Node-Hours
 
-### Nuclear Matter Dynamics in Real Time and the Heaviest Elements in Nature
+### [Nuclear Matter Dynamics in Real Time and the Heaviest Elements in Nature](https://www.alcf.anl.gov/science/projects/nuclear-matter-dynamics-real-time-and-heaviest-elements-nature)
 PI: Aurel Bulgac, University of Washington\
 HOURS: ALCF: 200,000 Node-Hours\
 OLCF: 140,000 Node-Hours
