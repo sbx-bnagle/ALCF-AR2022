@@ -9,6 +9,9 @@ theme: white
 permalink: /community-and-outreach/educational-outreach-activities/
 ---
 
+# ACT-SO Summer Coding at UIC 
+In June, the NAACP DuPage County ACT-SO Youth Program partnered with volunteers from Argonne National Laboratory, Fermilab, and University of Illinois Chicago to introduce AfricanAmerican high school and young undergraduate students to programming. The course ran for over a month, both in person and via zoom, with world-class researchers offering their skills to help these students become highly sought-after software gurus. 
+
 # ALCF AI for Science Training Series
 In 2022, the ALCF hosted its multi-week training program aimed at undergraduate and graduate students interested in taking their AI skills to a new level. The ALCF AI for Science Training Series, which kicked off in September, covers the fundamentals of using world-class supercomputers to advance the use of AI for research. Leveraging Argonne’s AI expertise and ALCF supercomputing resources, the hands-on series provides a unique learning experience designed to give participants a leg up in the burgeoning field of AI for Science. Sessions cover all aspects of using supercomputers for AI, from employing neural networks in Python and Tensorflow to running large scale training on a supercomputer. 
 
@@ -38,16 +41,11 @@ As part of the national Computer Science Education Week (CSEdWeek) in December, 
 # Introduce a Girl to Engineering Day
 ALCF staff members regularly serve as mentors and volunteers for Argonne’s Introduce a Girl to Engineering Day (IGED) program. The annual event, which was held virtually in 2022, gives eighth grade students a unique opportunity to discover engineering careers alongside Argonne’s world-class scientists and engineers. Participants hear motivational presentations by fellow female engineers, tour Argonne’s cutting-edge research facilities, connect with a mentor, engage in hands-on engineering experiments, and compete in a team challenge.
 
+# OneAPI Academic Hands-on Workshop
+In October, 150 undergraduate students from Chicagoland universities attended an all-day Intel oneAPI workshop hosted at Loyola University. Students had the opportunity to network with peers from other schools, professors, and experts from the ALCF. One highlight from the event was a graduate student panel, during which students had the opportunity to ask panelists about their work and paths to HPC. 
+
 # SC22 Student Cluster Competition 
 Held annually as part of the SC Conference series, the Student Cluster Competition aims to inspire undergraduate and high school students from around the world to pursue careers in the HPC field, demonstrating the breadth of skills, technologies and science that it takes to build, maintain and utilize supercomputers. Student teams are challenged to design and deploy an computing cluster, run benchmarks, use HPC resources to meet the demands of real scientific computing applications, and report on their results. At SC22, ALCF staff members served on the competition committee and contributed as application experts to support and advise the student teams. 
 
 # Science Careers in Search of Women
 ALCF staff members continue to contribute to Argonne’s annual Science Careers in Search of Women (SCSW) conference. Held virtually in 2022, the event hosts female high school students for a day of inspiring lectures, facility tours, career booth exhibits, and mentoring. SCSW provides participants with the unique experience to explore their desired profession or area of interest through interaction with Argonne’s women scientists and engineers.
-
-
-# ACT-SO Summer Coding at UIC 
-Starting in June, the NAACP DuPage County ACT-SO Youth Program partnered with 
-volunteers from Argonne National Laboratory, Fermilab, and UIC to introduce African-American high school and young undergraduate students to programming. The course ran for over a month, both in person and via zoom, with world class researchers offering their skills to help these students become a highly sought-after software guru. 
-
-# OneAPI Academic Hands-on Workshop
-In October, 150 undergraduate students from Chicagoland universities attended an all-day Intel oneAPI workshop hosted at Loyola University. Students had the opportunity to network with peers from other schools, professors, and experts from ALCF including Michael Papka, Paige Kinsley, and Venkatram Vishwanath. One highlight from the event was a graduate student panel, during which students had the opportunity to ask panelists about their work and paths to HPC. 
