@@ -1,0 +1,29 @@
+/**
+  * Component: Text, Publications
+  *  
+  * @description
+  * -
+  */
+
+.back {
+
+	// h1 {
+	// 	@include stack(sm);
+	// }
+
+	h2 {
+		@include stack(xs);
+		margin-top: bl(2); //8px
+	}
+
+	h3 {
+		text-transform: none;
+		@include typestyle($sans-sm-bld);
+	}
+
+	a {
+		text-decoration: none;
+	}
+		
+}
+

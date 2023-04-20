@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: back
 
 title: Projects
 
@@ -9,47 +9,45 @@ permalink: /science/projects/
 
 
 # INCITE 2022
+
+
+
 ## BIOLOGICAL SCIENCES
-**[COMPBIO2: COMbining deep-learning with Physics-Based affinIty estimatiOn 2](https://www.alcf.anl.gov/science/projects/compbio2-combining-deep-learning-physics-based-affinity-estimation-2)** 
 
-PI: Peter Coveney, University College London
-
+### [COMPBIO2: COMbining deep-learning with Physics-Based affinIty estimatiOn 2](https://www.alcf.anl.gov/science/projects/compbio2-combining-deep-learning-physics-based-affinity-estimation-2) 
+PI: Peter Coveney, University College London\
 HOURS: ALCF: 100,000 Node-Hours
 
-**Design of Peptides and Proteins on Classical and Quantum Computing Hardware**
-
-PI: Vikram Mulligan, Flatiron Institute
-
+### Design of Peptides and Proteins on Classical and Quantum Computing Hardware
+PI: Vikram Mulligan, Flatiron Institute\
 HOURS ALCF: 1,070,000 Node-Hours
+
+
 
 ## CHEMISTRY
 
-**Heterogeneous Catalysis as a Collective Phenomenon Within Dynamic Ensembles of States**
-
-PI: Anastassia Alexandrova, University of California
-
+### Heterogeneous Catalysis as a Collective Phenomenon Within Dynamic Ensembles of States
+PI: Anastassia Alexandrova, University of California\
 HOURS ALCF: 2,000,000 Node-Hours
 
-**Implementing a Dispersive Interaction Database through Quantum Monte Carlo**
-
-PI: Matteo Barborini, University of Luxembourg
-
+### Implementing a Dispersive Interaction Database through Quantum Monte Carlo
+PI: Matteo Barborini, University of Luxembourg\
 HOURS ALCF: 1,000,000 Node-Hours
 
-**Nuclear Matter Dynamics in Real Time and the Heaviest Elements in Nature**
-
-PI: Aurel Bulgac, University of Washington
-
-HOURS ALCF: 200,000 Node-Hours
+### Nuclear Matter Dynamics in Real Time and the Heaviest Elements in Nature
+PI: Aurel Bulgac, University of Washington\
+HOURS ALCF: 200,000 Node-Hours\
 OLCF: 140,000 Node-Hours
+
+
 
 ## EARTH SCIENCE
 
-**New Window into Tropical Meteorology with Global 1 km Atmosphere-Ocean Simulations**
-
-PI: Inna Polichtchouk, European Centre for Medium-Range Weather Forecasts
-
+### New Window into Tropical Meteorology with Global 1 km Atmosphere-Ocean Simulations
+PI: Inna Polichtchouk, European Centre for Medium-Range Weather Forecasts\
 HOURS ALCF: 50,000 Node-Hours; OLCF: 520,000 Node-Hours
+
+
 
 ## ENERGY TECHNOLOGIES
 
