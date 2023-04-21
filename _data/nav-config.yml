@@ -13,16 +13,16 @@ toc:
     slug: features
     url: /features
     subfolderitems:
-      - page: Aurora Takes Shape in the ALCF Data Center
-        url: /features/aurora
-      - page: Transforming Science with Aurora and the Upgraded APS
-        url: /features/aurora-and-aps
-      - page: Sunspot Testbed Provides On-Ramp for Aurora
-        url: /features/sunspot
       - page: Polaris Enters Production Mode
         url: /features/polaris
       - page: ALCF AI Testbed Systems Deployed for Open Science
         url: /features/alcf-ai-testbed
+      - page: Aurora Takes Shape in the ALCF Data Center
+        url: /features/aurora
+      - page: Sunspot Testbed Provides On-Ramp for Aurora
+        url: /features/sunspot
+      - page: Transforming Science with Aurora and the Upgraded APS
+        url: /features/aurora-and-aps
       - page: Argonne-Led Team Wins Gordon Bell Special Prize for COVID-19 Research
         url: /features/gordon-bell-prize
   - title: Growing the HPC Community
