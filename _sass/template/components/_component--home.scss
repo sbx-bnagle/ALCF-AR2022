@@ -24,6 +24,7 @@
 	margin-top: 64px;
 	width: 100vw;
 	box-sizing: border-box;
+	@include stack(xs);
 
 	.img-wrapper {
 		width: 100vw;
@@ -78,6 +79,20 @@
 		background-color: color(blue, XXXX);
 		opacity: 0.5;
 		mix-blend-mode: multiply;
+	}
+}
+
+.home--hero-caption {
+	@include grid-parent();
+	@include stack(xs);
+
+	small {
+		grid-column: 1 / -1;
+		color: color(neutral, XXXX);
+	}
+
+	.credit {
+		font-style: italic;
 	}
 }
 
