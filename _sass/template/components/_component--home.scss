@@ -87,7 +87,7 @@
 	@include stack(xs);
 
 	small {
-		grid-column: 1 / -1;
+		grid-column: 1 / 11;
 		color: color(neutral, XXXX);
 	}
 
@@ -138,6 +138,8 @@
 		@include typestyle($sans-sm-bld);
 		margin-bottom: 0;
 		text-transform: none;
+		line-height: bl(5);
+		@include stack(xs);
 	}
 
 	p {
@@ -274,11 +276,12 @@
 		@include grid-child($cols: 12);
 		border-bottom: 2px solid color(blue, XXX);
 		padding-bottom: bl(5);
-		@include stack(xs);
+		@include stack(xxs);
 	}
 
 	.toc-highlight {
 		margin-top: bl(2); //8px
+		@include stack(sm);
 	}
 
 	.toc-highlight .title,
@@ -288,6 +291,7 @@
 
 	.toc-highlight .title {
 		@include typestyle($sans-xs-bld);
+		margin-bottom: 0;
 	}
 
 	.toc-highlight .pi {

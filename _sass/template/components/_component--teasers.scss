@@ -18,7 +18,7 @@
 		@include grid-parent($config: $grid-full);
 	}
 
-	h2, h3, p {
+	h2, h3, p, small {
 		grid-column: 1 / -1;
 	}
 
@@ -45,10 +45,21 @@
 		@include typestyle($sans-sm-bld);
 		margin-bottom: 0;
 		text-transform: none;
+		line-height: bl(5);
+		@include stack(xs);
 	}
 
-	p {
+	p, small {
 		@include typestyle($sans-xs-bld);
+	}
+
+	small.eyebrow {
+		@include stack(xs);
+	}
+
+	small.meta {
+		border-top: 2px solid color(blue, XXX);
+		color: color(neutral, X);
 	}
 
 	.teaser {
