@@ -43,7 +43,7 @@ OLCF: 140,000 Node-Hours
 
 ## EARTH SCIENCE
 
-### New Window into Tropical Meteorology with Global 1 km Atmosphere-Ocean Simulations
+### [New Window into Tropical Meteorology with Global 1 km Atmosphere-Ocean Simulations](https://www.alcf.anl.gov/science/projects/new-window-tropical-meteorology-global-1-km-atmosphere-ocean-simulations)
 PI: Inna Polichtchouk, European Centre for Medium-Range Weather Forecasts\
 HOURS: ALCF: 50,000 Node-Hours; OLCF: 520,000 Node-Hours
 
@@ -51,7 +51,7 @@ HOURS: ALCF: 50,000 Node-Hours; OLCF: 520,000 Node-Hours
 
 ## ENERGY TECHNOLOGIES
 
-**Automatic Building Energy Modeling (AutoBEM)**
+**[Automatic Building Energy Modeling (AutoBEM)](https://www.alcf.anl.gov/science/projects/automatic-building-energy-modeling-autobem)**
 
 PI: Joshua New, Oak Ridge National Laboratory
 HOURS: ALCF: 800,000 Node-Hours
