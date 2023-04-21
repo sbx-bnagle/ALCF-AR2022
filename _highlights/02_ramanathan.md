@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/genslms'
+permalink: '/science/highlights/ramanathan'
 
 title: 'Using Genome-Scaling Language Models to Reveal SARS-CoV-2 Evolutionary Dynamics'
 pi: 'Arvind Ramanathan, Argonne National Laboratory'

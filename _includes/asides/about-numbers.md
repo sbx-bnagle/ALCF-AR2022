@@ -42,7 +42,7 @@
 
 
 
-## 2022 ALCF Users by State
+## 2022 U.S. ALCF Users by State
 
 {% include media-img.html
    source= "usa.png"

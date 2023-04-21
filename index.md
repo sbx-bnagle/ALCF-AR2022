@@ -81,7 +81,7 @@ layout: home
 	      	{% if item.slug == "science" %}
 	      		<ul class="toc-science">
 		          {% for entry in item.subfolderitems %}
-		          	{% if entry.page == "Highlights" %}
+		          	{% if entry.page == "2022 Science Highlights" %}
 			            <li class="hl">
 			              <a href="{{ site.baseurl }}{{ entry.url }}">
 			              	{{ entry.page }}
