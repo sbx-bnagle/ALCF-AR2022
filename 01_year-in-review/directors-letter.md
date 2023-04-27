@@ -10,7 +10,7 @@ hero-img-caption: "Michael E. Papka, ALCF Director"
 ---
 
 
-After another year spent adapting to the spikes and lulls in COVID-19 risk levels, ALCF staff are finally seeing a return to normalcy. We can report that thanks to many committed individuals and a robust safety culture, three-quarters of Aurora’s nodes are now in place, with the remaining installation continuing through spring and early summer 2023, and capping off with an upgrade to Sapphire Rapids CPUs with high-bandwidth memory. The deployment of Aurora is the facility’s most important current activity, and we are proud of our progress thus far.
+After another year spent adapting to the spikes and lulls in COVID-19 risk levels, ALCF staff are finally seeing a return to normalcy. We can report that thanks to many committed individuals and a robust safety culture, three-quarters of Aurora’s nodes are now in place, with the remaining installation continuing through spring and early summer 2023, and capping off with an upgrade to Sapphire Rapids CPUs with high-bandwidth memory. The [deployment of Aurora] (https://argonne-lcf.github.io/ALCF-AR2022//features/aurora) is the facility’s most important current activity, and we are proud of our progress thus far.
 
 But our activities are not limited to Aurora. The ALCF rolled out two powerful new resources in 2022, with the August deployment of the facility’s most powerful supercomputer to date, Polaris, followed by the December launch of Aurora’s test and development system, Sunspot. Both machines are part of a plan to ready users to do science in the exascale era – the rapidly approaching era of Aurora.
 
