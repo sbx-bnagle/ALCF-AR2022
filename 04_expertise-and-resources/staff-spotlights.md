@@ -45,7 +45,7 @@ In 2022, Eric worked on integrating PBS into all of the ALCF’s new systems, in
 
 {% include media-img.html
    source= "Videau.png"
-   caption= "caption= "Left: Katie Sims-Partacz, right: Brice Videau"
+   caption= "Left: Katie Sims-Partacz, right: Brice Videau"
 %}
 
 # Katie Sims-Partacz, Division Finance Manager
