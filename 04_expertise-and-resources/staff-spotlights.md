@@ -11,9 +11,10 @@ permalink: expertise-and-resources/staff-spotlights/
 
 {% include media-img.html
    source= "ghadar-lenard.png"
-   caption= "Left: Yasi Ghadar, right: Ben Lenard"
-   credit= "Name A. Name"
+   caption= "Left: Beth Cerny, right: Yasi Ghadar"
 %}
+# Beth Cerny, Communications Lead
+
 
 # Yasi Ghadar, Computational Scientist
 
@@ -23,7 +24,10 @@ This year, Yasi joined the ECP Training and Productivity team as a PI. To recogn
 
 Yasi also contributed to the Argonne-led Lab Structure and Process initiative. Serving as a committee member, their goal was to identify aspects of the national laboratory structure and process that led to vulnerabilities for harassment. The committee's findings were shared internally and externally to inform interventions and recommendations to prevent sexual and gender harassment at the lab, throughout the national laboratory community, and in the higher education community. She was awarded an Impact Argonne Award for her efforts on the committee.
 
-
+{% include media-img.html
+   source= "pershey-sims-partacz.png"
+   caption= "Left: Ben Lenard, right: Eric Pershey"
+%}
 
 # Ben Lenard, HPC Systems & Database Administrator
 
@@ -32,13 +36,6 @@ Ben Lenard joined the ALCF in 2015 as an HPC systems and database administrator,
 Some of Ben’s notable 2022 activities included deploying Jenkins with ALCF colleague Brian Homerding for Polaris acceptance testing. The Jenkins deployment replaced a custom written application with an open-source package that provided similar functionality. Jenkins provided enhancements to acceptance testing such as Slack Messaging when a job failed. Ben also deployed ALCF’s centralized Kafka cluster that is used for business intelligence (BI) activities to act as a data stream conduit between source systems and their processes for data consumption. This year, Ben also contributed to a number of other Polaris deployment efforts, including helping the ALCF Advanced Integration Group with the PBS job scheduler and working with the ALCF BI team to help them obtain data.
 
 
-
-{% include media-img.html
-   source= "pershey-sims-partacz.png"
-   caption= "Left: Eric Pershey, right: Katie Sims-Partacz"
-   credit= "Name A. Name"
-%}
-
 # Eric Pershey, Principal Software Development Specialist
 
 Eric Pershey joined the ALCF in 2010 as a software development specialist in the Advanced Integration Group. In this role, he has tested, worked on, or ran on all the ALCF supercomputers. Eric designs and develops the integration and testing of PBSPro on ALCF’s next-generation computing systems. He also develops system tools for debugging problems using visualizations and instrumentation. Eric’s research interests are graph theory combined with bitwise operations, AI, large-scale data generation, processing, and fidelity of metadata in high-performance computing systems. He has a master’s degree in Computer Science from DePaul University and a bachelor’s degree in Electronic Engineering Technology from DeVry University.
@@ -46,7 +43,10 @@ Eric Pershey joined the ALCF in 2010 as a software development specialist in the
 In 2022, Eric worked on integrating PBS into all of the ALCF’s new systems, including Polaris, EDTB, Crux, and Graphcore. He stress tested PBS on each system to make sure they could handle ALCF workloads. In 2022, he also built up ALCF infrastructure in a box called pbs-docker to emulate the ALCF’s real PBS environment by creating test jobs to stress the scheduler, OpenPBS, and PBSPro. He also created a test suite to push the scheduler to the limit by crushing it with jobs and measuring how it handles the workload to find weaknesses in the code. Eric has also spent a large amount of his time at the ALCF working on the annual Operational Assessment Report and mentoring students.
 
 
-
+{% include media-img.html
+   source= "Videau.png"
+   caption= "caption= "Left: Katie Sims-Partacz, right: Brice Videau"
+%}
 
 # Katie Sims-Partacz, Division Finance Manager
 
@@ -57,14 +57,6 @@ Previously at Argonne, she worked for the Chief Financial Officer from 2016-2020
 In 2021, Katie received an Impact Argonne Award for a notable achievement in extraordinary effort. She took on management of the 
 ALCF’s reporting for the Exascale Computing Project, as well as training several people – in the ALCF and Argonne’s Financial Management and Procurement Services division. Outside of ALCF, Katie is passionate about raising funds and promoting awareness for pediatric cardiovascular thoracic surgery research. In 2011, she launched a non-profit, Patching Little Hearts, and served as its president for one year. She continues as an advocate for congenital heart defect and breast cancer awareness. Katie has interests in skiing, live music, playing softball, and home improvement.
 
-
-
-
-{% include media-img.html
-   source= "Videau.png"
-   caption= "Brice Videau"
-   credit= "Name A. Name"
-%}
 
 # Brice Videau, Computer Scientist
 Brice Videau joined the ALCF in 2019 as a computer scientist with a joint appointment with Argonne’s Mathematics and Computer Science division, focusing on code generation, meta-programming, optimization, and auto-tuning for HPC. As a part of the ALCF Performance Engineering team, Brice works on heterogeneous programming models, which are the programming models used to leverage accelerators and GPUs such as those will be used in Aurora. In 2022, Brice led the Exascale Computing Project’s HIP on Aurora project where he and his team are bringing the HIP programming model used on Frontier to the Intel GPUs, so application developers can reuse their HIP code and avoid the added work of porting their application to the SYCL programming model. Since last year, his team has seen the first release of their HIP backend called CHIP-SPV, and are closely working with application developers from ECP and other projects to bring their HIP applications to Aurora.
