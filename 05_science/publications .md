@@ -12,47 +12,47 @@ permalink: /science/publications/
 
 JANUARY 
 
-Andreoli, L., J. Carlson, A. Lovato, S. Pastore, N. Rocco, and R. B. Wiringa. <i>“Electron Scattering on A=3 Nuclei from Quantum Monte Carlo Based Approaches,"</i> Physical Review C (January 2022), APS. doi: 10.1103/physrevc.105.014002
+Andreoli, L., J. Carlson, A. Lovato, S. Pastore, N. Rocco, and R. B. Wiringa. “Electron Scattering on A=3 Nuclei from Quantum Monte Carlo Based Approaches," <i>Physical Review C</i> (January 2022), APS. doi: 10.1103/physrevc.105.014002
 
-Ashwin Renganathan, S., R. Maulik, S. Letizia, and G. Valerio Iungo. <i>“Data-Driven Wind Turbine Wake Modeling via Probabilistic Machine Learning,"</i> Neural Computing and Applications (January 2022), Springer Nature. doi: 10.1007/s00521-021-06799-6
+Ashwin Renganathan, S., R. Maulik, S. Letizia, and G. Valerio Iungo. “Data-Driven Wind Turbine Wake Modeling via Probabilistic Machine Learning," <i>Neural Computing and Applications</i> (January 2022), Springer Nature. doi: 10.1007/s00521-021-06799-6
 
-Bayerl, B., C. M., Andolina ,S. Dwaraknath, and W. A. Saidi. <i>“Convergence Acceleration in Machine Learning Potentials for Atomistic Simulations,"</i> Digital Discovery (January 2022), no. 1, Royal Society of Chemistry, pp. 61-69. doi: 10.1039/d1dd00005e
+Bayerl, B., C. M., Andolina ,S. Dwaraknath, and W. A. Saidi. “Convergence Acceleration in Machine Learning Potentials for Atomistic Simulations," <i>Digital Discovery</i> (January 2022), no. 1, Royal Society of Chemistry, pp. 61-69. doi: 10.1039/d1dd00005e
 
-Berres, A. S., B. C. Bass, M. B. Adams, E. Garrison, and J. R. New. <i>“A Data-Driven Approach to Nation-Scale Building Energy Modeling,"</i> 2021 IEEE International Conference on Big Data (Big Data) (January 2022), Orlando, FL, IEEE. doi: 10.1109/BigData52589.2021.9671786
+Berres, A. S., B. C. Bass, M. B. Adams, E. Garrison, and J. R. New. “A Data-Driven Approach to Nation-Scale Building Energy Modeling," <i>2021 IEEE International Conference on Big Data (Big Data)</i> (January 2022), Orlando, FL, IEEE. doi: 10.1109/BigData52589.2021.9671786
 
-Bosilca, G., A. Bouteiller, T. Herault, V. Le Févre, Y. Robert, and J. Dongarra. <i>“Comparing Distributed Termination Detection Algorithms for Modern HPC Platforms,"</i> International Journal of Networking and Computing (January 2022), vol. 12, no. 1, International Journal of Networking and Computing . doi: 10.15803/ijnc.12.1_26
+Bosilca, G., A. Bouteiller, T. Herault, V. Le Févre, Y. Robert, and J. Dongarra. “Comparing Distributed Termination Detection Algorithms for Modern HPC Platforms," <i>International Journal of Networking and Computing</i> (January 2022), vol. 12, no. 1, International Journal of Networking and Computing . doi: 10.15803/ijnc.12.1_26
 
-Chidyagwaia, S. G., M. Vardhana, M. Kapland, R. Chamberlain, P. Barker, and A. Randles. <i>“Characterization of Hemodynamics in Anomalous Aortic Origin of Coronary Arteries Using Patient-Specific Modeling,"</i> Journal of Biomechanics (January 2022), Elsevier. doi: 10.1016/j.jbiomech.2021.110919
+Chidyagwaia, S. G., M. Vardhana, M. Kapland, R. Chamberlain, P. Barker, and A. Randles. "Characterization of Hemodynamics in Anomalous Aortic Origin of Coronary Arteries Using Patient-Specific Modeling," <i>Journal of Biomechanics</i> (January 2022), Elsevier. doi: 10.1016/j.jbiomech.2021.110919
 
-Clyde, A., S. Galanie, D.W. Kneller, H. Ma, Y Babuji, B Blaiszik, A. Brace, T. Brettin, K. Chard, R. Chard, L. Coates, I. Foster, D. Hauner, V. Kertesz, N. Kumar, H. Lee, Z. Li, A. Merzky, J.G. Schmidt, L. Tan, M. Titov, A. Trifan, M. Turilli, H. Van Dam, S.C. Chennubhotla, S. Jha, A. Kovalevsky, A. Ramanathan, M.S. Head, and R. Stevens. <i>“High-Throughput Virtual Screening and Validation of a SARS-CoV-2 Main Protease Noncovalent Inhibitor,"</i> National Library of Medicine (January 2022), Pub Med. doi: 10.1021/acs.jcim.1c00851
+Clyde, A., S. Galanie, D.W. Kneller, H. Ma, Y Babuji, B Blaiszik, A. Brace, T. Brettin, K. Chard, R. Chard, L. Coates, I. Foster, D. Hauner, V. Kertesz, N. Kumar, H. Lee, Z. Li, A. Merzky, J.G. Schmidt, L. Tan, M. Titov, A. Trifan, M. Turilli, H. Van Dam, S.C. Chennubhotla, S. Jha, A. Kovalevsky, A. Ramanathan, M.S. Head, and R. Stevens. “High-Throughput Virtual Screening and Validation of a SARS-CoV-2 Main Protease Noncovalent Inhibitor," <i>Journal of Chemical Information and Modeling</i> (January 2022), ACS. doi: 10.1021/acs.jcim.1c00851
 
-Drobchik, A. N., V. V. Nikitin, M. I. Fokin, G. A. Dugarov, A. L. Shevchenko, A. L. Deriy, A. Y. Manikov, K. E. Kuper, and A.A. Duchtov. <i>“Environmental Cell for In Situ X-ray Synchrotron Micro-CT Imaging with Simultaneous Acoustic Measurements,"</i> Journal of Synchrotron Radiation (January 2022), International Union of Crystallography. doi: 10.1107/s1600577521013308
+Drobchik, A. N., V. V. Nikitin, M. I. Fokin, G. A. Dugarov, A. L. Shevchenko, A. L. Deriy, A. Y. Manikov, K. E. Kuper, and A.A. Duchtov. “Environmental Cell for In Situ X-ray Synchrotron Micro-CT Imaging with Simultaneous Acoustic Measurements," <i>Journal of Synchrotron Radiation</i> (January 2022), International Union of Crystallography. doi: 10.1107/s1600577521013308
 
-Feldman, C., B. Michalowicz, E. Siegmann, T. Curtis, A. Calder, and R. Harrison. <i>“Experiences with Porting the FLASH Code to Ookami, an HPE Apollo 80 A64FX Platform,"</i> HPCAsia 2022 Workshop: International Conference on High Performance Computing in Asia-Pacific Region Workshops (January 2022), ACM. doi: 10.1145/3503470.3503478
+Feldman, C., B. Michalowicz, E. Siegmann, T. Curtis, A. Calder, and R. Harrison. “Experiences with Porting the FLASH Code to Ookami, an HPE Apollo 80 A64FX Platform," <i>HPCAsia 2022 Workshop: International Conference on High Performance Computing in Asia-Pacific Region Workshops</i> (January 2022), ACM. doi: 10.1145/3503470.3503478
 
-Khan, A., E. A. Huerta, and H. Zheng. <i>“Interpretable AI Forecasting for Numerical Relativity Waveforms of Quasicircular, Spinning, Nonprocessing Binary Black Hole Mergers,"</i> Physical Review D (January 2022), APS. doi: 10.1103/PhysRevD.105.024024
+Khan, A., E. A. Huerta, and H. Zheng. “Interpretable AI Forecasting for Numerical Relativity Waveforms of Quasicircular, Spinning, Nonprocessing Binary Black Hole Mergers," <i>Physical Review D</i> (January 2022), APS. doi: 10.1103/PhysRevD.105.024024
 
-Liu, Z., H. Sharma, J.-S. Park, P. Kenesei, A. Miceli, J. Almer, R. Kettimuthu,and I. Foster. <i>“BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning,"</i> IUCrJ (January 2022), vol. 9, no. 1, International Union of Crystallography, pp. 104-113. doi: 10.1107/S2052252521011258
+Liu, Z., H. Sharma, J.-S. Park, P. Kenesei, A. Miceli, J. Almer, R. Kettimuthu,and I. Foster. “BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning," <i>IUCrJ</i> (January 2022), vol. 9, no. 1, International Union of Crystallography, pp. 104-113. doi: 10.1107/S2052252521011258
 
-Malbrunot-Ettenauer, S., S. Kaufmann, S. Bacca, C. Barbieri, J. Billowes, M. L. Bissell, K. Blaum, B. Cheal, T. Duguet, R. F. Garcia Ruiz, W. Gins, C. Gorges, G. Hagen, H. Heylen, J. D. Holt, G. R. Jansen, A. Kanellakopoulos, M. Kortelainen, T. Miyagi, P. Navrátil, W. Nazarewicz, R. Neugart, G. Neyens, W. Nörtershäuser, S. J. Novario, T. Papenbrock, T. Ratajczyk, P.-G. Reinhard, L. V. Rodríguez, R. Sánchez, S. Sailer, A. Schwenk, J. Simonis, V. Somà, S. R. Stroberg, L. Wehner, C. Wraith, L. Xie, Z. Y. Xu, X. F. Yang, and D. T. Yordanov. <i>“Nuclear Charge Radii of the Nickel Isotopes <sup>58−68,70</sup>Ni,"</i> Physical Review Letters (January 2022), APS. doi: 10.1103/PhysRevLett.128.022502
+Malbrunot-Ettenauer, S., S. Kaufmann, S. Bacca, C. Barbieri, J. Billowes, M. L. Bissell, K. Blaum, B. Cheal, T. Duguet, R. F. Garcia Ruiz, W. Gins, C. Gorges, G. Hagen, H. Heylen, J. D. Holt, G. R. Jansen, A. Kanellakopoulos, M. Kortelainen, T. Miyagi, P. Navrátil, W. Nazarewicz, R. Neugart, G. Neyens, W. Nörtershäuser, S. J. Novario, T. Papenbrock, T. Ratajczyk, P.-G. Reinhard, L. V. Rodríguez, R. Sánchez, S. Sailer, A. Schwenk, J. Simonis, V. Somà, S. R. Stroberg, L. Wehner, C. Wraith, L. Xie, Z. Y. Xu, X. F. Yang, and D. T. Yordanov. “Nuclear Charge Radii of the Nickel Isotopes <sup>58−68,70</sup>Ni,"<i>Physical Review Letters</i> (January 2022), APS. doi: 10.1103/PhysRevLett.128.022502
 
-Manna, S., T. D. Loeffler, R. Batra, S. Banik, H. Chan, B. Varughese, K. Sasikumar, M. Sternberg, T. Peterka, M. J. Cherukara, S. K. Gray, B. G. Sumpter, and S. K. R. S. Sankaranarayanan. <i>“Learning in Continuous Action Space for Developing High Dimensional Potential Energy Models,"</i> Nature Communications (January 2022), Nature Communications. doi: 10.1038/s41467-021-27849-6
+Manna, S., T. D. Loeffler, R. Batra, S. Banik, H. Chan, B. Varughese, K. Sasikumar, M. Sternberg, T. Peterka, M. J. Cherukara, S. K. Gray, B. G. Sumpter, and S. K. R. S. Sankaranarayanan. “Learning in Continuous Action Space for Developing High Dimensional Potential Energy Models," <i>Nature Communications</i> (January 2022), Springer Nature. doi: 10.1038/s41467-021-27849-6
 
-Posner, J., L. Reitz, and C. Fohry. <i>“Task-Level Resilience: Checkpointing vs. Supervision,"</i> International Journal of Networking and Computing (January 2022), vol. 12, no. 1, International Journal of Networking and Computing, pp. 47-72. doi: 10.15803/ijnc.12.1_47
+Posner, J., L. Reitz, and C. Fohry. “Task-Level Resilience: Checkpointing vs. Supervision," <i>International Journal of Networking and Computing</i> (January 2022), vol. 12, no. 1, International Journal of Networking and Computing, pp. 47-72. doi: 10.15803/ijnc.12.1_47
 
-Saidi, W. A. <i>“Optimizing the Catalytic Activity of Pd-Based Multinary Alloys toward Oxygen Reduction Reaction,"</i> The Journal of Physical Chemistry Letters (January 2022), vol. 13, ACS Publications. doi: 10.1021/acs.jpclett.1c04128
+Saidi, W. A. “Optimizing the Catalytic Activity of Pd-Based Multinary Alloys toward Oxygen Reduction Reaction," <i>The Journal of Physical Chemistry Letters</i> (January 2022), vol. 13, ACS Publications. doi: 10.1021/acs.jpclett.1c04128
 
-Schwartz, J., Z. W. Di, Y. Jiang, A. J. Fielitz, D.-H. Ha, S. D. Perera, I. El Baggari, R. D. Robinson, J. A. Fessler, C. Ophus, S. Rozeveld, and R. Hovden. <i>“Imaging Atomic-Scale Chemistry from Fused Multi-Modal Electron Microscopy,"</i> npj Computational Materials (January 2022), Springer Nature. doi: 10.1038/s41524-021-00692-5
+Schwartz, J., Z. W. Di, Y. Jiang, A. J. Fielitz, D.-H. Ha, S. D. Perera, I. El Baggari, R. D. Robinson, J. A. Fessler, C. Ophus, S. Rozeveld, and R. Hovden. “Imaging Atomic-Scale Chemistry from Fused Multi-Modal Electron Microscopy," <i>npj Computational Materials</i> (January 2022), Springer Nature. doi: 10.1038/s41524-021-00692-5
 
-Sudharsan, S., B. Ganapathysubramanian, and A. Sharma. <i>“A Vorticity-Based Criterion to Characterise Leading Edge Dynamic Stall Onset,"</i> Journal of Fluid Mechanics (January 2022), Cambridge University Press. doi: 10.1017/jfm.2021.1149
+Sudharsan, S., B. Ganapathysubramanian, and A. Sharma. “A Vorticity-Based Criterion to Characterise Leading Edge Dynamic Stall Onset," <i>Journal of Fluid Mechanics</i> (January 2022), Cambridge University Press. doi: 10.1017/jfm.2021.1149
 
-Vorabbi, M., M. Gennari, P. Finelli, C. Giusti, P. Navrátil, and R. Machleidt. <i>“Elastic Proton Scattering Off Nonzero Spin Nuclei,"</i> Physical Review C (January 2022), APS. doi: 10.1103/PhysRevC.105.014621
+Vorabbi, M., M. Gennari, P. Finelli, C. Giusti, P. Navrátil, and R. Machleidt. “Elastic Proton Scattering Off Nonzero Spin Nuclei," <i>Physical Review C</i> (January 2022), APS. doi: 10.1103/PhysRevC.105.014621
 
-Xie, Z., S. Raskar, and M. Emani. <i>“Throughput-Oriented and Accuracy-Aware DNN Training with BFloat16 on GPU,"</i> 4th IEEE International Parallel and Distributed Processing Symposium Workshop on Scalable Deep Learning over Parallel and Distributed Infrastructure (January 2022), Lyons, France, IEEE. doi: 10.1109/IPDPSW55747.2022.00176
+Xie, Z., S. Raskar, and M. Emani. “Throughput-Oriented and Accuracy-Aware DNN Training with BFloat16 on GPU," <i>4th IEEE International Parallel and Distributed Processing Symposium Workshop on Scalable Deep Learning over Parallel and Distributed Infrastructure</i> (January 2022), Lyons, France, IEEE. doi: 10.1109/IPDPSW55747.2022.00176
 
-Xu, H., A. Berres, S. Yoginath, K. Kurte, R. Peleti, J. R. New, and J. Sanyal. <i>“Towards Adaptive Decision Support: A Perspective from Intelligent and Annotated Visual Analytics for Exploring Big Urban Mobility Data,"</i> ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, and Communication (January 2022), U.S. Department of Energy. doi: 10.2172/1843572
+Xu, H., A. Berres, S. Yoginath, K. Kurte, R. Peleti, J. R. New, and J. Sanyal. “Towards Adaptive Decision Support: A Perspective from Intelligent and Annotated Visual Analytics for Exploring Big Urban Mobility Data," <i>ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, and Communication</i> (January 2022), U.S. Department of Energy. doi: 10.2172/1843572
 
-Ye, Z., C. Zhang, and G. Galli. <i>“Photoelectron Spectra of Water and Simple Aqueous Solutions at Extreme Conditions,"</i> Faraday Discussions (January 2022), Royal Society of Cshemistry. doi: 10.1039/D2FD00003B
+Ye, Z., C. Zhang, and G. Galli. “Photoelectron Spectra of Water and Simple Aqueous Solutions at Extreme Conditions," <i>Faraday Discussions</i> (January 2022), Royal Society of Chemistry. doi: 10.1039/D2FD00003B
 
 FEBRUARY
 
