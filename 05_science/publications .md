@@ -430,48 +430,48 @@ Zyvagin, M., A. Brace, K. Hippie, Y. Deng, B. Zhang, C. O. Bohorquez, A. Clyde, 
 
 DECEMBER
 
-Bass, B., J. New, and Z. Wade. “Future Typical Meteorological Year (fTMY) Weather Data and Climate Change Impacts to Maricopa County, Arizona," BuildSys '22: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (December 2022), Association for Computing Machinery, pp. 504-507. doi: 10.1145/3563357.3567408
+Bass, B., J. New, and Z. Wade. “Future Typical Meteorological Year (fTMY) Weather Data and Climate Change Impacts to Maricopa County, Arizona," <i>BuildSys '22: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i> (December 2022), Association for Computing Machinery, pp. 504-507. doi: 10.1145/3563357.3567408
 
-Blöndal, K., K. Sargsyan, D. H. Bross, B. Ruscic, and C. F. Goldsmith. “Configuration Space Integration for Adsorbate Partition Functions: The Effect of Anharmonicity on the Thermophysical Properties of CO–Pt(111) and CH3OH–Cu(111)," ACS Catalysis (December 2022), ACS. doi: 10.1021/acscatal.2c04246
+Blöndal, K., K. Sargsyan, D. H. Bross, B. Ruscic, and C. F. Goldsmith. “Configuration Space Integration for Adsorbate Partition Functions: The Effect of Anharmonicity on the Thermophysical Properties of CO–Pt(111) and CH<sub>3</sub>OH–Cu(111)," <i>ACS Catalysis</i> (December 2022), ACS. doi: 10.1021/acscatal.2c04246
 
-Hoy, J., and I. Bermejo-Moreno. “Fluid-Structural Coupling of an Impinging Shock-Turbulent Boundary Layer Interaction at Mach 3 over a Flexible Panel," Flow (December 2022), Cambridge University Press. doi: 10.1017/flo.2022.28
+Hoy, J., and I. Bermejo-Moreno. “Fluid-Structural Coupling of an Impinging Shock-Turbulent Boundary Layer Interaction at Mach 3 over a Flexible Panel," <i>Flow</i> (December 2022), Cambridge University Press. doi: 10.1017/flo.2022.28
 
-Jain, S. S., and A. Mani. “A Computational Model for Transport of Immiscible Scalars in Two-Phase Flows," Journal of Computational Physics (December 2022), Elsevier. doi: 10.1016/j.jcp.2022.111843
+Jain, S. S., and A. Mani. “A Computational Model for Transport of Immiscible Scalars in Two-Phase Flows," <i>Journal of Computational Physics</i> (December 2022), Elsevier. doi: 10.1016/j.jcp.2022.111843
 
-Jain, S. S., M. C. Adler, J. R. West, A. Mani, P. Moin, and S. K. Lele. “Assessment of Diffuse-Interface Methods for Compressible Multiphase Fluid Flows and Elastic-Plastic Deformation in Solids," Journal of Computational Physics (December 2022), Elsevier. doi: 10.1016/j.jcp.2022.111866
+Jain, S. S., M. C. Adler, J. R. West, A. Mani, P. Moin, and S. K. Lele. “Assessment of Diffuse-Interface Methods for Compressible Multiphase Fluid Flows and Elastic-Plastic Deformation in Solids," <i>Journal of Computational Physics</i> (December 2022), Elsevier. doi: 10.1016/j.jcp.2022.111866
 
-Kraus, M., L. Naoufal, L. Zhengchun, and R. Coffee. “EdgeAI: Machine Learning Via Direct Attached Accelerator for Streaming Data Processing at High Shot Rate X-Ray Free-Electron Lasers," Frontiers in Physics (December 2022), Frontiers Media SA. doi: 10.3389/fphy.2022.957509
+Kraus, M., L. Naoufal, L. Zhengchun, and R. Coffee. “EdgeAI: Machine Learning via Direct Attached Accelerator for Streaming Data Processing at High Shot Rate X-Ray Free-Electron Lasers," <i>Frontiers in Physics</i> (December 2022), Frontiers Media SA. doi: 10.3389/fphy.2022.957509
 
-Linker, T., K. Nomura, S. Fukushima, R. K. Kalia, A. Krishnamoorthy, A. Nakano, K. Shimamura, F. Shimojo, and P. Vashishta. “Squishing Skyrmions: Symmetry-Guided Dynamic Transformation of Polar Topologies under Compression," The Journal of Physical Chemistry Letters (December 2022), ACS. doi: 10.1021/acs.jpclett.2c03029
+Linker, T., K. Nomura, S. Fukushima, R. K. Kalia, A. Krishnamoorthy, A. Nakano, K. Shimamura, F. Shimojo, and P. Vashishta. “Squishing Skyrmions: Symmetry-Guided Dynamic Transformation of Polar Topologies under Compression," <i>The Journal of Physical Chemistry Letters</i> (December 2022), ACS. doi: 10.1021/acs.jpclett.2c03029
 
-Linot, A. J., J. W. Burby, Q. Tang, P. Balaprakash, M. D. Graham, and R. Maulik. “Stabilized Neural Ordinary Differential Equations for Long-Time Forecasting of Dynamical Systems," Journal of Computational Physics (December 2022), Elsevier. doi: 10.1016/j.jcp.2022.111838
+Linot, A. J., J. W. Burby, Q. Tang, P. Balaprakash, M. D. Graham, and R. Maulik. “Stabilized Neural Ordinary Differential Equations for Long-Time Forecasting of Dynamical Systems," <i>Journal of Computational Physics</i> (December 2022), Elsevier. doi: 10.1016/j.jcp.2022.111838
 
-Maris, P., R. Roth, E. Epelbaum, R. J. Furnstahl, J. Golak, K. Hebeler, T. Hüther, H. Kamada, H. Krebs, H. Le, U.-G. Meißner, J. A. Melendez, A. Nogga, P. Reinert, R. Skibiński, J. P. Vary, H. Witała, and T. Wolfgruber. “Nuclear Properties with Semilocal Momentum-Space Regularized Chiral Interactions beyond N<sup>2</sup>LO," Physical Review C (December 2022), APS. doi: 10.1103/PhysRevC.106.064002
+Maris, P., R. Roth, E. Epelbaum, R. J. Furnstahl, J. Golak, K. Hebeler, T. Hüther, H. Kamada, H. Krebs, H. Le, U.-G. Meißner, J. A. Melendez, A. Nogga, P. Reinert, R. Skibiński, J. P. Vary, H. Witała, and T. Wolfgruber. “Nuclear Properties with Semilocal Momentum-Space Regularized Chiral Interactions beyond N<sup>2</sup>LO," <i>Physical Review C</i> (December 2022), APS. doi: 10.1103/PhysRevC.106.064002
 
-Marrinan, T., J. Tan, J. A. Insley, A. Kanayinkal, and M. E. Papka. “Interactive Virtual Reality Exploration of Large-Scale Datasets Using Omnidirectional Stereo Images," ISVC 2022: Advances in Visual Computing (December 2022), Springer Nature. doi: 10.1007/978-3-031-20713-6_9
+Marrinan, T., J. Tan, J. A. Insley, A. Kanayinkal, and M. E. Papka. “Interactive Virtual Reality Exploration of Large-Scale Datasets Using Omnidirectional Stereo Images," <i>ISVC 2022: Advances in Visual Computing</i> (December 2022), Springer Nature. doi: 10.1007/978-3-031-20713-6_9
 
-Moran, K. R., K. Heitmann, E. Lawrence, S. Habib, D. Bingham, A. Upadhye, J. Kwan, D. Higdon, and R. Payne. “The Mira-Titan Universe – IV. High Precision Power Spectrum Emulation," Monthly Notices of the Royal Astronomical Society (December 2022), Oxford University Publishing. doi: 10.1093/mnras/stac3452
+Moran, K. R., K. Heitmann, E. Lawrence, S. Habib, D. Bingham, A. Upadhye, J. Kwan, D. Higdon, and R. Payne. “The Mira-Titan Universe – IV. High Precision Power Spectrum Emulation," <i>Monthly Notices of the Royal Astronomical Society</i> (December 2022), Oxford University Publishing. doi: 10.1093/mnras/stac3452
 
-Nealey, I., N. Ferrier, J. A. Insley, V. A. Mateevitsi, S. Rizzi, and J. Schulze. “Sort-Last In-Transit Data Visualization with SENSEI, Catalyst, and Unreal Engine," 2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV) (December 2022), Oklahoma City, OK, IEEE. doi: 10.1109/LDAV57265.2022.9966391
+Nealey, I., N. Ferrier, J. A. Insley, V. A. Mateevitsi, S. Rizzi, and J. Schulze. “Sort-Last In-Transit Data Visualization with SENSEI, Catalyst, and Unreal Engine," <i>2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)</i> (December 2022), Oklahoma City, OK, IEEE. doi: 10.1109/LDAV57265.2022.9966391
 
-Norman, M., I. Lyngaas, A. Bagusetty, and M. Berrill. “Portable C++ Code That Can Look and Feel Like Fortran Code with Yet Another Kernel Launcher (YAKL)," International Journal of Parallel Programming (December 2022), Springer Nature. doi: 10.1007/s10766-022-00739-0
+Norman, M., I. Lyngaas, A. Bagusetty, and M. Berrill. “Portable C++ Code That Can Look and Feel Like Fortran Code with Yet Another Kernel Launcher (YAKL)," <i>International Journal of Parallel Programming</i> (December 2022), Springer Nature. doi: 10.1007/s10766-022-00739-0
 
-Ortiz, J. A., J. A. Insley, J. Knowles, V. A. Mateevitsi, M. E. Papka, and S. Rizzi. “Massive Data Visualization Techniques for Use in Virtual Reality Devices," 2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV) (December 2022), Oklahoma City, OK, IEEE. doi: 10.1109/LDAV57265.2022.9966400
+Ortiz, J. A., J. A. Insley, J. Knowles, V. A. Mateevitsi, M. E. Papka, and S. Rizzi. “Massive Data Visualization Techniques for Use in Virtual Reality Devices," <i>2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)</i> (December 2022), Oklahoma City, OK, IEEE. doi: 10.1109/LDAV57265.2022.9966400
 
-Rostamijavanani, A., S. Li, and Y. Yang. “Physics-Constrained Deep Learning of Nonlinear Normal Modes of Spatiotemporal Fluid Flow Dynamics," Physics of Fluids (December 2022), AIP Publishing. doi: 10.1063/5.0124455
+Rostamijavanani, A., S. Li, and Y. Yang. “Physics-Constrained Deep Learning of Nonlinear Normal Modes of Spatiotemporal Fluid Flow Dynamics," <i>Physics of Fluids</i> (December 2022), AIP Publishing. doi: 10.1063/5.0124455
 
-Sun, Z. H., C. A. Bell, G. Hagen, and T. Papenbrock. “How to Renormalize Coupled Cluster Theory," Physical Review C (December 2022), APS. doi: 10.1103/PhysRevC.106.L061302
+Sun, Z. H., C. A. Bell, G. Hagen, and T. Papenbrock. “How to Renormalize Coupled Cluster Theory," <i>Physical Review C</i> (December 2022), APS. doi: 10.1103/PhysRevC.106.L061302
 
-Tishchenko, N., N. Ferrier, J. A. Insley, V. A. Mateevitsi, M. E. Papka, S. Rizzi, and J. Tan. “Toward Bi-directional In Situ Visualization and Analysis of Blood Flow Simulations With Dynamic Deforming Walls," 2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV) (December 2022), Oklahoma City, OK, IEEE. doi: 10.1109/LDAV57265.2022.9966389
+Tishchenko, N., N. Ferrier, J. A. Insley, V. A. Mateevitsi, M. E. Papka, S. Rizzi, and J. Tan. “Toward Bi-directional In Situ Visualization and Analysis of Blood Flow Simulations with Dynamic Deforming Walls," <i>2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)</i> (December 2022), Oklahoma City, OK, IEEE. doi: 10.1109/LDAV57265.2022.9966389
 
-Torelli, R., Y. Pei, Y. Zhang, and S. Som. “End-to-End Modeling of Fuel Injection via Static Coupling of Internal Flow and Ensuing Spray," Communications Engineering (December 2022), Springer Nature. doi: 10.1038/s44172-022-00038-z
+Torelli, R., Y. Pei, Y. Zhang, and S. Som. “End-to-End Modeling of Fuel Injection via Static Coupling of Internal Flow and Ensuing Spray," <i>Communications Engineering</i> (December 2022), Springer Nature. doi: 10.1038/s44172-022-00038-z
 
-Weiss, R., P. Soriano, A. Lovato, J. Menendez, and R. B. Wiringa. “Neutrinoless Double-β Decay: Combining Quantum Monte Carlo and the Nuclear Shell Model with the Generalized Contact Formalism," Physical Review C (December 2022), APS. doi: 10.1103/physrevc.106.065501
+Weiss, R., P. Soriano, A. Lovato, J. Menendez, and R. B. Wiringa. “Neutrinoless Double-β Decay: Combining Quantum Monte Carlo and the Nuclear Shell Model with the Generalized Contact Formalism," <i>Physical Review C</i> (December 2022), APS. doi: 10.1103/physrevc.106.065501
 
-Wu, Q., J. Bessac, W. Huang, J. Wang, and R. Kotamarthi. “A Conditional Approach for Joint Estimation of Wind Speed and Direction Under Future Climates," Advances in Statistical Climatology, Meteorology and Oceanography (December 2022), Copernicus Publications. doi: 10.5194/ascmo-8-205-2022
+Wu, Q., J. Bessac, W. Huang, J. Wang, and R. Kotamarthi. “A Conditional Approach for Joint Estimation of Wind Speed and Direction Under Future Climates," <i>Advances in Statistical Climatology, Meteorology and Oceanography</i> (December 2022), Copernicus Publications. doi: 10.5194/ascmo-8-205-2022
 
-Wu, Q., J. A. Insley, V. A. Mateevitsi, S. Rizzi, and K.-L. Ma. “Distributed Volumetric Neural Representation for In Situ Visualization and Analysis," 2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV) (December 2022), Oklahoma City, OK, IEEE. doi: 10.1109/LDAV57265.2022.9966405
+Wu, Q., J. A. Insley, V. A. Mateevitsi, S. Rizzi, and K.-L. Ma. “Distributed Volumetric Neural Representation for In Situ Visualization and Analysis," <i>2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)</i> (December 2022), Oklahoma City, OK, IEEE. doi: 10.1109/LDAV57265.2022.9966405
 
-Wu, S., H. Li, and A. Ma. “Exact Reaction Coordinates for Flap Opening in HIV-1 Protease," Proceedings of the National Academy of Sciences (December 2022), NAS. doi: 10.1073/pnas.2214906119
+Wu, S., H. Li, and A. Ma. “Exact Reaction Coordinates for Flap Opening in HIV-1 Protease," <i>Proceedings of the National Academy of Sciences</i> (December 2022), NAS. doi: 10.1073/pnas.2214906119
 
-Wu, S., S. S. Patel, and M. M. Ameen. “Investigating the Origins of Cyclic Variability in Internal Combustion Engines Using Wall-Resolved Large Eddy Simulations," Journal of Engineering for Gas Turbines and Power (December 2022), The American Society of Mechanical Engineers. doi: 10.1115/1.4056095
+Wu, S., S. S. Patel, and M. M. Ameen. “Investigating the Origins of Cyclic Variability in Internal Combustion Engines Using Wall-Resolved Large Eddy Simulations," <i>Journal of Engineering for Gas Turbines and Power</i> (December 2022), The American Society of Mechanical Engineers. doi: 10.1115/1.4056095
