@@ -302,45 +302,45 @@ Yu, V. W., and M. Govoni. “GPU Acceleration of Large-Scale Full-Frequency GW C
 
 SEPTEMBER
 
-Coleman, M. S. B., and A. Burrows. “Kicks and Induced Spins of Neutron Stars at Birth," Monthly Notices of the Royal Astronomical Society (September 2022), Oxford University Publishing. doi: 10.1093/mnras/stac2573
+Coleman, M. S. B., and A. Burrows. “Kicks and Induced Spins of Neutron Stars at Birth," <i>Monthly Notices of the Royal Astronomical Society</i> (September 2022), Oxford University Publishing. doi: 10.1093/mnras/stac2573
 
-Dorier, M., R. Egele, P. Balaprakash, J. Koo, S. Madireddy, S. Ramesh, A. D. Malony, and R. Ross. “HPC Storage Service Autotuning Using Variational-Autoencoder-Guided Asynchronous Bayesian Optimization," 2022 IEEE International Conference on Cluster Computing (CLUSTER) (September 2022), IEEE, pp. 381-393. doi: 10.1109/CLUSTER51413.2022.00049
+Dorier, M., R. Egele, P. Balaprakash, J. Koo, S. Madireddy, S. Ramesh, A. D. Malony, and R. Ross. “HPC Storage Service Autotuning Using Variational-Autoencoder-Guided Asynchronous Bayesian Optimization," <i>2022 IEEE International Conference on Cluster Computing (CLUSTER)</i> (September 2022), IEEE, pp. 381-393. doi: 10.1109/CLUSTER51413.2022.00049
 
-Fletcher, G. D., C. Bertoni, M. Keceli, and M. J. D'Mello. “Prediction of Correlation Energies Using Variational Subspace Valence Bond," The Journal of Chemical Physics (September 2022), AIP. doi: 10.1063/5.0098146
+Fletcher, G. D., C. Bertoni, M. Keceli, and M. J. D'Mello. “Prediction of Correlation Energies Using Variational Subspace Valence Bond," <i>The Journal of Chemical Physics</i> (September 2022), AIP. doi: 10.1063/5.0098146
 
-Gautham, S. M. B., T. K. Patra. “Deep Learning Potential of Mean Force Between Polymer Grafted Nanoparticles," Soft Matter (September 2022), The Royal Society of Chemistry. doi: 10.1039/d2sm00945e
+Gautham, S. M. B., T. K. Patra. “Deep Learning Potential of Mean Force Between Polymer Grafted Nanoparticles," <i>Soft Matter</i> (September 2022), The Royal Society of Chemistry. doi: 10.1039/d2sm00945e
 
-Hobbs, B. F., J. Zhang, H. F. Hamann, C. Siebenschuh, R. Zhang, B. Li, I. Krad, V. Krishnan, E. Spyrou, Y. Wang, Q. Xu, and S. Zhang. “Using Probabilistic Solar Power Forecasts to Inform Flexible Ramp Product Procurement for the California ISO," Solar Energy Advances (September 2022), Elsevier. doi: 10.1016/j.seja.2022.100024
+Hobbs, B. F., J. Zhang, H. F. Hamann, C. Siebenschuh, R. Zhang, B. Li, I. Krad, V. Krishnan, E. Spyrou, Y. Wang, Q. Xu, and S. Zhang. “Using Probabilistic Solar Power Forecasts to Inform Flexible Ramp Product Procurement for the California ISO," <i>Solar Energy Advances</i> (September 2022), Elsevier. doi: 10.1016/j.seja.2022.100024
 
-Huang, S., and J. M. Cole. “BatteryDataExtractor: Battery-Aware Text-Mining Software Embedded with BERT Models," Chemical Science (September 2022), Royal Society of Chemistry. doi: 10.1039/d2sc04322j
+Huang, S., and J. M. Cole. “BatteryDataExtractor: Battery-Aware Text-Mining Software Embedded with BERT Models," <i>Chemical Science</i> (September 2022), Royal Society of Chemistry. doi: 10.1039/d2sc04322j
 
-Kaur, S., R. Kanungo, W. Horiuchi, G. Hagen, J. D. Holt, B. S. Hu, T. Miyagi, T. Suzuki, F. Ameil, J. Atkinson, Y. Ayyad, S. Bagchi, D. Cortina-Gil, I. Dillmann, A. Estradé, A. Evdokimov, F. Farinon, H. Geissel, G. Guastalla, R. Janik, R. Knöbel, J. Kurcewicz, Y. A. Litvinov, M. Marta, M. Mostazo, I. Mukha, C. Nociforo, H. J. Ong, T. Otsuka, S. Pietri, A. Prochazka, C. Sceidenberger, B. Sitar, P. Strmen, M. Takechi, J. Tanaka, I. Tanihata, S. Terashima, J. Vargas, H. Weick, and J. S. Winfield. “Proton Distribution Radii of 16–24O: Signatures of New Shell Closures and Neutron Skin," Physical Review Letters (September 2022), APS. doi: 10.1103/PhysRevLett.129.142502
+Kaur, S., R. Kanungo, W. Horiuchi, G. Hagen, J. D. Holt, B. S. Hu, T. Miyagi, T. Suzuki, F. Ameil, J. Atkinson, Y. Ayyad, S. Bagchi, D. Cortina-Gil, I. Dillmann, A. Estradé, A. Evdokimov, F. Farinon, H. Geissel, G. Guastalla, R. Janik, R. Knöbel, J. Kurcewicz, Y. A. Litvinov, M. Marta, M. Mostazo, I. Mukha, C. Nociforo, H. J. Ong, T. Otsuka, S. Pietri, A. Prochazka, C. Sceidenberger, B. Sitar, P. Strmen, M. Takechi, J. Tanaka, I. Tanihata, S. Terashima, J. Vargas, H. Weick, and J. S. Winfield. “Proton Distribution Radii of <sup>16–24</sup>O: Signatures of New Shell Closures and Neutron Skin," <i>Physical Review Letters</i> (September 2022), APS. doi: 10.1103/PhysRevLett.129.142502
 
-Kononov, A., C.-W. Lee, T. P. dos Santos, B. Robinson, Y. Yao, Y. Yao, X. Andrade, A. D. Baczewski, E. Constantinescu, A. A. Correa, Y. Kanai, N. Modine, and A. Schleife. “Electron Dynamics in Extended Systems within Real-Time Time-Dependent Density-Functional Theory," Computational Approaches for Materials Discovery and Development Perspective (September 2022), Springer Nature. doi: 10.1557/s43579-022-00273-7
+Kononov, A., C.-W. Lee, T. P. dos Santos, B. Robinson, Y. Yao, Y. Yao, X. Andrade, A. D. Baczewski, E. Constantinescu, A. A. Correa, Y. Kanai, N. Modine, and A. Schleife. “Electron Dynamics in Extended Systems within Real-Time Time-Dependent Density-Functional Theory," <i>Computational Approaches for Materials Discovery and Development Perspective</i> (September 2022), Springer Nature. doi: 10.1557/s43579-022-00273-7
 
-Li, Z., R. Chard, Y. Babuji, B. Galewsky, T. J. Skluzacek, K. Nagaitsev, A. Woodard, B. Blaiszik, J. Bryan, D. S. Katz, I. Foster, and K. Chard. “funcX: Federated Function as a Service for Science," IEEE Transactions on Parallel and Distributed Systems (September 2022), IEEE. doi: 10.1109/TPDS.2022.3208767
+Li, Z., R. Chard, Y. Babuji, B. Galewsky, T. J. Skluzacek, K. Nagaitsev, A. Woodard, B. Blaiszik, J. Bryan, D. S. Katz, I. Foster, and K. Chard. “funcX: Federated Function as a Service for Science," <i>IEEE Transactions on Parallel and Distributed Systems</i> (September 2022), IEEE. doi: 10.1109/TPDS.2022.3208767
 
-McCray, A. R. C., Y. Li, R. Basnet, K. Pandey, J. Hu, D. P. Phelan, X. Ma, A. K. Petford-Long, and C. Phatak. “Thermal Hysteresis and Ordering Behavior of Magnetic Skyrmion Lattices," Nano Letters (September 2022), ACS Publications. doi: 10.1021/acs.nanolett.2c02275
+McCray, A. R. C., Y. Li, R. Basnet, K. Pandey, J. Hu, D. P. Phelan, X. Ma, A. K. Petford-Long, and C. Phatak. “Thermal Hysteresis and Ordering Behavior of Magnetic Skyrmion Lattices," <i>Nano Letters</i> (September 2022), ACS Publications. doi: 10.1021/acs.nanolett.2c02275
 
-Mulligan, V. K. “Computational Methods for Peptide Macrocycle Drug Design," Peptide Therapeutics: Fundamentals of Design, Development, and Delivery (September 2022), Springer Nature, pp. 79-161. doi: 10.1007/978-3-031-04544-8_3
+Mulligan, V. K. “Computational Methods for Peptide Macrocycle Drug Design," <i>Peptide Therapeutics: Fundamentals of Design, Development, and Delivery</i> (September 2022), Springer Nature, pp. 79-161. doi: 10.1007/978-3-031-04544-8_3
 
-Sobczyk, J. E., S. Bacca, G. Hagen, and T. Papenbrock. “Spectral Function for 4He Using the Chebyshev Expansion in Coupled-Cluster Theory," Physical Review C (September 2022), APS. doi: 10.1103/PhysRevC.106.034310
+Sobczyk, J. E., S. Bacca, G. Hagen, and T. Papenbrock. “Spectral Function for <sup>4</sup>He Using the Chebyshev Expansion in Coupled-Cluster Theory," <i>Physical Review C</i> (September 2022), APS. doi: 10.1103/PhysRevC.106.034310
 
-Tews, I., Z. Davoudi, A. Ekström, J. D. Holt, K. Becker, R. Briceño, D. J. Dean, W. Detmold, C. Drischler, T. Duguet, E. Epelbaum, A. Gasparyan, J. Gegelia, J. R. Green, H. W. Grießhammer, A. D. Hanlon, M. Heinz, H. Hergert, M. Hoferichter, M. Illa, D. Kekejian, A. Kievsky, S. König, H. Krebs, K. D. Launey, D. Lee, P. Navrátil, A. Nicholson, A. Parreño, D. R. Phillips, M. Płoszajczak, X.-L. Ren, T. R. Richardson, C. Robin, G. H. Sargsyan, M. J. Savage, M. R. Schindler, P. E. Shanahan, R. P. Springer, A. Tichai, U. van Kolck, M. L. Wagman, A. Walker-Loud, C.-J. Yang, and X. Zhang. “Nuclear Forces for Precision Nuclear Physics: A Collection of Perspectives," Few-Body Systems (September 2022), Springer Nature. doi: 10.1007/s00601-022-01749-x
+Tews, I., Z. Davoudi, A. Ekström, J. D. Holt, K. Becker, R. Briceño, D. J. Dean, W. Detmold, C. Drischler, T. Duguet, E. Epelbaum, A. Gasparyan, J. Gegelia, J. R. Green, H. W. Grießhammer, A. D. Hanlon, M. Heinz, H. Hergert, M. Hoferichter, M. Illa, D. Kekejian, A. Kievsky, S. König, H. Krebs, K. D. Launey, D. Lee, P. Navrátil, A. Nicholson, A. Parreño, D. R. Phillips, M. Płoszajczak, X.-L. Ren, T. R. Richardson, C. Robin, G. H. Sargsyan, M. J. Savage, M. R. Schindler, P. E. Shanahan, R. P. Springer, A. Tichai, U. van Kolck, M. L. Wagman, A. Walker-Loud, C.-J. Yang, and X. Zhang. “Nuclear Forces for Precision Nuclear Physics: A Collection of Perspectives," <i>Few-Body Systems</i> (September 2022), Springer Nature. doi: 10.1007/s00601-022-01749-x
 
-Tsai, P.- H., and P. Fischer. “Parametric Model-Order-Reduction Development for Unsteady Convection," Frontiers in Physics (September 2022), vol. 10, Frontiers Media SA. doi: 10.3389/fphy.2022.903169
+Tsai, P.- H., and P. Fischer. “Parametric Model-Order-Reduction Development for Unsteady Convection," <i>Frontiers in Physics</i> (September 2022), vol. 10, Frontiers Media SA. doi: 10.3389/fphy.2022.903169
 
-Tsant, B. T.-H., D. Vartanyan, and A. Burrows. “Applications of Machine Learning to Predicting Core-collapse Supernova Explosion Outcomes," The Astrophysical Journal Letters (September 2022), IOP Publishing. doi: 10.3847/2041-8213/ac8f4b
+Tsant, B. T.-H., D. Vartanyan, and A. Burrows. “Applications of Machine Learning to Predicting Core-Collapse Supernova Explosion Outcomes," <i>The Astrophysical Journal Letters</i> (September 2022), IOP Publishing. doi: 10.3847/2041-8213/ac8f4b
 
-Wang, T., D. Vartanyan, A. Burrows, and M. S. B. Coleman. “The Essential Character of the Neutrino Mechanism of Core-Collapse Supernova Explosions," Monthly Notices of the Royal Astronomical Society (September 2022), Oxford University Publishing. doi: 10.1093/mnras/stac2691
+Wang, T., D. Vartanyan, A. Burrows, and M. S. B. Coleman. “The Essential Character of the Neutrino Mechanism of Core-Collapse Supernova Explosions," <i>Monthly Notices of the Royal Astronomical Society</i> (September 2022), Oxford University Publishing. doi: 10.1093/mnras/stac2691
 
-Wu, S., S. Patel, and M. Ameen. “Investigation of Cycle-to-Cycle Variations in Internal Combustion Engine Using Proper Orthogonal Decomposition," Flow, Turbulence and Combustion (September 2022), Springer Nature. doi: 10.1007/s10494-022-00368-0
+Wu, S., S. Patel, and M. Ameen. “Investigation of Cycle-to-Cycle Variations in Internal Combustion Engine Using Proper Orthogonal Decomposition," <i>Flow, Turbulence and Combustion</i> (September 2022), Springer Nature. doi: 10.1007/s10494-022-00368-0
 
-Yang, H., M. Govoni, A. Kundu, and G. Galli. “Computational Protocol to Evaluate Electron–Phonon Interactions within Density Matrix Perturbation Theory," Journal of Chemical Theory and Computation (September 2022), ACS. doi: 10.1021/acs.jctc.2c00579
+Yang, H., M. Govoni, A. Kundu, and G. Galli. “Computational Protocol to Evaluate Electron–Phonon Interactions within Density Matrix Perturbation Theory," <i>Journal of Chemical Theory and Computation</i> (September 2022), ACS. doi: 10.1021/acs.jctc.2c00579
 
-Yang, T. T., A. Wang, S. D. House, J. Yang, J.-K. Lee, and W. A. Saidi. “Computationally Guided Design to Accelerate Discovery of Doped β-Mo2C Catalysts toward Hydrogen Evolution Reaction," ACS Catalysis (September 2022), ACS Publications, pp. 11791–11800. doi: 10.1021/acscatal.2c03184
+Yang, T. T., A. Wang, S. D. House, J. Yang, J.-K. Lee, and W. A. Saidi. “Computationally Guided Design to Accelerate Discovery of Doped β-Mo<sub>2</sub>C Catalysts toward Hydrogen Evolution Reaction," <i>ACS Catalysis</i> (September 2022), ACS Publications. doi: 10.1021/acscatal.2c03184
 
-Zacharoudiou, I., J. W. S. McCullough, and P. V. Coveney. “Development and Performance of a HemeLB GPU Code for Human-Scale Blood Flow Simulation," Computer Physics Communications (September 2022), Elsevier. doi: 10.1016/j.cpc.2022.108548
+Zacharoudiou, I., J. W. S. McCullough, and P. V. Coveney. “Development and Performance of a HemeLB GPU Code for Human-Scale Blood Flow Simulation," <i>Computer Physics Communications</i> (September 2022), Elsevier. doi: 10.1016/j.cpc.2022.108548
 
 OCTOBER
 
