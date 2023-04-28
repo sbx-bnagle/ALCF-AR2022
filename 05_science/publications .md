@@ -444,7 +444,7 @@ Linker, T., K. Nomura, S. Fukushima, R. K. Kalia, A. Krishnamoorthy, A. Nakano, 
 
 Linot, A. J., J. W. Burby, Q. Tang, P. Balaprakash, M. D. Graham, and R. Maulik. “Stabilized Neural Ordinary Differential Equations for Long-Time Forecasting of Dynamical Systems," Journal of Computational Physics (December 2022), Elsevier. doi: 10.1016/j.jcp.2022.111838
 
-Maris, P., R. Roth, E. Epelbaum, R. J. Furnstahl, J. Golak, K. Hebeler, T. Hüther, H. Kamada, H. Krebs, H. Le, U.-G. Meißner, J. A. Melendez, A. Nogga, P. Reinert, R. Skibiński, J. P. Vary, H. Witała, and T. Wolfgruber. “Nuclear Properties with Semilocal Momentum-Space Regularized Chiral Interactions beyond N2LO," Physical Review C (December 2022), APS. doi: 10.1103/PhysRevC.106.064002
+Maris, P., R. Roth, E. Epelbaum, R. J. Furnstahl, J. Golak, K. Hebeler, T. Hüther, H. Kamada, H. Krebs, H. Le, U.-G. Meißner, J. A. Melendez, A. Nogga, P. Reinert, R. Skibiński, J. P. Vary, H. Witała, and T. Wolfgruber. “Nuclear Properties with Semilocal Momentum-Space Regularized Chiral Interactions beyond N<sup>2</sup>LO," Physical Review C (December 2022), APS. doi: 10.1103/PhysRevC.106.064002
 
 Marrinan, T., J. Tan, J. A. Insley, A. Kanayinkal, and M. E. Papka. “Interactive Virtual Reality Exploration of Large-Scale Datasets Using Omnidirectional Stereo Images," ISVC 2022: Advances in Visual Computing (December 2022), Springer Nature. doi: 10.1007/978-3-031-20713-6_9
 
