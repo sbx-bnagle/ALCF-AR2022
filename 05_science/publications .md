@@ -390,43 +390,43 @@ Zhang, Z., Z. Wei, P. Sautet, and A. N. Alexandrova. “Hydrogen-Induced Restruc
 
 NOVEMBER
 
-Andrusenko, I., C. L. Hall, E. Mugnaioli, J. Potticary, S. R. Hall, W. Schmidt, S. Gao, K. Zhao, N. Marom, and M. Gemmi. “True Molecular Conformation and Structure Determination by Three-Dimensional Electron Diffraction of PAY By-Products Potentially Useful for Electronic Applications," IUCrJ (November 2022), International Union of Crystallography, pp. 131-142. doi: 10.1107/s205225252201154x
+Andrusenko, I., C. L. Hall, E. Mugnaioli, J. Potticary, S. R. Hall, W. Schmidt, S. Gao, K. Zhao, N. Marom, and M. Gemmi. “True Molecular Conformation and Structure Determination by Three-Dimensional Electron Diffraction of PAY By-Products Potentially Useful for Electronic Applications," <i>IUCrJ</i> (November 2022), International Union of Crystallography, pp. 131-142. doi: 10.1107/s205225252201154x
 
-Doan, H. A., C. Li, L. Ward, M. Zhou, L. A. Curtiss, and R. S. Assary. “Accelerating the Evaluation of Crucial Descriptors for Catalyst Screening via Message Passing Neural Network," Digital Discovery (November 2022), Royal Society of Chemistry. doi: 10.1039/D2DD00088A
+Doan, H. A., C. Li, L. Ward, M. Zhou, L. A. Curtiss, and R. S. Assary. “Accelerating the Evaluation of Crucial Descriptors for Catalyst Screening via Message Passing Neural Network," <i>Digital Discovery</i> (November 2022), Royal Society of Chemistry. doi: 10.1039/D2DD00088A
 
-Dodd-o, J., A. M. Acevedo-Jake, A.-R. Azizogli, V. K. Mulligan, and V. A. Kumar. “How to Design Peptides," Chemokine-Glycosaminoglycan Interactions: Methods and Protocols (November 2022), Springer Nature, pp. 187-216. doi: 10.1007/978-1-0716-2835-5_15
+Dodd-o, J., A. M. Acevedo-Jake, A.-R. Azizogli, V. K. Mulligan, and V. A. Kumar. “How to Design Peptides," <i>Chemokine-Glycosaminoglycan Interactions: Methods and Protocols</i> (November 2022), Springer Nature, pp. 187-216. doi: 10.1007/978-1-0716-2835-5_15
 
-Fedorov, D., M. Otten, B. Kang, A. Benali, S. Habib, S. Gray, and Y. Alexeev. “Quantum Resource Estimation for Quantum Chemistry Algorithms," 2022 IEEE International Conference on Quantum Computing and Engineering (QCE) (November 2022), Broomfield, CO, IEEE. doi: 10.1109/QCE53715.2022.00144
+Fedorov, D., M. Otten, B. Kang, A. Benali, S. Habib, S. Gray, and Y. Alexeev. “Quantum Resource Estimation for Quantum Chemistry Algorithms," <i>2022 IEEE International Conference on Quantum Computing and Engineering (QCE)</i> (November 2022), Broomfield, CO, IEEE. doi: 10.1109/QCE53715.2022.00144
 
-Hager, R., S. Ku, A. Y. Sharma, C. S. Chang, R. M. Churchill, and A. Scheinberg. “Electromagnetic Total-f Algorithm for Gyrokinetic Particle-in-Cell Simulations of Boundary Plasma in XGC," Physics of Plasmas (November 2022), AIP. doi: 10.1063/5.0097855
+Hager, R., S. Ku, A. Y. Sharma, C. S. Chang, R. M. Churchill, and A. Scheinberg. “Electromagnetic Total-f Algorithm for Gyrokinetic Particle-in-Cell Simulations of Boundary Plasma in XGC," <i>Physics of Plasmas</i> (November 2022), AIP. doi: 10.1063/5.0097855
 
-Hargrove, P. H., and D. Bonachea. “GASNet-EX RMA Communication Performance on Recent Supercomputing Systems," 5th Annual Parallel Applications Workshop, Alternatives to MPI+X (November 2022), IEEE. doi: 10.25344/S40C7D
+Hargrove, P. H., and D. Bonachea. “GASNet-EX RMA Communication Performance on Recent Supercomputing Systems," <i>5th Annual Parallel Applications Workshop, Alternatives to MPI+X</i> (November 2022), IEEE. doi: 10.25344/S40C7D
 
-Hosseini, R., F. Simini, A. Clyde, and A. Ramanathan. “Deep Surrogate Docking: Accelerating Automated Drug Discovery with Graph Neural Networks," Thirty-Sixth Conference on Neural Information Processing Systems (November 2022), New Orleans, LA, Neural Information Processing Systems Foundation. doi: 10.48550/arXiv.2211.02720
+Hosseini, R., F. Simini, A. Clyde, and A. Ramanathan. “Deep Surrogate Docking: Accelerating Automated Drug Discovery with Graph Neural Networks," <i>Thirty-Sixth Conference on Neural Information Processing Systems</i> (November 2022), New Orleans, LA, Neural Information Processing Systems Foundation. doi: 10.48550/arXiv.2211.02720
 
-Huck, K., X. Wu, A. Dubey, A. Georgiadou, J. A. Harris, T. Klosterman, M. Trappett, and K. Weide. “Performance Debugging and Tuning of Flash-X with Data Analysis Tools," SC2022 Workshop on Programming and Performance Visualization Tools (ProTools22) (November 2022), Dallas, TX, IEEE
+Huck, K., X. Wu, A. Dubey, A. Georgiadou, J. A. Harris, T. Klosterman, M. Trappett, and K. Weide. “Performance Debugging and Tuning of Flash-X with Data Analysis Tools," <i>SC2022 Workshop on Programming and Performance Visualization Tools (ProTools22)</i> (November 2022), Dallas, TX, IEEE
 
-Kincaid, B., G. Wang, H. Zhou, and L. Mitas. “Correlation Consistent Effective Core Potentials for Late 3D Transition Metals Adapted for Plane Wave Calculations," The Journal of Chemical Physics (November 2022), AIP. doi: 10.1063/5.0109098
+Kincaid, B., G. Wang, H. Zhou, and L. Mitas. “Correlation Consistent Effective Core Potentials for Late 3D Transition Metals Adapted for Plane Wave Calculations," <i>The Journal of Chemical Physics</i> (November 2022), AIP. doi: 10.1063/5.0109098
 
-Kurihana, T., J. Franke, I. Foster, Z. Wang, and E. Moyer. “Insight into Cloud Processes from Unsupervised Classification with a Rotationally Invariant Autoencoder," Thirty-Sixth Conference on Neural Information Processing Systems (November 2022), New Orleans, LA, Neural Information Processing Systems Foundation. doi: 10.48550/arXiv.2211.00860
+Kurihana, T., J. Franke, I. Foster, Z. Wang, and E. Moyer. “Insight into Cloud Processes from Unsupervised Classification with a Rotationally Invariant Autoencoder," <i>Thirty-Sixth Conference on Neural Information Processing Systems</i> (November 2022), New Orleans, LA, Neural Information Processing Systems Foundation. doi: 10.48550/arXiv.2211.00860
 
-Kurihana, T., E. J. Moyer, and I. T. Foster. “AICCA: AI-Driven Cloud Classification Atlas," Remote Sensing (November 2022), MDPI. doi: 10.3390/rs14225690
+Kurihana, T., E. J. Moyer, and I. T. Foster. “AICCA: AI-Driven Cloud Classification Atlas," <i>Remote Sensing</i> (November 2022), MDPI. doi: 10.3390/rs14225690
 
-Lin, P.-H., C. Liao, W. Chen, T. Vanderbruggen, M. Emani, and H. Xu. “Making Machine Learning Datasets and Models FAIR for HPC: A Methodology and Case Study," 2022 Fourth International Conference on Transdisciplinary AI (November 2022), Laguna Hills, CA, IEEE. doi: 10.1109/TransAI54797.2022.00029
+Lin, P.-H., C. Liao, W. Chen, T. Vanderbruggen, M. Emani, and H. Xu. “Making Machine Learning Datasets and Models FAIR for HPC: A Methodology and Case Study," <i>2022 Fourth International Conference on Transdisciplinary AI</i> (November 2022), Laguna Hills, CA, IEEE. doi: 10.1109/TransAI54797.2022.00029
 
-Lykov, D., R. Schutski, A. Gaida, V. Vinokur, and Y. Alexeev. “Tensor Network Quantum Simulator with Step-Dependent Parallelization," 2022 IEEE International Conference on Quantum Computing and Engineering (QCE) (November 2022), IEEE. doi: 10.1109/QCE53715.2022.00081
+Lykov, D., R. Schutski, A. Gaida, V. Vinokur, and Y. Alexeev. “Tensor Network Quantum Simulator with Step-Dependent Parallelization," <i>2022 IEEE International Conference on Quantum Computing and Engineering (QCE)</i> (November 2022), IEEE. doi: 10.1109/QCE53715.2022.00081
 
-Munarriz, J., Z. Zhang, P. Sautet, and A. N. Alexandrova. “Graphite-Supported Ptn Cluster Electrocatalysts: Major Change of Active Sites as a Function of the Applied Potential," ACS Catalysis (November 2022), ACS Publications. doi: 10.1021/acscatal.2c04643
+Munarriz, J., Z. Zhang, P. Sautet, and A. N. Alexandrova. “Graphite-Supported Ptn Cluster Electrocatalysts: Major Change of Active Sites as a Function of the Applied Potential," <i>ACS Catalysis</i> (November 2022), ACS Publications. doi: 10.1021/acscatal.2c04643
 
-Ravi, N., P. Chaturvedi, E. A. Huerta, L. Zhengchun, R. Chard, A. Scourtas, K. J. Schmidt, K. Chard, B. Blaiszik, and I. Foster. “FAIR Principles for AI Models with a Practical Application for Accelerated High Energy Diffraction Microscopy," Scientific Data (November 2022), Springer Nature. doi: 10.1038/s41597-022-01712-9
+Ravi, N., P. Chaturvedi, E. A. Huerta, L. Zhengchun, R. Chard, A. Scourtas, K. J. Schmidt, K. Chard, B. Blaiszik, and I. Foster. “FAIR Principles for AI Models with a Practical Application for Accelerated High Energy Diffraction Microscopy," <i>Scientific Data</i> (November 2022), Springer Nature. doi: 10.1038/s41597-022-01712-9
 
-Roja, E., D. Pérez, and E. Meneses. “Exploring the Effects of Silent Data Corruption in Distributed Deep Learning Training," 2022 IEEE 34th International Symposium on Computer Architecture and High Performance Computing,(November 2022), IEEE, pp. 21-30. doi: 10.1109/SBAC-PAD55451.2022.00013
+Roja, E., D. Pérez, and E. Meneses. “Exploring the Effects of Silent Data Corruption in Distributed Deep Learning Training," <i>2022 IEEE 34th International Symposium on Computer Architecture and High Performance Computing</i> (November 2022), IEEE, pp. 21-30. doi: 10.1109/SBAC-PAD55451.2022.00013
 
-Schmitt, J., G. B. King, R. G. T. Zegers, Y. Ayyad, D. Bazin, B. A. Brown, A. Carls, J. Chen, A. Davis, M. DeNudt, J. Droste, B. Gao, C. Hultquist, H. Iwasaki, S. Noji, S. Pastore, J. Pereira, M. Piarulli, H. Sakai, A. Stolz, R. Titus, R. B. Wiringa, and J. C. Zamora. “Probing Spin-Isospin Excitations in Proton-Rich Nuclei via the 11C(Pp,n)11N Reaction," Physical Review C (November 2022), vol. 106, no. 5, APS. doi: 10.1103/physrevc.106.054323
+Schmitt, J., G. B. King, R. G. T. Zegers, Y. Ayyad, D. Bazin, B. A. Brown, A. Carls, J. Chen, A. Davis, M. DeNudt, J. Droste, B. Gao, C. Hultquist, H. Iwasaki, S. Noji, S. Pastore, J. Pereira, M. Piarulli, H. Sakai, A. Stolz, R. Titus, R. B. Wiringa, and J. C. Zamora. “Probing Spin-Isospin Excitations in Proton-Rich Nuclei via the <sup>11</sup>C(p,n)<sup>11</sup>N Reaction," <i>Physical Review C</i> (November 2022), APS. doi: 10.1103/physrevc.106.054323
 
-Weiss, R., A. Lovato, and R. B. Wiringa. “Isospin-Symmetry Implications for Nuclear Two-Body Distributions and Short-Range Correlations," Physical Review C (November 2022), APS. doi: 10.1103/PhysRevC.106.054319
+Weiss, R., A. Lovato, and R. B. Wiringa. “Isospin-Symmetry Implications for Nuclear Two-Body Distributions and Short-Range Correlations," <i>Physical Review C</i> (November 2022), APS. doi: 10.1103/PhysRevC.106.054319
 
-Zyvagin, M., A. Brace, K. Hippie, Y. Deng, B. Zhang, C. O. Bohorquez, A. Clyde, B. Kale, D. Perez-Rivera, H. Ma, C. M. Mann, M. Irvin, J. G. Pauloski, L. Ward, V. Hayot-Sasson, M. Emani, S. Foreman, Z. Xie, D. Lin, M. Shukla, W. Nie, J. Romero, C. Dallago, A. Vahdat, C. Xiao, T. Gibbs, I. Foster, J. J. Davis, M. E. Papka, T. Brettin, R. Stevens, A. Anandkumar, V. Vishwanath, and A. Ramanathan. “GenSLMs: Genome-Scale Language Models Reveal SARS-CoV-2 Evolutionary Dynamics," SC22: The International Conference for High Performance Computing, Networking, Storage, and Analysis (November 2022), Dallas, TX, IEEE. doi: 10.1101 2022.10.10.511571
+Zyvagin, M., A. Brace, K. Hippie, Y. Deng, B. Zhang, C. O. Bohorquez, A. Clyde, B. Kale, D. Perez-Rivera, H. Ma, C. M. Mann, M. Irvin, J. G. Pauloski, L. Ward, V. Hayot-Sasson, M. Emani, S. Foreman, Z. Xie, D. Lin, M. Shukla, W. Nie, J. Romero, C. Dallago, A. Vahdat, C. Xiao, T. Gibbs, I. Foster, J. J. Davis, M. E. Papka, T. Brettin, R. Stevens, A. Anandkumar, V. Vishwanath, and A. Ramanathan. “GenSLMs: Genome-Scale Language Models Reveal SARS-CoV-2 Evolutionary Dynamics," <i>SC22: The International Conference for High Performance Computing, Networking, Storage, and Analysis</i> (November 2022), Dallas, TX, IEEE. doi: 10.1101 2022.10.10.511571
 
 DECEMBER
 
