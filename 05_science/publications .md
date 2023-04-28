@@ -278,7 +278,7 @@ Jain, S. S. “Accurate Conservative Phase-Field Method for Simulation of Two-Ph
 
 Lauricella, G., J. Zhou, Q. Luan, I. Papautsky, and Z. Peng. “Computational Study of Inertial Migration of Prolate Particles in a Straight Rectangular Channel," <i>Physics of Fluids</i> (August 2022), AIP Publishing. doi: 10.1063/5.0100963
 
-Linker, T., S. Fukushima, R. K. Kalia, A. Krishnamoorthy, A. Nakano, K. Nomura, K. Shimamura, F. Shimojo, and P. Vashishta. “Towards Computational Polar-Topotronics: Multiscale Neural-Network Quantum Molecular Dynamics Simulations of Polar Vortex States in SrTiO3/PbTiO3 Nanowires," <i>Frontiers in Nanotechnology</i> (August 2022), Frontiers Media SA. doi: 10.3389/fnano.2022.884149
+Linker, T., S. Fukushima, R. K. Kalia, A. Krishnamoorthy, A. Nakano, K. Nomura, K. Shimamura, F. Shimojo, and P. Vashishta. “Towards Computational Polar-Topotronics: Multiscale Neural-Network Quantum Molecular Dynamics Simulations of Polar Vortex States in SrTiO<sub>3</sub>/PbTiO<sub>3</sub> Nanowires," <i>Frontiers in Nanotechnology</i> (August 2022), Frontiers Media SA. doi: 10.3389/fnano.2022.884149
 
 Mulligan, V. K., and P. Hosseinzadeh. “Computational Design of Peptide-Based Binders to Therapeutic Targets," <i>Approaching the Next Inflection in Peptide Therapeutics: Attaining Cell Permeability and Oral Bioavailability</i> (August 2022), ACS, pp. 55-102. doi: 10.1021/bk-2022-1417.ch003
 
