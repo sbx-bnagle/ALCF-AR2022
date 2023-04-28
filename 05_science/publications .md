@@ -146,45 +146,45 @@ Trott, C. R., D. Lebrun-Grandie, D. Arndt, J. Ciesko, V. Dang, N. Ellingwood, R.
 
 MAY
 
-Atkinson, M. C., P. Navrátil, G. Hupin, K. Kravvaris, and S. Quaglioni. “Ab Initio Calculation of the β Decay from <sup>11</sup>Be to a <sup>10</sup>Be + <i>p</I> Resonance," Physical Review C (May 2022), APS. doi: 10.1103/PhysRevC.105.054316
+Atkinson, M. C., P. Navrátil, G. Hupin, K. Kravvaris, and S. Quaglioni. “Ab Initio Calculation of the β Decay from <sup>11</sup>Be to a <sup>10</sup>Be + <i>p</i> Resonance," <i>Physical Review C</i> (May 2022), APS. doi: 10.1103/PhysRevC.105.054316
 
-Bethel, E. W., B. Loring, U. Ayachit, D. Camp, E. P. N. Duque, N. Ferrier, J. Insley, J. Gu, J. Kress, P. O'Leary, D. Pugmire, S. Rizzi, D. Thompson, G. H. Weber, B. Whitlock, M. Wolf, and K. Wu. “The SENSEI Generic In Situ Interface: Tool and Processing Portability at Scale," In Situ Visualization for Computational Science (May 2022), Springer Nature, pp. 281-306. doi: 10.1007/978-3-030-81627-8_13
+Bethel, E. W., B. Loring, U. Ayachit, D. Camp, E. P. N. Duque, N. Ferrier, J. Insley, J. Gu, J. Kress, P. O'Leary, D. Pugmire, S. Rizzi, D. Thompson, G. H. Weber, B. Whitlock, M. Wolf, and K. Wu. “The SENSEI Generic In Situ Interface: Tool and Processing Portability at Scale," <i>In Situ Visualization for Computational Science</i> (May 2022), Springer Nature, pp. 281-306. doi: 10.1007/978-3-030-81627-8_13
 
-Bethel, E. W., B. Loring, U. Ayachit, E. P. N. Duque, N. Ferrier, J. Insley, J. Gu, J. Kress, P. O'Leary, D. Pugmire, S. Rizzi, D. Thompson, W. Usher, G. H. Weber, B. Whitlock, M. Wolf, and K. Wu. “Proximity Portability and in Transit, M-to-N Data Partitioning and Movement in SENSEI," In Situ Visualization for Computational Science (May 2022), Springer Nature, pp. 439-460. doi: 10.1007/978-3-030-81627-8_20
+Bethel, E. W., B. Loring, U. Ayachit, E. P. N. Duque, N. Ferrier, J. Insley, J. Gu, J. Kress, P. O'Leary, D. Pugmire, S. Rizzi, D. Thompson, W. Usher, G. H. Weber, B. Whitlock, M. Wolf, and K. Wu. “Proximity Portability and in Transit, M-to-N Data Partitioning and Movement in SENSEI," <i>In Situ Visualization for Computational Science</i> (May 2022), Springer Nature, pp. 439-460. doi: 10.1007/978-3-030-81627-8_20
 
-Cossairt, A., M. Buehlmann, E. Kovacs, X. Liu, S. Habib, and K. Heitmann. “Cosmo-Paleontology: Statistics of Fossil Groups in a Gravity-Only Simulation," The Open Journal of Astrophysics (May 2022), Maynooth Academic Publishing. doi: 10.21105/astro.2203.08768
+Cossairt, A., M. Buehlmann, E. Kovacs, X. Liu, S. Habib, and K. Heitmann. “Cosmo-Paleontology: Statistics of Fossil Groups in a Gravity-Only Simulation," <i>The Open Journal of Astrophysics</i> (May 2022), Maynooth Academic Publishing. doi: 10.21105/astro.2203.08768
 
-Gamelin, B. L., J. Feinstein, J. Wang, J. Bessac, E. Yan, and V. R. Kotamarthi. “Projected U.S. Drought Extremes through the Twenty-First Century with Vapor Pressure Deficit," Scientific Reports (May 2022), Springer Nature. doi: 10.1038/s41598-022-12516-7
+Gamelin, B. L., J. Feinstein, J. Wang, J. Bessac, E. Yan, and V. R. Kotamarthi. “Projected U.S. Drought Extremes through the Twenty-First Century with Vapor Pressure Deficit," <i>Scientific Reports</i> (May 2022), Springer Nature. doi: 10.1038/s41598-022-12516-7
 
-Gensini, V., A. M. Haberlie, and W. S. Ashley. “Convection-Permitting Simulations of Historical and Possible Future Climate over the Contiguous United States," Climate Dynamics (May 2022), Springer Nature. doi: 10.1007/s00382-022-06306-0
+Gensini, V., A. M. Haberlie, and W. S. Ashley. “Convection-Permitting Simulations of Historical and Possible Future Climate over the Contiguous United States," <i>Climate Dynamics</i> (May 2022), Springer Nature. doi: 10.1007/s00382-022-06306-0
 
-Gerasimeniuk, N.V., M. N. Chernodub, V. A. Goy, D. L. Boyda, S. D. Liubimov, A. V. Molochkov. “Applying Machine Learning Methods to Prediction Problems of Lattice Observables," SciPost Physics Proceedings (May 2022), SciPost Foundation. doi: 10.21468/scipostphysproc.6.020
+Gerasimeniuk, N.V., M. N. Chernodub, V. A. Goy, D. L. Boyda, S. D. Liubimov, A. V. Molochkov. “Applying Machine Learning Methods to Prediction Problems of Lattice Observables," <i>SciPost Physics Proceedings</i> (May 2022), SciPost Foundation. doi: 10.21468/scipostphysproc.6.020
 
-Huang, S., and J. M. Cole. “BatteryBERT: A Pretrained Language Model for Battery Database Enhancement," Journal of Chemical Information and Modeling (May 2022), ACS Publications. doi: 10.1021/acs.jcim.2c00035
+Huang, S., and J. M. Cole. “BatteryBERT: A Pretrained Language Model for Battery Database Enhancement," <i>Journal of Chemical Information and Modeling</i> (May 2022), ACS Publications. doi: 10.1021/acs.jcim.2c00035
 
-Jain, S. S., and P. Moin. “A Kinetic Energy– and Entropy-Preserving Scheme for Compressible Two-Phase Flows," Journal of Computational Physics (May 2022), Elsevier. doi: 10.1016/j.jcp.2022.111307
+Jain, S. S., and P. Moin. “A Kinetic Energy– and Entropy-Preserving Scheme for Compressible Two-Phase Flows," <i>Journal of Computational Physics</i> (May 2022), Elsevier. doi: 10.1016/j.jcp.2022.111307
 
-Maulik, R., V. Rao, J. Wang, G. Mengaldo, E. Constantinescu, B. Lusch, P. Balaprakash, I. Foster, and R. Kotamarthi. “Efficient High-Dimensional Variational Data Assimilation with Machine-Learned Reduced-Order Models," Geoscientific Model Development (May 2022), European Geosciences Union. doi: 10.5194/gmd-15-3433-2022
+Maulik, R., V. Rao, J. Wang, G. Mengaldo, E. Constantinescu, B. Lusch, P. Balaprakash, I. Foster, and R. Kotamarthi. “Efficient High-Dimensional Variational Data Assimilation with Machine-Learned Reduced-Order Models," <i>Geoscientific Model Development</i> (May 2022), European Geosciences Union. doi: 10.5194/gmd-15-3433-2022
 
-Miller, D., V. A. Gensini, and B. S. Barrett. “Madden-Julian Oscillation Influences United States Springtime Tornado and Hail Frequency," npj Climate and Atmospheric Sciences (May 2022), Springer Nature. doi: 10.1038/s41612-022-00263-5
+Miller, D., V. A. Gensini, and B. S. Barrett. “Madden-Julian Oscillation Influences United States Springtime Tornado and Hail Frequency," <i>npj Climate and Atmospheric Sciences</i> (May 2022), Springer Nature. doi: 10.1038/s41612-022-00263-5
 
-Peterka, T., Y. Nashed, I. Grindeanu, V. Mahadevan, R. Yeh, and D. Lenz. “Multivariate Functional Approximation of Scientific Data," In Situ Visualization for Computational Science (May 2022), Springer Nature, pp. 375-397. doi: 10.1007/978-3-030-81627-8_17
+Peterka, T., Y. Nashed, I. Grindeanu, V. Mahadevan, R. Yeh, and D. Lenz. “Multivariate Functional Approximation of Scientific Data," <i>In Situ Visualization for Computational Science</i> (May 2022), Springer Nature, pp. 375-397. doi: 10.1007/978-3-030-81627-8_17
 
-Sivaraman, G., G. Csanyi, A. Vazquez-Mayagoitia, I. T. Foster, S. K. Wilke, R. Weber, and C. J. Benmore. “A Combined Machine Learning and High-Energy X-ray Diffraction Approach to Understanding Liquid and Amorphous Metal Oxides," Journal of the Physical Society of Japan (May 2022), The Physical Society of Japan. doi: 10.7566/JPSJ.91.091009
+Sivaraman, G., G. Csanyi, A. Vazquez-Mayagoitia, I. T. Foster, S. K. Wilke, R. Weber, and C. J. Benmore. “A Combined Machine Learning and High-Energy X-ray Diffraction Approach to Understanding Liquid and Amorphous Metal Oxides," <i>Journal of the Physical Society of Japan</i> (May 2022), The Physical Society of Japan. doi: 10.7566/JPSJ.91.091009
 
-Usher, W., H. Park, M. Lee, P. Navrátil, D. Fussell, and V. Pascucci. “A Simulation-Oblivious Data Transport Model for Flexible In Transit Visualization," In Situ Visualization for Computational Science (May 2022), Springer Nature, pp. 399-419. doi: 10.1007/978-3-030-81627-8_18
+Usher, W., H. Park, M. Lee, P. Navrátil, D. Fussell, and V. Pascucci. “A Simulation-Oblivious Data Transport Model for Flexible In Transit Visualization," <i>In Situ Visualization for Computational Science</i> (May 2022), Springer Nature, pp. 399-419. doi: 10.1007/978-3-030-81627-8_18
 
-Verma, G., S. Finviya, A. M. Malik, M. Emani, and B. Chapman. “Towards Neural Architecture-Aware Exploration of Compiler Optimizations in a Deep Learning {Graph} Compiler," CF '22: Proceedings of the 19th ACM International Conference on Computing Frontiers (May 2022), Turin, Italy, Association for Computing Machinery. doi: 10.1145/3528416.3530251
+Verma, G., S. Finviya, A. M. Malik, M. Emani, and B. Chapman. “Towards Neural Architecture-Aware Exploration of Compiler Optimizations in a Deep Learning {Graph} Compiler," <i>CF '22: Proceedings of the 19th ACM International Conference on Computing Frontiers</i> (May 2022), Turin, Italy, Association for Computing Machinery. doi: 10.1145/3528416.3530251
 
-Wade, A., A. Bhati, S. Wan, and P. Coveney. “Alchemical Free Energy Estimators and Molecular Dynamics Engines: Accuracy, Precision and Reproducibility," Journal of Chemical Theory and Computation (May 2022), ACS Publications. doi: 10.1021/acs.jctc.2c00114
+Wade, A., A. Bhati, S. Wan, and P. Coveney. “Alchemical Free Energy Estimators and Molecular Dynamics Engines: Accuracy, Precision and Reproducibility," <i>Journal of Chemical Theory and Computation</i> (May 2022), ACS Publications. doi: 10.1021/acs.jctc.2c00114
 
-Wan, S., A. Bhati, D. Wright, I. Wall, A. Graves, D. Green, and P. Coveney. “Ensemble Simulations and Experimental Free Energy Distributions: Evaluation and Characterization of Isoxazole Amides as SMYD3 Inhibitors Inhibitors," Journal of Chemical Information and Modeling (May 2022), ACS Publications. doi: 10.1021/acs.jcim.2c00255
+Wan, S., A. Bhati, D. Wright, I. Wall, A. Graves, D. Green, and P. Coveney. “Ensemble Simulations and Experimental Free Energy Distributions: Evaluation and Characterization of Isoxazole Amides as SMYD3 Inhibitors Inhibitors," <i>Journal of Chemical Information and Modeling</i> (May 2022), ACS Publications. doi: 10.1021/acs.jcim.2c00255
 
-Wang, J., P. Xue, W. Pringle, Z. Yang, and Y. Qian. “Impacts of Lake Surface Temperature on the Summer Climate Over the Great Lakes Region," JGR Atmospheres (May 2022), John Wiley and Sons. doi: 10.1029/2021jd036231
+Wang, J., P. Xue, W. Pringle, Z. Yang, and Y. Qian. “Impacts of Lake Surface Temperature on the Summer Climate Over the Great Lakes Region," <i>JGR Atmospheres</i> (May 2022), John Wiley and Sons. doi: 10.1029/2021jd036231
 
-Yildiz, O., M. Dreher and T. Peterka. “Decaf: Decoupled Dataflows for In Situ Workflows," In Situ Visualization for Computational Science (May 2022), Springer Nature, pp. 137-158. doi: 10.1007/978-3-030-81627-8_7
+Yildiz, O., M. Dreher and T. Peterka. “Decaf: Decoupled Dataflows for In Situ Workflows," <i>In Situ Visualization for Computational Science</i> (May 2022), Springer Nature, pp. 137-158. doi: 10.1007/978-3-030-81627-8_7
 
-Zhao, J., and J. M. Cole. “A Database of Refractive Indices and Dielectric Constants Auto-generated Using ChemDataExtractor," Scientific Data (May 2022), Springer Nature. doi: 10.1038/s41597-022-01295-5
+Zhao, J., and J. M. Cole. “A Database of Refractive Indices and Dielectric Constants Auto-generated Using ChemDataExtractor," <i>Scientific Data</i> (May 2022), Springer Nature. doi: 10.1038/s41597-022-01295-5
 
 JUNE
 
