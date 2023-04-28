@@ -56,35 +56,35 @@ Ye, Z., C. Zhang, and G. Galli. “Photoelectron Spectra of Water and Simple Aqu
 
 FEBRUARY
 
-Appelquist, T., R. C. Brower, K. K. Cushman, G. T. Fleming, A. Gasbarro, A. Hasenfratz, J. Ingoldby, X. Y. Jin, E. T. Neil, J. C. Osborn, C. Rebbi, E. Rinaldi, D. Schaich, P. Vranas, E. Weinberg, and O. Witzel. “Goldstone Boson Scattering with a Light Composite Scalar," Physical Review D (February 2022), APS. doi: 10.1103/physrevd.105.034505
+Appelquist, T., R. C. Brower, K. K. Cushman, G. T. Fleming, A. Gasbarro, A. Hasenfratz, J. Ingoldby, X. Y. Jin, E. T. Neil, J. C. Osborn, C. Rebbi, E. Rinaldi, D. Schaich, P. Vranas, E. Weinberg, and O. Witzel. “Goldstone Boson Scattering with a Light Composite Scalar," <i>Physical Review D</i> (February 2022), APS. doi: 10.1103/physrevd.105.034505
 
-Burrows, A., and M. Coleman. “The Character of Three-Dimensional Core-Collapse Simulation Results," The 16th International Symposium on Nuclei in the Cosmos (February 2022), Chengdu, China, EPJ Web Conferences. doi: 10.1051/epjconf 202226007001
+Burrows, A., and M. Coleman. “The Character of Three-Dimensional Core-Collapse Simulation Results," <i>The 16th International Symposium on Nuclei in the Cosmos</i> (February 2022), Chengdu, China, EPJ Web Conferences. doi: 10.1051/epjconf 202226007001
 
-Chaturvedi, P., A. Khan, M. Tian, E. A. Huerta, and H. Zheng. “Inference-Optimized AI and High Performance Computing for Gravitational Wave Detection at Scale," Frontiers in Artificial Intelligence (February 2022), Frontiers Media SA. doi: 10.3389/frai.2022.828672
+Chaturvedi, P., A. Khan, M. Tian, E. A. Huerta, and H. Zheng. “Inference-Optimized AI and High Performance Computing for Gravitational Wave Detection at Scale," <i>Frontiers in Artificial Intelligence</i> (February 2022), Frontiers Media SA. doi: 10.3389/frai.2022.828672
 
-Elhatisari, S., T. A. Lähde, D. Lee, U.-G. Meißner, and T. Vonk . “Alpha-Alpha Scattering in the Multiverse," Journal of High Energy Physics (February 2022), Springer Nature. doi: 10.1007/JHEP02
+Elhatisari, S., T. A. Lähde, D. Lee, U.-G. Meißner, and T. Vonk . “Alpha-Alpha Scattering in the Multiverse," <i>Journal of High Energy Physics</i> (February 2022), Springer Nature. doi: 10.1007/JHEP02
 
-Frontiere, N., K. Heitmann, E. Rangel, P. Larsen, A. Pope, I. Sultan, T. Uram, S. Habib, S. Rizzi, J. Insley, and The HACC Collaboration. “Farpoint: A High-Resolution Cosmology Simulation at the Gigaparsec Scale," The Astrophysical Journal (February 2022), IOP Publishing. doi: 10.3847/1538-4365/ac43b9
+Frontiere, N., K. Heitmann, E. Rangel, P. Larsen, A. Pope, I. Sultan, T. Uram, S. Habib, S. Rizzi, J. Insley, and The HACC Collaboration. “Farpoint: A High-Resolution Cosmology Simulation at the Gigaparsec Scale," <i>The Astrophysical Journal</i> (February 2022), IOP Publishing. doi: 10.3847/1538-4365/ac43b9
 
-Guo, J., Ward, L., Babuji, Y., Hoyt, N., Williamson, M., Foster, I., Jackson, N., Benmore, C. and Sivarman, G. “A Composition-Transferable Machine Learning Potential for LiCl-KCl Molten Salts Validated by HEXRD," ChemRxiv (February 2022), Cambridge University Press. doi: 10.26434/chemrxiv-2022-8w9ft
+Guo, J., Ward, L., Babuji, Y., Hoyt, N., Williamson, M., Foster, I., Jackson, N., Benmore, C. and Sivarman, G. “A Composition-Transferable Machine Learning Potential for LiCl-KCl Molten Salts Validated by HEXRD," <i>ChemRxiv</i> (February 2022), Cambridge University Press. doi: 10.26434/chemrxiv-2022-8w9ft
 
-Huang, B., C. González-Zacarías, S. S. Güitrón, A. Aslam, S. G. Biedron, K. Bronw, and T. Bolin. “Artificial Intelligence-Assisted Design and Virtual Diagnostic for the Initial Condition of a Storage-Ring-Based Quantum Information System," IEEE Access (February 2022), IEEE. doi: 10.1109/ACCESS.2022.3147727
+Huang, B., C. González-Zacarías, S. S. Güitrón, A. Aslam, S. G. Biedron, K. Bronw, and T. Bolin. “Artificial Intelligence-Assisted Design and Virtual Diagnostic for the Initial Condition of a Storage-Ring-Based Quantum Information System," <i>IEEE Access</i> (February 2022), IEEE. doi: 10.1109/ACCESS.2022.3147727
 
-Impagnatiello, M., M. Bolla, K. Keskinen, G. Giannakopoulos, C. E. Frouzakis, Y. M. Wright, and K. Boulochos. “Systematic Assessment of Data-Driven Approaches for Wall Heat Transfer Modelling for LES in IC Engines Using DNS Data," International Journal of Heat and Mass Transfer (February 2022), vol. 183, no. B, Elsevier. doi: 10.1016/j.ijheatmasstransfer.2021.122109
+Impagnatiello, M., M. Bolla, K. Keskinen, G. Giannakopoulos, C. E. Frouzakis, Y. M. Wright, and K. Boulochos. “Systematic Assessment of Data-Driven Approaches for Wall Heat Transfer Modelling for LES in IC Engines Using DNS Data," <i>International Journal of Heat and Mass Transfer</i> (February 2022), vol. 183, no. B, Elsevier. doi: 10.1016/j.ijheatmasstransfer.2021.122109
 
-Kortelainen, M., Z. Sun, G. Hagen, W. Nazarewicz, T. Papenbrock, and P.-G. Reinhard. “Universal Trend of Charge Radii of Even-Even Ca–Zn Nuclei," Physical Review C (February 2022), APS. doi: 10.1103/PhysRevC.105.L021303
+Kortelainen, M., Z. Sun, G. Hagen, W. Nazarewicz, T. Papenbrock, and P.-G. Reinhard. “Universal Trend of Charge Radii of Even-Even Ca–Zn Nuclei," <i>Physical Review C</i> (February 2022), APS. doi: 10.1103/PhysRevC.105.L021303
 
-Larsson, J., V. Kumar, N. Oberoi, M. Di Renzo, and S. Pirozzoli. “Large-Eddy Simulations of Idealized Shock/Boundary-Layer Interactions with Crossflow," AIAA Journal (February 2022), AIAA. doi: 10.2514/1.J061060
+Larsson, J., V. Kumar, N. Oberoi, M. Di Renzo, and S. Pirozzoli. “Large-Eddy Simulations of Idealized Shock/Boundary-Layer Interactions with Crossflow," <i>AIAA Journal</i> (February 2022), AIAA. doi: 10.2514/1.J061060
 
-Shepard, C., and Y. Kanai. “Nonlinear Electronic Excitation in Water under Proton Irradiation: A First Principles Study," Physical Chemistry Chemical Physics (February 2022), Royal Society of Chemistry. doi: 10.1039/D1CP05313B
+Shepard, C., and Y. Kanai. “Nonlinear Electronic Excitation in Water under Proton Irradiation: A First Principles Study," <i>Physical Chemistry Chemical Physics</i> (February 2022), Royal Society of Chemistry. doi: 10.1039/D1CP05313B
 
-Thompson, A. P., H. M. Aktulga, R. Berger, D. S. Bolintineanu, W. M. Brown, P. S. Crozier, P. J. in 't Veld, A. Kohlmeyer, S. G. Moore, T. D. Nguyen, R. Shan, M. J. Stevens, J. Tranchida, C. Trott, and S. J. Plimpton. “LAMMPS - A Flexible Simulation Tool for Particle-Based Materials Modeling at the Atomic, Meso, and Continuum Scales," Computer Physics Communications (February 2022), Elsevier. doi: 10.1016/j.cpc.2021.108171
+Thompson, A. P., H. M. Aktulga, R. Berger, D. S. Bolintineanu, W. M. Brown, P. S. Crozier, P. J. in 't Veld, A. Kohlmeyer, S. G. Moore, T. D. Nguyen, R. Shan, M. J. Stevens, J. Tranchida, C. Trott, and S. J. Plimpton. “LAMMPS - A Flexible Simulation Tool for Particle-Based Materials Modeling at the Atomic, Meso, and Continuum Scales," <i>Computer Physics Communications</i> (February 2022), Elsevier. doi: 10.1016/j.cpc.2021.108171
 
-Tiihonen, J., P. R. C. Kent, and J. T. Krogel. “Surrogate Hessian Accelerated Structural Optimization for Stochastic Electronic Structure Theories," The Journal of Chemical Physics (February 2022), AIP. doi: 10.1063/5.0079046
+Tiihonen, J., P. R. C. Kent, and J. T. Krogel. “Surrogate Hessian Accelerated Structural Optimization for Stochastic Electronic Structure Theories," <i>The Journal of Chemical Physics</i> (February 2022), AIP. doi: 10.1063/5.0079046
 
-Wan, S., Agastya, B., Wright, D., Wall, I., Graves, A., Green, D. and Coveney, P. “Evaluation and Characterization of Isoxazole Amides as SMYD3 Inhibitors Inhibitors," Cambridge University (February 2022), ACS. doi: 10.26434/chemrxiv-2022-hrxqs
+Wan, S., Agastya, B., Wright, D., Wall, I., Graves, A., Green, D. and Coveney, P. “Evaluation and Characterization of Isoxazole Amides as SMYD3 Inhibitors Inhibitors," <i>ChemRxiv</i> (February 2022), Cambridge University Press. doi: 10.26434/chemrxiv-2022-hrxqs
 
-White, C. J., A. Burrows, M. S. B. Coleman, and D. Vartanyan. “On the Origin of Pulsar and Magnetar Magnetic Fields," The Astrophysical Journal (February 2022), IOP Publishing. doi: 10.3847/1538-4357/ac4507
+White, C. J., A. Burrows, M. S. B. Coleman, and D. Vartanyan. “On the Origin of Pulsar and Magnetar Magnetic Fields," <i>The Astrophysical Journal</i> (February 2022), IOP Publishing. doi: 10.3847/1538-4357/ac4507
 
 MARCH
 
