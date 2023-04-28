@@ -146,7 +146,7 @@ Trott, C. R., D. Lebrun-Grandie, D. Arndt, J. Ciesko, V. Dang, N. Ellingwood, R.
 
 MAY
 
-Atkinson, M. C., P. Navrátil, G. Hupin, K. Kravvaris, and S. Quaglioni. “Ab Initio Calculation of the β Decay from 11 Be to a 10 Be + p Resonance," Physical Review C (May 2022), APS. doi: 10.1103/PhysRevC.105.054316
+Atkinson, M. C., P. Navrátil, G. Hupin, K. Kravvaris, and S. Quaglioni. “Ab Initio Calculation of the β Decay from <sup>11</sup>Be to a <sup>10</sup>Be + <i>p</I> Resonance," Physical Review C (May 2022), APS. doi: 10.1103/PhysRevC.105.054316
 
 Bethel, E. W., B. Loring, U. Ayachit, D. Camp, E. P. N. Duque, N. Ferrier, J. Insley, J. Gu, J. Kress, P. O'Leary, D. Pugmire, S. Rizzi, D. Thompson, G. H. Weber, B. Whitlock, M. Wolf, and K. Wu. “The SENSEI Generic In Situ Interface: Tool and Processing Portability at Scale," In Situ Visualization for Computational Science (May 2022), Springer Nature, pp. 281-306. doi: 10.1007/978-3-030-81627-8_13
 
@@ -233,6 +233,7 @@ Yang, T. T., and W. Saidi. “Reconciling the Volcano Trend with the Butler–Vo
 Yao, Y., H. Chan, S. Sankaranarayanan, P. Balaprakash, R. J. Harder, and M. J. Cherukara. “AutoPhaseNN: Unsupervised Physics-Aware Deep Learning of 3D Nanoscale Bragg Coherent Diffraction Imaging," npj Computational Materials (June 2022), Springer Nature. doi: 10.1038/s41524-022-00803-w
 
 JULY
+
 Albergo, M. S., D. Boyda, D. C. Cranmer, C. Hackett, G. Kanwar, S. Racaniére, D. J. Rezende, F. Romero-López, P. E. Shanahan, and J. M. Urban. “Flow-Based Sampling In the Lattice Schwinger Model at Criticality," Physical Review D (July 2022), APS. doi: 10.1103/physrevd.106.014514
 
 Guo, J., L. Ward, Y. Babuji, N. Hoyt, M. Williamson, I. Foster, N. Jackson, C. Benmore, and G. Sivaraman. “Composition-Transferable Machine Learning Potential for LiCl-KCl Molten Salts Validated by High-Energy X-ray Diffraction," Physical Review B (July 2022), APS. doi: 10.1103/PhysRevB.106.014209
