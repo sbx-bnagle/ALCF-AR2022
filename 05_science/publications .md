@@ -88,33 +88,33 @@ White, C. J., A. Burrows, M. S. B. Coleman, and D. Vartanyan. “On the Origin o
 
 MARCH
 
-Bhati, A. P., and P. V. Coveney. “Large Scale Study of Ligand–Protein Relative Binding Free Energy Calculations: Actionable Predictions from Statistically Robust Protocols," Journal of Chemical Theory and Computation (March 2022), ACS. doi: 10.1021/acs.jctc.1c01288
+Bhati, A. P., and P. V. Coveney. “Large Scale Study of Ligand–Protein Relative Binding Free Energy Calculations: Actionable Predictions from Statistically Robust Protocols," <i>Journal of Chemical Theory and Computation</i> (March 2022), ACS. doi: 10.1021/acs.jctc.1c01288
 
-Bicer, T., X. Yu, D.J. Ching, and R. Chard. “High-Performance Ptchographic Reconstruction with Federated Facilities," SMC 2021: Driving Scientific and Engineering Discoveries Through the Integration of Experiment, Big Data, and Modeling and Simulation (March 2022), Springer Nature. doi: 10.1007/978-3-030-96498-6_10
+Bicer, T., X. Yu, D.J. Ching, and R. Chard. “High-Performance Ptchographic Reconstruction with Federated Facilities," <i>SMC 2021: Driving Scientific and Engineering Discoveries Through the Integration of Experiment, Big Data, and Modeling and Simulation</i> (March 2022), Springer Nature. doi: 10.1007/978-3-030-96498-6_10
 
-Bonaiti, F., S. Bacca, and G. Hagen. “Ab Initio Coupled-Cluster Calculations of Ground and Dipole Excited States in 8He," Physical Review C (March 2022), APS. doi: 10.1103/PhysRevC.105.034313
+Bonaiti, F., S. Bacca, and G. Hagen. “Ab Initio Coupled-Cluster Calculations of Ground and Dipole Excited States in <sup>8</sup>He," <i>Physical Review C</i> (March 2022), APS. doi: 10.1103/PhysRevC.105.034313
 
-Guttenfelder, W., D. J. Battaglia, E. Belova, N. Bertelli, M. D. Boyer, C. S. Chang, A. Diallo, V. N. Duarte, F. Ebrahimi, E. D. Emdee, N. Ferraro, E. Fredrickson, N. N. Gorelenkov, W. Heidbrink, Z. Ilhan, S. M. Kaye, E.-H. Kim, A. Kleiner, F. Laggner, M. Lampert, J. B. Lestz, C. Liu, D. Liu, T. Looby, N. Mandell, R. Maingi, J. R. Myra, S. Munaretto, M. Podestà, T. Rafiq, R. Raman, M. Reinke, Y. Ren, J. Ruiz Ruiz, F. Scotti, S. Shiraiwa, V. Soukhanovskii, P. Vail, Z. R. Wang, W. Wehner, A. E. White, R. B. White, B. J. Q. Woods, J. Yang, S. J. Zweben, S. Banerjee, R. Barchfeld, R. E. Bell, J. W. Berkery, A. Bhattacharjee, A. Bierwage, G. P. Canal, X. Chen, C. Clauser, N. Crocker, C. Domier, T. Evans, M. Francisquez, K. Gan, S. Gerhardt, R. J. Goldston, T. Gray, A. Hakim, G. Hammett, S. Jardin, R. Kaita, B. Koel, E. Kolemen, S.-H. Ku, S. Kubota, B. P. LeBlanc, F. Levinton, J. D. Lore, N. Luhmann, R. Lunsford, R. Maqueda, J. E. Menard, J. H. Nichols, M. Ono, J.-K. Park, F. Poli, T. Rhodes, J. Riquezes, D. Russell, S. A. Sabbagh, E. Schuster, D. R. Smith, D. Stotler, B. Stratton, K. Tritz, W. Wang, and B. Wirth. “NSTX-U Theory, Modeling and Analysis Results," Nuclear Fusion (March 2022), IOP Publishing. doi: 10.1088/1741-4326/ac5448
+Guttenfelder, W., D. J. Battaglia, E. Belova, N. Bertelli, M. D. Boyer, C. S. Chang, A. Diallo, V. N. Duarte, F. Ebrahimi, E. D. Emdee, N. Ferraro, E. Fredrickson, N. N. Gorelenkov, W. Heidbrink, Z. Ilhan, S. M. Kaye, E.-H. Kim, A. Kleiner, F. Laggner, M. Lampert, J. B. Lestz, C. Liu, D. Liu, T. Looby, N. Mandell, R. Maingi, J. R. Myra, S. Munaretto, M. Podestà, T. Rafiq, R. Raman, M. Reinke, Y. Ren, J. Ruiz Ruiz, F. Scotti, S. Shiraiwa, V. Soukhanovskii, P. Vail, Z. R. Wang, W. Wehner, A. E. White, R. B. White, B. J. Q. Woods, J. Yang, S. J. Zweben, S. Banerjee, R. Barchfeld, R. E. Bell, J. W. Berkery, A. Bhattacharjee, A. Bierwage, G. P. Canal, X. Chen, C. Clauser, N. Crocker, C. Domier, T. Evans, M. Francisquez, K. Gan, S. Gerhardt, R. J. Goldston, T. Gray, A. Hakim, G. Hammett, S. Jardin, R. Kaita, B. Koel, E. Kolemen, S.-H. Ku, S. Kubota, B. P. LeBlanc, F. Levinton, J. D. Lore, N. Luhmann, R. Lunsford, R. Maqueda, J. E. Menard, J. H. Nichols, M. Ono, J.-K. Park, F. Poli, T. Rhodes, J. Riquezes, D. Russell, S. A. Sabbagh, E. Schuster, D. R. Smith, D. Stotler, B. Stratton, K. Tritz, W. Wang, and B. Wirth. “NSTX-U Theory, Modeling and Analysis Results," <i>Nuclear Fusion</i> (March 2022), IOP Publishing. doi: 10.1088/1741-4326/ac5448
 
-Huang, B., M. Govoni, and G. Galli. “Simulating the Electronic Structure of Spin Defects on Quantum Computers," PRX Quantum (March 2022), APS. doi: 10.1103/prxquantum.3.010339
+Huang, B., M. Govoni, and G. Galli. “Simulating the Electronic Structure of Spin Defects on Quantum Computers," <i>PRX Quantum</i> (March 2022), APS. doi: 10.1103/prxquantum.3.010339
 
-Li, B., C. Feng, C. Siebenschuh, R. Zhang, E. Spyrou, V. Krishnan, B. F. Hobbs, and J. Zhang. “Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method," Applied Energy (March 2022), Elsevier. doi: 10.1016/j.apenergy.2022.118812
+Li, B., C. Feng, C. Siebenschuh, R. Zhang, E. Spyrou, V. Krishnan, B. F. Hobbs, and J. Zhang. “Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method," <i>Applied Energy</i> (March 2022), Elsevier. doi: 10.1016/j.apenergy.2022.118812
 
-Linker, T., K.-I. Nomura, A. Aditya, S. Fukshima, R. K. Kalia, A. Krishnamoorthy, A. Nakano, P. Rajak, K. Shimmura, F. Shimojo, and P. Vashishta. “Exploring Far-from-Equilibrium Ultrafast Polarization Control in Ferroelectric Oxides with Excited-State Neural Network Quantum Molecular Dynamics," Science Advances (March 2022), AAAS. doi: 10.1126/sciadv.abk2625
+Linker, T., K.-I. Nomura, A. Aditya, S. Fukshima, R. K. Kalia, A. Krishnamoorthy, A. Nakano, P. Rajak, K. Shimmura, F. Shimojo, and P. Vashishta. “Exploring Far-from-Equilibrium Ultrafast Polarization Control in Ferroelectric Oxides with Excited-State Neural Network Quantum Molecular Dynamics," <i>Science Advances</i> (March 2022), AAAS. doi: 10.1126/sciadv.abk2625
 
-Lu, Y., R., Maulik, T. Gao, F. Dietrich, I. G. Kevrekidis, and J. Duan. “Learning the Temporal Evolution of Multivariate Densities via Normalizing Flows," Chaos: An Interdisciplinary Journal of Nonlinear Science (March 2022), AIP Publishing. doi: 10.1063/5.0065093
+Lu, Y., R., Maulik, T. Gao, F. Dietrich, I. G. Kevrekidis, and J. Duan. “Learning the Temporal Evolution of Multivariate Densities via Normalizing Flows," <i>Chaos: An Interdisciplinary Journal of Nonlinear Science</i> (March 2022), AIP Publishing. doi: 10.1063/5.0065093
 
-Ohayon, B., R. F. Garcia Ruiz, Z. H. Sun, G. Hagen, T. Papenbrock, and B. K. Sahoo. “Nuclear Charge Radii of Na Isotopes: Interplay of Atomic and Nuclear Theory," Physical Review C (March 2022), APS. doi: 10.1103/PhysRevC.105.L031305
+Ohayon, B., R. F. Garcia Ruiz, Z. H. Sun, G. Hagen, T. Papenbrock, and B. K. Sahoo. “Nuclear Charge Radii of Na Isotopes: Interplay of Atomic and Nuclear Theory," <i>Physical Review C</i> (March 2022), APS. doi: 10.1103/PhysRevC.105.L031305
 
-Pauloski, J. G., L. Huang, W. Xu, K. Chard, I. T. Foster, and Z. Zhang. “Deep Neural Network Training with Distributed K-FAC," IEEE Transactions on Parallel and Distributed Systems (March 2022), IEEE. doi: 10.1109/TPDS.2022.3161187
+Pauloski, J. G., L. Huang, W. Xu, K. Chard, I. T. Foster, and Z. Zhang. “Deep Neural Network Training with Distributed K-FAC," <i>IEEE Transactions on Parallel and Distributed Systems</i> (March 2022), IEEE. doi: 10.1109/TPDS.2022.3161187
 
-Pefkou, D. A., D. C. Hackett, and P. E. Shanahan. “Gluon Gravitational Structure of Hadrons of Different Spin," Physical Review D (March 2022), APS. doi: 10.1103/physrevd.105.054509
+Pefkou, D. A., D. C. Hackett, and P. E. Shanahan. “Gluon Gravitational Structure of Hadrons of Different Spin," <i>Physical Review D</i> (March 2022), APS. doi: 10.1103/physrevd.105.054509
 
-Preinm, A. F., M. Ge, A. N. Ramos-Valle, D. Wang, and S. E. Giangrande. “Towards a Unified Setup to Simulate Mid-Latitude and Tropical Mesoscale Convective Systems at Kilometer-Scales," ESS Open Archive (March 2022), ESS Open Archive. doi: 10.1002/essoar.10510881.1
+Preinm, A. F., M. Ge, A. N. Ramos-Valle, D. Wang, and S. E. Giangrande. “Towards a Unified Setup to Simulate Mid-Latitude and Tropical Mesoscale Convective Systems at Kilometer-Scales," <i>ESS Open Archive</i> (March 2022), ESS Open Archive. doi: 10.1002/essoar.10510881.1
 
-Yang. L, R. Hu, A. Kraus, P. Balaprakash, and A. Obabko. “Data-Driven Modeling of Coarse Mesh Turbulence for Reactor Transient Analysis Using Convolutional Recurrent Neural Networks," Nuclear Engineering and Design (March 2022), Elsevier. doi: 10.1016/j.nucengdes.2022.111716
+Yang. L, R. Hu, A. Kraus, P. Balaprakash, and A. Obabko. “Data-Driven Modeling of Coarse Mesh Turbulence for Reactor Transient Analysis Using Convolutional Recurrent Neural Networks," <i>Nuclear Engineering and Design</i> (March 2022), Elsevier. doi: 10.1016/j.nucengdes.2022.111716
 
-Zhu, M., and J. M. Cole. “PDFDataExtractor: A Tool for Reading Scientific Text and Interpreting Metadata from the Typeset Literature in the Portable Document Format," Journal of Chemical Information and Modeling (March 2022), ACS. doi: 10.1021/acs.jcim.1c01198
+Zhu, M., and J. M. Cole. “PDFDataExtractor: A Tool for Reading Scientific Text and Interpreting Metadata from the Typeset Literature in the Portable Document Format," <i>Journal of Chemical Information and Modeling</i> (March 2022), ACS. doi: 10.1021/acs.jcim.1c01198
 
 APRIL
 
