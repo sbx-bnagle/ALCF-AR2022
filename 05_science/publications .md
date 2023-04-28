@@ -188,49 +188,49 @@ Zhao, J., and J. M. Cole. “A Database of Refractive Indices and Dielectric Con
 
 JUNE
 
-Anderson, J., Y. Liu, and J. Mellor-Crummey. “Preparing for Performance Analysis at Exascale," ICS '22: Proceedings of the 36th ACM International Conference on Supercomputing (June 2022), Association for Computing Machinery. doi: 10.1145/3524059.3532397
+Anderson, J., Y. Liu, and J. Mellor-Crummey. “Preparing for Performance Analysis at Exascale," <i>ICS '22: Proceedings of the 36th ACM International Conference on Supercomputing</i> (June 2022), Association for Computing Machinery. doi: 10.1145/3524059.3532397
 
-Caprio, M. A., P. J. Fasano, and P. Maris. “Robust Ab Initio Prediction of Nuclear Electric Quadrupole Observables by Scaling to the Charge Radius," Physical Review C (June 2022), APS. doi: 10.1103/PhysRevC.105.L061302
+Caprio, M. A., P. J. Fasano, and P. Maris. “Robust Ab Initio Prediction of Nuclear Electric Quadrupole Observables by Scaling to the Charge Radius," <i>Physical Review C</i> (June 2022), APS. doi: 10.1103/PhysRevC.105.L061302
 
-Chitty-Venkata, K. T., M. Emani, V. Vishwanath, and A. K. Somani. “Efficient Design Space Exploration for Sparse Mixed Precision Neural Architectures," HPDC '22: Proceedings of the 31st International Symposium on High-Performance Parallel and Distributed Computing (June 2022), Minneapolis, MN, Association for Computing Machinery. doi: 10.1145/3502181.3531463
+Chitty-Venkata, K. T., M. Emani, V. Vishwanath, and A. K. Somani. “Efficient Design Space Exploration for Sparse Mixed Precision Neural Architectures," <i>HPDC '22: Proceedings of the 31st International Symposium on High-Performance Parallel and Distributed Computing</i> (June 2022), Minneapolis, MN, Association for Computing Machinery. doi: 10.1145/3502181.3531463
 
-Debackere, S. N. B., H. Hoekstra, J. Schaye, K. Heitmann, and S. Habib. “Why Are We Still Using 3D Masses for Cluster Cosmology?" Monthly Notices of the Royal Astronomical Society (June 2022), Oxford University Publishing. doi: 10.1093/mnras/stac1687
+Debackere, S. N. B., H. Hoekstra, J. Schaye, K. Heitmann, and S. Habib. “Why Are We Still Using 3D Masses for Cluster Cosmology?" <i>Monthly Notices of the Royal Astronomical Society</i> (June 2022), Oxford University Publishing. doi: 10.1093/mnras/stac1687
 
-Glick-Magid, A., C. Forssén, D. Gazda, D. Gazit, P. Gysbers, and P. Navrátil. “Nuclear Ab Initio Calculations of 6He β-decay for beyond the Standard Model Studies," Physical Review B (June 2022), Elsevier. doi: 10.1016/j.physletb.2022.137259
+Glick-Magid, A., C. Forssén, D. Gazda, D. Gazit, P. Gysbers, and P. Navrátil. “Nuclear Ab Initio Calculations of <sup>6</sup>He β-decay for beyond the Standard Model Studies," <i>Physical Review B</i> (June 2022), Elsevier. doi: 10.1016/j.physletb.2022.137259
 
-Haberlie, A. M., W. S. Ashley, C. M. Battisto, and V. A. Gensini. “Thunderstorm Activity Under Intermediate and Extreme Climate Change Scenarios," Geophysical Research Letters (June 2022), vol. 49, no. 14, John Wiley and Sons. doi: 10.1029 2022gl098779
+Haberlie, A. M., W. S. Ashley, C. M. Battisto, and V. A. Gensini. “Thunderstorm Activity Under Intermediate and Extreme Climate Change Scenarios," <i>Geophysical Research Letters</i> (June 2022), vol. 49, no. 14, John Wiley and Sons. doi: 10.1029 2022gl098779
 
-Hagen, G., S. J. Novario, Z. H. Sun, T. Papenbrock, G. R. Jansen, J. G. Lietz, T. Duguet, and A. Tichai. “Angular-Momentum Projection in Coupled-Cluster Theory: Structure of 34Mg," Physical Review C (June 2022), APS. doi: 10.1103/PhysRevC.105.064311
+Hagen, G., S. J. Novario, Z. H. Sun, T. Papenbrock, G. R. Jansen, J. G. Lietz, T. Duguet, and A. Tichai. “Angular-Momentum Projection in Coupled-Cluster Theory: Structure of <sup>34</sup>Mg," <i>Physical Review C</i> (June 2022), APS. doi: 10.1103/PhysRevC.105.064311
 
-Hotton, A. L., J. Ozik, C. Kaligotla, N. Collier, A. Stevens, A. S. Khanna, M. M. MacDonell, C. Wang, D. J. LePoire, Y.-S. Chang, I. J. Martiniz-Moyano, B. Mucenic, H. A. Pollack, J. A. Schneider, and C. Macal. “Impact of Changes in Protective Behaviors and Out-of-Household Activities by Age on COVID-19 Transmission and Hospitalization in Chicago, Illinois," Annals of Epidemiology (June 2022), Elsevier. doi: 10.1016/j.annepidem.2022.06.005
+Hotton, A. L., J. Ozik, C. Kaligotla, N. Collier, A. Stevens, A. S. Khanna, M. M. MacDonell, C. Wang, D. J. LePoire, Y.-S. Chang, I. J. Martiniz-Moyano, B. Mucenic, H. A. Pollack, J. A. Schneider, and C. Macal. “Impact of Changes in Protective Behaviors and Out-of-Household Activities by Age on COVID-19 Transmission and Hospitalization in Chicago, Illinois," <i>Annals of Epidemiology</i> (June 2022), Elsevier. doi: 10.1016/j.annepidem.2022.06.005
 
-Isaacs, E. B., H. Shin, A. Annaberdiyev, C. Wolverton, L. Mitas, A. Benali, and O. Heinonen. “Assessing the Accuracy of Compound Formation Energies with Quantum Monte Carlo," Physical Review B (June 2022), APS. doi: 10.1103/PhysRevB.105.224110
+Isaacs, E. B., H. Shin, A. Annaberdiyev, C. Wolverton, L. Mitas, A. Benali, and O. Heinonen. “Assessing the Accuracy of Compound Formation Energies with Quantum Monte Carlo," <i>Physical Review B</i> (June 2022), APS. doi: 10.1103/PhysRevB.105.224110
 
-Kanhaiya. K, H. Heinz. “Adsorption and Diffusion of Oxygen on Pure and Partially Oxidized Metal Surfaces in Ultrahigh Resolution," Nano Letters (June 2022), ACS Publications, pp. 5392–5400. doi: 10.1021/acs.nanolett.2c00490
+Kanhaiya. K, H. Heinz. “Adsorption and Diffusion of Oxygen on Pure and Partially Oxidized Metal Surfaces in Ultrahigh Resolution," <i>Nano Letters</i> (June 2022), ACS Publications, pp. 5392–5400. doi: 10.1021/acs.nanolett.2c00490
 
-Kim, K., A. Dive, A. Grieder, N. Adelstein, S. Kang, L. F. Wan, and B. C. Wood. “Flexible Machine-Learning Interatomic Potential for Simulating Structural Disordering Behavior of Li7La3Zr2O12 Solid Electrolytes," The Journal of Chemical Physics (June 2022), AIP. doi: 10.1063/5.0090341
+Kim, K., A. Dive, A. Grieder, N. Adelstein, S. Kang, L. F. Wan, and B. C. Wood. “Flexible Machine-Learning Interatomic Potential for Simulating Structural Disordering Behavior of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> Solid Electrolytes," <i>The Journal of Chemical Physics</i> (June 2022), AIP. doi: 10.1063/5.0090341
 
-Kumar, P., S. Kabra, and J. M. Cole. “Auto-generating Databases of Yield Strength and Grain Size Using ChemDataExtractor," Scientific Data (June 2022), Springer Nature. doi: 10.1038/s41597-022-01301-w
+Kumar, P., S. Kabra, and J. M. Cole. “Auto-generating Databases of Yield Strength and Grain Size Using ChemDataExtractor," <i>Scientific Data</i> (June 2022), Springer Nature. doi: 10.1038/s41597-022-01301-w
 
-Lin, Y.-R., M. Franke, S. Parhizkar, M. Raths, V. W. Yu., T.-L. Lee, S. Soubatch, V. Blum, F. S. Tautz, C. Kump, and F. C. Bocquet. “Boron Nitride on SiC(0001)," Physical Review Materials (June 2022), APS. doi: 10.1103/PhysRevMaterials.6.064002
+Lin, Y.-R., M. Franke, S. Parhizkar, M. Raths, V. W. Yu., T.-L. Lee, S. Soubatch, V. Blum, F. S. Tautz, C. Kump, and F. C. Bocquet. “Boron Nitride on SiC(0001)," <i>Physical Review Materials</i> (June 2022), APS. doi: 10.1103/PhysRevMaterials.6.064002
 
-Liu, J., B. Nicolae, D. Li, J. M. Wozniak, T. Bicer, Z. Liu, and I. Foster. “Large Scale Caching and Streaming of Training Data for Online Deep Learning," FlexScience '22: Proceedings of the 12th Workshop on AI and Scientific Computing at Scale using Flexible Computing Infrastructures (June 2022), Association for Computing Machinery, pp. 19-26. doi: 10.1145/3526058.3535453
+Liu, J., B. Nicolae, D. Li, J. M. Wozniak, T. Bicer, Z. Liu, and I. Foster. “Large Scale Caching and Streaming of Training Data for Online Deep Learning," FlexScience '22: Proceedings of the 12th Workshop on AI and Scientific Computing at Scale using Flexible Computing Infrastructures</i> (June 2022), Association for Computing Machinery, pp. 19-26. doi: 10.1145/3526058.3535453
 
-Lu, B.-N., N. Li, S. Elhatisari, Y.-Z. Ma, D. Lee, and U.-G. Meißner. “Perturbative Quantum Monte Carlo Method for Nuclear Physics," Physical Review Letters (June 2022), APS. doi: 10.1103/PhysRevLett.128.242501
+Lu, B.-N., N. Li, S. Elhatisari, Y.-Z. Ma, D. Lee, and U.-G. Meißner. “Perturbative Quantum Monte Carlo Method for Nuclear Physics," <i>Physical Review Letters</i> (June 2022), APS. doi: 10.1103/PhysRevLett.128.242501
 
-Sarkar, A., and D. Lee. “Self-Learning Emulators and Eigenvector Continuation," Physical Review Research (June 2022), APS. doi: 10.1103/PhysRevResearch.4.023214
+Sarkar, A., and D. Lee. “Self-Learning Emulators and Eigenvector Continuation," <i>Physical Review Research</i> (June 2022), APS. doi: 10.1103/PhysRevResearch.4.023214
 
-Skluzacek, T., M. Chen, E. Hsu, K. Chard, and I. Foster. “Models and Metrics for Mining Meaningful Metadata," Computational Science – ICCS 2022 (June 2022), Springer Nature, pp. 417-430. doi: 10.1007/978-3-031-08751-6_30
+Skluzacek, T., M. Chen, E. Hsu, K. Chard, and I. Foster. “Models and Metrics for Mining Meaningful Metadata," <i>Computational Science – ICCS 2022</i> (June 2022), Springer Nature, pp. 417-430. doi: 10.1007/978-3-031-08751-6_30
 
-Srinivasan, S., R. Batra, D. Luo, T. Loeffler, S. Manna, H. Chan, L. Yang, W. Yang, J. Wen, P. Darancet, and S. K. R. S. Sankaranarayanan. “Machine Learning the Metastable Phase Diagram of Covalently Bonded Carbon," Nature Communications (June 2022), Springer Nature. doi: 10.1038/s41467-022-30820-8
+Srinivasan, S., R. Batra, D. Luo, T. Loeffler, S. Manna, H. Chan, L. Yang, W. Yang, J. Wen, P. Darancet, and S. K. R. S. Sankaranarayanan. “Machine Learning the Metastable Phase Diagram of Covalently Bonded Carbon," <i>Nature Communications</i> (June 2022), Springer Nature. doi: 10.1038/s41467-022-30820-8
 
-Stein, G., J. Blaum, P. Harrington, T. Medan, and Z. Lukić. “Mining for Strong Gravitational Lenses with Self-Supervised Learning," The Astrophysical Journal (June 2022), IOP Publishing. doi: 10.3847/1538-4357/ac6d63
+Stein, G., J. Blaum, P. Harrington, T. Medan, and Z. Lukić. “Mining for Strong Gravitational Lenses with Self-Supervised Learning," <i>The Astrophysical Journal</i> (June 2022), IOP Publishing. doi: 10.3847/1538-4357/ac6d63
 
-Wan, S., A. P. Bhati, D. W. Wright, A. D. Wade, G. Tresadern, H. van Vlijmen, and P. V. Coveney. “The Performance of Ensemble-Based Free Energy Protocols in Computing Binding Affinities to ROS1 Kinase," Scientific Reports (June 2022), Springer Nature. doi: 10.1038/s41598-022-13319-6
+Wan, S., A. P. Bhati, D. W. Wright, A. D. Wade, G. Tresadern, H. van Vlijmen, and P. V. Coveney. “The Performance of Ensemble-Based Free Energy Protocols in Computing Binding Affinities to ROS1 Kinase," <i>Scientific Reports</i> (June 2022), Springer Nature. doi: 10.1038/s41598-022-13319-6
 
-Yang, T. T., and W. Saidi. “Reconciling the Volcano Trend with the Butler–Volmer Model for the Hydrogen Evolution Reaction," The Journal of Physical Chemistry Letters (June 2022), ACS . doi: 10.1021/acs.jpclett.2c01411
+Yang, T. T., and W. Saidi. “Reconciling the Volcano Trend with the Butler–Volmer Model for the Hydrogen Evolution Reaction," <i>The Journal of Physical Chemistry Letters</i> (June 2022), ACS . doi: 10.1021/acs.jpclett.2c01411
 
-Yao, Y., H. Chan, S. Sankaranarayanan, P. Balaprakash, R. J. Harder, and M. J. Cherukara. “AutoPhaseNN: Unsupervised Physics-Aware Deep Learning of 3D Nanoscale Bragg Coherent Diffraction Imaging," npj Computational Materials (June 2022), Springer Nature. doi: 10.1038/s41524-022-00803-w
+Yao, Y., H. Chan, S. Sankaranarayanan, P. Balaprakash, R. J. Harder, and M. J. Cherukara. “AutoPhaseNN: Unsupervised Physics-Aware Deep Learning of 3D Nanoscale Bragg Coherent Diffraction Imaging," <i>npj Computational Materials</i> (June 2022), Springer Nature. doi: 10.1038/s41524-022-00803-w
 
 JULY
 
