@@ -8,6 +8,10 @@ permalink: /credits/
 ---
 
 
-# Some Info
+# Credits
 
-Paragraph text, the quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. Includes *italic text*, **bold text**, <mark>highlight</mark>, ~~strikethrough~~, and 	[links](https://www.markdownguide.org/).
+ALCF Leadership: Michael E. Papka (Division Director), Bill Allcock (Director of Operations), Susan Coghlan (ALCF-X Project Director, Kalyan Kumaran (Director of Technology), Jini Ramprakash (Deputy Division Director), and Katherine Riley (Director of Science)
+
+Editorial Team: Beth Cerny, Jim Collins, Nils Heinonen, Logan Ludwig, and Laura Wolf
+
+Design and Production: Sandbox Studio, Chicago
