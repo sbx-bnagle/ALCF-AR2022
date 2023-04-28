@@ -234,27 +234,27 @@ Yao, Y., H. Chan, S. Sankaranarayanan, P. Balaprakash, R. J. Harder, and M. J. C
 
 JULY
 
-Albergo, M. S., D. Boyda, D. C. Cranmer, C. Hackett, G. Kanwar, S. Racaniére, D. J. Rezende, F. Romero-López, P. E. Shanahan, and J. M. Urban. “Flow-Based Sampling In the Lattice Schwinger Model at Criticality," Physical Review D (July 2022), APS. doi: 10.1103/physrevd.106.014514
+Albergo, M. S., D. Boyda, D. C. Cranmer, C. Hackett, G. Kanwar, S. Racaniére, D. J. Rezende, F. Romero-López, P. E. Shanahan, and J. M. Urban. “Flow-Based Sampling in the Lattice Schwinger Model at Criticality," <i>Physical Review D</i> (July 2022), APS. doi: 10.1103/physrevd.106.014514
 
-Guo, J., L. Ward, Y. Babuji, N. Hoyt, M. Williamson, I. Foster, N. Jackson, C. Benmore, and G. Sivaraman. “Composition-Transferable Machine Learning Potential for LiCl-KCl Molten Salts Validated by High-Energy X-ray Diffraction," Physical Review B (July 2022), APS. doi: 10.1103/PhysRevB.106.014209
+Guo, J., L. Ward, Y. Babuji, N. Hoyt, M. Williamson, I. Foster, N. Jackson, C. Benmore, and G. Sivaraman. “Composition-Transferable Machine Learning Potential for LiCl-KCl Molten Salts Validated by High-Energy X-ray Diffraction," <i>Physical Review B</i> (July 2022), APS. doi: 10.1103/PhysRevB.106.014209
 
-Hosseini, R., F. Simini, and V. Vishwanath. “Operation-Level Performance Benchmarking of Graph Neural Networks for Scientific Applications," Fifth Conference on Machine Learning and Systems (July 2022), Santa Clara, CA, MLSys. doi: 10.48550/arXiv.2207.09955
+Hosseini, R., F. Simini, and V. Vishwanath. “Operation-Level Performance Benchmarking of Graph Neural Networks for Scientific Applications," <i>Fifth Conference on Machine Learning and Systems</i> (July 2022), Santa Clara, CA, MLSys. doi: 10.48550/arXiv.2207.09955
 
-Ivan, L., and W. Kaufmann. “Direct Numerical Simulation of Turbulent Flow Using Hyperbolic Moment Methods," ICCFD11 Proceedings (July 2022), Maui, HI, International Conference on Computational Fluid Dynamics.
+Ivan, L., and W. Kaufmann. “Direct Numerical Simulation of Turbulent Flow Using Hyperbolic Moment Methods," <i>ICCFD11 Proceedings</i> (July 2022), Maui, HI, International Conference on Computational Fluid Dynamics.
 
-Kaufmann, W., and J. G. McDonald. “Large-Scale Investigation of 3D Discontinuous-Galerkin-Hancock Method for Hyperbolic Balance Laws with Stiff Local Sources," ICCFD11 Proceedings (July 2022), Maui, HI, International Conference on Computational Fluid Dynamics.
+Kaufmann, W., and J. G. McDonald. “Large-Scale Investigation of 3D Discontinuous-Galerkin-Hancock Method for Hyperbolic Balance Laws with Stiff Local Sources," <i>ICCFD11 Proceedings</i> (July 2022), Maui, HI, International Conference on Computational Fluid Dynamics.
 
-Krishnamoorthy, A., K. Nomura, N. Baradwaj, K. Shimamura, R. Ma, S. Fukushima, F. Shimojo, R. K. Kalia, A. Nakano, and P. Vashishta. “Hydrogen Bonding in Liquid Ammonia," The Journal of Physical Chemistry Letters (July 2022), ACS. doi: 10.1021/acs.jpclett.2c01608
+Krishnamoorthy, A., K. Nomura, N. Baradwaj, K. Shimamura, R. Ma, S. Fukushima, F. Shimojo, R. K. Kalia, A. Nakano, and P. Vashishta. “Hydrogen Bonding in Liquid Ammonia," <i>The Journal of Physical Chemistry Letters</i> (July 2022), ACS. doi: 10.1021/acs.jpclett.2c01608
 
-Kumar, V., and J. Larsson. “Modular Method for Estimation of Velocity and Temperature Profiles in High-Speed Boundary Layers," AIAA Journal (July 2022), AIAA. doi: 10.2514/1.J061735
+Kumar, V., and J. Larsson. “Modular Method for Estimation of Velocity and Temperature Profiles in High-Speed Boundary Layers," <i>AIAA Journal</i> (July 2022), AIAA. doi: 10.2514/1.J061735
 
-Marchildon, M., B. Allard, L. Ivan, and J. G. McDonald. “A Polydisperse Gaussian-Moment Method for Extended Statistical Modelling of Multiphase Flows," ICCFD11 Proceedings (July 2022), Maui, HI, International Conference on Computational Fluid Dynamics
+Marchildon, M., B. Allard, L. Ivan, and J. G. McDonald. “A Polydisperse Gaussian-Moment Method for Extended Statistical Modelling of Multiphase Flows," <i>ICCFD11 Proceedings</i> (July 2022), Maui, HI, International Conference on Computational Fluid Dynamics
 
-Sankaranarayanan, S., B. Varughese, S. Manna, T. Loeffler, R. Batra, and M. Cherukara. “Transfer and Active Learning of High Dimensional Neural Network Potentials for Transition Metal Clusters and Bulk," Research Square (July 2022), Research Square. doi: 10.21203/rs.3.rs-1769974/v1
+Sankaranarayanan, S., B. Varughese, S. Manna, T. Loeffler, R. Batra, and M. Cherukara. “Transfer and Active Learning of High Dimensional Neural Network Potentials for Transition Metal Clusters and Bulk," Research Square</i> (July 2022), Research Square. doi: 10.21203/rs.3.rs-1769974/v1
 
-Shilpika, S., B. Lusch, M. Emani, F. Simini, V. Vishwanath, M. E. Papka, and K.-L. Ma. “Toward an In-Depth Analysis of Multifidelity High Performance Computing Systems," 2022 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid) (July 2022), Taormina, Italy, IEEE. doi: 10.1109/CCGrid54584.2022.00081
+Shilpika, S., B. Lusch, M. Emani, F. Simini, V. Vishwanath, M. E. Papka, and K.-L. Ma. “Toward an In-Depth Analysis of Multifidelity High Performance Computing Systems," <i>2022 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)</i> (July 2022), Taormina, Italy, IEEE. doi: 10.1109/CCGrid54584.2022.00081
 
-Zheng, H., V. Vishwanath, Q. Koziol, H. Tang, J. Ravi, J. Mainzer, and S. Byna. “HDF5 Cache VOL: Efficient and Scalable Parallel I/O through Caching Data on Node-local Storage," 2022 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid) (July 2022), Taormina, Italy, IEEE. doi: 10.1109/CCGrid54584.2022.00015
+Zheng, H., V. Vishwanath, Q. Koziol, H. Tang, J. Ravi, J. Mainzer, and S. Byna. “HDF5 Cache VOL: Efficient and Scalable Parallel I/O through Caching Data on Node-Local Storage," <i>2022 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)</i> (July 2022), Taormina, Italy, IEEE. doi: 10.1109/CCGrid54584.2022.00015
 
 AUGUST
 
