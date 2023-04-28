@@ -258,47 +258,47 @@ Zheng, H., V. Vishwanath, Q. Koziol, H. Tang, J. Ravi, J. Mainzer, and S. Byna. 
 
 AUGUST
 
-Annaberdiyev, A., C. A. Melton, G. Wang, and L. Mitas. “Electronic Structure of α−RuCl3 by Fixed-Node and Fixed-Phase Diffusion Monte Carlo Methods," Physical Review B (August 2022), APS. doi: 10.1103/PhysRevB.106.075127
+Annaberdiyev, A., C. A. Melton, G. Wang, and L. Mitas. “Electronic Structure of α−RuCl<sub>3</sub> by Fixed-Node and Fixed-Phase Diffusion Monte Carlo Methods," <i>Physical Review B</i> (August 2022), APS. doi: 10.1103/PhysRevB.106.075127
 
-Bass, B., J. Larsen, B. Edwards, C. Mathis, and J. New. “Multi-Variable Parametric Analysis of Prototype Building Energy Performance Using Current and Future Weather Scenarios for Data-Driven Market Transformation Support," Oak Ridge National Laboratory (August 2022), U.S. Department of Energy
+Bass, B., J. Larsen, B. Edwards, C. Mathis, and J. New. “Multi-Variable Parametric Analysis of Prototype Building Energy Performance Using Current and Future Weather Scenarios for Data-Driven Market Transformation Support," <i>Oak Ridge National Laboratory</i> (August 2022), U.S. Department of Energy
 
-Bhardwaj, G., J. O'Connor, S. Rettie, Y.-H. Huang, T. A. Ramelot, V. K. Mulligan, G. G. Alpkilic, J. Palmer, A. K. Bera, M. J. Bick, M. Di Piazza, X. Li, P. Hosseinzadeh, T. W. Craven, R. Tejero, A. Lauko, R. Choi, C. Glynn, L. Dong, R. Griffin, W. C. van Voorhis, J. Rodriguez, L. Stewart, G. T. Montelione, D. Craik, and D. Baker. “Accurate De Novo Design of Membrane-Traversing Macrocycles," Cell (August 2022), Cell Press. doi: 10.1016/j.cell.2022.07.019
+Bhardwaj, G., J. O'Connor, S. Rettie, Y.-H. Huang, T. A. Ramelot, V. K. Mulligan, G. G. Alpkilic, J. Palmer, A. K. Bera, M. J. Bick, M. Di Piazza, X. Li, P. Hosseinzadeh, T. W. Craven, R. Tejero, A. Lauko, R. Choi, C. Glynn, L. Dong, R. Griffin, W. C. van Voorhis, J. Rodriguez, L. Stewart, G. T. Montelione, D. Craik, and D. Baker. “Accurate De Novo Design of Membrane-Traversing Macrocycles," <i>Cell</i> (August 2022), Cell Press. doi: 10.1016/j.cell.2022.07.019
 
-Chakraborty, TC, J. Wang, Y. Qian, W. Pringle, Z. Yang, and P. Xue. “Urban versus Lake Impacts on Heat Stress and Its Disparities in a Shoreline City," Research Square (August 2022), Research Square. doi: 10.21203/rs.3.rs-1818535/v1
+Chakraborty, TC, J. Wang, Y. Qian, W. Pringle, Z. Yang, and P. Xue. “Urban versus Lake Impacts on Heat Stress and Its Disparities in a Shoreline City," <i>Research Square</i> (August 2022), Research Square. doi: 10.21203/rs.3.rs-1818535/v1
 
-Chen, Y., E. Lee, P. Gil, P. Ma,C. Amanchukwu and J. de Pablo. “Molecular Engineering of Fluoroether Electrolytes for Lithium Metal Batteries," ChemRxiv (August 2022), Cambridge University Press. doi: 10.26434/chemrxiv-2022-1v9v6-v2
+Chen, Y., E. Lee, P. Gil, P. Ma,C. Amanchukwu and J. de Pablo. “Molecular Engineering of Fluoroether Electrolytes for Lithium Metal Batteries," <i>ChemRxiv</i> (August 2022), Cambridge University Press. doi: 10.26434/chemrxiv-2022-1v9v6-v2
 
-Egele, R., R. Maulik, K. Raghavan, B. Lusch, I. Guyon, and P. Balaprakash. “AutoDEUQ: Automated Deep Ensemble with Uncertainty Quantification," 2022 26th International Conference on Pattern Recognition (August 2022), Montreal, QC, Canada, IEEE. doi: 10.1109/ICPR56361.2022.9956231
+Egele, R., R. Maulik, K. Raghavan, B. Lusch, I. Guyon, and P. Balaprakash. “AutoDEUQ: Automated Deep Ensemble with Uncertainty Quantification," <i>2022 26th International Conference on Pattern Recognition</i> (August 2022), Montreal, QC, Canada, IEEE. doi: 10.1109/ICPR56361.2022.9956231
 
-Futita, K., N. Sakamoto, T. Fujiwara, T. Tsukamoto, and J. Nonaka. “A Visual Analytics Method for Time-Series Log Data Using Multiple Dimensionality Reduction," Journal of Advanced Simulation in Science and Engineering (August 2022), vol. 9, no. No. 2, Japan Society for Simulation Technology, pp. 206-219. doi: 10.15748/jasse.9.206
+Futita, K., N. Sakamoto, T. Fujiwara, T. Tsukamoto, and J. Nonaka. “A Visual Analytics Method for Time-Series Log Data Using Multiple Dimensionality Reduction," <i>Journal of Advanced Simulation in Science and Engineering</i> (August 2022), vol. 9, no. No. 2, Japan Society for Simulation Technology, pp. 206-219. doi: 10.15748/jasse.9.206
 
-Hu, B., W. Jiang, T. Miyagi, Z. Sun, A. Ekström, C. Forssén, G. Hagen, J. D. Holt, T. Papenbrock, S. R. Stroberg, and I. Vernon. “Ab Initio Predictions Link the Neutron Skin of 208Pb to Nuclear Forces," Nature Physics (August 2022), Springer Nature. doi: 10.1038/s41567-022-01715-8
+Hu, B., W. Jiang, T. Miyagi, Z. Sun, A. Ekström, C. Forssén, G. Hagen, J. D. Holt, T. Papenbrock, S. R. Stroberg, and I. Vernon. “Ab Initio Predictions Link the Neutron Skin of <sup>208</sup>Pb to Nuclear Forces," <i>Nature Physics</i> (August 2022), Springer Nature. doi: 10.1038/s41567-022-01715-8
 
-Jain, S. S. “Accurate Conservative Phase-Field Method for Simulation of Two-Phase Flows," Journal of Computational Physics (August 2022), Elsevier. doi: 10.1016/j.jcp.2022.111529
+Jain, S. S. “Accurate Conservative Phase-Field Method for Simulation of Two-Phase Flows," <i>Journal of Computational Physics</i> (August 2022), Elsevier. doi: 10.1016/j.jcp.2022.111529
 
-Lauricella, G., J. Zhou, Q. Luan, I. Papautsky, and Z. Peng. “Computational Study of Inertial Migration of Prolate Particles in a Straight Rectangular Channel," Physics of Fluids (August 2022), AIP Publishing. doi: 10.1063/5.0100963
+Lauricella, G., J. Zhou, Q. Luan, I. Papautsky, and Z. Peng. “Computational Study of Inertial Migration of Prolate Particles in a Straight Rectangular Channel," <i>Physics of Fluids</i> (August 2022), AIP Publishing. doi: 10.1063/5.0100963
 
-Linker, T., S. Fukushima, R. K. Kalia, A. Krishnamoorthy, A. Nakano, K. Nomura, K. Shimamura, F. Shimojo, and P. Vashishta. “Towards Computational Polar-Topotronics: Multiscale Neural-Network Quantum Molecular Dynamics Simulations of Polar Vortex States in SrTiO3/PbTiO3 Nanowires," Frontiers in Nanotechnology (August 2022), Frontiers Media. doi: 10.3389/fnano.2022.884149
+Linker, T., S. Fukushima, R. K. Kalia, A. Krishnamoorthy, A. Nakano, K. Nomura, K. Shimamura, F. Shimojo, and P. Vashishta. “Towards Computational Polar-Topotronics: Multiscale Neural-Network Quantum Molecular Dynamics Simulations of Polar Vortex States in SrTiO3/PbTiO3 Nanowires," <i>Frontiers in Nanotechnology</i> (August 2022), Frontiers Media SA. doi: 10.3389/fnano.2022.884149
 
-Mulligan, V. K., and P. Hosseinzadeh. “Computational Design of Peptide-Based Binders to Therapeutic Targets," Approaching the Next Inflection in Peptide Therapeutics: Attaining Cell Permeability and Oral Bioavailability (August 2022), ACS, pp. 55-102. doi: 10.1021/bk-2022-1417.ch003
+Mulligan, V. K., and P. Hosseinzadeh. “Computational Design of Peptide-Based Binders to Therapeutic Targets," <i>Approaching the Next Inflection in Peptide Therapeutics: Attaining Cell Permeability and Oral Bioavailability</i> (August 2022), ACS, pp. 55-102. doi: 10.1021/bk-2022-1417.ch003
 
-Newberry, F., C. Wetterer-Nelson, J. A. Evans, A. Doostan, and K. E. Jansen. “Software Tools to Enable Immersive Simulation," Engineering with Computers (August 2022), Springer Nature. doi: 10.1007/s00366-022-01714-6
+Newberry, F., C. Wetterer-Nelson, J. A. Evans, A. Doostan, and K. E. Jansen. “Software Tools to Enable Immersive Simulation," <i>Engineering with Computers</i> (August 2022), Springer Nature. doi: 10.1007/s00366-022-01714-6
 
-Robinson, D., C. Avestruz, and N. Y. Gnedin. “Can Cooling and Heating Functions Be Modeled with Homogeneous Radiation Fields?" The Astrophysical Journal (August 2022), IOP Publishing. doi: 10.3847/1538-4357/ac85e1
+Robinson, D., C. Avestruz, and N. Y. Gnedin. “Can Cooling and Heating Functions Be Modeled with Homogeneous Radiation Fields?" <i>The Astrophysical Journal</i> (August 2022), IOP Publishing. doi: 10.3847/1538-4357/ac85e1
 
-Schwartz, J., C. Harris, J. Pietryga, H. Zheng, P. Kumar, A. Visheratina, N. A. Kotov, B. Major, P. Avery, P. Ercius, U. Ayachit, B. Geveci, D. A. Muller, A. Genova, Y. Jiang, M. Hanwell, and R. Hovden. “Real-Time 3D Analysis during Electron Tomography Using tomviz," Nature Communications (August 2022), Springer Nature. doi: 10.1038/s41467-022-32046-0
+Schwartz, J., C. Harris, J. Pietryga, H. Zheng, P. Kumar, A. Visheratina, N. A. Kotov, B. Major, P. Avery, P. Ercius, U. Ayachit, B. Geveci, D. A. Muller, A. Genova, Y. Jiang, M. Hanwell, and R. Hovden. “Real-Time 3D Analysis during Electron Tomography Using tomviz," <i>Nature Communications</i> (August 2022), Springer Nature. doi: 10.1038/s41467-022-32046-0
 
-Sherrell, D. A., A. Lavens, M. Wilamowski, Y. Kim, R. Chard, K. Lazarski, G. Rosenbaum, R. Vescovi, J. L. Johnson, C. Akins, C. Chang, K. Michalska, G. Babnigg, I. Foster, and A. Joachimiak. “Fixed-Target Serial Crystallography at the Structural Biology Center," Journal of Synchrotron Radiation (August 2022), International Union of Crystallography. doi: doi.org/10.1107/S1600577522007895
+Sherrell, D. A., A. Lavens, M. Wilamowski, Y. Kim, R. Chard, K. Lazarski, G. Rosenbaum, R. Vescovi, J. L. Johnson, C. Akins, C. Chang, K. Michalska, G. Babnigg, I. Foster, and A. Joachimiak. “Fixed-Target Serial Crystallography at the Structural Biology Center," <i>Journal of Synchrotron Radiation</i> (August 2022), International Union of Crystallography. doi: doi.org/10.1107/S1600577522007895
 
-Trifan, A., D. Gorgun, M. Salim, Z. Li, A. Brace, M. Zvyagin, H. Ma, A. Clyde, D. Clark, D. J. Hardy, T. Burnley, L. Huang, J. McCalpin, M. Emani, H. Yoo, J. Yin, A. Tsaris, V. Subbiah, T. Raza, J. Liu, N. Trebesch, G. Wells, V. Mysore, T. Gibbs, J. Phillips, S. C. Chennubhotla, I. Foster, R. Stevens, A. Anandkumar, V. Vishwanath, J. E. Stone, E. Tajkhorshid, S. A. Harris, and A. Ramanathan. “Intelligent Resolution: Integrating Cryo-EM with AI-Driven Multi-Resolution Simulations to Observe the Severe Acute Respiratory Syndrome Coronavirus-2 Replication-Transcription Machinery in Action," The International Journal of High Performance Computing Applications (August 2022), SAGE Publications. doi: 10.1177/10943420221113513
+Trifan, A., D. Gorgun, M. Salim, Z. Li, A. Brace, M. Zvyagin, H. Ma, A. Clyde, D. Clark, D. J. Hardy, T. Burnley, L. Huang, J. McCalpin, M. Emani, H. Yoo, J. Yin, A. Tsaris, V. Subbiah, T. Raza, J. Liu, N. Trebesch, G. Wells, V. Mysore, T. Gibbs, J. Phillips, S. C. Chennubhotla, I. Foster, R. Stevens, A. Anandkumar, V. Vishwanath, J. E. Stone, E. Tajkhorshid, S. A. Harris, and A. Ramanathan. “Intelligent Resolution: Integrating Cryo-EM with AI-Driven Multi-Resolution Simulations to Observe the Severe Acute Respiratory Syndrome Coronavirus-2 Replication-Transcription Machinery in Action," <i>The International Journal of High Performance Computing Applications</i> (August 2022), SAGE Publications. doi: 10.1177/10943420221113513
 
-Wang, G., B. Kincaid, H. Zhou, A. Annaberdiyev, M. C. Bennett, J. T. Krogel, and L. Mitas. “A New Generation of Effective Core Potentials from Correlated and Spin-Orbit Calculations: Selected Heavy Elements," The Journal of Chemical Physics (August 2022), AIP. doi: 10.1063/5.0087300
+Wang, G., B. Kincaid, H. Zhou, A. Annaberdiyev, M. C. Bennett, J. T. Krogel, and L. Mitas. “A New Generation of Effective Core Potentials from Correlated and Spin-Orbit Calculations: Selected Heavy Elements," <i>The Journal of Chemical Physics</i> (August 2022), AIP. doi: 10.1063/5.0087300
 
-Wang, X., S. Gao, M. Zhao, and N. Marom. “Benchmarking Time-Dependent Density Functional Theory for Singlet Excited States of Thermally Activated Delayed Fluorescence Chromophores," Physical Review Research (August 2022), APS. doi: 10.1103/physrevresearch.4.033147
+Wang, X., S. Gao, M. Zhao, and N. Marom. “Benchmarking Time-Dependent Density Functional Theory for Singlet Excited States of Thermally Activated Delayed Fluorescence Chromophores," <i>Physical Review Research</i> (August 2022), APS. doi: 10.1103/physrevresearch.4.033147
 
-Wu, X., V. Taylor, and Z. Lan. “Performance and Power Modeling and Prediction Using MuMMI and 10 Machine Learning Methods," Concurrency and Computation: Practice and Experience, (August 2022) John Wiley and Sons. doi: 10.1002/cpe.7254
+Wu, X., V. Taylor, and Z. Lan. “Performance and Power Modeling and Prediction Using MuMMI and 10 Machine Learning Methods," <i>Concurrency and Computation: Practice and Experience</i> (August 2022) John Wiley and Sons. doi: 10.1002/cpe.7254
 
-Yu, V. W., and M. Govoni. “GPU Acceleration of Large-Scale Full-Frequency GW Calculations," Journal of Chemical Theory and Computation (August 2022), ACS. doi: 10.1021/acs.jctc.2c00241
+Yu, V. W., and M. Govoni. “GPU Acceleration of Large-Scale Full-Frequency GW Calculations," <i>Journal of Chemical Theory and Computation</i> (August 2022), ACS. doi: 10.1021/acs.jctc.2c00241
 
 SEPTEMBER
 
