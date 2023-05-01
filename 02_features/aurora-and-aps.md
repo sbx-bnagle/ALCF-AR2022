@@ -27,7 +27,7 @@ Individually, the two machines represent a massive leap forward in technology. T
 
 The upgraded APS will generate enormous quantities of diverse data that will be fed to Aurora for data-driven discovery and to train its artificial intelligence models. These will accelerate the computations of complex systems, sometimes by 1,000 times or more. They will also expedite some of the most intensive computational tasks, boosting scientists’ ability to unravel complex phenomena.
 
-With its advanced capabilties in AI, modeling and simulation, image processing, and statistical analysis, Aurora will quickly sift through large volumes from the APS, identify data features that merit closer inspection, and enable APS researchers to better focus their experiments. Aurora’s near real-time analysis will be able to make on-the-fly decisions that guide scientists as they search for key features in APS’s mountain of data.
+With its advanced capabilities in AI, modeling and simulation, image processing, and statistical analysis, Aurora will quickly sift through large volumes from the APS, identify data features that merit closer inspection, and enable APS researchers to better focus their experiments. Aurora’s near real-time analysis will be able to make on-the-fly decisions that guide scientists as they search for key features in APS’s mountain of data.
 
 This marriage of experimental science and data analysis leads to faster breakthroughs in many scientific areas, from drug discovery to materials science
 
