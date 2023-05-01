@@ -15,6 +15,13 @@ permalink: expertise-and-resources/staff-spotlights/
 %}
 # Beth Cerny, Communications Lead
 
+Beth Cerny has served as the head of communications for the Argonne Leadership Computing Facility since 2012. She leads a team of writers and designers to deliver integrated marketing programs and communications across print, experiential and digital channels for users, staff, potential collaborators, and the Department of Energy. Beth’s responsibilities include partnering across ALCF to launch new systems and services, build brand and voice, and improve user touchpoints such as ALCF documentation and training.
+
+One of her most notable efforts over the past few years has been leading Intel and HPE marketing team meetings to coordinate and collaborate joint plans in rolling out ALCF’s exascale system Aurora. These joint plans include writing early success articles, creating videos, establishing new training opportunities, pitching stories to media, and featuring ALCF experts in keynotes and podcasts.
+
+Her research interests include improving the experience of the user community at the ALCF, balancing user and business needs with technology and staffing constraints. She uses her user-centered design training to improve user touchpoints at the facility. Over the past few years, Beth has spearheaded user research for the ALCF portal, interviewing Argonne researchers and teams within the ALCF division to build the user requirements, structure and design guide. She also works alongside computational science staff and training team to coordinate strategy and providing online resources in the ALCF user guides and website.
+
+In addition to her day-to-day duties, Beth co-founded the Chicago chapter of Women in HPC in 2022, and participates in outreach activities that engage young women to choose careers in science and engineering. She also mentors staff and interns throughout the year.
 
 # Yasi Ghadar, Computational Scientist
 
