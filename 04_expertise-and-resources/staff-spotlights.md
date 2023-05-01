@@ -13,7 +13,7 @@ permalink: expertise-and-resources/staff-spotlights/
    source= "ghadar-lenard.png"
    caption= "Left: Beth Cerny, right: Yasi Ghadar"
 %}
-# Beth Cerny, Communications Lead
+# Beth Cerny, Marketing Communications Lead
 
 Beth Cerny has served as the head of communications for the Argonne Leadership Computing Facility since 2012. She leads a team of writers and designers to deliver integrated marketing programs and communications across print, experiential and digital channels for users, staff, potential collaborators, and the Department of Energy. Beth’s responsibilities include partnering across ALCF to launch new systems and services, build brand and voice, and improve user touchpoints such as ALCF documentation and training.
 
