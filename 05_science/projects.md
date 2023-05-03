@@ -14,8 +14,8 @@ permalink: /science/projects/
 
 ## BIOLOGICAL SCIENCES
 
-### [COMPBIO2: COMbining deep-learning with Physics-Based affinIty estimatiOn 2](https://www.alcf.anl.gov/science/projects/compbio2-combining-deep-learning-physics-based-affinity-estimation-2) 
-PI: Peter Coveney, University College London\
+### [COMPBIO2: COMbining deep-learning with Physics-Based affinIty estimatiOn 2](https://www.alcf.anl.gov/science/projects/compbio2-combining-deep-learning-physics-based-affinity-estimation-2)/
+PI: Peter Coveney, University College London 
 HOURS: ALCF: 100,000 Node-Hours
 
 ### [Design of Peptides and Proteins on Classical and Quantum Computing Hardware](https://www.alcf.anl.gov/science/projects/design-peptides-and-proteins-classical-and-quantum-computing-hardware-0)
