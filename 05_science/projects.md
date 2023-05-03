@@ -78,8 +78,7 @@ HOURS: ALCF: 1,200,000 Node-Hours
 
 ## MATERIALS SCIENCE
 
-**[Large-Scale Simulations of Light-Activated Matter](https://www.alcf.anl.gov/science/projects/large-scale-simulations-light-activated-matter-0)** 
-
+**[Large-Scale Simulations of Light-Activated Matter](https://www.alcf.anl.gov/science/projects/large-scale-simulations-light-activated-matter-0)** /
 PI: Giulia Galli, University of Chicago and Argonne National Laboratory
 
 HOURS: ALCF: 600,000 Node-Hours
