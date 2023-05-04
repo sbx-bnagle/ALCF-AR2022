@@ -11,9 +11,11 @@ intro: "Using the ALCF’s Polaris and Cerebras CS-2 systems, researchers develo
 ---
 
 
-A multi-institutional team led by researchers from Argonne National Laboratory was awarded the ACM Gordon Bell Special Prize for HPC-Based COVID-19 Research at the SC22 conference for their innovative use of large language models, employing the AI method to quickly identify potential SARS-CoV-2 variants of concern. 
+A multi-institutional team led by researchers from Argonne National Laboratory was awarded the ACM Gordon Bell Special Prize for HPC-Based COVID-19 Research at the SC22 conference for their innovative use of large language models (LLMs), employing the AI method to quickly identify potential SARS-CoV-2 variants of concern. 
 
 The team, which also included researchers from the University of Chicago, NVIDIA, Cerebras Systems, University of Illinois Chicago, Northern Illinois University, Caltech, Harvard University, Arizona State University, and Technical University of Munich, was recognized for their efforts to create the first genome-scale language models (GenSLMs) for understanding the evolution of SARS-CoV-2. Their research has the potential to transform how scientists identify and classify new and emergent variants of SARS-CoV-2 and other pandemic-causing viruses.
+
+# Breaking New Ground with LLMs
 
 The researchers used the ALCF’s Polaris supercomputer, the Cerebras CS-2 system in the ALCF AI Testbed, and NVIDIA’s Selene supercomputer to support their groundbreaking work to develop and train large language models to track genetic mutations in SARS-CoV-2 and predict variants of concern.
 
