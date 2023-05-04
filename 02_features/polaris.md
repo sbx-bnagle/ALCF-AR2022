@@ -28,7 +28,7 @@ Upon the deployment of Polaris, several research teams immediately began using t
    credit= "Argonne National Laboratory and Princeton University"
 %}
 
-## Exascale Preparations
+# Exascale Preparations
 
 Researchers from DOE’s Princeton Plasma Physics Laboratory are leading an Aurora ESP project that aims to use particle simulations of plasma, including impurities and the important magnetic field geometry at the edge, to predict behavior of ITER plasmas and to help guide future experimental parameters. The team is using Polaris to run simulations of the DIII-D National Fusion Facility’s tokamak device with Carbon impurities to inform their planned simulations of ITER plasmas with Tungsten impurities on Aurora.
 
@@ -36,7 +36,7 @@ The NWChemEx team, supported by the ESP and ECP, will use Aurora to advance the 
 
 An ESP team from the Massachusetts Institute of Technology plans to use Aurora to couple machine learning and state-of-the-art physics simulations to determine possible interactions between nuclei and a large class of dark matter candidate particles. Their machine learning models had only been tested on small-scale problems so the team is using Polaris to scale up problem sizes to determine if they need to modify their machine learning models for their upcoming runs on Aurora. 
 
-## Science Campaigns
+# Science Campaigns
 
 With an INCITE award, researchers from the Flatiron Institute are using Polaris to aid in their efforts to reduce the computational and energetic costs of producing successful peptide macrocycle drugs or industrial enzymes with useful functions in medicine and manufacturing. The INCITE team will develop low-cost machine learning methods that can approximate the output of computationally expensive validation simulations, ultimately allowing users without access to large-scale resources to perform design and validation tasks on much more modest computing systems.
 
