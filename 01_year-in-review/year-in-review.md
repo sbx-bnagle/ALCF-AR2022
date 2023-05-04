@@ -12,7 +12,6 @@ permalink: /year-in-review/year-in-review/
 {% include media-img.html
    source= "allcock-kumaran.png"
    caption= "Left: Bill Allcock, right: Kalyan Kumaran"
-   credit= "Name A. Name"
 %}
 
 # Bill Allcock, ALCF Director of Operations
@@ -48,7 +47,6 @@ I’m proud that the Technology team’s staff members were part of the winning 
 {% include media-img.html
    source= "ramprakash-riley.png"
    caption= "Left: Jini Ramprakash, right: Katherine Riley"
-   credit= "Name A. Name"
 %}
 
 # Jini Ramprakash, ALCF Deputy Director
