@@ -17,6 +17,8 @@ Aurora, an Intel-Hewlett Packard Enterprise (HPE) system, will be comprised of m
 
 Prior to Sunspot’s arrival, development teams leveraged earlier Aurora testbeds, Arcticus and Florentia, and DOE supercomputers, including Argonne’s Polaris, to carry out exascale code development. While those systems have been useful in preparing for Aurora, Sunspot’s identical architecture gives researchers an ideal environment for multi-node testing to help them further optimize applications for Aurora. 
 
+# Achieving Performance Gains
+
 Since Sunspot’s launch in December, more than 180 users from over 20 application development teams from the Aurora Early Science Program (ESP) and DOE’s Exascale Computing Project (ECP) have begun accessing the testbed for scaling and performance optimization research. The ESP and ECP teams’ initial runs on the Aurora GPUs have been promising compared to leading alternative GPUs. Early performance results include:
 
 - As part of the ECP ExaSMR (Exascale Small Modular Reactor) project, researchers achieved 30-70% performance improvements with NekRS, a GPU-oriented thermal-fluids simulation code, across a set of benchmark problems.
