@@ -10,7 +10,7 @@ permalink: /science/publications/
 
 
 
-JANUARY 
+# JANUARY 
 
 Andreoli, L., J. Carlson, A. Lovato, S. Pastore, N. Rocco, and R. B. Wiringa. “Electron Scattering on A=3 Nuclei from Quantum Monte Carlo Based Approaches," <i>Physical Review C</i> (January 2022), APS. doi: 10.1103/physrevc.105.014002
 
@@ -54,7 +54,10 @@ Xu, H., A. Berres, S. Yoginath, K. Kurte, R. Peleti, J. R. New, and J. Sanyal. �
 
 Ye, Z., C. Zhang, and G. Galli. “Photoelectron Spectra of Water and Simple Aqueous Solutions at Extreme Conditions," <i>Faraday Discussions</i> (January 2022), Royal Society of Chemistry. doi: 10.1039/D2FD00003B
 
-FEBRUARY
+
+
+
+# FEBRUARY
 
 Appelquist, T., R. C. Brower, K. K. Cushman, G. T. Fleming, A. Gasbarro, A. Hasenfratz, J. Ingoldby, X. Y. Jin, E. T. Neil, J. C. Osborn, C. Rebbi, E. Rinaldi, D. Schaich, P. Vranas, E. Weinberg, and O. Witzel. “Goldstone Boson Scattering with a Light Composite Scalar," <i>Physical Review D</i> (February 2022), APS. doi: 10.1103/physrevd.105.034505
 
@@ -86,7 +89,10 @@ Wan, S., Agastya, B., Wright, D., Wall, I., Graves, A., Green, D. and Coveney, P
 
 White, C. J., A. Burrows, M. S. B. Coleman, and D. Vartanyan. “On the Origin of Pulsar and Magnetar Magnetic Fields," <i>The Astrophysical Journal</i> (February 2022), IOP Publishing. doi: 10.3847/1538-4357/ac4507
 
-MARCH
+
+
+
+# MARCH
 
 Bhati, A. P., and P. V. Coveney. “Large Scale Study of Ligand–Protein Relative Binding Free Energy Calculations: Actionable Predictions from Statistically Robust Protocols," <i>Journal of Chemical Theory and Computation</i> (March 2022), ACS. doi: 10.1021/acs.jctc.1c01288
 
@@ -116,7 +122,10 @@ Yang. L, R. Hu, A. Kraus, P. Balaprakash, and A. Obabko. “Data-Driven Modeling
 
 Zhu, M., and J. M. Cole. “PDFDataExtractor: A Tool for Reading Scientific Text and Interpreting Metadata from the Typeset Literature in the Portable Document Format," <i>Journal of Chemical Information and Modeling</i> (March 2022), ACS. doi: 10.1021/acs.jcim.1c01198
 
-APRIL
+
+
+
+# APRIL
 
 Bale, A. A, S. M. B. Gautham, and T. K. Patra. “Sequence-Defined Pareto Frontier of a Copolymer Structure," <i>Journal of Polymer Science</i> (April 2022), John Wiley and Sons. doi: 10.1002/pol.20220088
 
@@ -144,7 +153,10 @@ Saidi, W.A. “Emergence of Local Scaling Relations in Absorption Energies on Hi
 
 Trott, C. R., D. Lebrun-Grandie, D. Arndt, J. Ciesko, V. Dang, N. Ellingwood, R. Gayatri, E. Harvey, D. Hollman, D. Ibanez, N. Liber, J. Madsen, J. Miles, D. Poliakoff, A. Powell, S. Rajamanickam, M. Simberg, D. Sunderland, B. Turcksin, and J. Wilke. “Kokkos 3: Programming Model Extensions for the Exascale Era," <i>IEEE Transactions on Parallel and Distributed Systems</i> (April 2022), vol. 33, no. 4, IEEE, pp. 805-817. doi: 10.1109/TPDS.2021.3097283
 
-MAY
+
+
+
+# MAY
 
 Atkinson, M. C., P. Navrátil, G. Hupin, K. Kravvaris, and S. Quaglioni. “Ab Initio Calculation of the β Decay from <sup>11</sup>Be to a <sup>10</sup>Be + <i>p</i> Resonance," <i>Physical Review C</i> (May 2022), APS. doi: 10.1103/PhysRevC.105.054316
 
@@ -186,7 +198,10 @@ Yildiz, O., M. Dreher and T. Peterka. “Decaf: Decoupled Dataflows for In Situ 
 
 Zhao, J., and J. M. Cole. “A Database of Refractive Indices and Dielectric Constants Auto-generated Using ChemDataExtractor," <i>Scientific Data</i> (May 2022), Springer Nature. doi: 10.1038/s41597-022-01295-5
 
-JUNE
+
+
+
+# JUNE
 
 Anderson, J., Y. Liu, and J. Mellor-Crummey. “Preparing for Performance Analysis at Exascale," <i>ICS '22: Proceedings of the 36th ACM International Conference on Supercomputing</i> (June 2022), Association for Computing Machinery. doi: 10.1145/3524059.3532397
 
@@ -232,7 +247,10 @@ Yang, T. T., and W. Saidi. “Reconciling the Volcano Trend with the Butler–Vo
 
 Yao, Y., H. Chan, S. Sankaranarayanan, P. Balaprakash, R. J. Harder, and M. J. Cherukara. “AutoPhaseNN: Unsupervised Physics-Aware Deep Learning of 3D Nanoscale Bragg Coherent Diffraction Imaging," <i>npj Computational Materials</i> (June 2022), Springer Nature. doi: 10.1038/s41524-022-00803-w
 
-JULY
+
+
+
+# JULY
 
 Albergo, M. S., D. Boyda, D. C. Cranmer, C. Hackett, G. Kanwar, S. Racaniére, D. J. Rezende, F. Romero-López, P. E. Shanahan, and J. M. Urban. “Flow-Based Sampling in the Lattice Schwinger Model at Criticality," <i>Physical Review D</i> (July 2022), APS. doi: 10.1103/physrevd.106.014514
 
@@ -256,7 +274,10 @@ Shilpika, S., B. Lusch, M. Emani, F. Simini, V. Vishwanath, M. E. Papka, and K.-
 
 Zheng, H., V. Vishwanath, Q. Koziol, H. Tang, J. Ravi, J. Mainzer, and S. Byna. “HDF5 Cache VOL: Efficient and Scalable Parallel I/O through Caching Data on Node-Local Storage," <i>2022 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)</i> (July 2022), Taormina, Italy, IEEE. doi: 10.1109/CCGrid54584.2022.00015
 
-AUGUST
+
+
+
+# AUGUST
 
 Annaberdiyev, A., C. A. Melton, G. Wang, and L. Mitas. “Electronic Structure of α−RuCl<sub>3</sub> by Fixed-Node and Fixed-Phase Diffusion Monte Carlo Methods," <i>Physical Review B</i> (August 2022), APS. doi: 10.1103/PhysRevB.106.075127
 
@@ -300,7 +321,10 @@ Wu, X., V. Taylor, and Z. Lan. “Performance and Power Modeling and Prediction 
 
 Yu, V. W., and M. Govoni. “GPU Acceleration of Large-Scale Full-Frequency GW Calculations," <i>Journal of Chemical Theory and Computation</i> (August 2022), ACS. doi: 10.1021/acs.jctc.2c00241
 
-SEPTEMBER
+
+
+
+# SEPTEMBER
 
 Coleman, M. S. B., and A. Burrows. “Kicks and Induced Spins of Neutron Stars at Birth," <i>Monthly Notices of the Royal Astronomical Society</i> (September 2022), Oxford University Publishing. doi: 10.1093/mnras/stac2573
 
@@ -342,7 +366,10 @@ Yang, T. T., A. Wang, S. D. House, J. Yang, J.-K. Lee, and W. A. Saidi. “Compu
 
 Zacharoudiou, I., J. W. S. McCullough, and P. V. Coveney. “Development and Performance of a HemeLB GPU Code for Human-Scale Blood Flow Simulation," <i>Computer Physics Communications</i> (September 2022), Elsevier. doi: 10.1016/j.cpc.2022.108548
 
-OCTOBER
+
+
+
+# OCTOBER
 
 Abbot, R., M. S. Albergo, D. Boyda, K. Cranmer, D. C. Hackett, G. Kanwar, S. Racaniere, D. J. Rezende, F. Romero-Lopez, P. E. Shanahan, B. Tian, and J. M. Urban. “Gauge-Equivariant Flow Models for Sampling in Lattice Field Theories with Pseudofermions," <i>Physical Review D</i> (October 2022), APS. doi: 10.1103/physrevd.106.074506
 
@@ -388,7 +415,10 @@ Yang, L., S. C. Tiwari, S. Fukushima, F. Shimojo, R. K. Kalia, A. Nakano, P. Vas
 
 Zhang, Z., Z. Wei, P. Sautet, and A. N. Alexandrova. “Hydrogen-Induced Restructuring of a Cu(100) Electrode in Electroreduction Conditions," <i>Journal of the American Chemical Society</i> (October 2022), ACS Publications. doi: 10.1021/jacs.2c06188
 
-NOVEMBER
+
+
+
+# NOVEMBER
 
 Andrusenko, I., C. L. Hall, E. Mugnaioli, J. Potticary, S. R. Hall, W. Schmidt, S. Gao, K. Zhao, N. Marom, and M. Gemmi. “True Molecular Conformation and Structure Determination by Three-Dimensional Electron Diffraction of PAY By-Products Potentially Useful for Electronic Applications," <i>IUCrJ</i> (November 2022), International Union of Crystallography, pp. 131-142. doi: 10.1107/s205225252201154x
 
@@ -428,7 +458,10 @@ Weiss, R., A. Lovato, and R. B. Wiringa. “Isospin-Symmetry Implications for Nu
 
 Zyvagin, M., A. Brace, K. Hippie, Y. Deng, B. Zhang, C. O. Bohorquez, A. Clyde, B. Kale, D. Perez-Rivera, H. Ma, C. M. Mann, M. Irvin, J. G. Pauloski, L. Ward, V. Hayot-Sasson, M. Emani, S. Foreman, Z. Xie, D. Lin, M. Shukla, W. Nie, J. Romero, C. Dallago, A. Vahdat, C. Xiao, T. Gibbs, I. Foster, J. J. Davis, M. E. Papka, T. Brettin, R. Stevens, A. Anandkumar, V. Vishwanath, and A. Ramanathan. “GenSLMs: Genome-Scale Language Models Reveal SARS-CoV-2 Evolutionary Dynamics," <i>SC22: The International Conference for High Performance Computing, Networking, Storage, and Analysis</i> (November 2022), Dallas, TX, IEEE. doi: 10.1101 2022.10.10.511571
 
-DECEMBER
+
+
+
+# DECEMBER
 
 Bass, B., J. New, and Z. Wade. “Future Typical Meteorological Year (fTMY) Weather Data and Climate Change Impacts to Maricopa County, Arizona," <i>BuildSys '22: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i> (December 2022), Association for Computing Machinery, pp. 504-507. doi: 10.1145/3563357.3567408
 
