@@ -1,0 +1,22 @@
+---
+
+layout: default
+
+---
+
+<main class="page-content layout-wrapper back-proj" aria-label="Content">
+	{{ content }}
+</main>
+
+
+{% if page.aside %}
+	<div class="aside">
+		<div class="content-wrapper">
+			{% assign aside-file = page.aside | prepend: "/asides/"  %}
+			{%	capture aside-content %}{% include {{ aside-file }} %}{% endcapture %}
+			{{ aside-content | markdownify }}
+		</div>
+	</div>
+{% endif %}
+
+

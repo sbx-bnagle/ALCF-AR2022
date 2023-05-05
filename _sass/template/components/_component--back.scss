@@ -5,11 +5,12 @@
   * -
   */
 
-.back {
+.back-pub, .back-proj {
 
-	// h1 {
-	// 	@include stack(sm);
-	// }
+	h1 {
+		@include stack(xs);
+		margin-top: bl(8);
+	}
 
 	h2 {
 		@include stack(xs);
@@ -18,7 +19,13 @@
 
 	h3 {
 		text-transform: none;
+		margin-bottom: 0 !important;
+		padding-bottom: 0 !important;
 		@include typestyle($sans-sm-bld);
+	}
+
+	p {
+		padding-top: 0;
 	}
 
 	a {

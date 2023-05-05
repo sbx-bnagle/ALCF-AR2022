@@ -1,5 +1,5 @@
 ---
-layout: back
+layout: back-proj
 
 title: Projects
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: back-pub
 
 title: Publications
 
