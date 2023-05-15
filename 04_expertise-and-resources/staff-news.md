@@ -14,7 +14,7 @@ hero-img-caption: "ALCF staff members were part of the multi-institutional team 
 
 ALCF’s Venkat Vishwanath, Michael Papka, Murali Emani, Sam Foreman, and several Argonne colleagues — Maxim Zvyagin, Alexander Brace, Kyle Hippe, Austin Clyde, Danilo Perez-Rivera, Heng Ma, Carla M. Mann, Michael Irvin, Logan Ward, Zhen Xie, Diangen Lin, Maulik Shukla, Ian Foster, James J. Davis, Thomas Brettin, Rick Stevens, and Arvind Ramanathan — were part of a multi-institutional team that received the 2022 Gordon Bell Special Prize for High Performance Computing-Based COVID-19 Research. The team was recognized for their groundbreaking study, “GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics.”
 
-# Alexeev and colleagues receive Best Student Paper Award at HPEC Conference
+# Alexeev mentors Best Student Paper Awardee at HPEC Conference
 
 Yuri Alexeev, Argonne computational scientist, and his student Cameron A. Ibrahim (University of Delaware) won the Best Student Paper Award at the 2022 IEEE High Performance Extreme Computing (HPEC) Conference. Co-written with Danylo Lykov (Argonne) and Zichang He (UC Santa Barbara), the team’s paper, “Constructing Optimal Contraction Trees for Tensor Network Quantum Circuit Simulation,” detailed an important advancement for reducing the memory and computational requirements of simulating quantum circuits.
 
