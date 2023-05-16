@@ -28,7 +28,7 @@
 
 	.img-wrapper {
 		width: 100vw;
-		@include aspect-ratio(16, 9);
+		@include aspect-ratio(2, 1);
 	}
 
 	img {
@@ -40,7 +40,7 @@
 		@include grid-parent();
 		position: absolute;
 		z-index: 500;
-		top: bl(20); //40px
+		top: bl(10); //40px
 		left: 20px;
 		box-sizing: border-box;
 	}
