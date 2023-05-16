@@ -1,10 +1,3 @@
-// Include sticky menu
-// ----------------------------------------------------------------------------
-// var sticky = document.getElementsByClassName('js-sticky');
-// if (sticky.length > 0) {
-// 	var sticky_menu = new StickyMenu({ });
-// 	sticky_menu.init();
-// }
 
 
 
@@ -23,6 +16,43 @@ if (dropdowns.length > 0) {
 	Array.prototype.forEach.call(menus, function(m) {
 		m.init();
 	}); 
+}
+
+
+
+
+// Include scroll to top buttons
+// ----------------------------------------------------------------------------
+var bttn = document.getElementsByClassName('js-to-top');
+
+if (bttn.length > 0) {
+	const to_top = new toTop({});
+	to_top.init();
+}
+
+
+
+
+// Load embedded video when click on cover image
+// ----------------------------------------------------------------------------
+
+var videocovers = document.getElementsByClassName('js-videocover');
+
+// if length is > 0
+if (videocovers.length > 0) {
+
+	var videoloader = function( el ) {
+		var embedCode = el.dataset.embed;
+		el.innerHTML = "<div>" + embedCode + "</div>";
+	}
+
+	Array.prototype.forEach.call(videocovers, function(el) {
+		el.addEventListener("click", function(e){
+			videoloader(el);
+		});	
+	});
+
+
 }
 
 
@@ -86,31 +116,3 @@ if (dropdowns.length > 0) {
 // 	});
 	
 // }
-
-
-
-
-// Load embedded video when click on cover image
-// ----------------------------------------------------------------------------
-
-var videocovers = document.getElementsByClassName('js-videocover');
-
-// if length is > 0
-if (videocovers.length > 0) {
-
-	var videoloader = function( el ) {
-		var embedCode = el.dataset.embed;
-		el.innerHTML = "<div>" + embedCode + "</div>";
-	}
-
-	Array.prototype.forEach.call(videocovers, function(el) {
-		el.addEventListener("click", function(e){
-			videoloader(el);
-		});	
-	});
-
-
-}
-// add event listeners for clicks
-// grab the embed code from the data element
-// replace the img tag with the video embed code

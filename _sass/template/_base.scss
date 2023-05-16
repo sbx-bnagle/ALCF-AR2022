@@ -31,6 +31,19 @@ body {
   overflow-y: auto;
 }
 
+.to-top {
+  color: color(neutral, XXXX);
+  margin-top: bl(5) !important; //20px
+  @include typestyle($sans-xs-bld);
+  grid-column: span 12;
+  @include respond-to(m){
+    grid-column: 4 / 12;
+  }
+  &:hover {
+   color: color(neutral, XXXXX);
+  }
+}
+
 
 
 

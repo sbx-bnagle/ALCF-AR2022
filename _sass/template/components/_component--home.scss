@@ -121,16 +121,23 @@
 
 	h2 {
 		@include stack(sm);
-		@include typestyle($sans-lg-bld);
 		color: color(blue, XXXXX);
+		@include typestyle($sans-md-bld);
+		@include respond-to(s){
+			@include typestyle($sans-lg-bld);
+		}
 
 		&::before {
 			content: "";
-    	width: 36px;
+    	width: 24px;
     	height: 8px;
-    	margin-bottom: 1rem;
+    	margin-bottom: .5rem;
     	display: block;
     	background-color: color(blue, XXXX);
+    	@include respond-to(s){
+    		width: 36px;
+				margin-bottom: 1rem;
+			}
 		}
 	}
 
@@ -215,16 +222,23 @@
 	h2 {
 		@include stack(sm);
 		grid-column: 1 / -1;
-		@include typestyle($sans-lg-bld);
 		color: color(green, X);
+		@include typestyle($sans-md-bld);
+		@include respond-to(s){
+			@include typestyle($sans-lg-bld);
+		}
 
 		&::before {
 			content: "";
-    	width: 36px;
+    	width: 24px;
     	height: 8px;
-    	margin-bottom: 1rem;
+    	margin-bottom: .5rem;
     	display: block;
     	background-color: color(blue, XX);
+    	@include respond-to(s){
+    		width: 36px;
+				margin-bottom: 1rem;
+			}
 		}
 	}
 
