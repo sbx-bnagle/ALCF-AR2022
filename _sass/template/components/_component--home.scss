@@ -28,7 +28,7 @@
 
 	.img-wrapper {
 		width: 100vw;
-		@include aspect-ratio(2, 1);
+		@include aspect-ratio(2, .75);
 	}
 
 	img {
@@ -40,9 +40,12 @@
 		@include grid-parent();
 		position: absolute;
 		z-index: 500;
-		top: bl(10); //40px
+		top: bl(5); //20px
 		left: 20px;
 		box-sizing: border-box;
+		@include respond-to(s){
+			top: bl(10); //40px
+		}
 	}
 
 	h1 {
@@ -54,10 +57,7 @@
 		@include respond-to(s){
 			@include typestyle($sans-lg-bld);	
 		}
-		@include respond-to(m){
-			font-size: 6.25rem; //100px
-			line-height: bl(25); //100px	
-		}
+
 		
 	}
 
