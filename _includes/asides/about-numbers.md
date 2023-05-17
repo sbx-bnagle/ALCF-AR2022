@@ -6,19 +6,23 @@
 ## 2022 Stats
 
 {%	include txt-fig.html 
-	  	figure-1 = "35M"
-		label-1 = "Node-hours of compute time"
-		figure-2 = "385"
-		label-2 = "Active projects"
-		note-2 = "Data from fiscal year 2022"
-		figure-3 = "217"
-		label-3 = "Publications"	
+  	figure-1 = "35M"
+	label-1 = "Node-hours of compute time"
+	figure-2 = "385"
+	label-2 = "Active projects"
+	note-2 = "Data from fiscal year 2022"
+	figure-3 = "217"
+	label-3 = "Publications"	
 %}
 
 {%	include txt-fig.html 
-	  figure-1 = "1,538"
-		label-1 = "Facility users"
-		note-1 = "Data from fiscal year 2022"
+	figure-1 = "1,538"
+	label-1 = "Facility users"
+	note-1 = "Data from fiscal year 2022"
+	figure-2 = "34"
+	label-2 = "ALCF Training Events"
+	figure-3 = "2,058"
+	label-3 = "ALCF Training Event Participants"
 %}
 
 
