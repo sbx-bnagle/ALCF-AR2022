@@ -7,7 +7,7 @@ hero-img-caption: Researchers from 3M and Argonne are using ALCF supercomputers 
 hero-img-credit: "Argonne National Laboratory"
 
 theme: white
-permalink: /community-and-outreach/industry/
+permalink: /community-and-outreach/industry
 ---
 
 With the aim of growing the facility’s community of industry users, the ALCF’s Industry Partnerships Program engages with prospective companies of all sizes, from start-ups to Fortune 500 corporations, that could benefit from leadership computing resources and collaborative opportunities with the ALCF and across Argonne.

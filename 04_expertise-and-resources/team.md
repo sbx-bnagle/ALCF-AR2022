@@ -2,7 +2,7 @@
 layout: page
 
 theme: white
-permalink: /expertise-and-resources/team/
+permalink: /expertise-and-resources/team
 
 title: ALCF Team
 hero-img-source: "ALCF-team.jpg"

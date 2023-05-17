@@ -13,7 +13,12 @@
         <ul>
           {% for entry in item.subfolderitems %}
             <li>
-              <a href="{{ site.baseurl }}/{{ entry.url }}">{{ entry.page }}</a>
+              <!-- {{ entry.url }} AND {{ page.permalink }} -->
+              {% if entry.url ==  page.permalink %}
+                <a class="current" href="{{ site.baseurl }}/{{ entry.url }}">{{ entry.page }}</a>
+              {% else %}
+                <a href="{{ site.baseurl }}/{{ entry.url }}">{{ entry.page }}</a>
+              {% endif %}
             </li>
           {% endfor %}
         </ul>

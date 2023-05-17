@@ -2,7 +2,7 @@
 layout: page
 
 theme: white
-permalink: expertise-and-resources/staff-news/
+permalink: /expertise-and-resources/staff-news
 
 title: Staff News
 hero-img-source: "ALCF-GordonBell2.jpg"

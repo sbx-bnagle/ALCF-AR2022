@@ -7,7 +7,7 @@ hero-img-source: "ASCAC-Vishwanath.png"
 hero-img-caption: "ALCF's Venkat Vishwanath (top left) delivers a presentation on the ALCF AI Testbed at DOE's Advanced Scientific Computing Advisory Committee (ASCAC) meeting."
 
 theme: white
-permalink: /community-and-outreach/hpc-community-activities/
+permalink: /community-and-outreach/hpc-community-activities
 ---
 
 

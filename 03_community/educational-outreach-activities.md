@@ -6,7 +6,7 @@ hero-img-source: "IGED.jpg"
 hero-img-caption: "ALCF's Jini Ramprakash discusses supercomputers with students at Argonne's annual Introduce a Girl to Engineering Day."
 
 theme: white
-permalink: /community-and-outreach/educational-outreach-activities/
+permalink: /community-and-outreach/educational-outreach-activities
 ---
 
 # ACT-SO Summer Coding at UIC 

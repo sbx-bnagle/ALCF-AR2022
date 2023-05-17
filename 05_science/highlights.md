@@ -5,7 +5,7 @@ title: 2022 Science Highlights
 intro: "In 2022, scientists from across the world used ALCF supercomputing and AI resources to accelerate discovery and innovation across a wide range of research areas. The following science highlights detail some of the groundbreaking research campaigns carried out by ALCF users over the past year."
 
 theme: white
-permalink: /science/highlights/
+permalink: /science/highlights
 ---
 
 <!-- <ul>

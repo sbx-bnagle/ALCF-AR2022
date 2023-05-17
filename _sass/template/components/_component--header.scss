@@ -71,6 +71,10 @@ header {
 		}
 	}
 
+	a.current {
+	text-decoration: underline;
+	}
+
 
 	.menuitem-wrapper {
 		height: bl(12); //48px

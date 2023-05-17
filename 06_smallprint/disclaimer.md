@@ -4,7 +4,7 @@ layout: page
 title: Disclaimer
 
 theme: grey
-permalink: /disclaimer/
+permalink: /disclaimer
 ---
 
 

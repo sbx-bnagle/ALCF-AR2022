@@ -11,7 +11,12 @@
       <div class="nav">
         {% for item in site.data.nav-config.toc %}
           <h2>
-            <a href="{{ site.baseurl }}/{{ item.url }}">{{ item.title }}</a>
+            {% if page.permalink contains item.url %}
+              <a class="current" href="{{ site.baseurl }}/{{ item.url }}">{{ item.title }}</a>
+            {% else %}
+              <a href="{{ site.baseurl }}/{{ item.url }}">{{ item.title }}</a>
+            {% endif %}
+            <!-- <a href="{{ site.baseurl }}/{{ item.url }}">{{ item.title }}</a> -->
           </h2>
         {% endfor %}
       </div>
