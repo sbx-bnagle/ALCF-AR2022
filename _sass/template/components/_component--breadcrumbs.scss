@@ -1,0 +1,24 @@
+/**
+  * Component: Header
+  *  
+  * @description
+  * -
+  */
+
+#breadcrumbs {
+	grid-column: span 12;
+	@include stack(xs);
+	margin-top: 9px !important;
+	@include typestyle($sans-xs-reg);
+	color: color(neutral, XXXX);
+	text-transform: uppercase;
+  @include respond-to(m){
+    grid-column: 4 / 12;
+  }
+}
+
+.theme--sky #breadcrumbs,
+.theme--sky #breadcrumbs a {
+	color: color(blue, XXXX);
+	text-decoration-color: color(blue, XXX);
+}
