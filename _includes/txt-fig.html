@@ -35,6 +35,15 @@ available parameters:
 			{% endif %}	
 		</div>
 	{% endif %}
+	{% if include.figure-3 %}
+		<div class="fig-3">
+			<h3  class="fig--label">{{ include.label-3 }}</h3>
+			<span class="fig--no">{{ include.figure-3 }}</span>
+			{% if include.note-3 %}
+				<small class="fig--note">{{ include.note-3 }}</small>
+			{% endif %}	
+		</div>
+	{% endif %}
 </div>
 
 

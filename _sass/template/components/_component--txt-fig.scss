@@ -10,12 +10,13 @@
 	margin-top: bl(6); //24px
 	@include grid-child($cols: 12);
 	@include respond-to(m){
-		@include grid-child($cols: 8);
+		@include grid-child($cols: 12);
 		grid-column-start: 4;
 	}
 
 	.fig-1,
-	.fig-2 {
+	.fig-2,
+	.fig-3 {
 		grid-column: span 6;
 		margin-top: 12px;
 		@include respond-to(m){
@@ -33,9 +34,6 @@
 
 	.fig--no {
 		@include typestyle($sans-lg-reg);
-		@include respond-to(s){
-			@include typestyle($sans-xl-reg);
-		}
 	}
 
 	.fig--note {
