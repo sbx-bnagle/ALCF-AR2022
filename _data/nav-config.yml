@@ -47,10 +47,10 @@ toc:
         url: /expertise-and-resources/systems
       - page: ALCF Team
         url: /expertise-and-resources/team
-      - page: Staff News
-        url: /expertise-and-resources/staff-news
       - page: Staff Spotlights
         url: /expertise-and-resources/staff-spotlights
+      - page: Staff News
+        url: /expertise-and-resources/staff-news
   - title: Science
     slug: science
     url: /science
