@@ -30,7 +30,7 @@ layout: home
 
 <div class="home--hero-caption">
 	<small>
-		Visualization of particle light cone data from Farpoint, a high-resolution cosmology simulation at the gigaparsec scale. The color in the upper panels represents depth in the disk of particles, whereas the colors in the lower panels represent line-of-sight velocities. The left panels render the co-moving particle positions while the right panels demonstrate the so-called Fingers of God effect from redshift space distortion.
+		Visualization of particle light cone data from Farpoint, a high-resolution cosmology simulation at the gigaparsec scale.
 		<span class="credit">Image: ALCF Visualization and Data Analytics Team and the HACC Team</span>
 	</small>
 </div>

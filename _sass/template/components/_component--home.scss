@@ -309,7 +309,7 @@
 
 	.toc-highlight {
 		margin-top: bl(2); //8px
-		@include stack(sm);
+		@include stack(md);
 	}
 
 	.toc-highlight .title,

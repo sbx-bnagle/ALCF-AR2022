@@ -50,6 +50,30 @@ body {
   text-decoration-color: color(blue, XXX);
 }
 
+.theme--cyan .to-top,
+.theme--cyan .to-top a {
+  color: color(blue, XXXXX);
+  text-decoration-color: color(blue, XXX);
+}
+
+.theme--dark .to-top,
+.theme--dark .to-top a {
+  color: color(green, XX);
+  text-decoration-color: color(green, XXX);
+}
+
+.theme--warm .to-top,
+.theme--warm .to-top a {
+  color: color(warm, XXX);
+  text-decoration-color: color(warm, XXXX);
+}
+
+.theme--green .to-top,
+.theme--green .to-top a {
+  color: color(green, X);
+  text-decoration-color: color(blue, XX);
+ }
+
 
 
 
