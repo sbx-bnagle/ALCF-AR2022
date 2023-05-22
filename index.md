@@ -2,6 +2,8 @@
 
 layout: home
 
+title: Argonne Leadership Computing Facility
+
 ---
 {% assign features = site.data.nav-config.toc | where: "title", "Features" %}
 
