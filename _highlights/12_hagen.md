@@ -8,7 +8,7 @@ title: 'Ab-initio Nuclear Structure and Nuclear Reactions'
 pi: 'Gaute Hagen, Oak Ridge National Laboratory'
 award: 'INCITE'
 system: 'Theta'
-field: 'physics'
+field: 'Physics'
 sdl: 's'
 
 image: 'hagen.png' 
