@@ -33,7 +33,7 @@ publications:
 
 
 {% include txt-intro.html 
-    blurb = "Ground motions and fault displacements from earthquakes threaten infrastructure. Computer-based simulations can provide insight on those earthquake hazards to help develop mitigation strategies. Led by researchers from the Southern California Earthquake Center, this INCITE project seeks to improve earthquake-modeling capabilities by integrating physics-based models into research software, validating ground motion simulation and hazard products, while improve code performance."
+    blurb = "Ground motions and fault displacements from earthquakes threaten infrastructure. Computer-based simulations can provide insight on those earthquake hazards to help develop mitigation strategies. Led by researchers from the Southern California Earthquake Center, this INCITE project seeks to improve earthquake-modeling capabilities by integrating physics-based models into research software, validating ground motion simulation and hazard products, while improving code performance."
 %}
 
 
