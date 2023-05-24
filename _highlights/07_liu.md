@@ -12,7 +12,7 @@ field: 'Materials Science'
 sdl: 'd,l'
 
 image: 'liu.png' 
-image-caption: 'Comparison of *BraggNN*, pseudo-Voigt FF-HEDM, and NF-HEDM. Grain positions from NF-HEDM (black squares), pseudo-Voigt FF-HEDM (red circles) and *BraggNN* FF-HEDM (blue triangles) overlaid on the NF-HEDM confidence map.'
+image-caption: 'Comparison of BraggNN, pseudo-Voigt FF-HEDM, and NF-HEDM. Grain positions from NF-HEDM (black squares), pseudo-Voigt FF-HEDM (red circles) and BraggNN FF-HEDM (blue triangles) overlaid on the NF-HEDM confidence map.'
 image-credit: 'Antonino Miceli, Argonne National Laboratory'
 
 publications:
