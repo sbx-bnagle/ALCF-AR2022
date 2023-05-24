@@ -229,7 +229,7 @@ Kumar, P., S. Kabra, and J. M. Cole. “Auto-generating Databases of Yield Stren
 
 Lin, Y.-R., M. Franke, S. Parhizkar, M. Raths, V. W. Yu., T.-L. Lee, S. Soubatch, V. Blum, F. S. Tautz, C. Kump, and F. C. Bocquet. “Boron Nitride on SiC(0001)," <i>Physical Review Materials</i> (June 2022), APS. doi: 10.1103/PhysRevMaterials.6.064002
 
-Liu, J., B. Nicolae, D. Li, J. M. Wozniak, T. Bicer, Z. Liu, and I. Foster. “Large Scale Caching and Streaming of Training Data for Online Deep Learning," <i>FlexScience '22: Proceedings of the 12th Workshop on AI and Scientific Computing at Scale using Flexible Computing Infrastructures</i> (June 2022), Association for Computing Machinery, pp. 19-26. doi: 10.1145/3526058.3535453
+Liu, J., B. Nicolae, D. Li, J. M. Wozniak, T. Bicer, Z. Liu, and I. Foster. “Large Scale Caching and Streaming of Training Data for Online Deep Learning," <i>FlexScience &rsquo;22: Proceedings of the 12th Workshop on AI and Scientific Computing at Scale using Flexible Computing Infrastructures</i> (June 2022), Association for Computing Machinery, pp. 19-26. doi: 10.1145/3526058.3535453
 
 Lu, B.-N., N. Li, S. Elhatisari, Y.-Z. Ma, D. Lee, and U.-G. Meißner. “Perturbative Quantum Monte Carlo Method for Nuclear Physics," <i>Physical Review Letters</i> (June 2022), APS. doi: 10.1103/PhysRevLett.128.242501
 
@@ -463,7 +463,7 @@ Zyvagin, M., A. Brace, K. Hippie, Y. Deng, B. Zhang, C. O. Bohorquez, A. Clyde, 
 
 # DECEMBER
 
-Bass, B., J. New, and Z. Wade. “Future Typical Meteorological Year (fTMY) Weather Data and Climate Change Impacts to Maricopa County, Arizona," <i>BuildSys '22: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i> (December 2022), Association for Computing Machinery, pp. 504-507. doi: 10.1145/3563357.3567408
+Bass, B., J. New, and Z. Wade. “Future Typical Meteorological Year (fTMY) Weather Data and Climate Change Impacts to Maricopa County, Arizona," <i>BuildSys &rsquo;22: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i> (December 2022), Association for Computing Machinery, pp. 504-507. doi: 10.1145/3563357.3567408
 
 Blöndal, K., K. Sargsyan, D. H. Bross, B. Ruscic, and C. F. Goldsmith. “Configuration Space Integration for Adsorbate Partition Functions: The Effect of Anharmonicity on the Thermophysical Properties of CO–Pt(111) and CH<sub>3</sub>OH–Cu(111)," <i>ACS Catalysis</i> (December 2022), ACS. doi: 10.1021/acscatal.2c04246
 
