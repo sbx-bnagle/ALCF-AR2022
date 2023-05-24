@@ -12,7 +12,7 @@ field: 'Physics'
 sdl: 's,l'
 
 image: 'chang.png' 
-image-caption: 'Frequency-wavenimber spectrum of nonlinear edge turbulence just before L-H bifurcation. The pedestal profile is still evolving, and the turbulence has not reached its peak.'
+image-caption: 'Frequency-wavenumber spectrum of nonlinear edge turbulence just before L-H bifurcation. The pedestal profile is still evolving, and the turbulence has not reached its peak.'
 image-credit: 'C. S. Chang, Princeton Plasma Physics Laboratory'
 
 publications:
