@@ -46,7 +46,7 @@ To address these challenges, the Argonne team developed BraggNN, a novel deep le
 
 # Results
 
-To evaluate the performance of BraggNN, the researchers compared the results with the reconstructed position of grains in addition to diffraction peak positions. When applied to a real experimental dataset, they found the grain positions using BraggNN resulted in errors being 15 percent smaller those calculated using convention pseudo-Voigt fitting. Recent advances in deep learning method implementations and special-purpose model inference accelerators allow BraggNN to deliver significant performance improvements relative to the traditional method, running, for example, more than 200 times faster on a consumer-class GPU card with out-of-the-box software.
+To evaluate the performance of BraggNN, the researchers compared the results with the reconstructed position of grains in addition to diffraction peak positions. When applied to a real experimental dataset, they found the grain positions using BraggNN resulted in errors being 15 percent smaller than those calculated using convention pseudo-Voigt fitting. Recent advances in deep learning method implementations and special-purpose model inference accelerators allow BraggNN to deliver significant performance improvements relative to the traditional method, running, for example, more than 200 times faster on a consumer-class GPU card with out-of-the-box software.
 
 
 
