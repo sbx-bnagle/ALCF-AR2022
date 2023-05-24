@@ -162,7 +162,7 @@ HOURS: ALCF: 500,000 Node-Hours
 
 ## EARTH SCIENCE
 
-### [A Climate Model Ensemble for Understanding Future Changes to Extreme](https://www.alcf.anl.gov/science/projects/climate-model-ensemble-understanding-future-changes-extreme)
+### [A Climate Model Ensemble for Understanding Future Changes to Extreme Weather](https://www.alcf.anl.gov/science/projects/climate-model-ensemble-understanding-future-changes-extreme)
 PI: Paul Ullrich, University of California\
 HOURS: ALCF: 900,000 Node-Hours, NERSC: 300,000 Node-Hours
 
@@ -218,7 +218,7 @@ HOURS: ALCF: 100,000 Node-Hours, OLCF: 50,000 Node-Hours, NERSC: 50,000 Node-Hou
 PI: Frederico Fiuza, SLAC National Accelerator Laboratory\
 HOURS: ALCF: 860,000 Node-Hours
 
-### [High Precision Hadronic Vacuum Polarization Contribution to the Muon Anomalous Magnetic Moment using Highly Improved Staggered Quarks](https://www.alcf.anl.gov/science/projects/high-precision-hadronic-vacuum-polarization-contribution-muon-anomalous-magnetic)
+### [High Precision Hadronic Vacuum Polarization Contribution to the Muon Anomalous Magnetic Moment Using Highly Improved Staggered Quarks](https://www.alcf.anl.gov/science/projects/high-precision-hadronic-vacuum-polarization-contribution-muon-anomalous-magnetic)
 PI: Steven Gottlieb, Indiana University\
 HOURS: ALCF: 100,000 Node-Hours, OLCF: 1,000,000 Node-Hours, NERSC: 100,000 Node-Hours
 
@@ -473,9 +473,6 @@ PI: Eric Michael Jonas, University of Chicago
 
 ### Bridging Data Center AI Systems with Edge Computing for Actionable Information Retrieval
 PI: Zhengchun Liu, Argonne National Laboratory
-
-### Data-Driven Molecular Engineering of Solar-Powered Windows
-PI: Jacqueline Cole, University of Cambridge
 
 ### Training of Language Models on Large Quantities of Scientific Text
 PI: Ian Foster, Argonne National Laboratory
