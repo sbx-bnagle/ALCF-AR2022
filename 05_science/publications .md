@@ -20,7 +20,7 @@ Bayerl, B., C. M., Andolina ,S. Dwaraknath, and W. A. Saidi. “Convergence Acce
 
 Berres, A. S., B. C. Bass, M. B. Adams, E. Garrison, and J. R. New. “A Data-Driven Approach to Nation-Scale Building Energy Modeling," <i>2021 IEEE International Conference on Big Data (Big Data)</i> (January 2022), Orlando, FL, IEEE. doi: 10.1109/BigData52589.2021.9671786
 
-Bosilca, G., A. Bouteiller, T. Herault, V. Le Févre, Y. Robert, and J. Dongarra. “Comparing Distributed Termination Detection Algorithms for Modern HPC Platforms," <i>International Journal of Networking and Computing</i> (January 2022), vol. 12, no. 1, International Journal of Networking and Computing . doi: 10.15803/ijnc.12.1_26
+Bosilca, G., A. Bouteiller, T. Herault, V. Le Févre, Y. Robert, and J. Dongarra. “Comparing Distributed Termination Detection Algorithms for Modern HPC Platforms," <i>International Journal of Networking and Computing</i> (January 2022), vol. 12, no. 1, International Journal of Networking and Computing. doi: 10.15803/ijnc.12.1_26
 
 Chidyagwaia, S. G., M. Vardhana, M. Kapland, R. Chamberlain, P. Barker, and A. Randles. "Characterization of Hemodynamics in Anomalous Aortic Origin of Coronary Arteries Using Patient-Specific Modeling," <i>Journal of Biomechanics</i> (January 2022), Elsevier. doi: 10.1016/j.jbiomech.2021.110919
 
@@ -28,7 +28,7 @@ Clyde, A., S. Galanie, D.W. Kneller, H. Ma, Y Babuji, B Blaiszik, A. Brace, T. B
 
 Drobchik, A. N., V. V. Nikitin, M. I. Fokin, G. A. Dugarov, A. L. Shevchenko, A. L. Deriy, A. Y. Manikov, K. E. Kuper, and A.A. Duchtov. “Environmental Cell for In Situ X-ray Synchrotron Micro-CT Imaging with Simultaneous Acoustic Measurements," <i>Journal of Synchrotron Radiation</i> (January 2022), International Union of Crystallography. doi: 10.1107/s1600577521013308
 
-Feldman, C., B. Michalowicz, E. Siegmann, T. Curtis, A. Calder, and R. Harr n. “Experiences with Porting the FLASH Code to Ookami, an HPE Apollo 80 A64FX Platform," <i>HPCAsia 2022 Workshop: International Conference on High Performance Computing in Asia-Pacific Region Workshops</i> (January 2022), ACM. doi: 10.1145/3503470.3503478
+Feldman, C., B. Michalowicz, E. Siegmann, T. Curtis, A. Calder, and R. Harrison. “Experiences with Porting the FLASH Code to Ookami, an HPE Apollo 80 A64FX Platform," <i>HPCAsia 2022 Workshop: International Conference on High Performance Computing in Asia-Pacific Region Workshops</i> (January 2022), ACM. doi: 10.1145/3503470.3503478
 
 Khan, A., E. A. Huerta, and H. Zheng. “Interpretable AI Forecasting for Numerical Relativity Waveforms of Quasicircular, Spinning, Nonprocessing Binary Black Hole Mergers," <i>Physical Review D</i> (January 2022), APS. doi: 10.1103/PhysRevD.105.024024
 
@@ -85,7 +85,7 @@ Thompson, A. P., H. M. Aktulga, R. Berger, D. S. Bolintineanu, W. M. Brown, P. S
 
 Tiihonen, J., P. R. C. Kent, and J. T. Krogel. “Surrogate Hessian Accelerated Structural Optimization for Stochastic Electronic Structure Theories," <i>The Journal of Chemical Physics</i> (February 2022), AIP. doi: 10.1063/5.0079046
 
-Wan, S., Agastya, B., Wright, D., Wall, I., Graves, A., Green, D. and Coveney, P. “Evaluation and Characterization of Isoxazole Amides as SMYD3 Inhibitors Inhibitors," <i>ChemRxiv</i> (February 2022), Cambridge University Press. doi: 10.26434/chemrxiv-2022-hrxqs
+Wan, S., B. Agastya, D. Wright, I. Wall, A. Graves, D. Green, and P. Coveney. “Evaluation and Characterization of Isoxazole Amides as SMYD3 Inhibitors Inhibitors," <i>ChemRxiv</i> (February 2022), Cambridge University Press. doi: 10.26434/chemrxiv-2022-hrxqs
 
 White, C. J., A. Burrows, M. S. B. Coleman, and D. Vartanyan. “On the Origin of Pulsar and Magnetar Magnetic Fields," <i>The Astrophysical Journal</i> (February 2022), IOP Publishing. doi: 10.3847/1538-4357/ac4507
 
@@ -96,7 +96,7 @@ White, C. J., A. Burrows, M. S. B. Coleman, and D. Vartanyan. “On the Origin o
 
 Bhati, A. P., and P. V. Coveney. “Large Scale Study of Ligand–Protein Relative Binding Free Energy Calculations: Actionable Predictions from Statistically Robust Protocols," <i>Journal of Chemical Theory and Computation</i> (March 2022), ACS. doi: 10.1021/acs.jctc.1c01288
 
-Bicer, T., X. Yu, D.J. Ching, and R. Chard. “High-Performance Ptchographic Reconstruction with Federated Facilities," <i>SMC 2021: Driving Scientific and Engineering Discoveries Through the Integration of Experiment, Big Data, and Modeling and Simulation</i> (March 2022), Springer Nature. doi: 10.1007/978-3-030-96498-6_10
+Bicer, T., X. Yu, D.J. Ching, and R. Chard. “High-Performance Ptychographic Reconstruction with Federated Facilities," <i>SMC 2021: Driving Scientific and Engineering Discoveries Through the Integration of Experiment, Big Data, and Modeling and Simulation</i> (March 2022), Springer Nature. doi: 10.1007/978-3-030-96498-6_10
 
 Bonaiti, F., S. Bacca, and G. Hagen. “Ab Initio Coupled-Cluster Calculations of Ground and Dipole Excited States in <sup>8</sup>He," <i>Physical Review C</i> (March 2022), APS. doi: 10.1103/PhysRevC.105.034313
 
@@ -127,7 +127,7 @@ Zhu, M., and J. M. Cole. “PDFDataExtractor: A Tool for Reading Scientific Text
 
 # APRIL
 
-Bale, A. A, S. M. B. Gautham, and T. K. Patra. “Sequence-Defined Pareto Frontier of a Copolymer Structure," <i>Journal of Polymer Science</i> (April 2022), John Wiley and Sons. doi: 10.1002/pol.20220088
+Bale, A. A., S. M. B. Gautham, and T. K. Patra. “Sequence-Defined Pareto Frontier of a Copolymer Structure," <i>Journal of Polymer Science</i> (April 2022), John Wiley and Sons. doi: 10.1002/pol.20220088
 
 Bollweg, D., O. Kaczmarek, F. Karsch, S. Mukherjee, P. Petreczky, C. Schmidt, and P. Scior. “Taylor Expansions and Padé Approximants For Cumulants of Conserved Charge Fluctuations at Nonvanishing Chemical Potentials," <i>Physical Review D</i> (April 2022), APS. doi: 10.1103/physrevd.105.074511
 
@@ -174,7 +174,7 @@ Gerasimeniuk, N.V., M. N. Chernodub, V. A. Goy, D. L. Boyda, S. D. Liubimov, A. 
 
 Huang, S., and J. M. Cole. “BatteryBERT: A Pretrained Language Model for Battery Database Enhancement," <i>Journal of Chemical Information and Modeling</i> (May 2022), ACS Publications. doi: 10.1021/acs.jcim.2c00035
 
-Jain, S. S., and P. Moin. “A Kinetic Energy– and Entropy-Preserving Scheme for Compressible Two-Phase Flows," <i>Journal of Computational Physics</i> (May 2022), Elsevier. doi: 10.1016/j.jcp.2022.111307
+Jain, S. S., and P. Moin. “A Kinetic Energy- and Entropy-Preserving Scheme for Compressible Two-Phase Flows," <i>Journal of Computational Physics</i> (May 2022), Elsevier. doi: 10.1016/j.jcp.2022.111307
 
 Maulik, R., V. Rao, J. Wang, G. Mengaldo, E. Constantinescu, B. Lusch, P. Balaprakash, I. Foster, and R. Kotamarthi. “Efficient High-Dimensional Variational Data Assimilation with Machine-Learned Reduced-Order Models," <i>Geoscientific Model Development</i> (May 2022), European Geosciences Union. doi: 10.5194/gmd-15-3433-2022
 
@@ -229,7 +229,7 @@ Kumar, P., S. Kabra, and J. M. Cole. “Auto-generating Databases of Yield Stren
 
 Lin, Y.-R., M. Franke, S. Parhizkar, M. Raths, V. W. Yu., T.-L. Lee, S. Soubatch, V. Blum, F. S. Tautz, C. Kump, and F. C. Bocquet. “Boron Nitride on SiC(0001)," <i>Physical Review Materials</i> (June 2022), APS. doi: 10.1103/PhysRevMaterials.6.064002
 
-Liu, J., B. Nicolae, D. Li, J. M. Wozniak, T. Bicer, Z. Liu, and I. Foster. “Large Scale Caching and Streaming of Training Data for Online Deep Learning," FlexScience '22: Proceedings of the 12th Workshop on AI and Scientific Computing at Scale using Flexible Computing Infrastructures</i> (June 2022), Association for Computing Machinery, pp. 19-26. doi: 10.1145/3526058.3535453
+Liu, J., B. Nicolae, D. Li, J. M. Wozniak, T. Bicer, Z. Liu, and I. Foster. “Large Scale Caching and Streaming of Training Data for Online Deep Learning," <i>FlexScience '22: Proceedings of the 12th Workshop on AI and Scientific Computing at Scale using Flexible Computing Infrastructures</i> (June 2022), Association for Computing Machinery, pp. 19-26. doi: 10.1145/3526058.3535453
 
 Lu, B.-N., N. Li, S. Elhatisari, Y.-Z. Ma, D. Lee, and U.-G. Meißner. “Perturbative Quantum Monte Carlo Method for Nuclear Physics," <i>Physical Review Letters</i> (June 2022), APS. doi: 10.1103/PhysRevLett.128.242501
 
@@ -243,7 +243,7 @@ Stein, G., J. Blaum, P. Harrington, T. Medan, and Z. Lukić. “Mining for Stron
 
 Wan, S., A. P. Bhati, D. W. Wright, A. D. Wade, G. Tresadern, H. van Vlijmen, and P. V. Coveney. “The Performance of Ensemble-Based Free Energy Protocols in Computing Binding Affinities to ROS1 Kinase," <i>Scientific Reports</i> (June 2022), Springer Nature. doi: 10.1038/s41598-022-13319-6
 
-Yang, T. T., and W. Saidi. “Reconciling the Volcano Trend with the Butler–Volmer Model for the Hydrogen Evolution Reaction," <i>The Journal of Physical Chemistry Letters</i> (June 2022), ACS . doi: 10.1021/acs.jpclett.2c01411
+Yang, T. T., and W. Saidi. “Reconciling the Volcano Trend with the Butler–Volmer Model for the Hydrogen Evolution Reaction," <i>The Journal of Physical Chemistry Letters</i> (June 2022), ACS. doi: 10.1021/acs.jpclett.2c01411
 
 Yao, Y., H. Chan, S. Sankaranarayanan, P. Balaprakash, R. J. Harder, and M. J. Cherukara. “AutoPhaseNN: Unsupervised Physics-Aware Deep Learning of 3D Nanoscale Bragg Coherent Diffraction Imaging," <i>npj Computational Materials</i> (June 2022), Springer Nature. doi: 10.1038/s41524-022-00803-w
 
@@ -266,9 +266,9 @@ Krishnamoorthy, A., K. Nomura, N. Baradwaj, K. Shimamura, R. Ma, S. Fukushima, F
 
 Kumar, V., and J. Larsson. “Modular Method for Estimation of Velocity and Temperature Profiles in High-Speed Boundary Layers," <i>AIAA Journal</i> (July 2022), AIAA. doi: 10.2514/1.J061735
 
-Marchildon, M., B. Allard, L. Ivan, and J. G. McDonald. “A Polydisperse Gaussian-Moment Method for Extended Statistical Modelling of Multiphase Flows," <i>ICCFD11 Proceedings</i> (July 2022), Maui, HI, International Conference on Computational Fluid Dynamics
+Marchildon, M., B. Allard, L. Ivan, and J. G. McDonald. “A Polydisperse Gaussian-Moment Method for Extended Statistical Modelling of Multiphase Flows," <i>ICCFD11 Proceedings</i> (July 2022), Maui, HI, International Conference on Computational Fluid Dynamics.
 
-Sankaranarayanan, S., B. Varughese, S. Manna, T. Loeffler, R. Batra, and M. Cherukara. “Transfer and Active Learning of High Dimensional Neural Network Potentials for Transition Metal Clusters and Bulk," Research Square</i> (July 2022), Research Square. doi: 10.21203/rs.3.rs-1769974/v1
+Sankaranarayanan, S., B. Varughese, S. Manna, T. Loeffler, R. Batra, and M. Cherukara. “Transfer and Active Learning of High Dimensional Neural Network Potentials for Transition Metal Clusters and Bulk," <i>Research Square</i> (July 2022), Research Square. doi: 10.21203/rs.3.rs-1769974/v1
 
 Shilpika, S., B. Lusch, M. Emani, F. Simini, V. Vishwanath, M. E. Papka, and K.-L. Ma. “Toward an In-Depth Analysis of Multifidelity High Performance Computing Systems," <i>2022 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)</i> (July 2022), Taormina, Italy, IEEE. doi: 10.1109/CCGrid54584.2022.00081
 
@@ -281,17 +281,17 @@ Zheng, H., V. Vishwanath, Q. Koziol, H. Tang, J. Ravi, J. Mainzer, and S. Byna. 
 
 Annaberdiyev, A., C. A. Melton, G. Wang, and L. Mitas. “Electronic Structure of α−RuCl<sub>3</sub> by Fixed-Node and Fixed-Phase Diffusion Monte Carlo Methods," <i>Physical Review B</i> (August 2022), APS. doi: 10.1103/PhysRevB.106.075127
 
-Bass, B., J. Larsen, B. Edwards, C. Mathis, and J. New. “Multi-Variable Parametric Analysis of Prototype Building Energy Performance Using Current and Future Weather Scenarios for Data-Driven Market Transformation Support," <i>Oak Ridge National Laboratory</i> (August 2022), U.S. Department of Energy
+Bass, B., J. Larsen, B. Edwards, C. Mathis, and J. New. “Multi-Variable Parametric Analysis of Prototype Building Energy Performance Using Current and Future Weather Scenarios for Data-Driven Market Transformation Support," <i>Oak Ridge National Laboratory</i> (August 2022), U.S. Department of Energy.
 
 Bhardwaj, G., J. O'Connor, S. Rettie, Y.-H. Huang, T. A. Ramelot, V. K. Mulligan, G. G. Alpkilic, J. Palmer, A. K. Bera, M. J. Bick, M. Di Piazza, X. Li, P. Hosseinzadeh, T. W. Craven, R. Tejero, A. Lauko, R. Choi, C. Glynn, L. Dong, R. Griffin, W. C. van Voorhis, J. Rodriguez, L. Stewart, G. T. Montelione, D. Craik, and D. Baker. “Accurate De Novo Design of Membrane-Traversing Macrocycles," <i>Cell</i> (August 2022), Cell Press. doi: 10.1016/j.cell.2022.07.019
 
 Chakraborty, TC, J. Wang, Y. Qian, W. Pringle, Z. Yang, and P. Xue. “Urban versus Lake Impacts on Heat Stress and Its Disparities in a Shoreline City," <i>Research Square</i> (August 2022), Research Square. doi: 10.21203/rs.3.rs-1818535/v1
 
-Chen, Y., E. Lee, P. Gil, P. Ma,C. Amanchukwu and J. de Pablo. “Molecular Engineering of Fluoroether Electrolytes for Lithium Metal Batteries," <i>ChemRxiv</i> (August 2022), Cambridge University Press. doi: 10.26434/chemrxiv-2022-1v9v6-v2
+Chen, Y., E. Lee, P. Gil, P. Ma, C. Amanchukwu and J. de Pablo. “Molecular Engineering of Fluoroether Electrolytes for Lithium Metal Batteries," <i>ChemRxiv</i> (August 2022), Cambridge University Press. doi: 10.26434/chemrxiv-2022-1v9v6-v2
 
 Egele, R., R. Maulik, K. Raghavan, B. Lusch, I. Guyon, and P. Balaprakash. “AutoDEUQ: Automated Deep Ensemble with Uncertainty Quantification," <i>2022 26th International Conference on Pattern Recognition</i> (August 2022), Montreal, QC, Canada, IEEE. doi: 10.1109/ICPR56361.2022.9956231
 
-Futita, K., N. Sakamoto, T. Fujiwara, T. Tsukamoto, and J. Nonaka. “A Visual Analytics Method for Time-Series Log Data Using Multiple Dimensionality Reduction," <i>Journal of Advanced Simulation in Science and Engineering</i> (August 2022), vol. 9, no. No. 2, Japan Society for Simulation Technology, pp. 206-219. doi: 10.15748/jasse.9.206
+Futita, K., N. Sakamoto, T. Fujiwara, T. Tsukamoto, and J. Nonaka. “A Visual Analytics Method for Time-Series Log Data Using Multiple Dimensionality Reduction," <i>Journal of Advanced Simulation in Science and Engineering</i> (August 2022), vol. 9, no. 2, Japan Society for Simulation Technology, pp. 206-219. doi: 10.15748/jasse.9.206
 
 Hu, B., W. Jiang, T. Miyagi, Z. Sun, A. Ekström, C. Forssén, G. Hagen, J. D. Holt, T. Papenbrock, S. R. Stroberg, and I. Vernon. “Ab Initio Predictions Link the Neutron Skin of <sup>208</sup>Pb to Nuclear Forces," <i>Nature Physics</i> (August 2022), Springer Nature. doi: 10.1038/s41567-022-01715-8
 
@@ -340,7 +340,7 @@ Huang, S., and J. M. Cole. “BatteryDataExtractor: Battery-Aware Text-Mining So
 
 Kaur, S., R. Kanungo, W. Horiuchi, G. Hagen, J. D. Holt, B. S. Hu, T. Miyagi, T. Suzuki, F. Ameil, J. Atkinson, Y. Ayyad, S. Bagchi, D. Cortina-Gil, I. Dillmann, A. Estradé, A. Evdokimov, F. Farinon, H. Geissel, G. Guastalla, R. Janik, R. Knöbel, J. Kurcewicz, Y. A. Litvinov, M. Marta, M. Mostazo, I. Mukha, C. Nociforo, H. J. Ong, T. Otsuka, S. Pietri, A. Prochazka, C. Sceidenberger, B. Sitar, P. Strmen, M. Takechi, J. Tanaka, I. Tanihata, S. Terashima, J. Vargas, H. Weick, and J. S. Winfield. “Proton Distribution Radii of <sup>16–24</sup>O: Signatures of New Shell Closures and Neutron Skin," <i>Physical Review Letters</i> (September 2022), APS. doi: 10.1103/PhysRevLett.129.142502
 
-Kononov, A., C.-W. Lee, T. P. dos Santos, B. Robinson, Y. Yao, Y. Yao, X. Andrade, A. D. Baczewski, E. Constantinescu, A. A. Correa, Y. Kanai, N. Modine, and A. Schleife. “Electron Dynamics in Extended Systems within Real-Time Time-Dependent Density-Functional Theory," <i>Computational Approaches for Materials Discovery and Development Perspective</i> (September 2022), Springer Nature. doi: 10.1557/s43579-022-00273-7
+Kononov, A., C.-W. Lee, T. P. dos Santos, B. Robinson, Y. Yao, X. Andrade, A. D. Baczewski, E. Constantinescu, A. A. Correa, Y. Kanai, N. Modine, and A. Schleife. “Electron Dynamics in Extended Systems within Real-Time Time-Dependent Density-Functional Theory," <i>Computational Approaches for Materials Discovery and Development Perspective</i> (September 2022), Springer Nature. doi: 10.1557/s43579-022-00273-7
 
 Li, Z., R. Chard, Y. Babuji, B. Galewsky, T. J. Skluzacek, K. Nagaitsev, A. Woodard, B. Blaiszik, J. Bryan, D. S. Katz, I. Foster, and K. Chard. “funcX: Federated Function as a Service for Science," <i>IEEE Transactions on Parallel and Distributed Systems</i> (September 2022), IEEE. doi: 10.1109/TPDS.2022.3208767
 
@@ -434,7 +434,7 @@ Hargrove, P. H., and D. Bonachea. “GASNet-EX RMA Communication Performance on 
 
 Hosseini, R., F. Simini, A. Clyde, and A. Ramanathan. “Deep Surrogate Docking: Accelerating Automated Drug Discovery with Graph Neural Networks," <i>Thirty-Sixth Conference on Neural Information Processing Systems</i> (November 2022), New Orleans, LA, Neural Information Processing Systems Foundation. doi: 10.48550/arXiv.2211.02720
 
-Huck, K., X. Wu, A. Dubey, A. Georgiadou, J. A. Harris, T. Klosterman, M. Trappett, and K. Weide. “Performance Debugging and Tuning of Flash-X with Data Analysis Tools," <i>SC2022 Workshop on Programming and Performance Visualization Tools (ProTools22)</i> (November 2022), Dallas, TX, IEEE
+Huck, K., X. Wu, A. Dubey, A. Georgiadou, J. A. Harris, T. Klosterman, M. Trappett, and K. Weide. “Performance Debugging and Tuning of Flash-X with Data Analysis Tools," <i>SC2022 Workshop on Programming and Performance Visualization Tools (ProTools22)</i> (November 2022), Dallas, TX, IEEE.
 
 Kincaid, B., G. Wang, H. Zhou, and L. Mitas. “Correlation Consistent Effective Core Potentials for Late 3D Transition Metals Adapted for Plane Wave Calculations," <i>The Journal of Chemical Physics</i> (November 2022), AIP. doi: 10.1063/5.0109098
 
