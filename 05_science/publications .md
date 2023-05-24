@@ -203,7 +203,7 @@ Zhao, J., and J. M. Cole. “A Database of Refractive Indices and Dielectric Con
 
 # JUNE
 
-Anderson, J., Y. Liu, and J. Mellor-Crummey. “Preparing for Performance Analysis at Exascale," <i>ICS '22: Proceedings of the 36th ACM International Conference on Supercomputing</i> (June 2022), Association for Computing Machinery. doi: 10.1145/3524059.3532397
+Anderson, J., Y. Liu, and J. Mellor-Crummey. “Preparing for Performance Analysis at Exascale," <i>ICS &rsquo;22: Proceedings of the 36th ACM International Conference on Supercomputing</i> (June 2022), Association for Computing Machinery. doi: 10.1145/3524059.3532397
 
 Caprio, M. A., P. J. Fasano, and P. Maris. “Robust Ab Initio Prediction of Nuclear Electric Quadrupole Observables by Scaling to the Charge Radius," <i>Physical Review C</i> (June 2022), APS. doi: 10.1103/PhysRevC.105.L061302
 
