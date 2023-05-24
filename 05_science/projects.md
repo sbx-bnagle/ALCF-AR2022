@@ -341,7 +341,7 @@ HOURS: ALCF: 45,000 Node-Hours
 PI: Igor Rakhno, Fermi National Accelerator Laboratory\
 HOURS: ALCF: 450,000 Node-Hours
 
-### [Quantum Monte Carlo Calculations of Nuclei Up to 16O and Neutron matter](https://www.alcf.anl.gov/science/projects/quantum-monte-carlo-calculations-nuclei-16o-and-neutron-matter)
+### [Quantum Monte Carlo Calculations of Nuclei Up to <sup>16</sup>O and Neutron Matter](https://www.alcf.anl.gov/science/projects/quantum-monte-carlo-calculations-nuclei-16o-and-neutron-matter)
 PI: Alessandro Lovato, Argonne National Laboratory\
 HOURS: ALCF: 632,000 Node-Hours
 
