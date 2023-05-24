@@ -42,7 +42,7 @@ Once the simulations reproduce a 3M experimental process map with sufficient acc
 
 
 
-## Results
+# Results
 
 While ML methods have thus far been used to refine and select successive experiments, the researchers intend to investigate the use of recurrent and physics-informed neural networks so as to predict fluid flow patterns, from which key metrics can be determined. 
 
