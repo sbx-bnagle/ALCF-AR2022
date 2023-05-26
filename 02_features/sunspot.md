@@ -31,4 +31,4 @@ Since Sunspot’s launch in December, more than 180 users from over 20 applicati
 
 In addition to helping researchers prepare applications for Aurora, Sunspot is also extremely valuable to the ALCF and Intel as they continue work to stand up the lab’s exascale system. Some bugs may not surface until real applications are run on the hardware, so the ESP and ECP teams’ preparatory runs on Sunspot can help with uncovering and in some cases diagnosing issues before Aurora is powered on.
 
-Sunspot is expected serve a role even after Aurora enters production mode. Like the ALCF’s previous test and development systems, Sunspot can be proving ground for new users to test and optimize code performance before moving to Aurora. ALCF staff can also use it to validate and benchmark new software that is targeted for Aurora. 
+Sunspot is expected serve a role even after Aurora enters production mode. Like the ALCF’s previous test and development systems, Sunspot can be a proving ground for new users to test and optimize code performance before moving to Aurora. ALCF staff can also use it to validate and benchmark new software that is targeted for Aurora. 
