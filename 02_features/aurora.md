@@ -27,7 +27,7 @@ The installation continues this fall with the phased delivery of Intel’s state
 
 # Facility Upgrades
 
-While the supercomputer is nearing completion, the work to ready the Argonne site for Aurora has been years in the making. As Coghlan noted, the process of deploying a new supercomputer begins with the major facility upgrades necessary to operate the system, including utility-scale electrical and mechanical work.
+While the supercomputer is nearing completion, the work to ready the Argonne site for Aurora has been years in the making. The process of deploying a new supercomputer begins with the major facility upgrades necessary to operate the system, including utility-scale electrical and mechanical work.
 
 {% include media-img.html
    source= "ALCF-Aurora2.jpg"
