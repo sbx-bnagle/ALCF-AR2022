@@ -26,7 +26,7 @@ ALCF staff members remain actively involved in a number of HPC standards and com
 
 # Performance Portability
 
-The ALCF continued its collaboration with NERSC and OLCF to operate and maintain a website dedicated to enabling performance portability across the DOE Office of Science HPC facilities (performanceportability.org). The website serves a documentation hub and guide for applications teams targeting systems at multiple computing facilities. Staff from the DOE computing facilities also collaborate on various projects and training events to maximize the portability of scientific applications on diverse supercomputer architectures.
+The ALCF continued its collaboration with NERSC and OLCF to operate and maintain a [website](performanceportability.org) dedicated to enabling performance portability across the DOE Office of Science HPC facilities. The website serves a documentation hub and guide for applications teams targeting systems at multiple computing facilities. Staff from the DOE computing facilities also collaborate on various projects and training events to maximize the portability of scientific applications on diverse supercomputer architectures.
 
 # Vendor Collaborations
 
