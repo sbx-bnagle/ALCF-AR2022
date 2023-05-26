@@ -40,7 +40,7 @@ The ALCF helps put on several computing camps for middle school and high school 
 
 As part of Argonne’s ACT-SO (Afro-Academic, Cultural, Technological & Scientific Olympics) High School Research Program, ALCF staff members mentor students participating in the DuPage County ACT-SO event. Designed to encourage participants to pursue careers in STEM, the program pairs students with mentors for research projects that use the lab’s facilities and resources. At end of the program, students present their work to a panel of judges for an opportunity to advance to the national competition.
 
-At the college level, the ALCF is reaching the next generation of AI practitioners through its “Intro to AI-driven Science on Supercomputers” training series. Aimed at undergraduate and graduate students, the series teaches attendees fundamentals of using AI and supercomputers for scientific research. Comprised of eight virtual classes, the 2022 program welcomed over 200 attendees from 90 universities for hands-on instruction using methods, such as AI training and neural networks, on ALCF supercomputers.
+At the college level, the ALCF is reaching the next generation of AI practitioners through its “Intro to AI-driven Science on Supercomputers” training series. Aimed at undergraduate and graduate students, the series teaches attendees fundamentals of using AI and supercomputers for scientific research. Comprised of eight virtual classes, the 2022 program welcomed over 200 attendees from 90 universities for hands-on instruction using methods such as AI training and neural networks on ALCF supercomputers.
 
 # Increasing Diversity at the ALCF and Beyond
 
