@@ -30,7 +30,7 @@ Upon the deployment of Polaris, several research teams immediately began using t
 
 # Exascale Preparations
 
-Researchers from DOE’s Princeton Plasma Physics Laboratory are leading an Aurora ESP project that aims to use particle simulations of plasma, including impurities and the important magnetic field geometry at the edge, to predict behavior of ITER plasmas and to help guide future experimental parameters. The team is using Polaris to run simulations of the DIII-D National Fusion Facility’s tokamak device with Carbon impurities to inform their planned simulations of ITER plasmas with Tungsten impurities on Aurora.
+Researchers from DOE’s Princeton Plasma Physics Laboratory are leading an Aurora ESP project that aims to use particle simulations of plasma, including impurities and the important magnetic field geometry at the edge, to predict behavior of ITER plasmas and to help guide future experimental parameters. The team is using Polaris to run simulations of the DIII-D National Fusion Facility’s tokamak device with carbon impurities to inform their planned simulations of ITER plasmas with tungsten impurities on Aurora.
 
 The NWChemEx team, supported by the ESP and ECP, will use Aurora to advance the understanding of chemical systems to aid in developing new methods for converting biomass into biofuels. In preparation for larger simulations on Aurora, the researchers are leveraging Polaris to carry out simulations to produce initial geometries appropriate for the conversion of propene to propanol within zeolites.
 
@@ -42,6 +42,6 @@ With an INCITE award, researchers from the Flatiron Institute are using Polaris 
 
 An Argonne-led ALCC team is leveraging Polaris to perform high-fidelity computational fluid dynamics and multiphysics simulations to investigate fundamental flow phenomena in next-generation nuclear power reactors. The project’s simulations will be carried out in collaboration with X-energy and TerraPower (recipients of awards from DOE’s Advanced Reactor Demonstration Program) with the potential to accelerate the deployment of carbon-free energy solutions. 
 
-Building on years of work using Theta, a Princeton University-led team is using Polaris to advance their 3D simulations of core-collapse supernova. With their new INCITE allocation, the researchers will conduct not only a full suite of 3D simulations for the spectrum of progenitor stars but carry out these simulations for approximately five times the physical time possible with their previous INCITE allocations all the way to the asymptotic state. 
+Building on years of work using Theta, a Princeton University-led team is using Polaris to advance their 3D simulations of core-collapse supernova. With their new INCITE allocation, the researchers will conduct not only a full suite of 3D simulations for the spectrum of progenitor stars but carry out these simulations for approximately five times the physical time possible with their previous INCITE allocations, all the way to the asymptotic state. 
 
 
