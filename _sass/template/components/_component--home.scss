@@ -40,7 +40,7 @@
 		@include grid-parent();
 		position: absolute;
 		z-index: 500;
-		top: bl(5); //20px
+		top: bl(3); //12px
 		left: 20px;
 		box-sizing: border-box;
 		@include respond-to(s){
@@ -49,16 +49,11 @@
 	}
 
 	h1 {
-		@include typestyle($sans-md-bld);
+		@include typestyle($sans-lg-bld);
 		color: color(green, XX);
 		span {
 			color: color(green, X);
-		}
-		@include respond-to(s){
-			@include typestyle($sans-lg-bld);	
-		}
-
-		
+		}		
 	}
 
 	h1.alcf {
