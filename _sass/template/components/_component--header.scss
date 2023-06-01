@@ -68,11 +68,13 @@ header {
 		color: color(green, X);
 		&:hover {
 			text-decoration: underline;
+			text-decoration-color: color(neutral, X);
 		}
 	}
 
 	a.current {
 	text-decoration: underline;
+	text-decoration-color: color(neutral, X);
 	}
 
 
@@ -122,6 +124,7 @@ header {
 		display: inline-block;
 		&:hover {
 			text-decoration: underline;
+			text-decoration-color: color(blue, XX);
 		}
 	}
 

@@ -55,11 +55,13 @@
 		color: color(blue, XXXX);
 		&:hover {
 			text-decoration: underline;
+			text-decoration-color: color(blue, XXXX);
 		}
 	}
 
 	a.current {
 	text-decoration: underline;
+	text-decoration-color: color(blue, XXXX);
 	}
 
 	.menuitem-wrapper {
