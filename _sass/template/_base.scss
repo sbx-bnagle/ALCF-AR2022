@@ -41,6 +41,7 @@ body {
   }
   &:hover {
    color: color(neutral, XXXXX);
+   text-decoration: underline;
   }
 }
 
@@ -52,8 +53,8 @@ body {
 
 .theme--cyan .to-top,
 .theme--cyan .to-top a {
-  color: color(blue, XXXXX);
-  text-decoration-color: color(blue, XXX);
+  color: color(neutral, X);
+  text-decoration-color: color(blue, XX);
 }
 
 .theme--dark .to-top,
