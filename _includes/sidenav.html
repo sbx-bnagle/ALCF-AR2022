@@ -4,7 +4,7 @@
 
     {% if page.url contains item.slug %}
       <h2>
-        <a href="{{ site.baseurl }}/{{ item.url }}" class="menuitem">
+        <a href="{{ site.url }}/{{ item.url }}" class="menuitem">
           {{ item.title }}
         </a>
       </h2>
@@ -15,9 +15,9 @@
             <li>
               <!-- {{ entry.url }} AND {{ page.permalink }} -->
               {% if page.permalink contains entry.url %}
-                <a class="current" href="{{ site.baseurl }}/{{ entry.url }}">{{ entry.page }}</a>
+                <a class="current" href="{{ site.url }}/{{ entry.url }}">{{ entry.page }}</a>
               {% else %}
-                <a href="{{ site.baseurl }}/{{ entry.url }}">{{ entry.page }}</a>
+                <a href="{{ site.url }}/{{ entry.url }}">{{ entry.page }}</a>
               {% endif %}
             </li>
           {% endfor %}

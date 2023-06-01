@@ -11,7 +11,7 @@ title: Argonne Leadership Computing Facility
 <div class="home--hero-wrapper">
 	<div class="img-wrapper">
 		<div>
-			<img src="{{ site.baseurl }}/assets/images/cover.png">
+			<img src="{{ site.url }}/assets/images/cover.png">
 			<div class="home--hero-text">
 				<h1 class="alcf">
 					Argonne<br>
@@ -48,9 +48,9 @@ title: Argonne Leadership Computing Facility
 			{% assign feature = site.pages | where: 'url', entry.url %}
 			  
 			  <div class="teaser">
-			    <a href="{{ site.baseurl }}{{ entry.url }}">
+			    <a href="{{ site.url }}{{ entry.url }}">
 			    	<div class="image-wrapper">
-			    		<div><img src="{{ site.baseurl }}/assets/images/{{ feature[0].hero-img-source }}"></div>
+			    		<div><img src="{{ site.url }}/assets/images/{{ feature[0].hero-img-source }}"></div>
 			    		<div class="hover-scrim"></div>
 			    	</div>
 			    	<div class="content-wrapper">
@@ -74,7 +74,7 @@ title: Argonne Leadership Computing Facility
 		{% for item in site.data.nav-config.toc %} 
 			<div class="toc-section toc-{{item.slug}}">
 	      <h3>
-	        <a href="{{ site.baseurl }}/{{ item.url }}" class="menuitem">
+	        <a href="{{ site.url }}/{{ item.url }}" class="menuitem">
 	          {{ item.title }}
 	        </a>
 	      </h3>
@@ -85,14 +85,14 @@ title: Argonne Leadership Computing Facility
 		          {% for entry in item.subfolderitems %}
 		          	{% if entry.page == "2022 Science Highlights" %}
 			            <li class="hl">
-			              <a href="{{ site.baseurl }}{{ entry.url }}">
+			              <a href="{{ site.url }}{{ entry.url }}">
 			              	{{ entry.page }}
 			              </a>
 			            </li>
 			            <ul class="toc-highlights">
 			              {% for highlight in site.highlights %}
 		              		<li class="toc-highlight">
-						      			<a href="{{ site.baseurl }}{{ highlight.url }}">
+						      			<a href="{{ site.url }}{{ highlight.url }}">
 										  		<span class="title">{{ highlight.title }}</span>
 										  		<span class="pi">{{ highlight.pi }}</span>
 											  </a>
@@ -101,7 +101,7 @@ title: Argonne Leadership Computing Facility
 									</ul>
 			          {% else %} 
 			          	<li class="not-hl">
-			              <a href="{{ site.baseurl }}{{ entry.url }}">
+			              <a href="{{ site.url }}{{ entry.url }}">
 			              	{{ entry.page }}
 			              </a>
 			            </li>
@@ -112,7 +112,7 @@ title: Argonne Leadership Computing Facility
 		      	<ul>
 		          {% for entry in item.subfolderitems %}
 		            <li>
-		              <a href="{{ site.baseurl }}{{ entry.url }}">
+		              <a href="{{ site.url }}{{ entry.url }}">
 		              	{{ entry.page }}
 		              </a>
 		            </li>

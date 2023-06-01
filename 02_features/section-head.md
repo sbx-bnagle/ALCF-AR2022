@@ -16,9 +16,9 @@ intro: "With the launch of new supercomputing and AI resources and capabilities,
 {% assign feature = site.pages | where: 'url', entry.url %}
 
 <div class="teaser">
-  <a href="{{ site.baseurl }}{{ entry.url }}">
+  <a href="{{ site.url }}{{ entry.url }}">
   	<div class="image-wrapper">
-  		<div><img src="{{ site.baseurl }}/assets/images/{{ feature[0].hero-img-source }}"></div>
+  		<div><img src="{{ site.url }}/assets/images/{{ feature[0].hero-img-source }}"></div>
   		<div class="hover-scrim"></div>
   	</div>
   	<div class="content-wrapper">
