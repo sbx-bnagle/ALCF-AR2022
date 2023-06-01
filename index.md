@@ -45,12 +45,12 @@ title: Argonne Leadership Computing Facility
 		<h2>Features</h2>
 
 			{% for entry in features[0].subfolderitems %}
-			{% assign feature = site.pages | where: 'url', entry.url %}
+			{% assign feature = site.pages | where: 'permalink', entry.url %}
 			  
 			  <div class="teaser">
-			    <a href="{{ site.url }}{{ entry.url }}">
+			    <a href="/{{ entry.url }}">
 			    	<div class="image-wrapper">
-			    		<div><img src="{{ site.url }}/assets/images/{{ feature[0].hero-img-source }}"></div>
+			    		<div><img src="/assets/images/{{ feature[0].hero-img-source }}"></div>
 			    		<div class="hover-scrim"></div>
 			    	</div>
 			    	<div class="content-wrapper">
@@ -74,7 +74,7 @@ title: Argonne Leadership Computing Facility
 		{% for item in site.data.nav-config.toc %} 
 			<div class="toc-section toc-{{item.slug}}">
 	      <h3>
-	        <a href="{{ site.url }}/{{ item.url }}" class="menuitem">
+	        <a href="/{{ item.url }}" class="menuitem">
 	          {{ item.title }}
 	        </a>
 	      </h3>
