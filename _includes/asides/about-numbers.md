@@ -27,18 +27,6 @@
 
 
 <br>
-## 2022 U.S. ALCF Users by State
-
-{% include media-img.html
-   source= "usa.png"
-%}
-
-| 100+ Users | 11–100 Users | 1–10 Users |
-|:--|:--|:--|
-| California <br> Illinois | Colorado <br> Florida <br> Maryland <br> Massachusetts <br> Michigan <br> North Carolina <br> New Jersey <br> New Mexico <br> New York <br> Ohio <br> Pennsylvania <br> Tennessee <br> Texas <br> Washington <br> Wisconsin <br> Wyoming | Alabama <br> Arizona <br> Connecticut <br> Delaware <br> Georgia <br> Idaho <br> Indiana <br> Iowa <br> Kansas <br> Louisiana <br> Minnesota <br> Mississippi <br> Missouri <br> Nebraska <br> North Dakota <br> Nevada <br> Oklahoma <br> Oregon <br> Rhode Island <br> South Carolina <br> Utah <br> Virginia <br> Washington D.C. <br> West Virginia |
-
-
-<br>
 ## 2022 ALCF Users by Affiliation
 
 {%	include txt-fig.html 
@@ -49,6 +37,21 @@
 		figure-3 = "92"
 		label-3 = "Industry"	
 %}
+
+
+<br>
+## 2022 U.S. ALCF Users by State
+
+{% include media-img.html
+   source= "usa.png"
+%}
+
+| 100+ Users | 11–100 Users | 1–10 Users |
+|:--|:--|:--|
+| California <br> Illinois | Colorado <br> Florida <br> Maryland <br> Massachusetts <br> Michigan <br> New Jersey <br> New Mexico <br> New York <br> North Carolina <br> Ohio <br> Pennsylvania <br> Tennessee <br> Texas <br> Washington <br> Wisconsin <br> Wyoming | Alabama <br> Arizona <br> Connecticut <br> Delaware <br> Georgia <br> Idaho <br> Indiana <br> Iowa <br> Kansas <br> Louisiana <br> Minnesota <br> Mississippi <br> Missouri <br> Nebraska <br> North Dakota <br> Nevada <br> Oklahoma <br> Oregon <br> Rhode Island <br> South Carolina <br> Utah <br> Virginia <br> Washington D.C. <br> West Virginia |
+
+
+
 
 
 
