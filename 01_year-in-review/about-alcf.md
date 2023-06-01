@@ -2,7 +2,7 @@
 layout: page
 
 theme: white
-permalink: /year-in-review/about-alcf
+permalink: year-in-review/about-alcf
 
 title: About ALCF
 hero-img-source: "TCSBuilding.jpg"

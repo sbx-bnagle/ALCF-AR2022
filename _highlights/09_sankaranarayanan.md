@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/sankaranarayanan'
+permalink: 'science/highlights/sankaranarayanan'
 
 title: 'Metastable Phase Diagrams for Materials'
 pi: 'Subramanian Sankaranarayanan, Argonne National Laboratory'

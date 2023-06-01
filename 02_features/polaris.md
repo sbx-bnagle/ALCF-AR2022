@@ -1,7 +1,7 @@
 ---
 layout: page
 theme: cyan
-permalink: /features/polaris
+permalink: features/polaris
 
 title: Polaris Enters Production Mode
 hero-img-source: ALCF-Polaris.jpg

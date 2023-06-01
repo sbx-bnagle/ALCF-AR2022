@@ -6,7 +6,7 @@ hero-img-source: "GPUHackathon-group.png"
 hero-img-caption: "The 2022 ALCF-NVIDIA GPU Hackathon hosted 15 teams to help them get their applications running efficiently on the facility's GPU-accelerated systems."
 
 theme: white
-permalink: /community-and-outreach/user-training-activities
+permalink: community-and-outreach/user-training-activities
 ---
 
 

@@ -4,7 +4,7 @@ layout: page
 title: ALCF Systems
 
 theme: white
-permalink: /expertise-and-resources/systems
+permalink: expertise-and-resources/systems
 ---
 # Supercomputing Resources
 

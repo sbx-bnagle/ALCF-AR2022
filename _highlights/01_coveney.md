@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/coveney'
+permalink: 'science/highlights/coveney'
 
 title: 'COMPBIO2: Combining Deep Learning with Physics-Based Affinity Estimation 2'
 pi: 'Peter Coveney, University College London'

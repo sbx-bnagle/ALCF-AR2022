@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/wood'
+permalink: 'science/highlights/wood'
 
 title: 'Predicting Ion Transport Kinetics at Complex Interfaces for Energy Storage'
 pi: 'Brandon Wood, Lawrence Livermore National Laboratory'

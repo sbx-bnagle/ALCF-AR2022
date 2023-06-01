@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/liu'
+permalink: 'science/highlights/liu'
 
 title: 'BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning'
 pi: 'Zhengchun Liu, Argonne National Laboratory'

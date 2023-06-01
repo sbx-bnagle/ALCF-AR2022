@@ -4,7 +4,7 @@ layout: back-proj
 title: Projects
 
 theme: sky
-permalink: /science/projects
+permalink: science/projects
 ---
 
 

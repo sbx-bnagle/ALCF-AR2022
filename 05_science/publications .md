@@ -4,7 +4,7 @@ layout: back-pub
 title: Publications
 
 theme: sky
-permalink: /science/publications
+permalink: science/publications
 ---
 
 

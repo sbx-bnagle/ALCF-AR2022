@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/hovden'
+permalink: 'science/highlights/hovden'
 
 title: 'Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction'
 pi: 'Robert Hovden, University of Michigan'

@@ -2,7 +2,7 @@
 layout: page
 
 theme: dark
-permalink: /features/aurora
+permalink: features/aurora
 
 title: Aurora Takes Shape in the ALCF Data Center
 hero-img-source: ALCF-Aurora1.jpg

@@ -4,7 +4,7 @@ layout: page
 title: Staff Spotlights
 
 theme: white
-permalink: /expertise-and-resources/staff-spotlights
+permalink: expertise-and-resources/staff-spotlights
 ---
 
 

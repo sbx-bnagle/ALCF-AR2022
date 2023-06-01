@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/larsson'
+permalink: 'science/highlights/larsson'
 
 title: 'High-Speed Turbulence with Shocks over Non-Adiabatic and Flexible Walls'
 pi: 'Johan Larsson, University of Maryland'

@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/kotamarthi'
+permalink: 'science/highlights/kotamarthi'
 
 title: 'Projected U.S. Drought Extremes through the Twenty-First Century with Vapor Pressure Deficit'
 pi: 'Rao Kotamarthi, Argonne National Laboratory'

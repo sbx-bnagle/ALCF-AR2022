@@ -2,7 +2,7 @@
 layout: page
 
 theme: dark
-permalink: /features/aurora-and-aps
+permalink: features/aurora-and-aps
 
 title: Transforming Science with Aurora and the Upgraded Advanced Photon Source
 hero-img-source: Aurora+APS.jpg

@@ -4,7 +4,7 @@ layout: page
 title: ALCF Leadership
 
 theme: white
-permalink: /year-in-review/year-in-review
+permalink: year-in-review/year-in-review
 ---
 
 

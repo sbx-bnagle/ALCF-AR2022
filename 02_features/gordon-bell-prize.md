@@ -2,7 +2,7 @@
 layout: page
 
 theme: cyan
-permalink: /features/gordon-bell-prize
+permalink: features/gordon-bell-prize
 
 title: Argonne-Led Team Wins Gordon Bell Special Prize for COVID-19 Research
 hero-img-source: ALCF-GordonBell1.jpg

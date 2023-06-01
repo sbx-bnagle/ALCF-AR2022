@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/hagen'
+permalink: 'science/highlights/hagen'
 
 title: 'Ab-initio Nuclear Structure and Nuclear Reactions'
 pi: 'Gaute Hagen, Oak Ridge National Laboratory'

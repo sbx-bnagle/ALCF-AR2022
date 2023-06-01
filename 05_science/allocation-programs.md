@@ -2,7 +2,7 @@
 layout: page
 
 theme: white
-permalink: /science/allocation-programs
+permalink: science/allocation-programs
 
 title: Accessing ALCF Resources for Science
 intro: "As a national user facility dedicated to open science, any researcher in the world with a large-scale computing problem can apply for time on ALCF computing resources."

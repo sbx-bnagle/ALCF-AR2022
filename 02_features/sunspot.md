@@ -2,7 +2,7 @@
 layout: page
 
 theme: warm
-permalink: /features/sunspot
+permalink: features/sunspot
 
 title: Sunspot Testbed Provides On-Ramp for Aurora 
 hero-img-source: Sunspot.jpg

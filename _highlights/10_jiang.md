@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/jiang'
+permalink: 'science/highlights/jiang'
 
 title: 'Microscopic Insight into Transport Properties of Li-Battery Electrolytes'
 pi: 'Wei Jiang, Argonne National Laboratory'

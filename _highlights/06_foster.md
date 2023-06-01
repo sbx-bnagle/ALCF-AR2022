@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/foster'
+permalink: 'science/highlights/foster'
 
 title: 'Next-Generation Nonwoven Materials Manufacturing'
 pi: 'Ian Foster, Argonne National Laboratory'

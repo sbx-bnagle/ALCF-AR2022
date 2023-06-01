@@ -2,7 +2,7 @@
 layout: page
 
 theme: green
-permalink: /features/alcf-ai-testbed
+permalink: features/alcf-ai-testbed
 
 title: ALCF AI Testbed Systems Deployed for Open Science
 hero-img-source: ALCF-SambaNova2.jpg

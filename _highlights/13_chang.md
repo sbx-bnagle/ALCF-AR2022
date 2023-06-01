@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: '/science/highlights/chang'
+permalink: 'science/highlights/chang'
 
 title: 'High-Fidelity Gyrokinetic Simulation of Tokamak and ITER Edge Physics'
 pi: 'Choong-Seock Chang, Princeton Plasma Physics Laboratory'
