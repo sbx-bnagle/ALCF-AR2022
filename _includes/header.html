@@ -43,7 +43,7 @@
 
                 <div class="chunk">
                   <h2>
-                    <a href="{{ site.url }}/{{ item.url }}" class="menuitem">
+                    <a href="/{{ item.url }}" class="menuitem">
                       {{ item.title }}
                     </a>
                   </h2>
@@ -52,8 +52,9 @@
                     <ul>
                       {% for entry in item.subfolderitems %}
                         <li>
-                          <a href="{{ site.url }}{{ entry.url }}">
+                          <a href="/{{ entry.url }}">
                             {{ entry.page }}
+                            {{ entry.url }}
                           </a>
                         </li>
                       {% endfor %}
