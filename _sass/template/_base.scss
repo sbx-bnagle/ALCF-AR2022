@@ -225,12 +225,12 @@ th {
 }
 
 td, th { 
-  padding: bl(3) 0 bl(3) 10px; //12px
+  padding: bl(3) bl(2); //12px 8px
 }
 
-td:first-child, th:first-child {
-  padding-left: 0;
-}
+// td:first-child, th:first-child {
+//   padding-left: 0;
+// }
 
 ul {
   list-style-type: '\2014\00a0';
@@ -324,5 +324,158 @@ p.intro {
   }
 }
 
+
+
+// Scroll Table
+// ----------------------------------------------------------------------- //
+
+table {
+  table-layout: fixed;
+
+  tr {
+    margin-bottom: space(XXXX);
+    display: block;
+  }
+
+  tr:first-child {
+    border-top: none;
+  }
+
+  td, th {
+    display: block;
+  }
+
+  .table__stack-label {
+    display: block;
+  }
+
+  thead {
+    display: none;
+  }
+
+  span {
+    display: block;
+    @include typestyle($sans-xs-bld);
+  }
+
+  tr td:first-child {
+    @include typestyle($sans-sm-bld);
+    padding-top: bl(4); //16px
+  }
+
+  tr td:last-child {
+    @include stack(xxs);
+  }
+
+
+
+  
+  @include respond-to(m) {
+    .table__stack-label { display: none; }
+    // IE needs inline-block to position scrolling shadows otherwise use:
+    display: inline-block;
+    vertical-align: top;
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    // workaround to make sure the scrollbar doesn't misalign the table
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+      overflow-x: overlay;
+    }
+    text-align: left;
+
+    border-collapse: collapse;
+    border-spacing: 0;
+    display: flex;
+    align-items: stretch;
+    overflow: hidden;
+    background: none;
+
+     span {
+        display: none;
+      }
+
+    tbody {
+      display: flex;
+      position: relative;
+      overflow-x: auto;
+      overflow-y: hidden;
+      border-right: 1px solid color(neutral, XXX);
+      // workaround to make sure the scrollbar doesn't misalign the table
+      @media screen and (-webkit-min-device-pixel-ratio:0) {
+        overflow-x: overlay;
+      }
+
+      // optional - enable iOS momentum scrolling
+      -webkit-overflow-scrolling: touch;
+
+      // scrolling shadows
+      background: radial-gradient(ellipse at left, rgba(110, 110, 120, .15) 0%, rgba(110, 110, 120, 0) 75%, rgba(110, 110, 120, 0) 75%) 0 center, radial-gradient(ellipse at right, rgba(110, 110, 120, .15) 0%, rgba(110, 110, 120, 0) 75%, rgba(110, 110, 120, 0) 75%) 100% center;
+      background-size: 24px 100%, 24px 100%;
+      background-attachment: scroll, scroll;
+      background-repeat: no-repeat;
+    }
+
+    // change these gradients from white to your background colour if it differs
+    // gradient on the first cells to hide the left shadow
+    // td:first-child,
+    tbody tr:first-child {
+      background-image: linear-gradient(to right, rgba(250,250,255, .45) 50%, rgba(250,250,255, 0) 100%);
+      background-repeat: no-repeat;
+      background-size: 48px 100%;
+    }
+
+    // gradient on the last cells to hide the right shadow
+    // td:last-child,
+    tbody tr:last-child {
+      background-image: linear-gradient(to left, rgba(250,250,255, .45) 50%, rgba(250,250,255, 0) 100%);
+      background-repeat: no-repeat;
+      background-position: 100% 0;
+      background-size: 48px 100%;
+      width: 100%;
+    }
+
+    thead {
+      width: 180px;
+      min-width: min-content;
+      display: flex;
+      border-right: 1px solid color(neutral, XXX);
+    }
+
+
+    tbody tr {
+      width: 30%;
+    }
+
+    tr {
+      display: grid;
+      grid-auto-flow: row;
+      grid-auto-rows: 1fr;
+      height: 100%;
+      margin-bottom: 0;
+      border-top: none;
+    }
+
+
+    td, th {
+      min-width: 180px;
+      height: 100%;
+      box-sizing: border-box;
+      grid-row:auto / span 1;
+    }
+
+    td {
+      background-image: none !important;
+      // border-collapse is no longer active
+      border-left: 0;
+    }
+
+    tr td:first-child {
+    @include typestyle($sans-xs-bld);
+    padding-top: bl(3); //12px
+  }
+
+  }
+}
 
 
