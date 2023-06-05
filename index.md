@@ -74,7 +74,7 @@ title: Argonne Leadership Computing Facility
 		{% for item in site.data.nav-config.toc %} 
 			<div class="toc-section toc-{{item.slug}}">
 	      <h3>
-	        <a href="/{{ item.url }}" class="menuitem">
+	        <a href="{{ item.url }}" class="menuitem">
 	          {{ item.title }}
 	        </a>
 	      </h3>
@@ -85,14 +85,14 @@ title: Argonne Leadership Computing Facility
 		          {% for entry in item.subfolderitems %}
 		          	{% if entry.page == "2022 Science Highlights" %}
 			            <li class="hl">
-			              <a href="{{ site.url }}{{ entry.url }}">
+			              <a href="{{ entry.url }}">
 			              	{{ entry.page }}
 			              </a>
 			            </li>
 			            <ul class="toc-highlights">
 			              {% for highlight in site.highlights %}
 		              		<li class="toc-highlight">
-						      			<a href="{{ site.url }}{{ highlight.url }}">
+						      			<a href="{{ highlight.url }}">
 										  		<span class="title">{{ highlight.title }}</span>
 										  		<span class="pi">{{ highlight.pi }}</span>
 											  </a>
@@ -101,7 +101,7 @@ title: Argonne Leadership Computing Facility
 									</ul>
 			          {% else %} 
 			          	<li class="not-hl">
-			              <a href="{{ site.url }}{{ entry.url }}">
+			              <a href="{{ entry.url }}">
 			              	{{ entry.page }}
 			              </a>
 			            </li>
@@ -112,7 +112,7 @@ title: Argonne Leadership Computing Facility
 		      	<ul>
 		          {% for entry in item.subfolderitems %}
 		            <li>
-		              <a href="{{ site.url }}{{ entry.url }}">
+		              <a href="{{ entry.url }}">
 		              	{{ entry.page }}
 		              </a>
 		            </li>
