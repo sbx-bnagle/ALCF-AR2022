@@ -7,11 +7,16 @@
 
 .bg-img {
 	position: absolute;
-	left: calc(25vw - 26px);
+	left: 0;
 	right: 0;
-	top: 64px;
+	top: 54px;
 	height: calc(100vh - 64px);
 	z-index: -1;
+	overflow: hidden;
+	@include respond-to(m){
+    left: calc(25vw - 26px);
+    top: 64px;
+  }
 
 	.bg-img--scrim {
 		position: absolute;

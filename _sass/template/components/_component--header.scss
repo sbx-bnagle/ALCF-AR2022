@@ -13,7 +13,10 @@ header {
 	width: 100vw;
 	z-index: 5000;
 	box-sizing: border-box;
-	height: 64px;
+	height: 54px;
+	@include respond-to(m){
+		height: 64px;
+	}
 
 	.nav-desktop {
 		display: none;
@@ -49,8 +52,11 @@ header {
 	}
 
 	h1 {
-		@include typestyle($sans-sm-bld);
+		@include typestyle($sans-xs-bld);
 		color: color(green, X) !important;
+		@include respond-to(m){
+			@include typestyle($sans-sm-bld);
+		}
 	}
 
 
@@ -90,7 +96,7 @@ header {
 		background-color: color(neutral, XXXXX); 
 		transition: all 0.2s ease-out;
 		position: fixed;
-		top: 64px;
+		top: 54px;
 		left: 0;
 		width: 100vw;
 		height: calc(100vh - 64px);
