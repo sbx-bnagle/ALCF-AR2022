@@ -30,7 +30,7 @@ ALCF supercomputing resources support large-scale, computationally intensive pro
 | **Theta: KNL Nodes** | <span>Purpose</span> Science Campaigns | <span>Architecture</span> Intel-Cray XC40 | <span>Peak Performance</span> 11.7 PF | <span>Processors per Node</span> 64-core, 1.3-GHz Intel Xeon Phi 7230 | <span>GPUs per Node</span> – | <span>Nodes</span> 4,392 | <span>Cores</span> 281,088 | <span>Memory</span> 843 TB (DDR4); 70 TB (HBM) | <span>Interconnect</span> Aries network with Dragonfly configuration | <span>Racks</span> 24 |
 | **Theta: GPU Nodes** | <span>Purpose</span> Science Campaigns | <span>Architecture</span> NVIDIA DGX A100 | <span>Peak Performance</span> 3.9 PF | <span>Processors per Node</span> 2 AMD EPYC 7742 | <span>GPUs per Node</span> 8 NVIDIA A100 Tensor Core | <span>Nodes</span> 24 | <span>Cores</span> 3,072 | <span>Memory</span> 26 TB (DDR4); 8.32 TB (GPU) | <span>Interconnect</span> NVIDIA QM8700 InfiniBand | <span>Racks</span> 7 |
 | **Cooley** | <span>Purpose</span> Data Analysis and Visualization | <span>Architecture</span> Intel Haswell | <span>Peak Performance</span> 293 TF | <span>Processors per Node</span> 2 6-core, 2.4-GHz Intel E5–2620 | <span>GPUs per Node</span> NVIDIA Tesla K80 | <span>Nodes</span> 126 | <span>Cores</span> 1,512 | <span>Memory</span> 47 TB (DDR4); 3 TB (GDDR5) | <span>Interconnect</span> FDR InfiniBand | <span>Racks</span> 6 |
-
+{: .scroll-table }
 
 
 
@@ -45,7 +45,7 @@ The ALCF AI Testbed provides an infrastructure of next-generation AI-accelerator
 | **Graphcore MK1** | Intelligent Processing Unit (IPU) | 1,216 IPU tiles, 14 nm | 23 billion+ transistors | IPU-Links interconnect | Poplar software stack, PyTorch, TensorFlow |
 | **Groq** | Tensor Streaming Processor | 26 billion+ transistors, 14 nm | – | Chip-to-chip interconnect | GroqWare software stack, Onnx |
 | **Habana Gaudi** | Tensor processing cores | 7 nm | – | Integrated 100 GbE-based interconnect | Synapse AI Software, PyTorch, TensorFlow |
-
+{: .scroll-table }
 
 
 
@@ -70,6 +70,7 @@ ALCF disk storage systems provide intermediate-term storage for users to access,
 | **Theta-FSO** | <span>File System</span> Lustre | <span>Storage System</span> HPE Sonexion L300 | <span>Usable Capacity</span> 9 PB | <span>Sustained Data Transfer Rate</span> 240 GB/s | <span>Disk Drives</span> 2,300 |
 | **Swift** | <span>File System</span> Lustre | <span>Storage System</span> All NVMe Flash Storage Array | <span>Usable Capacity</span> 123 TB | <span>Sustained Data Transfer Rate</span> 48 GB/s | <span>Disk Drives</span> 24 |
 | **Tape Storage** | <span>File System</span> – | <span>Storage System</span> LT06 and LT08 Tape Technology | <span>Usable Capacity</span> 300 PB | <span>Sustained Data Transfer Rate</span> – | <span>Disk Drives</span> – |
+{: .scroll-table }
 
 
 # Networking
