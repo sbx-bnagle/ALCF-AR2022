@@ -21,10 +21,13 @@
 // ----------------------------------------------------------------------------
 
 .home--hero-wrapper {
-	margin-top: 64px;
+	margin-top: 54px;
 	width: 100vw;
 	box-sizing: border-box;
 	@include stack(xs);
+	@include respond-to(m){
+		margin-top: 64px;
+	}
 
 	.img-wrapper {
 		width: 100vw;
