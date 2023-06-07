@@ -38,7 +38,7 @@ ALCF supercomputing resources support large-scale, computationally intensive pro
 
 The ALCF AI Testbed provides an infrastructure of next-generation AI-accelerator machines that allows researchers to evaluate the usability and performance of machine learning-based applications running on the systems. AI testbeds include:
 
-| System Name | Facet | Facet | Facet | Facet | Facet |
+| System Name | System Detail |  |  |  |  |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | **Cerebras CS-2** | Wafer-Scale Engine | 800,000+ processing cores | 2.6 trillion transistors, 7 nm |SwarmX fabric | TensorFlow, PyTorch |
 | **SambaNova DataScale** | Reconfigurable Dataflow Unit | 40 billion+ transistors, 7 nm | – | RDU-Connect | SambaFlow software stack, PyTorch | 
