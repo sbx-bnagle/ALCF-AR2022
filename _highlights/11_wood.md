@@ -13,7 +13,7 @@ sdl: 's,l'
 
 image: 'wood.png' 
 image-caption: 'Predicted microstructure of a Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> solid-state battery electrolyte showing diverse orientations of individually colored grains. The foreground image shows an atomic-scale representation of a disordered boundary region where lithium ions tend to congregate and limit battery performance.'
-image-credit: 'Brandon Wood, Lawrence Livermore National Laboratoryn'
+image-credit: 'Brandon Wood, Lawrence Livermore National Laboratory'
 
 publications:
   - authors: 'Kim, K., A. Dive, A. Grieder, N. Adelstein, S. Kang, L.F. Wan, and B.C. Wood. '
