@@ -12,7 +12,7 @@ intro: "The ALCF’s most powerful system to date is supporting several large-sc
 
 The ALCF deployed Polaris for scientific research in August, giving its user community a powerful new resource to prepare for science in the exascale era. 
 
-The new supercomputer is the ALCF’s most powerful system to date, delivering 26 petaflops of peak performance (44 petaflops of Tensor Core FP64 performance) and nearly 1.4 exaflops of theoretical AI performance. Polaris is providing a platform for researchers to prepare codes and workloads for the upcoming Aurora exascale supercomputer while simultaneously supporting several large-scale research projects, including efforts focused on using AI for science.
+The new supercomputer is the ALCF’s most powerful system to date, delivering 34 petaflops of peak performance (44 petaflops of Tensor Core FP64 performance) and nearly 1.4 exaflops of theoretical AI performance. Polaris is providing a platform for researchers to prepare codes and workloads for the upcoming Aurora exascale supercomputer while simultaneously supporting several large-scale research projects, including efforts focused on using AI for science.
 
 At Argonne, Polaris is also a key tool for advancing efforts to integrate ALCF computing resources more closely with DOE experimental facilities. Initial work is focused on coupling ALCF systems with the co-located Advanced Photon Source and Center for Nanoscale Materials, both DOE Office of Science user facilities.
 
