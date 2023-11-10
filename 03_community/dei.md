@@ -16,7 +16,7 @@ By building diverse teams with different cultural and intellectual backgrounds, 
 
 But getting there is not a simple undertaking. As is the case with generally all STEM fields, today’s HPC workforce suffers from an underrepresentation of important demographics including women and racial and ethnic minorities.
 
-To help address this issue, the ALCF is contributing to several efforts designed to build a pipeline that will bring more diversity into HPC and computer science. This includes partnering with colleagues across the HPC community to develop strategies for attracting underrepresented groups; hosting student camps aimed at inspiring young people to pursue careers in STEM; and driving initiatives that promote diversity at the ALCF and beyond. As a whole, these activities aim to foster a diverse, next-generation workforce to fuel innovative science on the next generation of supercomputers.
+To help address this issue, the ALCF is contributing to several efforts designed to build a pipeline that will bring more diversity into HPC and computer science. This includes partnering with colleagues across the HPC community to develop strategies for attracting underrepresented groups; hosting student camps aimed at inspiring young people to pursue careers in STEM; and driving initiatives that promote diversity at the ALCF and beyond. As a whole, these activities aim to foster a diverse, next-generation workforce and talent pipeline that will fuel future innovations in computing.
 
 
 # Broadening Participation
