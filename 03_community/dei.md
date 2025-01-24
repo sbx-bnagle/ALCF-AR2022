@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: Building a HPC Workforce
+title: Building an HPC Workforce
 hero-img-source: "Tapia-ANLbooth.jpg"
 hero-img-caption: "Argonne staff members discuss career opportunities at the Richard Tapia Celebration of Diversity in Computing Conference."
 
