@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: Building a Diverse HPC Workforce
+title: Building a HPC Workforce
 hero-img-source: "Tapia-ANLbooth.jpg"
 hero-img-caption: "Argonne staff members discuss career opportunities at the Richard Tapia Celebration of Diversity in Computing Conference."
 
@@ -12,16 +12,16 @@ permalink: community-and-outreach/dei
 
 Having a workforce that is reflective of our diverse population is critically important to maximizing creativity and productivity in HPC and the computing sciences. 
 
-By building diverse teams with different cultural and intellectual backgrounds, organizations can look at problems from a variety of viewpoints and arrive at creative solutions to complex challenges in scientific computing.
+By building teams with different cultural and intellectual backgrounds, organizations can look at problems from a variety of viewpoints and arrive at creative solutions to complex challenges in scientific computing.
 
-But getting there is not a simple undertaking. As is the case with generally all STEM fields, today’s HPC workforce suffers from an underrepresentation of important demographics including women and racial and ethnic minorities.
+But getting there is not a simple undertaking. As is the case with generally all STEM fields, today’s HPC workforce needs more talent.
 
-To help address this issue, the ALCF is contributing to several efforts designed to build a pipeline that will bring more diversity into HPC and computer science. This includes partnering with colleagues across the HPC community to develop strategies for attracting underrepresented groups; hosting student camps aimed at inspiring young people to pursue careers in STEM; and driving initiatives that promote diversity at the ALCF and beyond. As a whole, these activities aim to foster a diverse, next-generation workforce and talent pipeline that will fuel future innovations in computing.
+To help address this issue, the ALCF is contributing to several efforts designed to build a pipeline that will bring more students into HPC and computer science. This includes partnering with colleagues across the HPC community to develop strategies for attracting students; hosting student camps aimed at inspiring young people to pursue careers in STEM; and driving initiatives that promote a strong culture at the ALCF and beyond. As a whole, these activities aim to foster a diverse, next-generation workforce and talent pipeline that will fuel future innovations in computing.
 
 
 # Broadening Participation
 
-Argonne is highly involved in the Exascale Computing Project’s Broadening Participation Initiative. This collaborative, multi-lab effort is working to establish a sustainable plan to recruit and retain a diverse HPC workforce by creating a supportive and inclusive culture within the computing sciences at DOE national laboratories. The initiative involves three complementary thrusts that bolster such efforts in the HPC community.
+Argonne is highly involved in the Exascale Computing Project’s Broadening Participation Initiative. This collaborative, multi-lab effort is working to establish a sustainable plan to recruit and retain an HPC workforce by creating a healthy culture within the computing sciences at DOE national laboratories. The initiative involves three complementary thrusts that bolster such efforts in the HPC community.
 
 ALCF staff are leading the Intro to HPC thrust, which focuses on developing training materials to educate newcomers to HPC. To address gaps in the training available at most undergraduate institutions, the Intro to HPC group is working across DOE lab communities to define key HPC topics and how to convey them in educational materials. The team is engaging with universities to deliver the materials directly to students. Ultimately, they hope to build experience for (and interest in) HPC careers and advanced programs like the annual Argonne Training Program on Extreme-Scale Computing.
 
@@ -40,17 +40,17 @@ The ALCF helps put on several computing camps for middle school and high school 
 
 As part of Argonne’s ACT-SO (Afro-Academic, Cultural, Technological & Scientific Olympics) High School Research Program, ALCF staff members mentor students participating in the DuPage County ACT-SO event. Designed to encourage participants to pursue careers in STEM, the program pairs students with mentors for research projects that use the lab’s facilities and resources. At end of the program, students present their work to a panel of judges for an opportunity to advance to the national competition.
 
-At the college level, the ALCF is reaching the next generation of AI practitioners through its “Intro to AI-driven Science on Supercomputers” training series. Aimed at undergraduate and graduate students, the series teaches attendees fundamentals of using AI and supercomputers for scientific research. Comprised of eight virtual classes, the 2022 program welcomed over 200 attendees from 90 universities for hands-on instruction using methods such as AI training and neural networks on ALCF supercomputers.
+At the college level, the ALCF is reaching the next generation of AI practitioners through its “Intro to AI-driven Science on Supercomputers” training series. Aimed at undergraduate and graduate students, the series teaches attendees the fundamentals of using AI and supercomputers for scientific research. Comprised of eight virtual classes, the 2022 program welcomed over 200 attendees from 90 universities for hands-on instruction using methods such as AI training and neural networks on ALCF supercomputers.
 
-# Increasing Diversity at the ALCF and Beyond
+# Recruitment at the ALCF and Beyond
 
-As part of the ALCF’s efforts to increase diversity in its workforce, the facility maintains a presence at many computing conferences and events to communicate ALCF activities and opportunities, and recruit new team members. The ALCF continues to have a presence at the annual Grace Hopper Celebration (GHC), an event that brings the research and career interests of women in computing to the forefront, and highlights the contributions of women to the tech world. The ALCF also regularly attends the Richard Tapia Celebration of Diversity in Computing Conference, an annual event that seeks to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities to celebrate and connect the diversity in computing. 
+As part of the ALCF’s efforts to increase its workforce, the facility maintains a presence at many computing conferences and events to communicate ALCF activities and opportunities, and recruit new team members. The ALCF continues to have a presence at the annual Grace Hopper Celebration (GHC), an event that brings the research and career interests of women in computing to the forefront, and highlights the contributions of women to the tech world. The ALCF also regularly attends the Richard Tapia Celebration of Diversity in Computing Conference, an annual event that seeks to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities to celebrate and connect the diversity in computing. 
 
-In addition to recruiting new staff members, the ALCF also aims to increase diversity in its user community through an ongoing partnership with the Interdisciplinary Consortium for Research and Educational Access in Science and Engineering (InCREASE), a group dedicated to promoting research and education in minority-serving institutions. As part of the INCREASE partnership, ALCF participates in user facilities awareness workshops aimed at building new research collaborations with scientists from historically underrepresented groups.
+In addition to recruiting new staff members, the ALCF also aims to increase its user community through an ongoing partnership with the Interdisciplinary Consortium for Research and Educational Access in Science and Engineering (InCREASE), a group dedicated to promoting research and education in minority-serving institutions. As part of the INCREASE partnership, ALCF participates in user facilities awareness workshops aimed at building new research collaborations with scientists.
 
 To provide a resource and network for women interested in HPC, the ALCF is collaborating with the University of Illinois-Chicago (UIC) ALCF staff to launch a Chicago chapter of the international Women in HPC organization. The Argonne-UIC Chicago Women in HPC chapter is being established to increase the participation of women in the HPC field, support and provide resources for women in HPC careers, and mentor students considering professional career paths in computing. 
 
-Another way ALCF staff members are helping to create a more diverse and inclusive environment is through their involvement in various Argonne employee research groups (ERGs). With representation on groups such as Argonne’s African American Employee Resource Group (AAA-ERG), Spectrum (LGBTQIA+ group), and Argonne’s Women in Science and Technology (WIST), ALCF staff members are helping to build awareness, further personal and professional development, strengthen networking opportunities, and provide resources for laboratory employees. 
+Another way ALCF staff members are helping to create a more aware environment is through their involvement in various Argonne employee research groups (ERGs). With representation on groups such as Argonne’s African American Employee Resource Group (AAA-ERG), Spectrum (LGBTQIA+ group), and Argonne’s Women in Science and Technology (WIST), ALCF staff members are helping to build awareness, further personal and professional development, strengthen networking opportunities, and provide resources for laboratory employees. 
 
-Together, these initiatives are helping the ALCF to establish an inclusive work environment and a pipeline of future workers that will continue to increase diversity in HPC and the computing sciences.
+Together, these initiatives are helping the ALCF to establish a work environment and a pipeline of future workers that will continue to increase diversity in HPC and the computing sciences.
 
